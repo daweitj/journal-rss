@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Accounts of Materials Research — 最新论文</title>
+<link>https://pubs.acs.org/amrcda</link>
+<description>Accounts of Materials Research（ISSN 2643-6728）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
+<language>en</language>
+<lastBuildDate>Mon, 16 Nov 2026 16:22:42 +0800</lastBuildDate>
+<ttl>360</ttl>
+<item>
+<title>Defect Passivation in Perovskite Solar Cells: From Trap Suppression to Stable Interfaces</title>
+<link>https://doi.org/10.1021/accountsmr.5c00163</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.5c00163</guid>
+<description>Conspectus Halide perovskites combine strong light absorption and long carrier-diffusion lengths with an unusual tolerance to defects, which is commonly attributed to the predominantly shallow electronic states associated with many intrinsic defects. Nevertheless, defects at surfaces, grain boundaries, and buried interfaces continue to limit the efficiency and operational durability of perovskite solar cells. These defects can be electronically active, ionically charged, chemically reactive, and mobile under illumination, heat, and electrical bias. Passivation in perovskites therefore cannot be understood solely as the termination of dangling bonds. It must simultaneously address defect chemistry, local charge balance, interfacial energetics, carrier selectivity, and the persistence of these functions during device operation. In this Account, we trace the development of defect-passivation concepts through our group’s research and organize them into five principal mechanisms. First, Lewis acid–base interactions reduce trap activity through complementary chemical interactions: Lewis bases coordinate with electron-deficient, undercoordinated Pb2+ sites, whereas Lewis acids interact with electron-rich halide-related defects. Our early studies of fullerene and nonfullerene acceptors further demonstrated that chemical passivation can be coupled with selective electron extraction to suppress interfacial recombination and hysteresis. Second, ionic charge compensation uses complementa
+
+作者：Noh Young Wook、Huang Jinsong | DOI：10.1021/accountsmr.5c00163 | 类型：journal-article</description>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Noh Young Wook</dc:creator>
+<category>10.1021/accountsmr.5c00163</category>
+</item>
+<item>
+<title>Scalable Fabrication of Metal Oxide Nanofibers for Advanced Electronic Circuits and Smart Sensors</title>
+<link>https://doi.org/10.1021/accountsmr.6c00214</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00214</guid>
+<description>Conspectus Metal oxide semiconductor nanofibers (MO NFs) combine the electronic properties of MO semiconductors with the high surface area and one-dimensional architecture of nanofibers. With appropriate composition and network design, MO NFs can complement conventional thin films by offering directional charge transport in aligned networks, mechanical flexibility, and enhanced sensitivity to external stimuli. Their open, porous networks expose a large fraction of the semiconductor surface, enabling gas adsorption and electrolyte interactions to modulate electrical transport within the channel. Realizing these benefits in practical devices requires scalable fabrication routes that preserve the desired material and network characteristics. Conventional routes to MO nanostructures, including chemical vapor deposition and hydrothermal synthesis, can involve specialized equipment or extended processing. To this end, alternative fabrication methodologies, such as electrospinning, blow-spinning, and template-assisted methods, are being developed to enable scalable and efficient production of MO NFs for transistors, gas sensors, wearable electronics, neuromorphic devices, and autonomous environmental monitoring systems. This Account follows the development of MO NF networks from fabrication to integrated electronic and sensing systems, drawing particularly on our works with indium gallium zinc oxide (IGZO), CuO, and indium tin oxide (ITO) NFs. These material systems provide compleme
+
+作者：Lu Shang、Ma Qing、Tan Weijian、Li Yang、Wang Binghao | DOI：10.1021/accountsmr.6c00214 | 类型：journal-article</description>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Lu Shang</dc:creator>
+<category>10.1021/accountsmr.6c00214</category>
+</item>
+<item>
+<title>Dynamic Self-Assembly of Lipid Nanoparticles in Biological Environments</title>
+<link>https://doi.org/10.1021/accountsmr.6c00320</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00320</guid>
+<description>
+
+作者：Yu Haitao、Dyett Brendan | DOI：10.1021/accountsmr.6c00320 | 类型：journal-article</description>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Yu Haitao</dc:creator>
+<category>10.1021/accountsmr.6c00320</category>
+</item>
+<item>
+<title>COFs: Enhancing Kinetics in the Full Volume of the Electrode for CO2 Electrolysis</title>
+<link>https://doi.org/10.1021/accountsmr.6c00245</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00245</guid>
+<description>
+
+作者：Yang Yizhou、Chen Wenchang | DOI：10.1021/accountsmr.6c00245 | 类型：journal-article</description>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Yang Yizhou</dc:creator>
+<category>10.1021/accountsmr.6c00245</category>
+</item>
+<item>
+<title>Defect Engineering in Cobaltite Perovskites for Neuromorphic Applications</title>
+<link>https://doi.org/10.1021/accountsmr.6c00063</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00063</guid>
+<description>Conspectus The rapidly growing energy cost of artificial intelligence presents an urgent challenge to conventional computing architectures based on separate processing and memory units. Neuromorphic devices, which integrate memory and logic into a single unit and operate in an event-driven manner, offer a promising alternative. A potential avenue to realize neuromorphic architectures is based on materials that can switch between distinct resistance states reversibly, at low voltage, and at room temperature. Transition metal oxides with oxygen-vacancy driven metal–insulator transitions (MITs) are compelling candidates, but the microscopic mechanisms governing these transitions have remained poorly understood, limiting the ability to design and optimize materials for device applications. In this Account, we describe the authors’ effort at developing, and validating experimentally, a quantitative, first-principles understanding of ion migration and oxygen vacancy engineering in cobaltite perovskites, using La1–xSrxCoO3-δ (LSCO) as the primary model system. We started by asking a basic mechanistic question: what drives the MIT in LSCO? Using density functional theory calculations, we found that the MIT is not simply determined by local bonding changes at oxygen-deficient cobalt sites, but rather by cooperative, global structural distortions. Building on this mechanistic foundation, we developed a model to predict the electrical bias required to trigger the MIT electrochemically. 
+
+作者：Zhang Shenli、Shin Yongjin、Schuller Ivan K.、Takamura Yayoi、Galli Giulia | DOI：10.1021/accountsmr.6c00063 | 类型：journal-article</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zhang Shenli</dc:creator>
+<category>10.1021/accountsmr.6c00063</category>
+</item>
+<item>
+<title>Design of Bioinspired Ordered Materials for Spectral Modulation</title>
+<link>https://doi.org/10.1021/accountsmr.6c00249</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00249</guid>
+<description>Conspectus Spectral modulation, the precise control over light reflection, transmission, absorption, and scattering, has become a transformative approach in areas such as smart windows, adaptive camouflage, radiative cooling, anticounterfeiting, and photovoltaics. Typical strategies primarily rely on tuning the intrinsic properties of electrochromic, thermochromic, or photochromic materials. Yet, these material-driven approaches still suffer from limited color purity, narrow tunability, slow response, and poor multifunction integration. An emerging alternative is to treat structural order as an independent physical design dimension. By organizing nanoscale building blocks into periodic, hierarchical, or reconfigurable architectures, one can manipulate light through Bragg diffraction, Mie scattering, plasmonic resonance, and graded-index effects. These mechanisms are difficult to access by chemical composition alone. Nature provides a rich library of such ordered designs. Photonic crystals, multilayers, porous networks, and graded-index arrays in organisms achieve efficient reflection, absorption, and transmission under ambient conditions. These biological systems show that precise control over orientation, periodicity, layer spacing, and refractive-index contrast can produce optical functions far beyond those of homogeneous materials. Translating these biological blueprints into synthetic stimuli-responsive systems offers a route from static structural control to dynamic and 
+
+作者：Zhao Fu-Xing、Sheng Si-Zhe、Wang Jin-Long、Yu Shu-Hong | DOI：10.1021/accountsmr.6c00249 | 类型：journal-article</description>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zhao Fu-Xing</dc:creator>
+<category>10.1021/accountsmr.6c00249</category>
+</item>
+<item>
+<title>Pores and Polymers: Metal–Organic Framework and Polymer Composite Materials</title>
+<link>https://doi.org/10.1021/accountsmr.6c00202</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00202</guid>
+<description>Conspectus Porous materials, most notably metal–organic frameworks (MOFs), covalent organic frameworks (COFs), hydrogen-bonded frameworks (HOFs), and related materials have gained increasing attention for their unique properties and characteristics, which was crowned with the 2025 Nobel Prize in Chemistry (in recognition of the discovery of MOFs). The high internal surface areas, porosity, pore variety, chemical tunability, and high crystallinity have made these next-generation porous solids the subject of intense interest for ∼25 years. The propensity of these solids to form as crystalline materials (which has been highly prized by researchers in the field) provides great benefits with respect to definitive structural characterization and rational design of these compounds. However, crystallinity comes with a cost, which is a lack of processability and malleability. Like most crystalline, microcrystalline, or powdered solids, these next-generation porous solids have a limited ability to be formed into films, fibers, coatings, monoliths, or flexible materials because of their crystalline structure. As these materials become increasingly deployed into potential technological applications, their limited processability will similarly limit their utility and ability to integrate into fully functioning technologies. As such, efforts to integrate MOFs (and related materials) with flexible polymers has become of substantial interest. This Account highlights the research journey of t
+
+作者：Cohen Seth M. | DOI：10.1021/accountsmr.6c00202 | 类型：journal-article</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Cohen Seth M.</dc:creator>
+<category>10.1021/accountsmr.6c00202</category>
+</item>
+<item>
+<title>From Droplet to Device: Extrinsic and Intrinsic Origins of Accommodation Coefficient Scatter at Liquid–Vapor Interfaces</title>
+<link>https://doi.org/10.1021/accountsmr.6c00230</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00230</guid>
+<description>
+
+作者：Lu Zhengmao | DOI：10.1021/accountsmr.6c00230 | 类型：journal-article</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Lu Zhengmao</dc:creator>
+<category>10.1021/accountsmr.6c00230</category>
+</item>
+<item>
+<title>Nanoparticle Transport in Polymer Solutions</title>
+<link>https://doi.org/10.1021/accountsmr.6c00189</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00189</guid>
+<description>Conspectus Polymer solutions are essential materials both for their uses in industries ranging from energy storage to consumer products to additive manufacturing and as model physical systems that can mimic biological tissues and hydrogels with well-controlled structures, dynamics, and properties. Nanoparticles are commonly added to these solutions to impart functionality, deliver theranostics, or manipulate mechanical properties, all of which require a fundamental understanding of nanoparticle transport through the surrounding polymer mesh. Over recent decades, nanoparticle dynamics have been analyzed using the framework of microrheology to measure the local viscoelasticity of complex fluids. In contrast to homogeneous, Newtonian fluids in which particle dynamics are described through the Stokes–Einstein-Sutherland (SES) relationship, the structural heterogeneity and viscoelasticity of polymer solutions lead to significant deviations with nanoparticles transporting up to 1,000× faster than expected from the bulk solution viscosity. These deviations dramatically alter how nanoparticles disperse and distribute through complex environments and introduce significant discrepancies between microrheological measurements and bulk mechanical properties. The vast combinatorial library of polymer chemistries, architectures, and solution formulations necessitates predictive understanding of nanoparticle transport and how it relates to the underlying physicochemical interactions. In this
+
+作者：Conrad Jacinta C.、Poling-Skutvik Ryan、Haji Rezaei Mohammadjavad、Kotkar Shivraj B.、Palmer Jeremy C. | DOI：10.1021/accountsmr.6c00189 | 类型：journal-article</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Conrad Jacinta C.</dc:creator>
+<category>10.1021/accountsmr.6c00189</category>
+</item>
+<item>
+<title>Simultaneous Chemical and Isotopic Monitoring of Heterogeneous Nuclear Materials Separations with NMR Spectroscopy</title>
+<link>https://doi.org/10.1021/accountsmr.6c00250</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00250</guid>
+<description>
+
+作者：Griffith Kent J. | DOI：10.1021/accountsmr.6c00250 | 类型：journal-article</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Griffith Kent J.</dc:creator>
+<category>10.1021/accountsmr.6c00250</category>
+</item>
+<item>
+<title>Information-like Encoding in Nonequilibrium Carbon Nanotube Growth</title>
+<link>https://doi.org/10.1021/accountsmr.6c00194</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00194</guid>
+<description>
+
+作者：Zhu Zhenxing、Tan Zhongchao | DOI：10.1021/accountsmr.6c00194 | 类型：journal-article</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zhu Zhenxing</dc:creator>
+<category>10.1021/accountsmr.6c00194</category>
+</item>
+<item>
+<title>Interface-Engineered Flexible Conductive Metal–Organic Framework Films for Multimodal Energy Applications</title>
+<link>https://doi.org/10.1021/accountsmr.6c00177</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00177</guid>
+<description>Conspectus Conductive metal–organic frameworks (c-MOFs) represent a distinct class of porous conductive materials. Compared with conventional MOFs, c-MOFs integrate intrinsically high electrical conductivity with a high surface area and an ordered porous structure, enabling efficient electron and ion transport. Engineering c-MOFs into continuous and flexible films offers a promising strategy for translating their properties into practical devices. Key strategies for film engineering include solution processing, interfacial growth, and chemical vapor deposition, which allow precise control over the film morphology, thickness, and alignment of conductive channels. Thin-film fabrication preserves structural integrity and pore connectivity, enhances interfacial contact, and facilitates device integration, thereby promoting coupled ionic and electronic transport. These properties render c-MOF films suitable for multimodal energy transformation. In energy storage, their mechanical compliance, flexibility, and high porosity enable conformal integration with deformable and wearable devices while maintaining rapid charge transport and long-term cycling stability. In energy harvesting and conversion, their ordered porous networks, tunable electronic structures, and freestanding mechanically flexible architectures enable efficient adaptation to diverse energy inputs, facilitating energy conversion involving electrical, mechanical, chemical, thermal, and optical processes while maintaini
+
+作者：Zhou Shengyang、Dai Zhixiang、Cao Jingyu、Xu Chao | DOI：10.1021/accountsmr.6c00177 | 类型：journal-article</description>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zhou Shengyang</dc:creator>
+<category>10.1021/accountsmr.6c00177</category>
+</item>
+<item>
+<title>Magnetotactic Bacteria at the Earth-Life-Materials Interface</title>
+<link>https://doi.org/10.1021/accountsmr.6c00138</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00138</guid>
+<description>Conspectus Magnetotactic bacteria (MTB) are prokaryotes that biomineralize membrane-bound intracellular magnetite (Fe3O4) or greigite (Fe3S4) nanocrystals, termed magnetosomes. These crystals commonly form chains that function as nanoscale compass needles. As naturally evolved living magnetic nanomaterial systems, MTB connect intracellular biomineralization, magnetic-field-guided behavior, microbial ecology, geological recording, and biomimetic materials design. Their hierarchical magnetosome architecture couples weak geomagnetic fields to cellular magnetic torque, directed motility, and redox-niche positioning, while preserved magnetosomes can enter sedimentary records as magnetofossils. This Account traces MTB from modern cells to ancient rocks and engineered materials. We first show how correlative single-cell microscopy, sequencing, and magnetic analyses link uncultured lineages with cell morphology, magnetosome crystal habit, chain architecture, genomic background, and magnetic properties, extending MTB research beyond a few cultivable models. These studies reveal that magnetosome biomineralization is genetically constrained yet environmentally responsive, providing a reference framework for magnetofossil interpretation and biomimetic magnetic-material design. We next extend the view of MTB beyond magnetosome production. Many MTB also accumulate nonmagnetic mineral and storage phases containing sulfur, phosphorus, silicon, carbonates, and trace metals. Their coexistence 
+
+作者：Li Jinhua、Liu Jiawei、Pan Yongxin | DOI：10.1021/accountsmr.6c00138 | 类型：journal-article</description>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Jinhua</dc:creator>
+<category>10.1021/accountsmr.6c00138</category>
+</item>
+<item>
+<title>Swelling–Shrinking Strategy of Polymer Nanospheres for the Creation of Novel Nanostructured Materials</title>
+<link>https://doi.org/10.1021/accountsmr.6c00196</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00196</guid>
+<description>Conspectus The rational construction of polymer nanostructures with tunable architectures and integrated functions has become a central pursuit in contemporary materials science. Owing to their soft nature and environmental responsiveness, polymer nanoparticles can undergo dynamic morphological evolution under external regulation, offering an attractive platform for constructing hollow, porous, anisotropic, and hierarchically organized nanostructures. Importantly, these architectures are not merely geometric variations; they determine mass-transport pathways, regulate interfacial reactions, accommodate guest species, and govern the performance of polymer-based functional materials in catalysis, biomedicine, and related fields. Nevertheless, transforming simple polymer nanospheres into complex nanoscale architectures with high precision remains challenging. Conventional templating or etching methods often involve multistep procedures, harsh conditions, or sacrificial components, which restrict structural precision, compositional diversity, and scalability. Against this backdrop, the swelling–shrinking strategy has emerged as a controllable and versatile approach for reshaping polymer nanospheres from within. Typically, polymer particles are first induced to swell by selected solvents, temperature variation, or other external factors, allowing their internal networks to loosen, reorganize, or accommodate foreign components. Subsequent shrinking, driven by solvent exchange, chai
+
+作者：Li Wenchao、Li Xiaoyu、Du Xin | DOI：10.1021/accountsmr.6c00196 | 类型：journal-article</description>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Wenchao</dc:creator>
+<category>10.1021/accountsmr.6c00196</category>
+</item>
+<item>
+<title>Integrated Heterostructure Platform for SERS Fingerprinting of Biomolecules and Mechanistic Deciphering of Photocatalytic Intermediates</title>
+<link>https://doi.org/10.1021/accountsmr.6c00139</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00139</guid>
+<description>Conspectus Surface-enhanced Raman spectroscopy (SERS), which integrates conventional Raman spectroscopy with nanostructured substrates, has emerged as a powerful, nondestructive analytical technique for label-free chemical and biological fingerprinting. Its high sensitivity and noninvasive nature have enabled real-time detection and characterization of DNA, RNA, pathogens, and disease biomarkers. Beyond biomolecular analysis, SERS has demonstrated exceptional capability for identifying, monitoring, and understanding short-lived reaction intermediates, providing critical insights into photocatalytic reaction mechanisms. Consequently, SERS continues to drive advances across chemistry, materials science, biology, and environmental monitoring, with substrate performance being fundamentally determined by the properties of the constituent nanomaterials. Zero-dimensional (0D) plasmonic nanoparticles, one-dimensional (1D) nanowires, nanotubes, and nanorods, as well as two-dimensional (2D) nanosheets, play pivotal roles in Raman signal enhancement through both electromagnetic mechanism (EM) and chemical mechanism (CM) contributions. Despite these advancements, achieving precise nanoscale control over plasmonic nanostructure organization remains a major challenge for reliable molecular fingerprinting. To address this issue, we engineered heterostructure SERS substrates with optimized EM and CM enhancement mechanisms, an emerging strategy at the forefront of SERS substrate design. Lever
+
+作者：Kolawole Olorunsola Praise、Rai Shivangee、Pramanik Avijit、Kundu Sanchita、Ray Paresh Chandra | DOI：10.1021/accountsmr.6c00139 | 类型：journal-article</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Kolawole Olorunsola Praise</dc:creator>
+<category>10.1021/accountsmr.6c00139</category>
+</item>
+<item>
+<title>Aramid Colloidal Aerogels: Architecting Nanofibers via Dynamic Sol–Gel Transition for Multifunctional Applications</title>
+<link>https://doi.org/10.1021/accountsmr.6c00239</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00239</guid>
+<description>Conspectus Aerogels have long captivated materials scientists with their extreme properties─ultralow density, high porosity, and enormous specific surface area. Yet for nearly a century, their fabrication has remained trapped in a static paradigm: the sol–gel transition of small-molecule precursors requires prolonged standing times, which is fundamentally incompatible with the rapid, continuous processing of modern manufacturing. The root cause is intrinsic─precursors and gelation-inducing agents possess comparable molecular dimensions and thus similar diffusion coefficients. In dynamic environments, precursors diffuse away before the gel network can form, leading to structural inhomogeneity and poor shape fidelity. Our breakthrough came from a simple insight: by deliberately enlarging the precursor size to suppress its diffusion, one creates a diffusivity disparity with rapidly diffusing gelation agents. This simple kinetic consideration led us to propose the dynamic sol–gel transition─a colloidal approach that transforms aerogel manufacturing from a static, batch-wise process into a continuous, versatile platform capable of meeting the demands of modern industrial production. Aramid nanofibers (ANFs) emerged as ideal building blocks, inheriting the mechanical strength, thermal stability, and flame retardancy of bulk aramid while offering excellent colloidal processability and rapid proton-triggered gelation. This Account chronicles our systematic development of aramid collo
+
+作者：Li Lishan、Zhang Xuetong | DOI：10.1021/accountsmr.6c00239 | 类型：journal-article</description>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Lishan</dc:creator>
+<category>10.1021/accountsmr.6c00239</category>
+</item>
+<item>
+<title>Where Chirality Matters in Perovskite-Based Circularly Polarized Light Emission</title>
+<link>https://doi.org/10.1021/accountsmr.6c00246</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00246</guid>
+<description>Conspectus Circularly polarized photoluminescence (CPL) adds an optical degree of freedom for emerging applications in sensing, information processing, counterfeiting security, and quantum communications. Developing emitters that directly generate CPL without external polarizing optics or magnetic fields is therefore of considerable interest. Halide perovskites are particularly attractive in this context owing to their high radiative efficiency, strong spin–orbit coupling, and structural flexibility. Incorporating enantiopure organic cations into low-dimensional hybrid perovskites can transfer molecular chirality to the extended metal–halide crystal lattice through asymmetric hydrogen bonding and lattice distortion, producing helicity-dependent absorption and emission near the excitonic band edge. Early studies therefore focused on enhancing circular dichroism (CD) and CPL emission by tuning organic-cation packing, octahedral tilting, and local distortions. In this Account, we examine a key question: where does chirality matter along the excitation-to-emission pathway? We first describe low-dimensional chiral perovskites as structurally well-defined model platforms for establishing structure–property relationships. We then discuss how chirality contributes to CPL emission from two closely related perspectives. At the transition level, emission dissymmetry is described by rotational strength arising from interference between the electric and magnetic transition dipole moments.
+
+作者：Lee Chan Uk、Son Chanju、Ma Sunihl、Moon Jooho | DOI：10.1021/accountsmr.6c00246 | 类型：journal-article</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Lee Chan Uk</dc:creator>
+<category>10.1021/accountsmr.6c00246</category>
+</item>
+<item>
+<title>Coating-Free Low-Voltage Scanning Electron Microscopy for Native-Surface Imaging across Scale, Depth, and Time</title>
+<link>https://doi.org/10.1021/accountsmr.6c00223</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00223</guid>
+<description>Conspectus Organic and hybrid materials derive their functions not only from molecular structure but also from how molecules organize across a hierarchy of length scales─their meso-hierarchies. Understanding such materials therefore requires one to observe them in their native states before imaging alters their structures. Scanning electron microscopy (SEM) is one of the most direct pathways to visualize these hierarchies; however, imaging organic materials has long been hindered by an intrinsic dilemma: high-resolution imaging relies on electrons, which inevitably causes charging on insulating specimens. While conductive metal coatings represent routine solutions, they inevitably alter the specimens by adding mass, obscuring nanostructural details, complicating elemental analysis, and preventing repeated observations of treated specimens. We encountered an analogous problem in transmission electron microscopy (TEM), where electron irradiation causes ionization that can alter the composition of insulating organic molecules. Our solution was to encapsulate individual molecules within carbon nanotubes or mount them onto their conductive walls to dissipate charge and suppress ionization, forming the foundation of a field we have termed “cinematic chemistry”. Fifteen years ago, we investigated whether an analogous strategy could be applied to observe the native surface instead of its metal-coated replica using SEM. The results revealed that observing the native surface was far mo
+
+作者：Harano Koji、Okada Satoshi、Nakamura Eiichi | DOI：10.1021/accountsmr.6c00223 | 类型：journal-article</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Harano Koji</dc:creator>
+<category>10.1021/accountsmr.6c00223</category>
+</item>
+<item>
+<title>Structural Design Strategies of Lead-Free Ternary Metal Halide Scintillators for Advanced X-ray Imaging</title>
+<link>https://doi.org/10.1021/accountsmr.6c00258</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00258</guid>
+<description>Conspectus The ever-increasing demand for advanced X-ray detection technologies calls for a revolution in conventional inorganic scintillators. In recent years, ternary metal halides (TMHs) have attracted extensive attention from both the scientific and industry communities owing to their strong X-ray absorption, high luminescence efficiencies, and structurally tunable characteristics, positioning them as promising candidates for next-generation scintillation materials. Generally, the performance of TMHs is governed by the synergistic interplay between metal halide structural units and organic components (ions or coordinated ligands), wherein the diverse assembly of organic and inorganic moieties affords a unique platform for rational materials design. To date, owing to the strong X-ray absorption arising from the high atomic number of Pb, lead-based TMH (Pb-TMH) scintillators represent the most explored materials for X-ray detection and imaging. However, Pb-TMHs suffer from severe self-absorption, inherent lead toxicity, and poor environmental stability, which critically impede their practical deployment. Encouragingly, lead-free TMH scintillators, particularly those based on Cu(I), Mn(II), and Sb(III), have demonstrated scintillation performances comparable to or even surpassing those of lead-based scintillators. Given this great progress, the key to advancing TMH scintillators toward practical applications lies in developing strategies for designing structural units that a
+
+作者：Zhu Yongkang、Gao Xinyu、Zhang Kenneth Yin、Liu Shujuan、Zhao Qiang | DOI：10.1021/accountsmr.6c00258 | 类型：journal-article</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zhu Yongkang</dc:creator>
+<category>10.1021/accountsmr.6c00258</category>
+</item>
+<item>
+<title>Decoding the Complexity of Soft and Living Matter through Evolving Interfaces</title>
+<link>https://doi.org/10.1021/accountsmr.6c00251</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00251</guid>
+<description>
+
+作者：Vuckovac Maja | DOI：10.1021/accountsmr.6c00251 | 类型：journal-article</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Vuckovac Maja</dc:creator>
+<category>10.1021/accountsmr.6c00251</category>
+</item>
+<item>
+<title>Explicit Spin Regulation as an Emerging Design Paradigm in Heterogeneous Catalysis</title>
+<link>https://doi.org/10.1021/accountsmr.6c00167</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00167</guid>
+<description>Conspectus Catalytic activity, selectivity, and durability arise from coupled electronic, structural, interfacial, transport, and spin-related processes. Conventional catalyst design has relied largely on electronic effects, strain or stress engineering, active-site construction, and local reaction environment control. Although these strategies have enabled major advances, they do not fully capture the spin degrees of freedom associated with open-shell transition-metal centers and magnetically responsive catalysts. Spin state, spin polarization, magnetic moment, spin density, and magnetic ordering can influence adsorbate binding, transition-state stabilization, charge transfer, and reaction pathways, yet their catalytic consequences are often grouped under the broad label of magnetic enhancement without a clear mechanistic assignment. In this Account, we develop explicit spin regulation as a framework for magnetism-informed catalysis. Magnetic enhancement describes an observed response to a magnetic field, a magnetic component, or a magnetic environment. Explicit spin regulation, by contrast, requires deliberate modulation of spin-related variables at or near catalytically active sites and a mechanistic connection to catalytic function. We organize this framework around two routes. Catalyst-integrated spin levers use promoters, interfaces, or interphases to tune the active-site spin/electronic structure, whereas field-induced spin levers introduce external fields or catalyst-
+
+作者：Lu Tingyu、Huang Yuan、Cao Ang、Wei Li、Li Hao | DOI：10.1021/accountsmr.6c00167 | 类型：journal-article</description>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Lu Tingyu</dc:creator>
+<category>10.1021/accountsmr.6c00167</category>
+</item>
+<item>
+<title>Interface-Driven High Ionic Conductivities in Hydridoborate/Oxide Nanocomposite Electrolytes: A Pathway to High-Capacity All-Solid-State Batteries</title>
+<link>https://doi.org/10.1021/accountsmr.6c00180</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00180</guid>
+<description>Conspectus In the pursuit of renewable energy storage, batteries are expected to play a major role. All-solid-state batteries (ASSBs) employing solid electrolytes (SEs) as ion conductors have the potential to improve the energy density and overall safety of batteries compared to traditional batteries using organic liquid electrolytes. Hydridoborates, combinations of complex anions with the general formula [BxHy]z− and charge carrier cations such as Li+, Na+, K+, and Mg2+, have been perceived as promising SEs in recent times due to properties such as softness and suitable electrochemical stability against Li and Na metal. In pristine form, the ionic conductivities of hydridoborates are insufficient for battery applications at low to moderate temperatures. However, several methods have been developed to obtain highly conductive hydridoborate materials at room temperature. In this Account, interface engineering, a highly effective approach to obtain conductive and electrochemically stable hydridoborate/oxide nanocomposites, is elaborated. Remarkable ionic conductivities, up to three to four orders of magnitude higher compared to their pristine form, are observed upon confining hydridoborates in oxidic host materials. Generally, the nanocomposite materials are synthesized using either a mechanochemical treatment strategy or by melt infiltrating the hydridoborate in porous oxides. In the pioneering works, LiBH4 nanoconfined in SiO2 or Al2O3 was researched extensively, whereby high
+
+作者：Hehn Jonas D.、Baarslag Renate J.、Ngene Peter | DOI：10.1021/accountsmr.6c00180 | 类型：journal-article</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Hehn Jonas D.</dc:creator>
+<category>10.1021/accountsmr.6c00180</category>
+</item>
+<item>
+<title>Tiny Pores, Big Stories: Perforating MXenes for Through-Sheet Transport in Energy and Environmental Applications</title>
+<link>https://doi.org/10.1021/accountsmr.6c00209</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00209</guid>
+<description>Conspectus Transport remains a central bottleneck limiting the practical performance of MXene electrodes and membranes. Although MXenes possess metallic conductivity, hydrophilicity, and rich surface chemistry, their two-dimensional (2D) layered architecture imposes barriers to ion and molecular diffusion. During assembly into electrodes and membranes, colloidal MXene nanosheets readily restack and force transport mainly through thin interlayer galleries. The as-formed slit channels lengthen diffusion pathways leading to sluggish kinetics. These limitations become increasingly important in compact, high-loading MXene structures, where long and tortuous transport pathways can further reduce active-site utilization and rate capability. This Account argues that in-plane pore engineering transforms MXenes from predominantly lamellar-type materials into through-sheet transport platforms. Introducing nanopores into the MXene basal planes creates transverse pathways that directly connect neighboring interlayer galleries, thereby shortening diffusion distances and increasing edge-site and basal-plane accessibility. Holey MXenes therefore represent more than simply porous MXenes; they are transport-engineered 2D materials in which nanoscale perforation provides an additional direction for the movement of ions and molecules while retaining the intrinsic advantages of the MXene framework. This concept is particularly relevant to densely assembled electrodes and membranes, where in-plane
+
+作者：Sikdar Anirban、Zhang Miao、Yuan Jiayin | DOI：10.1021/accountsmr.6c00209 | 类型：journal-article</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Sikdar Anirban</dc:creator>
+<category>10.1021/accountsmr.6c00209</category>
+</item>
+<item>
+<title>Biointerface Photocatalysis: Customized Porous Materials Enabling Synergy between Organic and Inorganic Systems</title>
+<link>https://doi.org/10.1021/accountsmr.6c00145</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00145</guid>
+<description>Conspectus Integrating biological systems with inorganic photocatalysis represents a transformative leap at the nexus of materials science and the life sciences, but it encounters a fundamental incompatibility: highly reactive photogenerated species often deactivate biological components that they are intended to assist. This Account elaborates on our attempts to handle this conflict by moving the design focus from seeking intrinsic catalytic activity to appropriate engineering of interfacial gradients. To achieve biointerface photocatalysis in practice, the electronic and structural properties of inorganic materials must be strictly matched to the specific kinetic constraints of biological targets. We demonstrate that customized porous materials serve as ideal platforms to support functional biointerfaces. This framework centers on the three key functional roles of materials in actively managing the mass, charge, and signal flows. (1) mesoporous confinement acts as a kinetic filter to modulate reactive species evolution and govern mass migration. (2) structural asymmetry generates built-in electric fields to facilitate directed charge movement to specific biological targets. (3) Tailored pore structure defects and surface chemistry regulate the transduction signals and chemical gradients. Leveraging these material-driven functions, we establish bioinorganic synergy across increasing levels of biological complexity. Molecularly, fragile enzymes are spatially isolated via prec
+
+作者：Kang Shifei、Hu Xiao、Xue Lingxiao、Deng Yonghui | DOI：10.1021/accountsmr.6c00145 | 类型：journal-article</description>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Kang Shifei</dc:creator>
+<category>10.1021/accountsmr.6c00145</category>
+</item>
+<item>
+<title>Electrochemically Generated Single-Atom Centers of MXenes for Energy Conversion</title>
+<link>https://doi.org/10.1021/accountsmr.6c00164</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00164</guid>
+<description>Conspectus Single-atom catalysts (SACs) have attracted significant attention in electrocatalysis due to their ability to maximize atomic efficiency and provide well-defined active sites. However, their practical use is often limited by stability issues, since the anchored atom serving as the active site may dissolve or restructure under applied potential conditions. The material class of MXenes, two-dimensional transition-metal carbides and nitrides, offers a fundamentally different route toward SAC-like catalytic motifs. Under anodic polarization in aqueous environments, MXene basal planes can undergo water-mediated surface reconstruction to forms an electrochemically generated MXene–single-atom-center-like (MXene–SAC-like) motif in situ. These dynamically generated centers resemble archetypal SACs in their local coordination environment but differ fundamentally in that they are not created through synthetic anchoring strategies, but emerge directly under electrochemical operating conditions. In this Account, we summarize the progress of our group in understanding electrochemically generated MXene–SAC-like motifs for energy conversion processes using electronic structure theory. Pristine MXene basal planes are catalytically inactive under anodic polarization; reconstruction under applied bias generates isolated metal centers whose stability, activity, and selectivity we have mapped across the MXene compositional space. We discuss thermodynamic frameworks based on surface Pou
+
+作者：Singh Diwakar、Mondal Totan、Meng Ling、Viñes Francesc、Illas Francesc、Exner Kai S. | DOI：10.1021/accountsmr.6c00164 | 类型：journal-article</description>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Singh Diwakar</dc:creator>
+<category>10.1021/accountsmr.6c00164</category>
+</item>
+<item>
+<title>Unraveling Intrinsic Polymer Structure–Property Relationships to Advance Molecular Electronics</title>
+<link>https://doi.org/10.1021/accountsmr.6c00205</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00205</guid>
+<description>Conspectus Unraveling the intrinsic polymer structure–property relationship is essential not only for a clearer understanding of fundamental principles in materials science but also ultimately for achieving very large-scale integrated molecular electronics. However, this has been challenging for traditional research strategies due to increased entropy and unsatisfactory dynamics during polymer synthesis and processing. Variations in polymer molecular weights, orientation, aggregation, and electrical characteristics in solid-state devices caused by intermolecular crosstalk in charge transport prevent clear identification of intrinsic optoelectronic polymer properties. Our group has developed a surface-initiated, bottom-up, rapid, repairable, and precise monomer-by-monomer electrosynthesis method, termed solid-phase electrosynthesis, which simultaneously enables in situ parallel synthesis and unidirectional orientation of polymers on a macroscopic substrate. The redox-bifunctional monomers are added onto the monolayer by alternating positive and negative potentials, while the oxidation and reduction are performed in separate solutions to avoid the addition of dimer byproducts. The monomer vacancies and morphological defects can be efficiently repaired by repeating the identical reaction once or twice. Eventually, the precise electrosynthesis of polymer monolayers can be statistically demonstrated by near-ideal linear relationships of length-dependent UV–vis absorption and curre
+
+作者：Li Mao、Li Yongfang、Fan Yuhang | DOI：10.1021/accountsmr.6c00205 | 类型：journal-article</description>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Mao</dc:creator>
+<category>10.1021/accountsmr.6c00205</category>
+</item>
+<item>
+<title>Materials Engineering to Unlock Saltwater Cooling</title>
+<link>https://doi.org/10.1021/accountsmr.6c00237</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00237</guid>
+<description>
+
+作者：McBride Samantha A.、Kumar Rehan | DOI：10.1021/accountsmr.6c00237 | 类型：journal-article</description>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>McBride Samantha A.</dc:creator>
+<category>10.1021/accountsmr.6c00237</category>
+</item>
+<item>
+<title>Site Engineering of Single-Atom Nanozymes: Designing Across Intrinsic Activity, Density, and Accessibility for Biomedical Applications</title>
+<link>https://doi.org/10.1021/accountsmr.6c00185</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00185</guid>
+<description>Conspectus Nanozymes have garnered substantial interest due to their intrinsic enzyme-like catalytic activities and their capacity to circumvent several inherent drawbacks of natural enzymes, including laborious purification, high production costs, stringent reaction conditions, and poor operational stability. These merits render nanozymes promising candidates for a wide array of applications, ranging from colorimetric analysis and the prevention of drug-resistant bacterial infections to tumor therapy. Despite the rapid expansion of the field and the development of thousands of nanozyme systems, only a limited subset exhibits catalytic efficacies on par with those of their natural counterparts. This performance gap has significantly restricted their broader practical deployment. The rational design of highly active nanozymes necessitates a comprehensive understanding of active-site engineering, encompassing three interrelated pillars: the structure–activity relationship of the catalytic site, site density, and site accessibility. In this context, single-atom nanozymes (SAzymes) offer an ideal platform to tackle these challenges, benefiting from maximal atom-utilization efficacy, atomically dispersed and structurally homogeneous active centers, and readily tunable electronic configurations. Considerable progress has been made in elucidating structure–activity relationships at the single-site level through coordination engineering, dimensionality regulation, functional-group mo
+
+作者：Ji Yanjun、Zhao Longge、Wang Huan、Ren Jinsong | DOI：10.1021/accountsmr.6c00185 | 类型：journal-article</description>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>Ji Yanjun</dc:creator>
+<category>10.1021/accountsmr.6c00185</category>
+</item>
+<item>
+<title>DC Arc Plasma Jet CVD of Diamond Materials: A Journey from Laboratory to Industrial Applications</title>
+<link>https://doi.org/10.1021/accountsmr.6c00163</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00163</guid>
+<description>Conspectus Diamond possesses a unique combination of ultrahigh hardness, exceptional thermal conductivity, broadband optical transparency, and a high critical breakdown field and is regarded as the ultimate semiconductor material. Among various chemical vapor deposition (CVD) techniques for diamond synthesis, direct current (DC) arc plasma jet CVD stands out for its ultrahigh plasma density and gas temperatures (∼10,000 K), enabling the rapid, controlled growth of high-quality (up to optical-grade), large-size diamond films. Combined with its relatively low equipment cost, this technology is well-suited to the demands of industry. Early DC arc plasma jet CVD systems are limited by intrinsic equipment constraints, confining the technique to laboratory studies. Sustained efforts by research teams at the University of Science and Technology Beijing have since overcome key technical bottlenecks. A high-power DC arc plasma torch with rotating arc-root technology and a semi-closed gas circulation system enables cost-effective growth of large-area diamond materials. Moreover, stress accumulation remains a critical challenge during diamond deposition, particularly for large-area films, often leading to cracking. To mitigate this issue, composite substrates have been developed to facilitate controlled interfacial separation after growth, yielding free-standing diamond films up to 150 mm in diameter. To further extend diamond size, a 150 kW DC arc plasma jet CVD system with a dual-leve
+
+作者：Zheng Liping、Li Chengming、Chen Liangxian、Wei Junjun、Liu Jinlong、Ouyang Xiaoping、Lu Fanxiu | DOI：10.1021/accountsmr.6c00163 | 类型：journal-article</description>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zheng Liping</dc:creator>
+<category>10.1021/accountsmr.6c00163</category>
+</item>
+<item>
+<title>Closing the Gap: Multiresonant TADF Emitters and TADF Dendrimers in Solution-Processed OLEDs</title>
+<link>https://doi.org/10.1021/accountsmr.6c00190</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00190</guid>
+<description>Conspectus Organic light-emitting diodes (OLEDs) have become a cornerstone technology in modern displays, yet their dominant manufacturing route, vacuum deposition (VD), remains cost-intensive and intrinsically wasteful. Solution processing (SP) offers an attractive alternative because it enables high-throughput fabrication, reduced material loss, and compatibility with large-area and flexible substrates. Organic thermally activated delayed fluorescence (TADF) emitters are uniquely positioned for SP-OLEDs, as they can harvest both singlet and triplet excitons, providing a route to near-unity device internal quantum efficiency, without the need for scarce heavy metals. The key challenge, however, is that the performance of SP TADF OLEDs still lags behind VD devices in both maximum external quantum efficiency and efficiency roll-off. These performance gaps originate from SP-specific constraints such as unoptimized film morphology, aggregation-caused quenching (ACQ), limited control over transition dipole orientation, and charge imbalance in multilayer stacks. Consequently, closing the VD–SP performance divide requires coordinated progress in molecular engineering and device engineering. This Account summarizes recent materials-design strategies for high-performance SP TADF OLEDs, with emphasis on multiresonant TADF (MR-TADF) emitters and TADF dendrimers. Small-molecule donor–acceptor (D-A) TADF emitters, though compatible for SP-OLEDs, often show broad emission resulting from t
+
+作者：Fatahi Mahni、Zysman-Colman Eli | DOI：10.1021/accountsmr.6c00190 | 类型：journal-article</description>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>Fatahi Mahni</dc:creator>
+<category>10.1021/accountsmr.6c00190</category>
+</item>
+</channel>
+</rss>

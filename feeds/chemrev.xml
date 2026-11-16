@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Chemical Reviews — 最新论文</title>
+<link>https://pubs.acs.org/journal/chreay</link>
+<description>Chemical Reviews（ISSN 0009-2665）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
+<language>en</language>
+<lastBuildDate>Mon, 16 Nov 2026 16:22:47 +0800</lastBuildDate>
+<ttl>360</ttl>
+<item>
+<title>Transition-Metal-Catalyzed Multicomponent Cycloadditions</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00445</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00445</guid>
+<description>Abstract Transition-metal-catalyzed multicomponent cycloadditions provide a powerful strategy for constructing complex cyclic frameworks from simple unsaturated building blocks with high atom and step efficiencies. This Review highlights the progress made in transition-metal-catalyzed multicomponent cycloadditions based on the size of the cyclic products formed. First, reactions that construct five-membered rings, including [2 + 2 + 1], [3 + 1 + 1], and [2 + 1 + 1 + 1] cycloadditions, are discussed with an emphasis on key reactive intermediates, such as carbon monoxide, vinylidenes, carbenoids, and nitrenes. Next, six-membered-ring-forming processes, particularly [2 + 2 + 2], [3 + 2 + 1], [4 + 1 + 1], and [2 + 1 + 2 + 1] cycloadditions, are described, highlighting combinations of alkynes, alkenes, and heteroatom-containing components. The Review then covers strategies for constructing seven-membered rings via [3 + 2 + 2] and [4 + 2 + 1] cycloadditions. Finally, emerging methods that enable the formation of eight- and nine-membered rings through higher-order multicomponent cycloadditions are described. This Review aims to provide a comprehensive overview of the conceptual framework, mechanistic principles, and synthetic possibilities of transition-metal-catalyzed multicomponent cycloadditions by organizing them according to ring size and cycloaddition components.
+
+作者：Sato Yu、Yoshimura Go、Yamashiro Kairi、Tanaka Ken | DOI：10.1021/acs.chemrev.6c00445 | 类型：journal-article</description>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Sato Yu</dc:creator>
+<category>10.1021/acs.chemrev.6c00445</category>
+</item>
+<item>
+<title>Lithium–Oxygen Batteries: Fundamental and Practical Considerations</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c00647</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.5c00647</guid>
+<description>Abstract Lithium–oxygen batteries (LOBs) have emerged as a compelling next-generation energy storage technology for aviation due to their high theoretical energy densities and the use of abundant oxygen as a cathode reactant. Unlike conventional lithium-ion batteries (LIBs), which are limited by the mass of intercalation materials and one-electron redox processes, LOBs leverage multielectron oxygen redox chemistry to achieve gravimetric energy density exceeding 3,500 Wh kgLi2O2–1 based on lithium peroxide and up to 5,200 Wh kgLi2O–1 for lithium oxide. However, practical implementation of LOBs remains constrained by significant challenges including low round-trip efficiency and low system-level energy density, the latter arising from the need for oxygen management in both open and closed architectures. The electrolyte viscosity, oxygen solubility, volatility, and chemical stability toward reactive oxygen species can profoundly influence discharge capacity, rate capability, reversibility, and long-term stability. This review provides a comprehensive assessment of recent progress in LOBs, focusing on electrolyte designs, electrode engineering, and strategies for mitigating parasitic reactions as well as the interplay between material-level properties and system-level constraints, offering a critical perspective on the path toward realizing high-energy, practical LOB systems.
+
+作者：Li Matthew、Huang Xiaozhou、Park Moon Gyu、Kwabi David G.、Ye Shen、Tatara Ryoichi、Córdoba Daniel、Calvo Ernesto J. | DOI：10.1021/acs.chemrev.5c00647 | 类型：journal-article</description>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Matthew</dc:creator>
+<category>10.1021/acs.chemrev.5c00647</category>
+</item>
+<item>
+<title>Named Reactions under Mechanochemical Conditions: A Critical Survey</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c00882</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.5c00882</guid>
+<description>Abstract Mechanochemistry has progressed from a niche interest to a core method for solvent-free synthesis, providing sustainable and mechanistically unique alternatives to traditional solution-based chemistry. When controlled impact, shear, or vibrational energy is applied under solvent-free or solvent-lean conditions, reactions are promoted within dynamically renewed interfacial regions, revealing new patterns of selectivity, energy efficiency, and process design. This review surveys the historical development, fundamental principles, and analytical frameworks of mechanochemistry, together with an extensive compilation of named organic reactions conducted under mechanochemical conditions. By comparing mechanochemical reactions with their solution-phase counterparts, this review clarifies how stress-induced activation, microsolvation (η control), and auxiliary-mediated interfaces influence reaction kinetics, selectivity, and scalability. Emerging platforms, such as twin-screw extrusion (TSE), resonant acoustic mixing (RAM), and bead mills, extend these advantages toward scale-up and, in the case of TSE, continuous manufacturing, bridging laboratory-scale discoveries and industrial applications. Mechanochemistry functions both as a practical enabling platform and as a conceptual framework for Green Chemistry, embracing atom economy, solvent reduction, and operational safety within a unified solid-state synthetic framework.
+
+作者：Basoccu Francesco、Fartade Dipak J.、Bera Shyamal K.、Caboni Pietro、Linda Astha、Scipione Roberto、Porcheddu Andrea | DOI：10.1021/acs.chemrev.5c00882 | 类型：journal-article</description>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Basoccu Francesco</dc:creator>
+<category>10.1021/acs.chemrev.5c00882</category>
+</item>
+<item>
+<title>Harnessing Contact Electrification and Static Charge for Chemical Reactions: Fundamentals and Applications of Contact Electrocatalysis</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00349</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00349</guid>
+<description>Abstract The chemical industry is the largest industrial energy consumer and the third-largest emitter of CO2 globally. Despite efforts to enhance energy efficiency, many chemical reactions still require significant external energy due to fundamental thermodynamic barriers. Thus, transitioning to a sustainable chemical industry requires new renewable energy or catalytic technologies that reduce energy demand. In catalytic systems, flowing liquids, moving parts, and gas separation mean local static charge is often generated on the nanoscale. This review explores the static charge formation at solid–solid, solid–liquid, and solid–gas interfaces, such as those that occur in catalytic reactions, and then extends this discussion to a deeper focus on how these generated static charges can be used for catalysis, including electrostatic catalysis, static charge electrochemistry, and contact electrocatalysis (CEC). CEC, where motion-induced charge separation leads to local static charge formation, is then specifically examined, exploring why and how it has emerged as an exciting tool to enable these green chemical transformations. The focus is to highlight the most recent developments in CEC, with mechanistic interpretation, factors that affect CEC performance, and emerging applications, and to provide outlook and guidance for the field─specifically highlighting the need to build structure–property relationships for CEC performance and static charge formation for target chemical react
+
+作者：Dassanayaka Dumindu G.、Srikantamurthy Nandish Hosadoddi、Mulet Xavier、Šutka Andris、Ciampi Simone、Ellis Amanda V.、Rezk Amgad R.、Sherrell Peter C. | DOI：10.1021/acs.chemrev.6c00349 | 类型：journal-article</description>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Dassanayaka Dumindu G.</dc:creator>
+<category>10.1021/acs.chemrev.6c00349</category>
+</item>
+<item>
+<title>Diffusion Models for Small-Molecule Design</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00161</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00161</guid>
+<description>Abstract Diffusion models (DMs) have emerged as a class of generative models for controllable small-molecule design in drug discovery capable of progressively transforming noisy or partially specified molecular states into candidate structures under structural, geometric, and property constraints. This Review provides a comprehensive overview of the methodological foundations and representative applications of diffusion-based molecular generation, emphasizing the alignment among molecular representations, generative dynamics, controllable design, and evaluation and validation. Particular attention is given to recent advances in property- and structure-guided generation, target-aware and fragment-based design, multiobjective optimization, and synthesis-aware generation. We also discuss the roles of data sets, computational evaluation, and prospective experiments in assessing the chemical and biological relevance of generated molecules. By organizing these developments within a unified conceptual framework, we provide computational chemists and drug discovery researchers with a structured roadmap that balances the mathematical rigor with chemical intuition. Throughout, we highlight current methodological limitations and unresolved challenges and conclude with future directions toward chemically credible and experimentally grounded molecular design. To facilitate navigation of this rapidly evolving field, we introduce an interactive companion platform (https://diffsmd.scbdd.com)
+
+作者：Yi Jiacai、Li Yue、Jiang Dejun、Deng Youchao、Gu Xinyu、Wu Chengkun、Lu Aiping、Chen Xiang | DOI：10.1021/acs.chemrev.6c00161 | 类型：journal-article</description>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Yi Jiacai</dc:creator>
+<category>10.1021/acs.chemrev.6c00161</category>
+</item>
+<item>
+<title>Two-Dimensional IR Spectroscopy: Mapping Structure and Dynamics in Complex Molecular Environments</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00269</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00269</guid>
+<description>Abstract Complex, dynamically heterogeneous environments such as lipid membranes, electrocatalytic interfaces, soft polymer matrices, crowded biological media, and phase-separated assemblies are characterized by spatially distinct microenvironments, multiscale structural dynamics, and short-range interactions. Microscopic interactions are poorly captured by bulk descriptors. In this article, we review how ultrafast two-dimensional infrared (2D IR) spectroscopy and related vibrational methods provide direct access to these complex molecular landscapes by resolving inhomogeneous ensembles, picosecond environmental fluctuations, and exchange between local states. When combined with vibrational probes and modern molecular simulation, these spectroscopic observables reveal how local interactions, such as electrostatics, hydrogen bonding (H-bonding), and ion pairing and aggregation generate microscopic heterogeneity and govern multiscale dynamics. We organize discussions around representative classes of complex environments, including hydration and electrostatics in lipid membranes, molecular environments and dynamics in biomolecular condensates, confinement and crowding in self-assembled and interfacial systems, including electrochemical interfaces, polymers/gels and soft matter, electrolytes and ion-specific effects, and aqueous cosolvent mixtures relevant to solvation and cryopreservation. Looking ahead, ongoing advancements in vibrational probe design, multidimensional spectros
+
+作者：Mondal Saptarsi、Jeon Jonggu、Cho Minhaeng、Baiz Carlos | DOI：10.1021/acs.chemrev.6c00269 | 类型：journal-article</description>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Mondal Saptarsi</dc:creator>
+<category>10.1021/acs.chemrev.6c00269</category>
+</item>
+<item>
+<title>How to Engineer Biological Nanopores for Single-Molecule Capture and Discrimination</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c00846</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.5c00846</guid>
+<description>Abstract Protein-based biological nanopores have emerged as versatile tools for sequencing biopolymers, identifying molecules, and probing reactions at the single-molecule level. Many biological nanopores have been characterized, revealing the significance of nanopore size, shape, and chemical composition in molecular detection and discrimination. Advancements in understanding the nanofluidic properties of nanopores have complemented engineering approaches expanding the possible applications of nanopore technology. Through a combination of structural insights, rational design, systematic screening, and molecular dynamics simulations, researchers have developed nanopores capable of distinguishing between ions, nucleic acids, peptides, and folded proteins with remarkable specificity and sensitivity. Building upon three decades of progress, this Review highlights recent engineering innovations, discusses ongoing challenges, and explores the prospects in the field.
+
+作者：Straathof Sabine、van den Noort Marco、Maglia Giovanni | DOI：10.1021/acs.chemrev.5c00846 | 类型：journal-article</description>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Straathof Sabine</dc:creator>
+<category>10.1021/acs.chemrev.5c00846</category>
+</item>
+<item>
+<title>Rearrangement Reactions in Polymers</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00545</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00545</guid>
+<description>Abstract Rearrangement reactions are critical transformations in organic synthesis, and a comprehensive look at how they have been utilized so far in polymeric contexts is missing. Historically, these transformations have been implemented within the polymer periphery (e.g., side chains), and recently, there has been an expanding effort to implement them into polymer backbones. Considering these efforts, we compile the history of rearrangement reactions as applied in polymer contexts, detailing mechanisms, reaction conditions, goals for implementation of rearrangement, and location of implementation (i.e., propagating species, side chains, polymer backbones). In organizing this work, we hope to guide the further development of rearrangements as general tools for polymer modification and design.
+
+作者：Jareczek Mark J.、Mondal Bhaskar D.、Abouelkheir Zuhair M.、Tonks Ian A.、Zhukhovitskiy Aleksandr V. | DOI：10.1021/acs.chemrev.6c00545 | 类型：journal-article</description>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Jareczek Mark J.</dc:creator>
+<category>10.1021/acs.chemrev.6c00545</category>
+</item>
+<item>
+<title>Engineering Reversible Wet Adhesion: Physicochemical Principles from Molecular Interactions to Functional Biointerfaces</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00658</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00658</guid>
+<description>Abstract Interfacial hydration fundamentally constrains adhesion in aqueous and physiological environments by preventing intimate contact, competing for binding sites, and weakening the load-bearing interfaces. Although wet adhesives have been extensively designed for durable fixation, emerging technologies in soft robotics, wearable bioelectronics, and minimally invasive medicine require interfaces that can form adhesion, recover after reuse, or detach on-demand under hydrated conditions. This Review discusses reversible wet adhesion through two operational modes: Mode I, cyclic reusability through repeated restoration of adhesion over attachment-detachment cycles, and Mode II, on-demand detachability through trigger-induced conversion of a stable adhesive state into a weakly adherent state through a controlled, low-damage release pathway. We examine supramolecular interactions, dynamic covalent chemistry, mesoscale architectures, biomimetic designs, and hybrid strategies as complementary routes for regulating hydration, interfacial binding, mechanical dissipation, and adhesive state transitions at wet interfaces. We analyze how contact formation, hydration history, fracture pathways, loading history, test geometry, and biofluid exposure shape the measured performance. We further assess current methods for quantifying reusability, switching, durability, and biofluid tolerance, emphasizing failure mode-informed evaluation and standardized reporting criteria. Integrating hydra
+
+作者：Sun Hongrui、Deng Zexing、Yan Bingyu、Zhao Xin、Wu Zhengying、Gao Liang、Han Yong、Guo Baolin | DOI：10.1021/acs.chemrev.6c00658 | 类型：journal-article</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Sun Hongrui</dc:creator>
+<category>10.1021/acs.chemrev.6c00658</category>
+</item>
+<item>
+<title>High-Entropy Materials for Electrochemical Gas Conversion</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00135</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00135</guid>
+<description>Abstract High-entropy materials (HEMs) are composed of multiple principal elements stabilized by the configurational entropy. They establish a new design paradigm in electrocatalysis by leveraging local disorder and multielement synergy to create diverse and tunable active site environments. While HEMs have been broadly reviewed, a focused and reaction-specific assessment of their role in gas-involved electrocatalysis is absent. This review fills that gap by examining entropy-driven design principles, entropy-guided synthesis, nanoscale structural control, and advanced characterization of HEMs and by linking these aspects to their reaction-specific catalytic behavior in gas-involved electrocatalysis. We build a unified framework linking high-entropy chemistry to catalytic function across five key reactions: the CO2 reduction reaction (CO2RR), hydrogen oxidation reaction (HOR), oxygen reduction reaction (ORR), nitrogen reduction reaction (NRR), and nitrogen oxidation reaction (NOR). We provide comprehensive coverage across all major HEM families, including high-entropy alloys, oxides, chalcogenides, hydroxides, fluorides, MXenes, and single-atom configurations, highlighting features unique to each system. Key challenges and future directions are outlined, including scalable synthesis, active-site identification, machine-learning-guided discovery, and interfacial engineering. This review provides a reaction-focused framework for advancing HEM-based electrocatalysis and offers g
+
+作者：Guo Hele、Gong Jiaming、Zhou Yazhou、Chu Kaibin、Liu Chaofan、Guan Yawen、Roeffaers Maarten B. J.、Hofkens Johan | DOI：10.1021/acs.chemrev.6c00135 | 类型：journal-article</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Guo Hele</dc:creator>
+<category>10.1021/acs.chemrev.6c00135</category>
+</item>
+<item>
+<title>Introduction: Fabrication at All Scales</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00929</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00929</guid>
+<description>
+
+作者：Xia Younan、Chen Qian、Rogers John A.、Jeong Unyoug | DOI：10.1021/acs.chemrev.6c00929 | 类型：journal-article</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Xia Younan</dc:creator>
+<category>10.1021/acs.chemrev.6c00929</category>
+</item>
+<item>
+<title>Ultrafast Nonlinear Vibrational Spectroscopy of Aqueous Solutions at Surfaces and in Heterogeneous Environments</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00516</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00516</guid>
+<description>Abstract Water and aqueous electrolytes at surfaces, interfaces, and in confinement behave differently from the bulk, yet linear spectroscopy rarely combines the chemical specificity, surface selectivity, and temporal resolution needed to resolve electric double-layer formation, specific-ion adsorption, and hydration at interfaces and under nanoconfinement. This review assesses how ultrafast nonlinear vibrational spectroscopy, comprising two-dimensional infrared spectroscopy, vibrational sum-frequency generation (SFG), and time-resolved SFG, probes the hydrogen-bond network and the dynamics of interfacial water and electrolytes on femtosecond-to-picosecond timescales. We first establish vibrational benchmarks for bulk water and simple electrolytes, then treat soft aqueous boundaries, including air–water, hydrophobic and hydrophilic, lipid, surfactant, and nucleic acid interfaces. We next examine solid–liquid and electrochemical systems, spanning metal oxides, minerals, and field-induced effects, before turning to water and proton dynamics in nanoconfined geometries and complex architectures. Throughout, experimental results are set against theoretical and computational frameworks, from polarizable force fields to machine-learning potentials. Our aim is to identify which molecular-level features of interfacial water are now firmly established, where the prevailing mean-field description of the electric double layer breaks down, and which experiments would resolve the outstandi
+
+作者：Hazrah Arsh S.、Hunger Johannes、Litman Yair、Fingerhut Benjamin P.、Cho Minhaeng、Bonn Mischa | DOI：10.1021/acs.chemrev.6c00516 | 类型：journal-article</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Hazrah Arsh S.</dc:creator>
+<category>10.1021/acs.chemrev.6c00516</category>
+</item>
+<item>
+<title>Photoinduced Charge Separation via Symmetry-Breaking</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00472</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00472</guid>
+<description>Abstract Photoinduced symmetry-breaking charge separation (SB-CS) is a fundamental process in molecular photophysics that underpins energy and charge transport in reaction centers and organic, supramolecular, and hybrid materials. Despite extensive investigations across diverse systems, SB-CS is often described in system-specific terms, obscuring the underlying unifying principles. In this Review, we establish a coherent framework demonstrating that SB-CS can be understood within a multidimensional parameter space defined by electronic coupling, energetic driving force, and nuclear reorganization. We critically analyze how the interplay between locally excited and charge-transfer states governs charge separation and recombination dynamics, highlighting the existence of an optimal intermediate coupling regime that enables efficient symmetry-breaking while suppressing nonproductive decay pathways. By integrating insights from solution, solid-state, and single-molecule measurements, we show that environmental fluctuations and structural heterogeneity play a central role in driving charge localization rather than merely acting as spectators or perturbations. Importantly, we distinguish universal physical principles from system-specific manifestations, allowing the formulation of transferable design rules for achieving efficient and long-lived charge-separated states. Finally, we outline emerging directions toward predictive, data-driven models that link molecular structure to SB-
+
+作者：Maret Philip Daniel、Mazumder Aniruddha、Hariharan Mahesh | DOI：10.1021/acs.chemrev.6c00472 | 类型：journal-article</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Maret Philip Daniel</dc:creator>
+<category>10.1021/acs.chemrev.6c00472</category>
+</item>
+<item>
+<title>Strain-Release Cycloadditions: Bicyclobutanes and Beyond</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00211</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00211</guid>
+<description>Abstract Strain-release cycloadditions have emerged as powerful reactions for converting distorted ring systems into complex and otherwise hardly attainable organic molecular architectures. This Review encompasses the fundamentals of strain, its role in governing cycloaddition pathways, and offers a systematic examination of strained carbocycles and heterocycles, from bicyclo[1.1.1]butanes and 1-azabicyclo[1.1.1]butanes, housanes and aza-housanes, 2H-azirines and aziridines, azetidines, cyclopropanes, cyclobutanes, oxiranes, oxetanes, and strained alkynes and alkenes. Across these motifs, the general principles that dictate reactivity, the breadth of known cycloadditions and activation strategies, from Brønsted and Lewis acid catalysis to transition-metal activation, photocatalysis, and double strain-release mechanisms, are highlighted. Key opportunities, current limitations, and future directions are outlined.
+
+作者：Bellotti Peter、Dutta Subhabrata、Paulus Fritz、Glorius Frank | DOI：10.1021/acs.chemrev.6c00211 | 类型：journal-article</description>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Bellotti Peter</dc:creator>
+<category>10.1021/acs.chemrev.6c00211</category>
+</item>
+<item>
+<title>Interface Engineering in Perovskite Light-Emitting Diodes: Fundamentals, Characterization, Strategies, and Applications</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00612</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00612</guid>
+<description>Abstract Interface engineering has emerged as a critical strategy for advancing perovskite light-emitting diodes (PeLEDs), enabling remarkable improvements in the device efficiency, stability, and spectral purity. This Review provides a comprehensive overview of interface engineering in PeLEDs, beginning with the fundamental principles that govern carrier injection, transport, and recombination at heterojunctions between perovskite emitters and charge-transport layers. We then survey advanced characterization techniques, including photoelectron spectroscopy, scanning probe microscopy, and time-resolved optical methods, that elucidate interfacial energy-level alignment, defect states, charge dynamics, and degradation pathways. On the basis of these insights, we systematically discuss versatile engineering strategies, such as self-assembled monolayers, dipole interlayers, dimensional regulation, and passivation schemes, to mitigate non-radiative recombination, balance charge fluxes, and enhance operational stability. Finally, we highlight emerging applications spanning high-resolution displays, flexible lighting, and lasing while outlining key challenges and future directions toward commercial realization. This Review aims to offer a holistic framework linking interfacial design to device performance, guiding next-generation PeLED development.
+
+作者：Li Xiansheng、Zhang Zichen、Liu Shuai、Zhao Yuan、Lu Weiling、Luo Xin、Huang Jing、Liu Xiaoke | DOI：10.1021/acs.chemrev.6c00612 | 类型：journal-article</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Xiansheng</dc:creator>
+<category>10.1021/acs.chemrev.6c00612</category>
+</item>
+<item>
+<title>Tuning Interfacial Electron Transfer for Boosting Electrochemiluminescence: Methods, Mechanisms, and Bioanalytical Applications</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00330</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00330</guid>
+<description>Abstract The interfacial electron-transfer process acts as a pivotal kinetic determinant of electrochemiluminescence (ECL) efficiency, governing the generation of excited-state emitters and thus dictating the intensity and stability of ECL signals. Currently, harnessing diverse nanomaterials has driven significant advances in the development of novel ECL luminophores and the activation of coreactants. However, most of these luminophores exhibit low ECL efficiency in aqueous media, and the intrinsic reaction and activation mechanisms remain ambiguous because of their complex structures and compositions. Notably, tuning electron-transfer pathways at the molecular/atomic level can not only enable efficient signal amplification but also facilitate the tracking of reaction pathways, thereby providing deeper insights into the fundamental mechanisms underlying ECL processes. This Review comprehensively summarizes advances during the past five years in tuning interfacial electron transfer to enhance ECL. Furthermore, we highlight progress in electron-transfer-mediated signal amplification strategies for highly sensitive ECL biosensing and bioimaging applications. Finally, we propose and discuss the challenges and perspectives associated with improving the ECL efficiency through the modulation of electron transfer processes. Precise regulation of interfacial electron transfer holds substantial promise for advancing ECL theories, clarifying reaction mechanisms, and expanding the scope 
+
+作者：Li Jingshuai、Wan Haifei、Gu Wenling、Hu Liuyong、Zhu Chengzhou | DOI：10.1021/acs.chemrev.6c00330 | 类型：journal-article</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Jingshuai</dc:creator>
+<category>10.1021/acs.chemrev.6c00330</category>
+</item>
+<item>
+<title>Bacterial Surfaces and Barriers: Biogenesis and Pathogen–Host Interactions</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c01068</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.5c01068</guid>
+<description>Abstract The bacterial surface represents the primary interface between pathogens and hosts, yet its chemical and architectural complexity challenges conventional classification. This Review examines structural organization, molecular composition, and biogenesis of bacterial surface components across the Gracilicutes and Terrabacteria clades, linking mechanistic detail to pathogenic function. We describe lipid diversity, integral membrane protein biogenesis, and lipoprotein processing at the inner membrane and how these components support surface remodeling, secretion, and virulence. We then examine the peptidoglycan layer and its role in immune recognition and surface protein display, teichoic acids and their contributions to antimicrobial resistance and immune evasion, and S layers, whose crystalline arrays mediate adhesion and immune modulation. The outer membrane section covers lipopolysaccharide biosynthesis, outer membrane protein biogenesis and folding, lipoprotein trafficking, and contributions to pathogenicity, while the mycobacterial section addresses the mycolyl-arabinogalactan-peptidoglycan complex and virulence factors. We discuss bacterial capsule diversity, biosynthesis, and use as vaccine antigens, along with adhesive surface structures such as fimbriae, pili, and curli fibers and their roles in colonization and biofilm formation, before covering secretion systems types I through XI and their contributions to virulence. This Review provides a framework for und
+
+作者：Bartholomew-Schoch Jackson、Finnie Juaneisha K.、Gahlmann Andreas、Columbus Linda | DOI：10.1021/acs.chemrev.5c01068 | 类型：journal-article</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Bartholomew-Schoch Jackson</dc:creator>
+<category>10.1021/acs.chemrev.5c01068</category>
+</item>
+<item>
+<title>Mapping Local Environments in Single-Atom Catalysts</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00373</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00373</guid>
+<description>Abstract Single-atom catalysts (SACs) offer exceptional structural resolution for investigating how local environments govern catalytic behavior and, ultimately, for controlling these effects through catalyst design. Yet, atomic dispersion does not imply a single or fully defined catalytic environment. The behavior of atomically dispersed active centers is shaped by a hierarchical local environment comprising persistent and transient contributions, while also being influenced by an extended reaction environment that intersects with the local environment in controlling reactivity and can become integrated into it. Establishing these boundaries and understanding how these contributions evolve and interact are central challenges in the interpretation and design of SACs. Here, we critically examine how local environments are generated and controlled, experimentally and theoretically resolved across spatial and temporal scales, transformed from synthesis through operation and deactivation, and linked to catalytic performance through structural, energetic, and electronic descriptors. By integrating aspects that are often considered separately and highlighting those that remain insufficiently addressed, we provide a roadmap toward the predictive, environment-driven design of SACs and a deeper understanding of catalytic phenomena.
+
+作者：Ruiz-Ferrando Andrea、Mitchell Sharon、Pérez-Ramírez Javier | DOI：10.1021/acs.chemrev.6c00373 | 类型：journal-article</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Ruiz-Ferrando Andrea</dc:creator>
+<category>10.1021/acs.chemrev.6c00373</category>
+</item>
+<item>
+<title>Regenerated Cellulose for Sustainable Electronic Devices</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00205</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00205</guid>
+<description>Abstract Regenerated cellulose (RC), derived from natural cellulose through dissolution and regeneration processes, has emerged as a sustainable, versatile, and cost-effective material for advanced electronic devices. With unique hierarchical structures, abundant hydroxy groups, and excellent mechanical and thermal properties, RC allows extensive customization of its characteristics, offering biocompatibility, flexibility, processability, and environmental friendliness. This review systematically summarizes recent advances in RC-based electronics, focusing on its multiscale molecular configuration, dissolution and regeneration mechanisms, and functionalization and engineering strategies. It first provides a detailed molecular-level analysis of RC structures and formation mechanisms. The principles and strategies of cellulose dissolution and regeneration are then discussed, with emphasis on solvent systems and structure-regulating mechanisms essential for processing control. Functionalization strategies are categorized into direct modification and hybridization with functional materials. Notably, the hybridization approach involves the development of conductive, semiconductive, and insulating RC composites, evaluated from the perspectives of material selection, interfacial design, and processing techniques. Subsequently, engineering approaches to enhance mechanical strength, electrical conductivity, and optical transparency are explored. Applications of RC in sensors, actuator
+
+作者：Wang Xiaojuan、Fan Mengmeng、Qian Huanyu、Pan Xiaosen、Chen Lu、Jiang Junzhi、Chen Chaoji、Liu Hongbin | DOI：10.1021/acs.chemrev.6c00205 | 类型：journal-article</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Wang Xiaojuan</dc:creator>
+<category>10.1021/acs.chemrev.6c00205</category>
+</item>
+<item>
+<title>Introduction: Insertion and Folding of Membrane Proteins and Peptides</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00782</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00782</guid>
+<description>
+
+作者：Booth Paula J.、Sanders Charles R. | DOI：10.1021/acs.chemrev.6c00782 | 类型：journal-article</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Booth Paula J.</dc:creator>
+<category>10.1021/acs.chemrev.6c00782</category>
+</item>
+<item>
+<title>Two-Dimensional IR Spectroscopy as a Window into the Molecular Structure and Dynamics of Electrolytes and Ionic Liquids: A Review</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00440</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00440</guid>
+<description>Abstract Two-dimensional infrared (2DIR) spectroscopy has emerged as a powerful tool for probing the structure and picosecond dynamics of complex, condensed-phase systems at the molecular level. In electrolytes and ionic liquids, where physicochemical properties arise from the interplay between solvation and ionic interactions, 2DIR spectroscopy provides unique insights into intermolecular interactions and dynamical processes that are often inaccessible to conventional spectroscopies. This review highlights seminal and recent advances in understanding the behavior of these systems using 2DIR spectroscopy, with particular emphasis on spectral diffusion, vibrational relaxation, and chemical exchange dynamics. The review also describes how complementary information from the vibrational modes of solvents, salts, and external probes enables detailed characterization of ion–ion interactions, hydrogen-bonding networks, and solvation environments, providing a molecular framework of the structure and time evolution of these charged systems. Moreover, particular attention is given to the dynamics of distinct molecular moieties and to the role of specific anions, cations, and solvent environments in governing behavior on femtosecond to picosecond time scales. Finally, the review describes current challenges, including the limited availability of intrinsic vibrational reporters and experimental constraints, and key open questions in electrochemical and energy-relevant systems that remain
+
+作者：Bonilla Valeria、Kuroda Daniel G. | DOI：10.1021/acs.chemrev.6c00440 | 类型：journal-article</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Bonilla Valeria</dc:creator>
+<category>10.1021/acs.chemrev.6c00440</category>
+</item>
+<item>
+<title>Marine Carbonate System Observing and mCDR: New Processes, Needs, and Systems</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c01007</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.5c01007</guid>
+<description>Abstract Marine carbon dioxide removal (mCDR) techniques have the potential to remove legacy emitted carbon dioxide from the atmosphere and store it durably in ocean reservoirs. While the ocean’s vast surface area and buffering capacity offer benefits for scaling removal, monitoring remains challenging. This comprehensive review of marine carbonate system observing and monitoring technologies finds that mCDR processes span multiple scales, often at the edges of existing platform and sensing capability. While some mCDR observing and monitoring is possible today, challenges will arise as experiments and operations expand. Leaps forward in assessing the novel scales of mCDR processes will emerge from low-energy, low-cost, highly durable sensors; innovative deployment platforms; cooperative sensing networks; dedicated model validation programs; and decision support tools. This review is intended to serve as a guide to the history, ongoing innovation, and transformative vision of future marine carbonate system observing and monitoring informed by mCDR.
+
+作者：Cross Jessica N.、Achterberg Eric P.、Atamanchuk Dariia、Bresnahan Philip J.、Byrne Robert H.、DeGrandpre Michael D.、Fennel Katja、Hales Burke | DOI：10.1021/acs.chemrev.5c01007 | 类型：journal-article</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Cross Jessica N.</dc:creator>
+<category>10.1021/acs.chemrev.5c01007</category>
+</item>
+<item>
+<title>Applications of Single-Atom Alloys in Thermal, Electro, and Photo Catalysis</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00369</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00369</guid>
+<description>Abstract Single-atom alloys (SAAs) are an emerging class of heterogeneous catalysts that maximize atom efficiency by embedding isolated reactive metal atoms within a host metal surface, creating well-defined active sites. Atomic isolation imparts unique catalytic properties, including high selectivity, resistance to poisoning, coking, and sintering, and in some cases the ability to circumvent conventional scaling relationships that limit traditional catalysts. This article focuses on progress in the SAA field since our 2020 review (Chem. Rev.2020, 120, 12044−12088.), while incorporating earlier foundational studies where relevant. We first examine the fundamental principles governing SAA formation, stability, electronic structure, reactivity, and selectivity, drawing on insights from experimental single-crystal model systems and theoretical studies. We then review the application of SAAs in a wide range of industrially important reactions, including hydrogenation, dehydrogenation, selective oxidation, water–gas shift, Fischer–Tropsch synthesis, and dry reforming, among others. Beyond thermal catalysis, SAAs demonstrate great promise in electrocatalysis and plasmon-driven chemistry. Their structurally simple active sites have also enabled the rational design of novel catalysts and promoters that challenge conventional catalytic intuition. Looking ahead, recent advances in computing, including machine-learning potentials, offer the opportunity to explore vast compositional spac
+
+作者：Rajabi Nima、Kim Dongbeom、Wang Yicheng、Hollis Emma、Meier Dennis、Azizli Toghrul、Montemore Matthew M.、Holewinski Adam | DOI：10.1021/acs.chemrev.6c00369 | 类型：journal-article</description>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Rajabi Nima</dc:creator>
+<category>10.1021/acs.chemrev.6c00369</category>
+</item>
+<item>
+<title>Nonaqueous Redox Flow Batteries: Opportunities and Challenges for Sustainable Energy Storage</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00427</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00427</guid>
+<description>Abstract Redox flow batteries (RFBs) have emerged as promising electrochemical energy storage technologies for long-duration stationary applications. Although aqueous RFBs represent the most commercially mature class, they are inherently limited by a narrow electrochemical stability window and high temperature sensitivity. Nonaqueous RFBs (NRFBs) expand the accessible voltage and temperature ranges, offering a promising route toward high-energy-density storage for long-duration and extreme-environment applications. However, their practical deployment remains impeded by several challenges, including high costs, insufficient power density, limited cycling stability, and safety concerns. This review offers a systematic synthesis of recent advances in key NRFB components, encompassing solvents, supporting electrolytes, membranes, electrodes, and redox-active molecules. We also highlight emerging methodologies expected to accelerate development, including machine-learning-enabled screening, advanced characterization, and life cycle assessment. Finally, this review compares aqueous and nonaqueous systems from commercialization and sustainability perspectives. Collectively, this review aims to advance design principles and optimization strategies for NRFBs, providing guidance for next-generation low-cost, high-energy-density flow battery technologies.
+
+作者：Wang Tao、Xia Yuheng、Ju Zhengyu、Zhao Zhitao、Chen Miao、Cui Mingjin、Ding Yu、Yu Guihua | DOI：10.1021/acs.chemrev.6c00427 | 类型：journal-article</description>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Wang Tao</dc:creator>
+<category>10.1021/acs.chemrev.6c00427</category>
+</item>
+<item>
+<title>Asymmetric Dipolar Cycloadditions toward Chiral Medium-Sized Rings under Palladium and Iridium Catalysis</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00441</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00441</guid>
+<description>Abstract Chiral medium-sized rings, defined herein as 7- to 11-membered cyclic frameworks, are common in bioactive molecules and occupy an important but still underexplored region of drug-like chemical space. Their asymmetric synthesis remains formidably challenging, as conformational flexibility, transannular interactions, and unfavorable entropic and enthalpic factors collectively complicate ring formation and stereocontrol. In recent years, palladium- and iridium-catalyzed asymmetric dipolar cycloadditions and related cascade processes have emerged as effective strategies for building structurally diverse and stereochemically complex medium-sized rings. As such, this review aims to summarize the advances in this emerging field from the perspectives of metal identity, precursor class, and dipole-generation mode, with emphasis on their effects on chemo-, regio-, diastereo-, and enantioselectivity. We also highlight the distinct yet complementary features of Pd and Ir catalysis, as well as current limitations in generality, selectivity, and substrate scope. By combining mechanistic insight with representative applications, this review aims to define the foundations, boundaries, and future opportunities of this rapidly evolving area.
+
+作者：Li Yu-Jie、Wang Xuerui、Wang Qiang、Deng Wei-Ping、Xiao Wen-Jing、Lu Liang-Qiu | DOI：10.1021/acs.chemrev.6c00441 | 类型：journal-article</description>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Yu-Jie</dc:creator>
+<category>10.1021/acs.chemrev.6c00441</category>
+</item>
+<item>
+<title>Overcoming the Charge Confinement-Transport Trade-Off in Perovskite Light-Emitting Diodes</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00202</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00202</guid>
+<description>Abstract Nanocrystalline metal halide perovskites are promising light emitters for light-emitting diodes (PeLEDs) because they suppress the intrinsic problem of exciton dissociation through charge confinement within nanocrystalline domains. Although these nanostructures have enabled high-emission efficiencies, such confinement strategies typically result in significantly reduced charge transport. This limitation is attributed to numerous grain boundaries, which induce severe charge carrier scattering and trapping, alongside insulating organic ligands typically introduced for defect passivation and size reduction. Poor charge transport increases the required operating voltage and accelerates device degradation pathways under an electrical bias, leading to limited operational lifetimes. This Review examines material design strategies intended to mitigate the competition between charge confinement and transport across various nanocrystalline perovskites. Specifically, we investigate fundamental crystal nucleation and growth mechanisms and evaluate methods to optimize grain size, aiming to minimize the grain boundary to increase charge transport while maintaining charge confinement. Passivation strategies for defect states are also evaluated, emphasizing the engineering of organic ligands to enhance their electrical conductivity while maximizing the passivation efficacy. In addition, the integration of core/shell architectures is discussed as a promising strategy. By controlling 
+
+作者：Jang Kyung Yeon、Choi Bo-Hyun、Lee Kyoo-Hyung、Park Chan-Yul、Zeng Qingsen、Lee Tae-Woo | DOI：10.1021/acs.chemrev.6c00202 | 类型：journal-article</description>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Jang Kyung Yeon</dc:creator>
+<category>10.1021/acs.chemrev.6c00202</category>
+</item>
+<item>
+<title>Photochemical Hetero-cycloadditions</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00681</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00681</guid>
+<description>Abstract Hetero-cycloaddition reactions are powerful, atom-economical strategies for the rapid construction of heterocyclic frameworks from readily available building blocks. Over the past two decades, advances in photochemistry, photocatalysis, and modern excitation strategies have driven remarkable developments in the field. By accessing electronically excited states, light enables cycloaddition pathways inaccessible under classical thermal conditions, providing access to reactive radical, ionic, or excited-state intermediates under mild conditions. Technological advances in light sources and photocatalyst design have improved reaction efficiency, site-, regio-, and stereoselectivity, while considerably expanding the accessible chemical space. Beyond established hetero-[2 + 2], hetero-(3 + 2), and hetero-[4 + 2] processes, new reaction classes, including π–σ hetero-cycloadditions exploiting strained small-ring systems, have emerged as powerful approaches to structurally complex saturated scaffolds of increasing relevance in medicinal chemistry. In this Review, we critically examine the evolution of photochemical hetero-cycloadditions from 2000 to 2026, discussing fundamental concepts and terminology, cycloaddition classes, heterocyclic targets, and activation mechanisms. We highlight the conceptual advances that have shaped modern photochemical hetero-cycloaddition chemistry and conclude by discussing current limitations and future directions for the field.
+
+作者：Rosso Cristian、Corti Vasco、Goti Giulio、Cuadros Sara、Marcantonio Enrico、Dell’Amico Luca | DOI：10.1021/acs.chemrev.6c00681 | 类型：journal-article</description>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+<dc:creator>Rosso Cristian</dc:creator>
+<category>10.1021/acs.chemrev.6c00681</category>
+</item>
+<item>
+<title>Metal–Support Interactions in Heterogeneous Electrocatalysis</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00356</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00356</guid>
+<description>Abstract Electrochemical energy conversion underpins the sustainable production of fuels and chemicals, with efficiency and selectivity governed by reactions at electrified solid–liquid interfaces. In supported electrocatalysts, metal–support interactions (MSIs) shape how catalytic states form and persist under polarization. Yet a predictive description of MSI remains elusive. The as-prepared contact may reconstruct under operating conditions. Activity shifts, morphology, and charge redistribution do not uniquely identify the current-carrying ensemble. These limitations motivate this review, which separates interfacial structure, chemical bonding, and collective adhesion before relating them to catalytic function. The framework spans single atoms, clusters, nanoparticles, core–shell architectures, and reconstructed interphases. We assess how atomic-resolution imaging, operando characterization, and potential-aware calculations constrain models of the working interface and relate them to electrocatalytic performance. Together, these analyses show that MSI effects depend on the working interfacial state and its reaction environment. Predictive design therefore requires balancing interfacial stabilization with the active-site accessibility and structural adaptability needed for turnover.
+
+作者：Wu Ziyang、Xie Fengting、Sun Wenping、Wang Dingsheng、Yang Jianping | DOI：10.1021/acs.chemrev.6c00356 | 类型：journal-article</description>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>Wu Ziyang</dc:creator>
+<category>10.1021/acs.chemrev.6c00356</category>
+</item>
+<item>
+<title>Free Radical Multiphase Chemistry on Tropospheric Photoreactive Particles</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00549</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00549</guid>
+<description>Abstract Gas-phase and multiphase reactions of free radicals play pivotal roles in tropospheric chemistry. Recent studies indicate that photoinduced multiphase reactions serve as a potential source of free radicals rather than a traditional sink. To accurately evaluate their environmental impacts, this Review provides a comprehensive overview of radical multiphase chemistry on key photoactive components. By systematically reviewing the multiphase generation of photoinduced free radicals, we first provide insights into the underlying multiphase reaction mechanisms and kinetics. Subsequently, the synergistic reactions among photoreactive components and the mutual feedback mechanism between short-lived and persistent free radicals are illustrated, thereby revealing their complex interactions on environmental microinterfaces. Then, the effects of multiphase radical chemistry on primary particle aging and secondary particle formation and growth are described in detail. Finally, we critically examine existing challenges and inaccuracies in the exploration of radical multiphase chemistry, highlighting the urgent need for the comprehensive quantification of photoinduced surface oxidation capacity, along with the scientific evaluation of their health risks and climatic effects. The aim of this work is to identify the missing source of atmospheric radicals, thereby facilitating the evaluation of their environmental impacts and illuminating future directions for particle-emission reduct
+
+作者：Zuo Yize、Zhang Zhaoran、Zhang Peng、George Christian、Chu Biwu、Ma Qingxin、Chen Chuncheng、Wang Shuxiao | DOI：10.1021/acs.chemrev.6c00549 | 类型：journal-article</description>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zuo Yize</dc:creator>
+<category>10.1021/acs.chemrev.6c00549</category>
+</item>
+<item>
+<title>Emerging Conversion Chemistry for High-Energy Electrolytic Zinc–Manganese Batteries: Beyond Intercalation</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00438</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00438</guid>
+<description>Abstract Aqueous zinc–manganese batteries (ZMBs) represent a compelling solution for grid-scale energy storage due to their low cost, inherent safety, and ease of manufacturing. However, conventional ion-intercalation ZMBs (IZMBs) are often hindered by bottlenecks such as limited energy density and poor cycling stability. Recently, electrolytic ZMBs (EZMBs), based on the two-electron Mn2+/MnO2 deposition–dissolution chemistry, have emerged with high operating voltages (∼1.99 V) and exceptional theoretical capacities (616 mAh g–1), paving a new way for performance breakthroughs in high-energy aqueous batteries. This review provides a deep dive into the mechanistic divergence between IZMBs and EZMBs, clarifying the core significance of EZMBs in enhancing energy density, longevity, and cost efficiency. By deconstructing critical challenges across cathode conversion, zinc anode interfaces, and electrolyte environments, we synthesize recent breakthroughs in cathode modification, anode protection, and electrolyte engineering to establish a unified design framework for high-performance EZMBs. Furthermore, this review identifies emerging opportunities and future research directions, aiming to provide systematic theoretical guidance and design inspiration for the development of next-generation, high-energy-density, and long-life EZMBs.
+
+作者：Shao Zhipeng、Meng Yu、Xie Yucheng、Wei Lei、Yao Yagang、Zhang Qichong | DOI：10.1021/acs.chemrev.6c00438 | 类型：journal-article</description>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>Shao Zhipeng</dc:creator>
+<category>10.1021/acs.chemrev.6c00438</category>
+</item>
+</channel>
+</rss>
