@@ -8,6 +8,7 @@
     <outline text="期刊论文" title="期刊论文">
       <outline type="rss" text="Accounts of Materials Research" title="Accounts of Materials Research" xmlUrl="https://daweitj.github.io/journal-rss/feeds/amr.xml" description="ACS"/>
       <outline type="rss" text="Chemical Reviews" title="Chemical Reviews" xmlUrl="https://daweitj.github.io/journal-rss/feeds/chemrev.xml" description="ACS"/>
+      <outline type="rss" text="Journal of Chemical Education" title="Journal of Chemical Education" xmlUrl="https://daweitj.github.io/journal-rss/feeds/jce.xml" description="ACS"/>
       <outline type="rss" text="物理学进展" title="物理学进展" xmlUrl="https://daweitj.github.io/journal-rss/feeds/physics-progress.xml" description="南京大学"/>
       <outline type="rss" text="中国工程科学" title="中国工程科学" xmlUrl="https://daweitj.github.io/journal-rss/feeds/sscae.xml" description="中国工程院"/>
     </outline>

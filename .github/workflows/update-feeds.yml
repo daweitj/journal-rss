@@ -17,7 +17,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -42,6 +41,17 @@ jobs:
             --site https://pubs.acs.org/journal/chreay \
             --limit 30 \
             --out feeds/chemrev.xml \
+            --mailto doubao-rss@users.noreply.github.com
+
+      - name: Journal of Chemical Education (Crossref)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_crossref.py \
+            --issn 0021-9584 \
+            --name "Journal of Chemical Education" \
+            --site https://pubs.acs.org/journal/jceda8 \
+            --limit 30 \
+            --out feeds/jce.xml \
             --mailto doubao-rss@users.noreply.github.com
 
       - name: 物理学进展 (sitemap)
