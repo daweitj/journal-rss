@@ -65,6 +65,17 @@ jobs:
             --limit 25 \
             --out feeds/physics-progress.xml
 
+      - name: 电源技术 (sitemap)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://manu70.magtech.com.cn \
+            --name "电源技术" \
+            --sitemap "/dyjs/sitemap-index.xml" \
+            --article-pattern "/dyjs/CN/abstract/article/" \
+            --limit 30 \
+            --out feeds/dyjs.xml
+
       - name: 中国工程科学 (sitemap)
         continue-on-error: true
         run: |

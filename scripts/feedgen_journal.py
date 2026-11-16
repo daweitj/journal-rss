@@ -3,7 +3,7 @@
 """
 feedgen_journal.py —— 通用「期刊/论文站」RSS 生成器
 
-只适用于“无官方 feed + 有 sitemap + 详情页 SSR 带 citation_* 元信息”的站点
+只适用于"无官方 feed + 有 sitemap + 详情页 SSR 带 citation_* 元信息"的站点
 （先用 rss_probe.py 确认）。站别名、sitemap 路径、文章 URL 正则都可配。
 
 用法:
@@ -179,6 +179,12 @@ def main():
             print("跳过", u, str(e)[:60], file=sys.stderr)
     # 按真实发布日排序（sitemap lastmod 可能是批量刷新时间，不能当发布时间）
     items.sort(key=lambda x: (x["dt"] or datetime.min.replace(tzinfo=TZ)), reverse=True)
+    # sitemap lastmod 被批量重建时会把多年前的旧文顶到前排，按最新一篇为基准丢弃过旧条目
+    newest = max((x["dt"] for x in items if x["dt"]), default=None)
+    if newest:
+        cutoff = newest - timedelta(days=540)
+        items = [x for x in items if not x["dt"] or x["dt"] >= cutoff]
+        print(f"按 {cutoff:%Y-%m-%d} 之后过滤，剩余 {len(items)} 条", file=sys.stderr)
     n = build(items, name, a.site, a.out, a.limit, a.self_url)
     print(f"已生成 {a.out}，条目 {n}", file=sys.stderr)
 
