@@ -1,0 +1,90 @@
+name: Update journal RSS feeds
+
+on:
+  schedule:
+    - cron: "0 2 * * *"      # UTC 02:00 = 北京时间 10:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Accounts of Materials Research (Crossref)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_crossref.py \
+            --issn 2643-6728 \
+            --name "Accounts of Materials Research" \
+            --site https://pubs.acs.org/amrcda \
+            --limit 30 \
+            --out feeds/amr.xml \
+            --mailto doubao-rss@users.noreply.github.com
+
+      - name: Chemical Reviews (Crossref)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_crossref.py \
+            --issn 0009-2665 \
+            --name "Chemical Reviews" \
+            --site https://pubs.acs.org/journal/chreay \
+            --limit 30 \
+            --out feeds/chemrev.xml \
+            --mailto doubao-rss@users.noreply.github.com
+
+      - name: 物理学进展 (sitemap)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://pip.nju.edu.cn \
+            --name "物理学进展" \
+            --sitemap "/sitemap-index.xml" \
+            --article-pattern "/CN/abstract/article/" \
+            --limit 25 \
+            --out feeds/physics-progress.xml
+
+      - name: 中国工程科学 (sitemap)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://www.engineering.org.cn \
+            --name "中国工程科学" \
+            --sitemap "/sitemaps/sscae/CN/sitemap-1.xml" \
+            --article-pattern "/sscae/CN/" \
+            --limit 30 \
+            --out feeds/sscae.xml
+
+      - name: 校验产物
+        run: |
+          python - <<'PY'
+          import glob, xml.etree.ElementTree as ET
+          for f in sorted(glob.glob("feeds/*.xml")):
+              r = ET.parse(f).getroot()
+              items = r.findall(".//item")
+              print(f"{f}: {len(items)} 条")
+              assert len(items) > 0, f"{f} 为空"
+          PY
+
+      - name: 提交变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds
+          if git diff --staged --quiet; then
+            echo "没有变化，跳过提交"
+          else
+            git commit -m "chore: update feeds ($(date -u '+%Y-%m-%d %H:%M') UTC)"
+            git push
+          fi
