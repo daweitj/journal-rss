@@ -76,6 +76,17 @@ jobs:
             --limit 30 \
             --out feeds/dyjs.xml
 
+      - name: 化学进展 (sitemap)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://hxjz.magtechjournal.com \
+            --name "化学进展" \
+            --sitemap "/sitemaps/sitemap-index.xml" \
+            --article-pattern "/CN/10.7536/|/CN/10.3724/" \
+            --limit 30 \
+            --out feeds/progchem.xml
+
       - name: 中国工程科学 (sitemap)
         continue-on-error: true
         run: |
