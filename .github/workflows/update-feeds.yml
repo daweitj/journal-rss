@@ -17,10 +17,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # 每本期刊独立一步，continue-on-error 保证单站故障不拖垮整轮
       - name: Accounts of Materials Research (Crossref)
         continue-on-error: true
         run: |
@@ -97,6 +99,39 @@ jobs:
             --article-pattern "/sscae/CN/" \
             --limit 30 \
             --out feeds/sscae.xml
+
+      - name: 功能材料 (列表页)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://www.gncl.cn \
+            --name "功能材料" \
+            --list-url "https://www.gncl.cn/CN/home" \
+            --link-pattern "/CN/10\\." \
+            --limit 30 --workers 5 \
+            --out feeds/gncl.xml
+
+      - name: 材料导报 (列表页)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://www.mater-rep.com \
+            --name "材料导报" \
+            --list-url "https://www.mater-rep.com/CN/1005-023X/home.shtml" \
+            --link-pattern "/CN/10\\." \
+            --limit 30 --workers 5 \
+            --out feeds/mater-rep.xml
+
+      - name: 金属学报 (多期目录)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://www.ams.org.cn \
+            --name "金属学报" \
+            --list-url "https://www.ams.org.cn/CN/0412-1961/home.shtml,https://www.ams.org.cn/CN/Y2026/V62/I10,https://www.ams.org.cn/CN/Y2026/V62/I9,https://www.ams.org.cn/CN/Y2026/V62/I8" \
+            --link-pattern "/CN/10\\." \
+            --limit 30 --workers 6 \
+            --out feeds/ams.xml
 
       - name: 校验产物
         run: |
