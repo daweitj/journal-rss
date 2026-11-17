@@ -5,8 +5,19 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 11:30:15 +0800</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 14:54:44 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Evaluating Generative AI in Chemistry Prelabs: Efficiency Gains without Measurable Learning Benefits</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00496</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00496</guid>
+<description>Abstract The rapid adoption of generative artificial intelligence (AI) tools in higher education has raised questions regarding their impact on students’ information literacy (IL) and cognitive processes. In this study, we investigated how generative AI influences undergraduate students’ performance and perceptions in an inorganic chemistry prelaboratory assignment consisting in gathering and elaborating information relevant to the experiments. Second-year chemistry students completed two prelab tasks: one with generative AI support and one without AI. Students reported that generative AI support significantly reduced time dedicated to prelab elaboration. They also perceived AI-assisted tasks as easier and faster, rated AI-generated information as less clear and precise than traditional sources, and frequently expressed concerns about its reliability. However, no statistically significant differences were observed in instructor-evaluated scores between AI-supported and non-AI prelabs. These results indicate that students predominantly valued AI for efficiency. Interpreted through a Cognitive Load Theory lens, the reduction in time and search effort is consistent with a possible decrease in task-related logistical demands.
+
+作者：Fernández Alberto A.、López-Torres Margarita、Fernández Jesús J.、Vázquez-García Digna | DOI：10.1021/acs.jchemed.6c00496 | 类型：journal-article</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Fernández Alberto A.</dc:creator>
+<category>10.1021/acs.jchemed.6c00496</category>
+</item>
 <item>
 <title>Determining the Structure of the Oxalate Ion in Aqueous Solution: An Upper Division Laboratory Project Using IR Spectroscopy, Raman Spectroscopy, and DFT Calculations</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c00103</link>
@@ -325,17 +336,6 @@
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Kalicheti Charishma</dc:creator>
 <category>10.1021/acs.jchemed.6c01119</category>
-</item>
-<item>
-<title>Discrete and Interlocked Metal–Organic Cages: A Rationally Designed Laboratory Platform for Investigating Self-Assembly and the Conversion of Kinetic to Thermodynamic Supramolecular Complexes</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00687</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00687</guid>
-<description>Abstract In this two-part undergraduate laboratory experiment, students synthesize a bis(pyridyl) ligand and subsequently investigate its coordination-driven self-assembly using nuclear magnetic resonance (NMR) spectroscopy within a problem-based inquiry framework. The reaction of the ligand with palladium(II) ions in acetonitrile at a 2:1 stoichiometric ratio gives rise to two distinct cage architectures: a kinetically favored M2L4 assembly and a thermodynamically stable interlocked M4L8 complex, with their relative distributions governed by reaction conditions. This experiment not only develops essential experimental skills but also reinforces key concepts spanning organic synthesis, coordination chemistry, and chemical thermodynamics. The modular design and operational simplicity make it readily adaptable to a wide range of undergraduate curricula.
-
-作者：Zhu Biying、Ma Zhao、Zhang Junhui、Gan Quan | DOI：10.1021/acs.jchemed.6c00687 | 类型：journal-article</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Zhu Biying</dc:creator>
-<category>10.1021/acs.jchemed.6c00687</category>
 </item>
 </channel>
 </rss>
