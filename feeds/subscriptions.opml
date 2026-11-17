@@ -2,13 +2,14 @@
 <opml version="2.0">
   <head>
     <title>期刊 RSS 订阅源</title>
-    <dateCreated>Tue, 17 Nov 2026 11:26:00 +0800</dateCreated>
+    <dateCreated>Tue, 17 Nov 2026 11:45:00 +0800</dateCreated>
   </head>
   <body>
     <outline text="期刊论文" title="期刊论文">
       <outline type="rss" text="Accounts of Materials Research" title="Accounts of Materials Research" xmlUrl="https://daweitj.github.io/journal-rss/feeds/amr.xml" description="ACS · 每日更新"/>
       <outline type="rss" text="Chemical Reviews" title="Chemical Reviews" xmlUrl="https://daweitj.github.io/journal-rss/feeds/chemrev.xml" description="ACS · 每日更新"/>
       <outline type="rss" text="Journal of Chemical Education" title="Journal of Chemical Education" xmlUrl="https://daweitj.github.io/journal-rss/feeds/jce.xml" description="ACS"/>
+      <outline type="rss" text="Electrochemical Energy Reviews" title="Electrochemical Energy Reviews" xmlUrl="https://link.springer.com/search.rss?facet-journal-id=41918" description="Springer 官方 RSS · 20 条无摘要"/>
       <outline type="rss" text="物理学进展" title="物理学进展" xmlUrl="https://daweitj.github.io/journal-rss/feeds/physics-progress.xml" description="南京大学 · 每日更新"/>
       <outline type="rss" text="电源技术" title="电源技术" xmlUrl="https://daweitj.github.io/journal-rss/feeds/dyjs.xml" description="Magtech"/>
       <outline type="rss" text="化学进展" title="化学进展" xmlUrl="https://daweitj.github.io/journal-rss/feeds/progchem.xml" description="Magtech"/>
