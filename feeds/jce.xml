@@ -5,7 +5,7 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 21:38:21 +0800</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 11:30:15 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
 <title>Determining the Structure of the Oxalate Ion in Aqueous Solution: An Upper Division Laboratory Project Using IR Spectroscopy, Raman Spectroscopy, and DFT Calculations</title>
@@ -17,6 +17,17 @@
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Brubaker Jonathan R.</dc:creator>
 <category>10.1021/acs.jchemed.6c00103</category>
+</item>
+<item>
+<title>The Use of Contact Angle in Conjunction with Dyne Tests: A Multimethod Surface Analysis Approach for Understanding Various Theoretical Concepts for an Upper-Division Undergraduate Course</title>
+<link>https://doi.org/10.1021/acs.jchemed.5c01869</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c01869</guid>
+<description>Abstract Concepts such as surface energy, contact angle, wettability, printability, critical surface tension of a material, etc. are pertinent across various fundamental scientific, engineering, technological, and industrial fields. Such concepts are widely researched, taught, and applied. However, these fundamental concepts at the undergraduate level are partly understood at best even in the well-rounded scientific disciplines. For students in cross-disciplinary domains with diverse and applied educational curricula these concepts can be perplexing. A sequential two-instrument methodology has been applied for hands-on learning of these concepts in an upper-division undergraduate instrumental analysis laboratory course in a polytechnic university, central coast California. Contact angle measurement along with dyne test were used to measure surface energy, contact angle, and wettability. This sequential two-stage material evaluation exercise introduces students to two different test methods utilized for qualitative and quantitative surface energy measurement of various polymers.
+
+作者：Kathuria Ajay、Shin Joongmin | DOI：10.1021/acs.jchemed.5c01869 | 类型：journal-article</description>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Kathuria Ajay</dc:creator>
+<category>10.1021/acs.jchemed.5c01869</category>
 </item>
 <item>
 <title>Using ChatGPT to Support Ninth-Grade Students’ Metaphor Construction in Chemistry and Sustainability</title>
@@ -325,17 +336,6 @@
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Zhu Biying</dc:creator>
 <category>10.1021/acs.jchemed.6c00687</category>
-</item>
-<item>
-<title>Why Cannot Solid Cages Compress Water? A Computational Thermodynamic Activity Linking Hydrogen Storage to Water’s Anomalous Density</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00540</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00540</guid>
-<description>Abstract Core physical chemistry concepts, such as hydrogen bonding, Gibbs free energy, and configurational entropy, rarely appear within a unified pedagogical framework. This article presents an interactive web-based HTML module prompted by a genuine student question: if metal hydrides compress hydrogen, why do crystalline hydrates fail to compress water? The answer is explored through a simplified thermodynamic framework based on ideal configurational mixing entropy. The mathematical limits and maxima of this symmetric pedagogical model provide a unified way to discuss three seemingly disparate macroscopic phenomena: the anomalously low density of ice, the existence of liquid water’s density maximum, and water’s thermodynamic resistance to complete close-packing. Implemented in an upper-division undergraduate Energy Chemistry course (n = 14 enrolled junior chemistry and materials science majors), this 60 min interactive session provided evidence of conceptual gains. To evaluate mechanistic understanding beyond factual recall, student learning was assessed via a rubric-scored preactivity diagnostic and a formative capstone synthesis task. Results indicate a distinct shift in student reasoning, moving away from simple geometric heuristics (like mechanical squeezing) toward rigorous thermodynamic arguments based on Gibbs free energy minimization.
-
-作者：Fang Wenjian、Li Xiaochuan | DOI：10.1021/acs.jchemed.6c00540 | 类型：journal-article</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Fang Wenjian</dc:creator>
-<category>10.1021/acs.jchemed.6c00540</category>
 </item>
 </channel>
 </rss>
