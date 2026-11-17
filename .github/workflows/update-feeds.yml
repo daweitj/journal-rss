@@ -133,6 +133,17 @@ jobs:
             --limit 30 --workers 6 \
             --out feeds/ams.xml
 
+      - name: Electrochemical Energy Reviews (Springer 列表页)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://link.springer.com \
+            --name "Electrochemical Energy Reviews" \
+            --list-url "https://link.springer.com/journal/41918/articles" \
+            --link-pattern "/article/10\\.1007/s41918" \
+            --limit 30 --workers 6 \
+            --out feeds/eer.xml
+
       - name: 校验产物
         run: |
           python - <<'PY'

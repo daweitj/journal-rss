@@ -9,6 +9,7 @@
 | Accounts of Materials Research | https://daweitj.github.io/journal-rss/feeds/amr.xml |
 | Chemical Reviews | https://daweitj.github.io/journal-rss/feeds/chemrev.xml |
 | Journal of Chemical Education | https://daweitj.github.io/journal-rss/feeds/jce.xml |
+| Electrochemical Energy Reviews | https://daweitj.github.io/journal-rss/feeds/eer.xml |
 | 物理学进展 | https://daweitj.github.io/journal-rss/feeds/physics-progress.xml |
 | 中国工程科学 | https://daweitj.github.io/journal-rss/feeds/sscae.xml |
 | 电源技术 | https://daweitj.github.io/journal-rss/feeds/dyjs.xml |
@@ -29,6 +30,7 @@
 - 功能材料：gncl.cn，无 sitemap 可用（索引里的 loc 有拼写错误），改抓首页当期目录 + 文章页 citation 元信息。
 - 材料导报：mater-rep.com，无 sitemap，抓首页当期目录；摘要写在正文里，脚本从“摘要 … 关键词/服务”之间抽取。
 - 金属学报：ams.org.cn，sitemap 分片的 id 与时间不同序，改抓首页 + 近三期期目录。
+- Electrochemical Energy Reviews：Springer 的 search.rss 会 303 到登录页（阅读器报“不包含 RSS 订阅源”），改抓期刊文章列表 + 文章页 citation/dc.description 元信息，摘要齐全。
 
 ## 说明
 
