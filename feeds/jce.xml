@@ -5,7 +5,7 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 14:54:44 +0800</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 18:18:55 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
 <title>Evaluating Generative AI in Chemistry Prelabs: Efficiency Gains without Measurable Learning Benefits</title>
@@ -17,6 +17,28 @@
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Fernández Alberto A.</dc:creator>
 <category>10.1021/acs.jchemed.6c00496</category>
+</item>
+<item>
+<title>Collaborative Interdisciplinary Course-Based Undergraduate Research Experiences (ci-CURE) through Academic and Industry Partnerships</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01038</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01038</guid>
+<description>Abstract The benefits of engaging undergraduates in research have been well documented. Course-based undergraduate research experiences (CUREs) offer a venue to extend the benefits of undergraduate research to a larger and more diverse group of students by making research accessible to all enrolled students and as such making scientific research more inclusive. Moreover, there is a growing recognition within the scientific community of the importance of equipping students with the ability to collaborate effectively in multidisciplinary teams to drive scientific advancement. Herein we report on the implementation of collaborative, interdisciplinary course-based undergraduate research experiences (ci-CURE) with academic and industry partners in an upper-division Measurement Techniques course sequence. Preliminary findings indicate that these collaborative projects were met with consistently positive collaborator feedback, fostered sustained partnerships, with many collaborators returning in subsequent semesters, and in several cases, generated publication-ready data for participating researchers, while also providing students with a positive and impactful learning experience. In addition, survey results revealed that repeated exposure to CUREs across courses supports cumulative gains in student competencies. This collaborative model of undergraduate research has the potential to be replicated and expanded within other chemistry departments seeking to help students see chemistry
+
+作者：Rabah Ghada、Franzen Stefan、Leyva Diana | DOI：10.1021/acs.jchemed.6c01038 | 类型：journal-article</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Rabah Ghada</dc:creator>
+<category>10.1021/acs.jchemed.6c01038</category>
+</item>
+<item>
+<title>Light-up Intracellular Mitochondrial G-Quadruplex Structures: Expanding the Understanding of Atypical Nucleic Acid Structures for Undergraduate Students</title>
+<link>https://doi.org/10.1021/acs.jchemed.5c00767</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c00767</guid>
+<description>Abstract In recent years, many atypical nucleic acid structures have been reported closely associated with the occurrence and development of various diseases. However, many undergraduate students remain largely unfamiliar with these structures. To broaden undergraduates’ understanding and reinforce their comprehension through hands-on practice, we have developed an undergraduate experiment using a fluorescent probe to visualize DNA G-quadruplexes (G4, an atypical nucleic acid structure). This probe features operational simplicity, strong stability, and intuitive visualization, which perfectly aligns with the technical criteria of ″low threshold, high safety, and strong feedback″ for undergraduate experimental teaching. First, using this probe, students can rapidly identify DNA sequences that form G4 structures through fluorescence spectroscopy. Subsequently, students can directly observe G4 structures in mitochondrial DNA (mtG4) of living cells via confocal microscopy, thereby transforming abstract theories of DNA structures into intuitive imaging results. The experimental design and data processing procedures enable students to (a) learn the methodologies for probe performance testing and application research, (b) gain a comprehensive understanding of the structure and function of DNA G-quadruplexes, (c) recognize that molecular probes are powerful tools for addressing a wide range of biological challenges, and (d) stimulate curiosity and innovative thinking, encouraging the
+
+作者：Yu Kang-Kang、Zhou Qian、Wu Chuan-Fang、Liu Yan-Hong、Yu Xiao-Qi、Bao Jin-Ku、Li Kun | DOI：10.1021/acs.jchemed.5c00767 | 类型：journal-article</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Yu Kang-Kang</dc:creator>
+<category>10.1021/acs.jchemed.5c00767</category>
 </item>
 <item>
 <title>Determining the Structure of the Oxalate Ion in Aqueous Solution: An Upper Division Laboratory Project Using IR Spectroscopy, Raman Spectroscopy, and DFT Calculations</title>
@@ -314,28 +336,6 @@
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Hamilton David</dc:creator>
 <category>10.1021/acs.jchemed.5c01690</category>
-</item>
-<item>
-<title>Global Patterns in Learning NMR Spectral Interpretation: Analysis of 1.3 Million Answers Submitted to NMR-Challenge.com</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01446</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01446</guid>
-<description>Abstract Nuclear magnetic resonance (NMR) spectroscopy is a fundamental analytical technique in chemistry education, yet developing proficiency in spectral interpretation requires an extensive amount of practice. Online learning platforms provide opportunities for students to train these skills while simultaneously generating large data sets that can be used to analyze learning behavior. In this study, we analyze more than 1.3 million answers submitted to NMR assignments on the educational Web site NMR-Challenge.com between December 2024 and August 2026. The platform provides assignments at six levels of difficulty involving either one-dimensional (1D) spectra or combinations of 1D and two-dimensional (2D) spectra. Submissions originated from 128 countries, with 61 countries contributing more than 1000 attempts each and accounting for more than 99% of the data set. The majority of submissions (approximately 92%) involved assignments with only 1D spectra. Across these assignments, the overall success rate was 46%, with country-specific success rates ranging from 29% to 54%. The highest overall success rates were observed for the Czech Republic, Hungary, Cameroon, Saudi Arabia, and Vietnam. Attempts to correlate success rates with national indicators revealed only a weak correlation with PISA science scores. The results demonstrate both the global reach of the platform and the potential of large-scale educational data sets to provide insights into the acquisition of practical s
-
-作者：Socha Ondřej、Osifová Zuzana、Dračínský Martin | DOI：10.1021/acs.jchemed.6c01446 | 类型：journal-article</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Socha Ondřej</dc:creator>
-<category>10.1021/acs.jchemed.6c01446</category>
-</item>
-<item>
-<title>Artificial Intelligence Explanations of Organic Reaction Mechanisms Revisited: Improved Accuracy and Sophistication but Persistent Mechanistic Flaws</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01119</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01119</guid>
-<description>Abstract Generative artificial intelligence tools are increasingly used by students to explain chemistry concepts, but their educational value depends on the chemical accuracy and mechanistic quality of the explanations. Prior work found that ChatGPT could produce sophisticated and convincing organic reaction mechanisms that were frequently inaccurate. Using the same mechanism set and prompt-cueing levels as those in an earlier study, this study evaluates how a reasoning-based large language model changes the relationships among response correctness, explanation sophistication, and chemical concept use. ChatGPT o3-mini responses were generated for mechanisms spanning a year-long organic chemistry curriculum and analyzed for response-level accuracy, nucleophile and electrophile explanation sophistication, sentence-level concept use, and qualitative reasoning patterns. Compared with GPT-3.5, o3-mini increased the response-level accuracy from 28% to 79% and produced more sophisticated explanations. However, inaccuracies remained concentrated in aromatic ring and carbonyl mechanisms. Prompt cueing increased the chemical richness and explanation sophistication without improving response-level accuracy. Qualitative analyses showed that sophisticated terminology could mask flawed reasoning: o3-mini applied correct chemical concepts to inappropriate mechanisms, overgeneralized common mechanism patterns, and used advanced terminology in vague or decorative ways. These findings show th
-
-作者：Kalicheti Charishma、Yik Brandon J. | DOI：10.1021/acs.jchemed.6c01119 | 类型：journal-article</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Kalicheti Charishma</dc:creator>
-<category>10.1021/acs.jchemed.6c01119</category>
 </item>
 </channel>
 </rss>
