@@ -5,8 +5,96 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 18:18:55 +0800</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 17:49:47 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>A Practical Guide to RNA NMR Spectral Analysis for Undergraduate Students</title>
+<link>https://doi.org/10.1021/acs.jchemed.5c01543</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c01543</guid>
+<description>Abstract Nuclear magnetic resonance (NMR) spectroscopy is a powerful analytical tool that can be used to determine the structures of both small organic molecules and large biomacromolecules. Many undergraduate students are exposed to NMR spectral analysis during organic chemistry courses, but few students have the opportunity to learn about biomacromolecular NMR spectral analysis. Here, we present a three-part practicum aimed at providing resources for faculty to introduce RNA structure and NMR analysis into existing upper-level courses. Students will begin by predicting an RNA secondary structure using a Web server that uses nearest neighbor parameters to estimate the folding stability. Then, students can verify the secondary structure using 1D NMR data. Students can then learn the iterative process of chemical shift assignments through the concurrent analysis of multiple 2D NMR spectra. Students will also be able to visualize the RNA tertiary structure, allowing them to connect the somewhat abstract NMR spectra with measurable interproton distances. Collectively, these activities are designed to develop representational competence and visual literacy by requiring students to translate between RNA sequence, secondary structure, tertiary structure, and experimental NMR data.
+
+作者：Westwood Megan N.、Steele Sydney M.、Chen Jocelyn V.、Keane Sarah C. | DOI：10.1021/acs.jchemed.5c01543 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Westwood Megan N.</dc:creator>
+<category>10.1021/acs.jchemed.5c01543</category>
+</item>
+<item>
+<title>A Comprehensive Training Course from the Production of Membrane Bound Proteins to Single Particle Cryo-Electron Microscopy 3D Reconstruction</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00208</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00208</guid>
+<description>Abstract Single particle cryo-electron microscopy (cryoEM) has been firmly cemented as a routine technique in structural biology. CryoEM is especially prominent in the 3-dimensional structural study of membrane proteins. As cryoEM has seen high levels of adoption over the last 15 years, there is a great need to provide comprehensive training and a theoretical framework in this technique coupled with the biochemical tools required to purify proteins suitable for cryo-EM experiments. This manuscript details the graduate student rotation program developed for the Australian Research Council (ARC) Industrial Transformation and Training Centre, the Centre for Cryo-electron Microscopy of Membrane Proteins (CCeMMP), to train students in the essential skills required for determination of cryo-EM structures of membrane proteins.
+
+作者：Valimehr Sepideh、Grosas Aidan B.、Piper Sarah J.、Zhang Xin、Georgopoulou Maria Eleni、Ficker Thomas、Rouiller Isabelle、Bouwer James | DOI：10.1021/acs.jchemed.6c00208 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Valimehr Sepideh</dc:creator>
+<category>10.1021/acs.jchemed.6c00208</category>
+</item>
+<item>
+<title>Three Self-Fabricated Energy Conversion Demonstrators Based on Thermoelectric Generators, Hydrogen–Oxygen Fuel Cells, and Voice Recognition Control</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00392</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00392</guid>
+<description>Abstract Chemical reactions and energy conversion are core concepts in secondary school chemistry. Chemical reactions are often accompanied by variations in energy. While energy is omnipresent in daily life, its transmission and conversion processes are intangible, which results in the lack of intuitive experiences of students with these concepts. In this paper, we have designed three chemical energy conversion demonstrators that illustrate the conversion of chemical energy to electrical energy, wind energy, light energy, sound energy, and mechanical energy. The first demonstrator achieves the conversion of chemical energy to electrical energy by leveraging endothermic/exothermic reactions and thermoelectric generators. Additionally, it combines a small fan, a light-emitting diode, and an electronic sound generator to enrich the forms of energy conversion. The conversions of chemical energy to wind energy, to light energy, and to sound energy are illustrated by connecting the thermoelectric generator’s output across a small fan, a light-emitting diode, and an electronic sound generator, respectively. The second demonstrator illustrates the conversion of electrical energy to chemical energy followed by the conversion of chemical energy to mechanical energy by powering a model car with self-fabricated hydrogen–oxygen fuel cells. The maximum travel distance of the vehicle was 50.16 m, with a maximum operating duration of 214.85 s. The third demonstrator, built on the Arduino pla
+
+作者：Fang Lu、Tian Yongsheng、Xu Tianyu、Zhao Xujingtai、Tai Wenqing、Hou Zihui、Wang Yuxin、Qi Chunxia | DOI：10.1021/acs.jchemed.6c00392 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Fang Lu</dc:creator>
+<category>10.1021/acs.jchemed.6c00392</category>
+</item>
+<item>
+<title>ChatGPT as an Instructor’s Assistant for Generating Chemistry Images: A Study Using ChatGPT Images 2.0</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01330</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01330</guid>
+<description>Abstract Generative artificial intelligence tools such as ChatGPT are increasingly being explored as assistants for chemistry instructors, including the preparation of teaching materials. Here, we examined whether ChatGPT, using Images 2.0, can generate scientifically correct images for first-year undergraduate chemistry students, focusing on visual and symbolic representations central to the discipline. A total of 444 images covering six chemistry areas were generated. Short, minimally descriptive prompts were used first; when important errors appeared, more detailed corrective prompts were introduced. We also generated instructional infographics combining several representations to explain chemical concepts. Scientific accuracy depended strongly on image complexity, with simpler orbitals, titration curves, and molecular structures generally performing better than more demanding examples. When the six categories were equally weighted, 43.5% of basic-prompt images, 45.6% of images from corrective prompts, and only 8.3% of instructional infographics were directly usable. Embedded text was generally more accurate than the images. Expert checking therefore remains essential before classroom use.
+
+作者：Fernández Alberto A.、López-Torres Margarita、Fernández Jesús J.、Vázquez-García Digna | DOI：10.1021/acs.jchemed.6c01330 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Fernández Alberto A.</dc:creator>
+<category>10.1021/acs.jchemed.6c01330</category>
+</item>
+<item>
+<title>Gold-Catalyzed Oxidative Esterification: A Case Study to Challenge Students’ Fixed Thinking Pattern</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01171</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01171</guid>
+<description>Abstract Esterification is a cornerstone reaction in chemistry and chemical engineering curricula, typically taught through the Fischer esterification pathway, i.e., the condensation of carboxylic acid with an alcohol to form an ester and water. Students are first exposed to this pathway in high school chemistry, and the concept is reinforced throughout their undergraduate studies, often leading them to develop a fixed thinking pattern that ester synthesis is assumed to proceed exclusively through this route. This work presents a case study designed to challenge this fixed thinking pattern using gold-catalyzed oxidative esterification. In this transformation, alcohols undergo oxidative coupling with O2 to form esters directly, without using carboxylic acid or its derivative as a starting material. For instance, benzyl alcohol self-couples to benzyl benzoate in water with O2 as the oxidant; when methanol is present, cross-coupling occurs to give methyl benzoate. The pedagogical design follows a cognitive conflict framework: students are first asked to identify ester synthesis methods, then are presented with the alternative pathway, and finally are guided to compare the two pathways. Implementation including an informal survey during a chemical engineering laboratory course (the ethyl acetate reactive distillation experiment) showed that students identified Fischer esterification as the default pathway. After the case discussion, students were able to articulate the alternativ
+
+作者：Guo Hongfan、Sun Huajiang、Fan Tianbo | DOI：10.1021/acs.jchemed.6c01171 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Guo Hongfan</dc:creator>
+<category>10.1021/acs.jchemed.6c01171</category>
+</item>
+<item>
+<title>Beyond Point Allocation: Auditing Course-Objective Alignment and Item-Level Performance across a Two-Semester Organic Chemistry Sequence</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01312</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01312</guid>
+<description>Abstract Course-assessment alignment is often judged from a blueprint that shows how many examination points are assigned to each course objective. Such a summary can be reassuring, yet it leaves unanswered what students are actually required to do. This study examined two consecutive final examinations in a 64 h undergraduate organic chemistry course for energy storage engineering majors at a Chinese university. The evidence base combined the official syllabus, examination blueprint, scoring guides, 119 scored subtasks, and regular final-examination records from 84 students in Semester 1 and 83 students in Semester 2. Scored subtasks were coded for course objective, revised-Bloom cognitive demand, organic chemistry task, intended difficulty, and contextual demand; student performance was analyzed at the 38 and 40 parent units for which scores were recorded. Point allocation closely matched the intended 40:60 distribution for Course Objectives 1 and 2 (44:56 and 38:62). In contrast, 99 of 100 points in Semester 1 and all 100 points in Semester 2 could be completed without using production, everyday-life, or engineering context. Item-level results further showed that observed difficulty did not increase monotonically across Bloom categories; several of the lowest score rates occurred on synthesis and selected multistep transformations. The findings show how a layered audit of alignment and student performance can reveal features that point allocation alone does not capture.
+
+作者：Zhao Yuhui、Zheng Xiaojun、Wei Wanguo | DOI：10.1021/acs.jchemed.6c01312 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zhao Yuhui</dc:creator>
+<category>10.1021/acs.jchemed.6c01312</category>
+</item>
+<item>
+<title>Analysis of Chemical Mixtures as a More Authentic Pedagogical Approach to Teaching 1H NMR Spectroscopy in Organic Chemistry Courses</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01419</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01419</guid>
+<description>Abstract A pedagogical resource has been designed to situate the instruction of 1H NMR spectroscopy within a more authentic context through the interpretation of chemical mixtures. By shifting away from traditional “unknown structure elucidation” problems, this approach engages students with spectral data in a manner that more closely reflects genuine chemical practice. Mixture analysis is routinely employed by synthetic chemists to monitor reaction progress and evaluate product purity, thus this methodology provides realistic context for how spectroscopic evidence is used to inform decision-making in a research environment. This resource comprises a database of 1H NMR spectra of mixtures representing a broad range of organic transformations commonly taught in introductory organic courses including aldol condensation, alkene addition, electrophilic aromatic substitution, elimination, esterification, Grignard reactions, oxidation, reduction, reductive amination, and substitution. We illustrate how these materials can be scaffolded throughout the organic chemistry curriculum to align with students’ progressively developing competencies in mixture analysis and NMR interpretation. We also identify common difficulties encountered by students when interpreting chemical mixtures and present survey data indicating that students perceive mixture-based tasks as a more authentic application of spectroscopic data compared to conventional unknown structure elucidation exercises.
+
+作者：Chiu Benjamin S. Y.、Luska Kylie L. | DOI：10.1021/acs.jchemed.6c01419 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Chiu Benjamin S. Y.</dc:creator>
+<category>10.1021/acs.jchemed.6c01419</category>
+</item>
+<item>
+<title>From Ancient Wisdom to Modern Practice: A High-School STEM Activity on Artemisinin Extraction with the Soxhlet Extractor</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01230</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01230</guid>
+<description>Abstract STEM activities that integrate disciplinary knowledge with hands-on practice have gained increasing attention in science education. This study designed a high-school chemistry activity based on the Soxhlet extraction of crude artemisinin, comprising six sequential sessions that guided students through the crude extraction process. Students applied scientific principles by interpreting ancient chemical literature and understanding extraction and testing theories; mastered technological skills through hands-on operation of an extraction apparatus and chemical assays; developed mathematical competence via measuring reagents and calculating yield; and cultivated engineering thinking by designing experimental protocols and industrial production workflows. To evaluate the effectiveness of the activity, we administered a postactivity questionnaire and an achievement test. The results indicated that the activity effectively enhanced students’ conceptual understanding, practical skills, and learning interest, while also promoting interdisciplinary literacy.
+
+作者：Guo Yunqi、Zhao Mengqi、Xue Zhongxin | DOI：10.1021/acs.jchemed.6c01230 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Guo Yunqi</dc:creator>
+<category>10.1021/acs.jchemed.6c01230</category>
+</item>
 <item>
 <title>Evaluating Generative AI in Chemistry Prelabs: Efficiency Gains without Measurable Learning Benefits</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c00496</link>
@@ -17,6 +105,17 @@
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Fernández Alberto A.</dc:creator>
 <category>10.1021/acs.jchemed.6c00496</category>
+</item>
+<item>
+<title>Generative-AI-Assisted Development of Browser-Based Docking Notebooks: A ChatGPT “Vibe Coding” Methodology for Chemistry and Pharmacy Education</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00083</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00083</guid>
+<description>Abstract Molecular docking is widely taught in medicinal chemistry and pharmacy programs, yet student participation is frequently limited by software installation barriers, platform incompatibilities, and uneven access to computational resources. This report describes a generative-AI-assisted (“vibe coding”) methodology in which ChatGPT is used to iteratively draft, refine, and debug Google Colab notebooks that deliver an install-free docking experience through a web browser. Because Colab executes Python in the browser and requires no local setup, the workflow can be run on laptops or mobile devices, supporting equitable access for students. Two notebooks are reported: (i) single-ligand docking to a single receptor with SMILES input, pH-aware structure preparation, autodetection of a docking box from a co-crystallized ligand when present, and student-editable sampling parameters (grid, exhaustiveness, poses, verbosity, seed) and (ii) a library-screening notebook that accepts a SMILES list, prepares ligands in parallel with pH control, executes batch docking, and exports ranked results for analysis. The central educational contribution is not only the notebook itself but a reproducible prompt → code → test loop that enables instructors to construct browser-deployable computational notebooks, which students with minimal coding experience can then run and modify at the parameter level while practicing verification, scientific reasoning, and responsible AI disclosure.
+
+作者：Sayed Ahmed M. | DOI：10.1021/acs.jchemed.6c00083 | 类型：journal-article</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Sayed Ahmed M.</dc:creator>
+<category>10.1021/acs.jchemed.6c00083</category>
 </item>
 <item>
 <title>Collaborative Interdisciplinary Course-Based Undergraduate Research Experiences (ci-CURE) through Academic and Industry Partnerships</title>
@@ -237,105 +336,6 @@
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>del Barrio María Cecilia</dc:creator>
 <category>10.1021/acs.jchemed.6c00363</category>
-</item>
-<item>
-<title>Critical Science, Technology, Society, and Environment (STSE) Teaching Model in the Context of Local Foods: A Case Study on Siraitia grosvenorii</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00190</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00190</guid>
-<description>Abstract Against the backdrop of the transition in science education toward social engagement and ecological justice (Vision III), this study constructed and implemented a four-dimensional integrated STSE (Local Foods) teaching model centered on cultivating critical food literacy through the lens of local food systems. This study conducted preliminary teaching practices on the topic of saccharides in senior high school chemistry, using Siraitia grosvenorii, a characteristic resource of Southwest China, and its core component, mogroside V, as contextual carriers. The model was constructed around two core principles: the local relevance and criticality. In the pedagogical framework design, the model departed from the traditional STSE paradigm by concretizing the environment (E) dimension as the food (F) dimension, which is directly relevant to the daily lives of students. This formed a closed-loop instructional design framework integrating scientific knowledge, technological processes, sociocultural factors, and food health, emphasizing a dynamic interplay rather than linear relationships among the dimensions. In selecting teaching materials, criteria were established for choosing local ingredients that embodied scientific value (e.g., the unique chemical properties of mogroside V), technological value (involving industrial processes such as extraction techniques), sociocultural value (e.g., cultural significance, cultivation practices, and industrialization), and nutritional v
-
-作者：Liu Wenbo、Jiang Zhifu、Zhang Lijun、Jiang Chaoguo、Liao Haibing、Tang Jinjun、Liu Ting | DOI：10.1021/acs.jchemed.6c00190 | 类型：journal-article</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Liu Wenbo</dc:creator>
-<category>10.1021/acs.jchemed.6c00190</category>
-</item>
-<item>
-<title>Lecture-Compatible Lab Session and Associated Homework Assignments to Provide Practical Experience with Design, Setup, and Analysis of RAFT Polymerizations</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00118</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00118</guid>
-<description>Abstract Reversible addition–fragmentation chain transfer (RAFT) is a controlled radical polymerization technique for synthesizing complex, well-defined, low-dispersity polymers in both cutting-edge scientific research and large-scale industrial applications, such as personal care products, pharmaceuticals, electronics, and sustainable materials. The versatility and predictability of RAFT make it a highly effective platform to teach students about controlled polymerization methods and characterization techniques such as nuclear magnetic resonance spectroscopy (NMR) and size exclusion chromatography (SEC). Existing curricula involve 8–12-h protocols in dedicated lab courses or lecture modules, making experience with RAFT less accessible. Here, we present a set of activities that provide practical experience with the design, setup, and analysis of RAFT polymerization exercise, including setup in a single, optional 1-h lab period and three associated homework assignments completed outside of the lab session. These exercises show how modulating the [monomer]:[chain transfer agent (CTA)] and [CTA]:[initiator] ratios impacts polymer molecular weight, conversion, and dispersity. The relevant characterization data, homework assignments, and a video demonstration are provided in the Supporting Information to facilitate experience with RAFT polymerization design, setup, and data analysis for instructors and students in a lecture-based course.
-
-作者：Alimadad Mobina、Go Jerwin Lawrence C.、Mosby Hadley P.、Gourishankar Aditi S.、Bukovic Kelly M.、Letteri Rachel A. | DOI：10.1021/acs.jchemed.6c00118 | 类型：journal-article</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Alimadad Mobina</dc:creator>
-<category>10.1021/acs.jchemed.6c00118</category>
-</item>
-<item>
-<title>Catalytic Hydrolysis of Ammonia Borane: An Integrated Undergraduate Experiment on Hydrogen Production and Utilization</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01163</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01163</guid>
-<description>Abstract Ammonia borane (NH3BH3, AB) is a chemical hydrogen storage material with high hydrogen content, low molecular weight, and good stability. Herein, an undergraduate laboratory experiment was designed for students in materials science, chemical engineering, energy science, and related disciplines to demonstrate H2 production from AB hydrolysis and its application. A Pd/C nanocomposite was employed as a catalyst in the experiment that integrates kinetic analysis with practical utilization. Students first recorded H2-production curves and determined key parameters of turnover frequency and activation energy and then used the generated H2 to power a small fuel-cell car. The entire experiment was completed within approximately 4 h. Through this experiment, students may develop essential experimental skills and gain a systematic understanding of H2 generation from AB hydrolysis and its applications.
-
-作者：Qi Xiaochen、Xiong Yi、Li Jinzhi、Zhang Jun、Yu Huanyu、Li Pengfei、Liu Kun、Zhao Jiang | DOI：10.1021/acs.jchemed.6c01163 | 类型：journal-article</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Qi Xiaochen</dc:creator>
-<category>10.1021/acs.jchemed.6c01163</category>
-</item>
-<item>
-<title>ChemMindLab: An Intelligent Web-Based Platform for the Integrated Development of Computational and AI Thinking</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00954</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00954</guid>
-<description>Abstract AI for Science (AI4S) education has become an important direction in chemistry education as artificial intelligence increasingly shapes the formulation, screening, and validation of molecular and materials problems. ChemMindLab was developed as a web-based instructional platform that uses AI4S-oriented molecular candidate-screening activities to cultivate interdisciplinary learners with both computational and AI thinking. Through two representative instructional activities, the platform introduces students to research practices resembling authentic AI4S materials discovery: comparison of quantum mechanical (QM) calculations with machine-learning-potential (MLP) predictions for a molecular structure, followed by extension to isomeric candidate-set screening. A context-aware large language model (LLM) assistant supports explanation, operational guidance, and troubleshooting. Preliminary classroom use with undergraduate and graduate chemistry students suggests that ChemMindLab can support guided activities based on the two instructional workflows.
-
-作者：Xu Yiming、Dong Hangshuo、Zhang Xingwen | DOI：10.1021/acs.jchemed.6c00954 | 类型：journal-article</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Xu Yiming</dc:creator>
-<category>10.1021/acs.jchemed.6c00954</category>
-</item>
-<item>
-<title>An Inquiry-Driven Introductory Experiment for the Advanced Organic Chemistry Laboratory to Refresh Students on Fundamental Laboratory Techniques</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01288</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01288</guid>
-<description>Abstract Several fundamental organic chemistry laboratory techniques are introduced in the lower-division organic chemistry laboratory courses, and they form the basis for synthetic work students might encounter in future laboratory courses and research experiences. For those going on to take an upper-division organic chemistry laboratory course offering, several semesters may have elapsed since taking the lower-division equivalent. To refresh students on the fundamental techniques, we designed an introductory experiment for the upper-division course involving the open-ended structure elucidation of a trisubstituted benzene derivative. Students receive two samples of a 1:1 w/w mixture of an unknown organic compound and 4-hydroxybenzoic acid. They must purify one sample using acid–base extraction and the other sample using column chromatography, allowing for a comparison of the efficacy and efficiency of each technique. Finally, using data from 1H and 13C nuclear magnetic resonance spectroscopy, infrared spectroscopy, gas chromatography–mass spectrometry, and melting point analysis, they can elucidate the structure of their unknown compound. Based on the results of a written laboratory report, students demonstrated proficiency in identifying the unknown compound and articulating their corresponding deductive logic. Students also found the experiment to be a helpful review of concepts from the lower-division course and beneficial for their success later in the upper-division co
-
-作者：Orr Jackson C.、Howitz William J. | DOI：10.1021/acs.jchemed.6c01288 | 类型：journal-article</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Orr Jackson C.</dc:creator>
-<category>10.1021/acs.jchemed.6c01288</category>
-</item>
-<item>
-<title>Instructor-Developed Web-Based Chemistry Games: Design, Classroom Implementation, and Student Perceptions</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00876</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00876</guid>
-<description>Abstract Course-specific digital learning materials can support engagement with chemical concepts, but their development may require programming expertise and external resources. This Technology Report describes the design, classroom implementation, and preliminary evaluation of two instructor-developed browser-based chemistry games used in an undergraduate analytical chemistry course. A central design principle was to make selected chemical information relevant to decisions during play rather than use chemistry only as quiz content. In Carbon Chain Puzzle, molecular names and formulas can help players anticipate simplified block geometry and plan spatial moves; in Titration Rush, stoichiometry, acid identity, and pKa can inform a coarse-to-fine titrant-addition strategy under a time–accuracy trade-off. Generative-AI-assisted coding supported implementation, while the instructor retained responsibility for chemical validity, instructional aims, gameplay, and final design decisions. A voluntary anonymous survey yielded 27 responses from 72 enrolled students. On a five-point rating scale, mean enjoyment scores were 4.59 and 4.67, and mean perceived-value scores as chemistry learning materials were 4.15 and 4.33 for Carbon Chain Puzzle and Titration Rush, respectively. Auxiliary web analytics documented use but were not treated as measures of conceptual understanding. The study addresses feasibility, student perceptions, and design considerations rather than learning gains, and 
-
-作者：Tonami Hiroyuki | DOI：10.1021/acs.jchemed.6c00876 | 类型：journal-article</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Tonami Hiroyuki</dc:creator>
-<category>10.1021/acs.jchemed.6c00876</category>
-</item>
-<item>
-<title>Changing Pre-university Perceptions in an Undergraduate Inquiry-Based Practical on Electrophilic Aromatic Substitutions</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00908</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00908</guid>
-<description>Abstract Transitioning from pre-university to undergraduate learning presents many opportunities and challenges. These can be most notable within the laboratory environment, where students often have limited practical chemistry experience. The selection of laboratory practical topics is therefore of high importance to build on students’ theoretical knowledge and practical skills. Electrophilic aromatic substitution reactions are prevalent in pre-university and undergraduate courses; however, students often have preconceptions of organic chemistry based on marking scheme “answers” and have misconceptions created through rote-learning. We present an introductory undergraduate practical where students use a guided-inquiry approach to investigate their own scientific hypotheses on the reaction outcome of an electrophilic aromatic substitution while building foundational practical skills.
-
-作者：Forsyth Ewan、Campbell Craig D.、Hancox Charlotte C.、Stewart Malcolm I. | DOI：10.1021/acs.jchemed.6c00908 | 类型：journal-article</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Forsyth Ewan</dc:creator>
-<category>10.1021/acs.jchemed.6c00908</category>
-</item>
-<item>
-<title>Green Synthesis of Ethyl Acetate Catalyzed by Acidic Poly(ionic liquid)s</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00514</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00514</guid>
-<description>Abstract In this study, an acidic poly(ionic liquid)s catalyst was prepared via thermally initiated free-radical copolymerization followed by acidification. For the first time, this catalyst was applied to the synthesis of ethyl acetate in an experimental teaching. Compared with the conventional method using concentrated sulfuric acid, this catalyst is less corrosive, generates fewer byproducts, and can be easily separated and recycled, making the procedure safer and greener-an important advantage for high school and undergraduate chemistry lab settings. The successful synthesis of the catalyst was confirmed by several common characterization techniques. The acid-site density of the catalyst, determined by acid–base neutralization titration, was 0.79 mmol H+ g–1. Product yields were quantified by gas chromatography (GC); the ethyl acetate yield reached 72.2%. This environmentally friendly protocol provides experimental safety; consequently, it enables students to acquire practical experience with contemporary catalytic principles and catalyst reuse strategies. In addition, within the student-facing experimental boundary, the improved experimental procedure is greener and safer than the conventional method, making it more suitable for senior high school and undergraduate chemistry experimental teaching. This protocol may increase students’ interest in chemistry and has potential applicability in chemical experiment courses, chemistry education research, and related areas.
-
-作者：Chen Fei、Zhu Yun、Li Zhongheng、Yang Qian、Qin Li、Zhou Limei | DOI：10.1021/acs.jchemed.6c00514 | 类型：journal-article</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Chen Fei</dc:creator>
-<category>10.1021/acs.jchemed.6c00514</category>
-</item>
-<item>
-<title>Beyond Fixations: A Critical Methodological Review of Chemistry Eye Tracking Research in Higher Education</title>
-<link>https://doi.org/10.1021/acs.jchemed.5c01690</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c01690</guid>
-<description>Abstract This critical methodological review examines how eye tracking methodologies have been employed in chemistry education research and how those methodological decisions shape and constrain the cognitive claims that can be drawn from the resulting data, with a focus on study design, theoretical frameworks, task types, and data analysis measures. We analyzed 33 studies across 16 publication venues, focusing on research investigating undergraduate and/or graduate chemistry student learning. Beyond cataloging methodological trends, we illustrate how methodological decisions may jointly shape and constrain the cognitive claims that can be drawn from eye tracking data. Our analysis indicates that many studies use a limited selection of methodological choices, ones well-suited to identifying where and how long students look but less-equipped to capture how learners integrate and reason through chemical representations over time. We argue that advancing the field requires treating these methodological decisions as interdependent rather than as independently justified defaults, and we outline implications for how future eye tracking research in chemistry education can be designed and interpreted. These insights add to existing literature and aim to guide future research on undergraduate and graduate students’ learning in chemistry toward theoretically informed, context sensitive, and pedagogically relevant applications in chemistry education.
-
-作者：Hamilton David、Langner Axel、Graulich Nicole、Atkinson Molly B. | DOI：10.1021/acs.jchemed.5c01690 | 类型：journal-article</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Hamilton David</dc:creator>
-<category>10.1021/acs.jchemed.5c01690</category>
 </item>
 </channel>
 </rss>

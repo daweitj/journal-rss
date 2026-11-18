@@ -5,8 +5,19 @@
 <link>https://pubs.acs.org/journal/chreay</link>
 <description>Chemical Reviews（ISSN 0009-2665）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 18:18:49 +0800</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 17:49:47 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Vinylcyclopropanes in Rearrangement Reactions</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00544</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00544</guid>
+<description>Abstract Vinylcyclopropanes constitute highly versatile, strained building blocks whose unique reactivity has enabled the development of a broad variety of synthetically valuable rearrangement and cycloisomerization processes. Over more than six decades of development, vinylcyclopropane chemistry has undergone remarkable evolution, particularly in recent years. Accordingly, these transformations have emerged as powerful tools for the generation of molecular complexity through strain-release-driven reaction manifolds involving both homolytic and heterolytic bond-cleavage mechanistic pathways. This Review provides a comprehensive account of the current state of the art in vinylcyclopropane rearrangement chemistry, with particular emphasis on the mechanistic principles governing these transformations and on their synthetic applications in modern organic synthesis. The different rearrangement modes accessible to vinylcyclopropane derivatives are discussed, including stereomutation processes, vinylcyclopropane-cyclopentene rearrangements, divinylcyclopropane-cycloheptadiene rearrangements, vinylcyclopropane-to-skipped-1,4-diene rearrangements, and cycloisomerization reactions involving specifically functionalized vinylcyclopropane substrates. Particular attention is devoted to the influence of substrate structure, stereochemical features, catalyst design, and thermodynamic and kinetic factors on reaction outcome, in terms of efficiency and selectivity. The broad applicability of t
+
+作者：Carrillo Luisa、Reyes Efraím、Uria Uxue、Prieto Liher、Vicario Jose L. | DOI：10.1021/acs.chemrev.6c00544 | 类型：journal-article</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Carrillo Luisa</dc:creator>
+<category>10.1021/acs.chemrev.6c00544</category>
+</item>
 <item>
 <title>Transition-Metal-Catalyzed Multicomponent Cycloadditions</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00445</link>
@@ -325,17 +336,6 @@
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
 <dc:creator>Zuo Yize</dc:creator>
 <category>10.1021/acs.chemrev.6c00549</category>
-</item>
-<item>
-<title>Emerging Conversion Chemistry for High-Energy Electrolytic Zinc–Manganese Batteries: Beyond Intercalation</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00438</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00438</guid>
-<description>Abstract Aqueous zinc–manganese batteries (ZMBs) represent a compelling solution for grid-scale energy storage due to their low cost, inherent safety, and ease of manufacturing. However, conventional ion-intercalation ZMBs (IZMBs) are often hindered by bottlenecks such as limited energy density and poor cycling stability. Recently, electrolytic ZMBs (EZMBs), based on the two-electron Mn2+/MnO2 deposition–dissolution chemistry, have emerged with high operating voltages (∼1.99 V) and exceptional theoretical capacities (616 mAh g–1), paving a new way for performance breakthroughs in high-energy aqueous batteries. This review provides a deep dive into the mechanistic divergence between IZMBs and EZMBs, clarifying the core significance of EZMBs in enhancing energy density, longevity, and cost efficiency. By deconstructing critical challenges across cathode conversion, zinc anode interfaces, and electrolyte environments, we synthesize recent breakthroughs in cathode modification, anode protection, and electrolyte engineering to establish a unified design framework for high-performance EZMBs. Furthermore, this review identifies emerging opportunities and future research directions, aiming to provide systematic theoretical guidance and design inspiration for the development of next-generation, high-energy-density, and long-life EZMBs.
-
-作者：Shao Zhipeng、Meng Yu、Xie Yucheng、Wei Lei、Yao Yagang、Zhang Qichong | DOI：10.1021/acs.chemrev.6c00438 | 类型：journal-article</description>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
-<dc:creator>Shao Zhipeng</dc:creator>
-<category>10.1021/acs.chemrev.6c00438</category>
 </item>
 </channel>
 </rss>
