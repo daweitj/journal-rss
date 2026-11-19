@@ -5,8 +5,30 @@
 <link>https://pubs.acs.org/amrcda</link>
 <description>Accounts of Materials Research（ISSN 2643-6728）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 17:49:46 +0800</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 17:57:51 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>One-Dimensional Organic Polynanomers: Design, Synthesis, Properties, and Applications</title>
+<link>https://doi.org/10.1021/accountsmr.6c00263</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00263</guid>
+<description>Conspectus π-Conjugated polymers (π-CPs) have emerged as promising candidates for next-generation semiconductors, following four generations of inorganic semiconductors and driven by rapid advances in flexible electronics. Since the discovery of conducting polymers in 1977, they have become foundational active materials for plastic electronics, enabling applications in light-emitting diodes, lasers, solar cells, and transistor circuits for sensing, computing, and actuation. However, polymer light-emitting diodes (PLEDs) have not been commercialized, whereas organic light-emitting diodes (OLEDs) based on molecular emitters have captured a substantial market share. Moreover, organic polymer solar cells face intense competition from perovskite solar cells, while polymer-based systems for perception, memory and computing, actuation, and telecommunication remain largely at the fundamental research stage. The convergence of organic chemistry, polymer chemistry, supramolecular chemistry, and colloid chemistry has established organic nanoscience and technology as a unified frontier, providing robust methodologies to overcome existing limitations in reshaping π-conjugated polymers and improving their device functionality and performance. In this context, we have developed a revolutionary strategy of gridization and polygridization of organic compounds, a covalent assembly approach that transforms discrete conjugated nanoatoms and nanomolecules into soluble organic nanopolymers (also t
+
+作者：Li Hao、Yu Mengna、Feng Quanyou、Liu Feng、Xie Linghai、Huang Wei | DOI：10.1021/accountsmr.6c00263 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Li Hao</dc:creator>
+<category>10.1021/accountsmr.6c00263</category>
+</item>
+<item>
+<title>Bottlebrush Elastomers: A New Frontier in Light-Based Additive Manufacturing</title>
+<link>https://doi.org/10.1021/accountsmr.6c00274</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00274</guid>
+<description>
+
+作者：Wang Shufen、Bao Yinyin | DOI：10.1021/accountsmr.6c00274 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Wang Shufen</dc:creator>
+<category>10.1021/accountsmr.6c00274</category>
+</item>
 <item>
 <title>Defect Passivation in Perovskite Solar Cells: From Trap Suppression to Stable Interfaces</title>
 <link>https://doi.org/10.1021/accountsmr.5c00163</link>
@@ -314,28 +336,6 @@
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
 <dc:creator>Ji Yanjun</dc:creator>
 <category>10.1021/accountsmr.6c00185</category>
-</item>
-<item>
-<title>DC Arc Plasma Jet CVD of Diamond Materials: A Journey from Laboratory to Industrial Applications</title>
-<link>https://doi.org/10.1021/accountsmr.6c00163</link>
-<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00163</guid>
-<description>Conspectus Diamond possesses a unique combination of ultrahigh hardness, exceptional thermal conductivity, broadband optical transparency, and a high critical breakdown field and is regarded as the ultimate semiconductor material. Among various chemical vapor deposition (CVD) techniques for diamond synthesis, direct current (DC) arc plasma jet CVD stands out for its ultrahigh plasma density and gas temperatures (∼10,000 K), enabling the rapid, controlled growth of high-quality (up to optical-grade), large-size diamond films. Combined with its relatively low equipment cost, this technology is well-suited to the demands of industry. Early DC arc plasma jet CVD systems are limited by intrinsic equipment constraints, confining the technique to laboratory studies. Sustained efforts by research teams at the University of Science and Technology Beijing have since overcome key technical bottlenecks. A high-power DC arc plasma torch with rotating arc-root technology and a semi-closed gas circulation system enables cost-effective growth of large-area diamond materials. Moreover, stress accumulation remains a critical challenge during diamond deposition, particularly for large-area films, often leading to cracking. To mitigate this issue, composite substrates have been developed to facilitate controlled interfacial separation after growth, yielding free-standing diamond films up to 150 mm in diameter. To further extend diamond size, a 150 kW DC arc plasma jet CVD system with a dual-leve
-
-作者：Zheng Liping、Li Chengming、Chen Liangxian、Wei Junjun、Liu Jinlong、Ouyang Xiaoping、Lu Fanxiu | DOI：10.1021/accountsmr.6c00163 | 类型：journal-article</description>
-<pubDate>Sat, 26 Sep 2026 00:00:00 +0800</pubDate>
-<dc:creator>Zheng Liping</dc:creator>
-<category>10.1021/accountsmr.6c00163</category>
-</item>
-<item>
-<title>Closing the Gap: Multiresonant TADF Emitters and TADF Dendrimers in Solution-Processed OLEDs</title>
-<link>https://doi.org/10.1021/accountsmr.6c00190</link>
-<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00190</guid>
-<description>Conspectus Organic light-emitting diodes (OLEDs) have become a cornerstone technology in modern displays, yet their dominant manufacturing route, vacuum deposition (VD), remains cost-intensive and intrinsically wasteful. Solution processing (SP) offers an attractive alternative because it enables high-throughput fabrication, reduced material loss, and compatibility with large-area and flexible substrates. Organic thermally activated delayed fluorescence (TADF) emitters are uniquely positioned for SP-OLEDs, as they can harvest both singlet and triplet excitons, providing a route to near-unity device internal quantum efficiency, without the need for scarce heavy metals. The key challenge, however, is that the performance of SP TADF OLEDs still lags behind VD devices in both maximum external quantum efficiency and efficiency roll-off. These performance gaps originate from SP-specific constraints such as unoptimized film morphology, aggregation-caused quenching (ACQ), limited control over transition dipole orientation, and charge imbalance in multilayer stacks. Consequently, closing the VD–SP performance divide requires coordinated progress in molecular engineering and device engineering. This Account summarizes recent materials-design strategies for high-performance SP TADF OLEDs, with emphasis on multiresonant TADF (MR-TADF) emitters and TADF dendrimers. Small-molecule donor–acceptor (D-A) TADF emitters, though compatible for SP-OLEDs, often show broad emission resulting from t
-
-作者：Fatahi Mahni、Zysman-Colman Eli | DOI：10.1021/accountsmr.6c00190 | 类型：journal-article</description>
-<pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
-<dc:creator>Fatahi Mahni</dc:creator>
-<category>10.1021/accountsmr.6c00190</category>
 </item>
 </channel>
 </rss>

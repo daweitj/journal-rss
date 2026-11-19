@@ -5,8 +5,41 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 17:49:47 +0800</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 17:57:52 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Smartphone-Based Simulated Photometer for Teaching Spectrophotometry Using AI-Assisted Tools</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00536</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00536</guid>
+<description>Abstract This study proposes an approach that uses generative artificial intelligence (AI) to develop a web application capable of interfacing with a smartphone camera and performing quantitative RGB-based chemical measurements. Using this method, students can readily convert their own smartphones into simple photometers for immediate use in the classroom. With teacher guidance, students employ AI agents to create HTML files that activate the smartphone camera and extract RGB values from captured images, converting light intensity measurements into absorbance data. Unlike conventional commercial software, which is generally immutable and operates as a closed system, this approach enables students to develop customized simulated photometers based on their unique design concepts by manipulating AI prompt inputs. By employing this approach, students are able to rapidly configure a simulated spectrophotometer utilizing solely their smartphones within the classroom environment, without the need for any additional external equipment, thereby enabling them to perform a range of simulated spectrophotometric experiments. By actively participating in the design of a simulated photometer and directly observing its operational process during hands-on manipulation, students can achieve a deeper understanding of the fundamental mechanisms and essential principles underlying spectrophotometry. Furthermore, this generative AI-based approach can also be applied to smartphone colorimetry, enab
+
+作者：Huang Liqiang | DOI：10.1021/acs.jchemed.6c00536 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Huang Liqiang</dc:creator>
+<category>10.1021/acs.jchemed.6c00536</category>
+</item>
+<item>
+<title>Mathematics Preparation, Intrinsic Motivation, Self-Efficacy, and Achievement in General Chemistry II: A Structural Equation Modeling Study</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01034</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01034</guid>
+<description>Abstract Introductory chemistry often functions as a gateway course for students pursuing STEM majors and science-related careers. Although mathematics preparation and self-efficacy are well-established predictors of general chemistry achievement, less is known about how these factors operate together with intrinsic motivation and about which types of intrinsic motivation are most closely linked to students’ self-efficacy. Guided by social cognitive theory and self-determination theory, this study used latent-variable structural equation modeling to examine how mathematics preparation, intrinsic motivation, and self-efficacy explained the lecture grades of 299 students in a General Chemistry II course. The full model fit the data well and fit better than a restricted model that removed the path from intrinsic motivation to self-efficacy. Self-efficacy and mathematics preparation directly predicted lecture grades, and the model explained 22% of their variance, whereas intrinsic motivation was associated with achievement only indirectly, through its strong association with self-efficacy. Among the three types of intrinsic motivation, intrinsic motivation to accomplish was most strongly correlated with self-efficacy. These results suggest that intrinsic motivation may influence chemistry achievement mainly by strengthening students’ confidence in their ability to succeed, and that instructional supports should pair quantitative preparation with learning experiences that build st
+
+作者：Liu Yujuan | DOI：10.1021/acs.jchemed.6c01034 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Liu Yujuan</dc:creator>
+<category>10.1021/acs.jchemed.6c01034</category>
+</item>
+<item>
+<title>Teaching the Periodic Table to Ninth-Grade Students through Game-Based Learning and a Contextualized Science–Technology–Society–Environment Approach</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00751</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00751</guid>
+<description>Abstract Chemistry is often perceived as a challenging subject due to its abstract nature, particularly in topics such as the Periodic Table, where students frequently struggle with chemical symbolism and conceptual understanding. This study examined how a structured instructional approach combining teacher-led instruction, a contextualized Science–Technology–Society–Environment (STSE) perspective, and game-based activities supported ninth-grade students’ learning of the Periodic Table, motivation, and perceived skill development. The intervention included a contextualized text (“Chemical Elements and the Brain”), digital quizzes using Kahoot, and a teacher-designed board game (Tab2Elementar). The study involved 20 students and adopted a single-group exploratory mixed-methods design without a control group, combining quantitative data from pre- and post-tests with qualitative data from interviews, students’ written reflections, and classroom observations. Results indicate an overall improvement in students’ performance, with most students achieving medium normalized gains and showing progress in key curriculum-related learning outcomes concerning the Periodic Table, including the identification of groups 1, 2, 17, and 18, the distinction between metals and nonmetals, and the role of chemical elements in the human body. Qualitative findings revealed increased motivation, engagement, and perceived learning, with students highlighting the value of collaborative discussion and co
+
+作者：Jesus Susana、Saúde Isabel、Morais Carla | DOI：10.1021/acs.jchemed.6c00751 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Jesus Susana</dc:creator>
+<category>10.1021/acs.jchemed.6c00751</category>
+</item>
 <item>
 <title>A Practical Guide to RNA NMR Spectral Analysis for Undergraduate Students</title>
 <link>https://doi.org/10.1021/acs.jchemed.5c01543</link>
@@ -17,6 +50,28 @@
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Westwood Megan N.</dc:creator>
 <category>10.1021/acs.jchemed.5c01543</category>
+</item>
+<item>
+<title>Divergent Pathways in Transacetalization Reactions of meso -Hydrobenzoin with Formaldehyde Diethyl Acetal, Acetaldehyde Diethyl Acetal, and Acetone Dimethyl Acetal: A Comparative Study Using NMR Spectroscopy</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01368</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01368</guid>
+<description>Abstract The separate acid-catalyzed reactions of meso-hydrobenzoin at room temperature with molar excesses of three analogous acetals─formaldehyde diethyl acetal, acetaldehyde diethyl acetal, and acetone dimethyl acetal─were performed by three groups of students, with each group employing a different acetal. Students discovered that NMR spectral analysis of products from the reactions of meso-hydrobenzoin with the acetals of acetaldehyde and acetone indicated formation of the expected corresponding cyclic acetals (1,3-dioxolanes) via transacetalization; however, they found that reaction of meso-hydrobenzoin with the acetal of formaldehyde yielded the corresponding acyclic bis(ethoxymethyl) ether derivative. Students were asked to rationalize these divergent outcomes based on the relative stabilities of the resonance-stabilized oxocarbenium ion intermediates involved in the mechanisms of these reactions.
+
+作者：Saba Shahrokh、Ciaccio James A.、Batista Lily | DOI：10.1021/acs.jchemed.6c01368 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Saba Shahrokh</dc:creator>
+<category>10.1021/acs.jchemed.6c01368</category>
+</item>
+<item>
+<title>Hands-On Biosensor Construction with Polyphenol Oxidase: A Gateway to Interdisciplinary STEM Learning</title>
+<link>https://doi.org/10.1021/acs.jchemed.5c01171</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c01171</guid>
+<description>Abstract Biosensor development stands among the most dynamic and promising areas of contemporary scientific research, driven by its ability to deliver rapid, specific, and highly sensitive responses in analytically demanding contexts. For engineering undergraduates, exploring biochemical applications fosters the integration of knowledge across disciplines, enhancing their capacity to address complex real-world challenges. Such experiences are instrumental in shaping scientific, technical, and problem-solving skills essential to their future professional practice. This progress exerts a significant impact on critical domains such as healthcare, food safety, protection, pharmacology, biotechnology, and biosafety, among others. This laboratory activity focuses on the development of a biosensor for detecting phenolic compounds, employing tyrosinase as a bioreceptor through the catalytic oxidation of the target substrate. The enzymatic reaction is monitored in real-time using a light-dependent resistor (LDR) integrated with an Arduino Uno board. Once programmed, the system identifies the presence of phenolic compounds by measuring variations in light intensity generated by the redox reaction catalyzed by purified and immobilized tyrosinase. This activity highlights the advantages of using a purified enzyme immobilized in a biopolymer matrix to develop a biosensor for detecting and quantifying phenolic compounds. It offers undergraduates hands-on experience integrating skills in da
+
+作者：Sampaio Pedro、Fernandes Pedro | DOI：10.1021/acs.jchemed.5c01171 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Sampaio Pedro</dc:creator>
+<category>10.1021/acs.jchemed.5c01171</category>
 </item>
 <item>
 <title>A Comprehensive Training Course from the Production of Membrane Bound Proteins to Single Particle Cryo-Electron Microscopy 3D Reconstruction</title>
@@ -94,6 +149,17 @@
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Guo Yunqi</dc:creator>
 <category>10.1021/acs.jchemed.6c01230</category>
+</item>
+<item>
+<title>From Carbon Dots to Food Freshness Indication: A Research-Inspired Undergraduate Laboratory Integrating Fluorescence Spectroscopy and Food Spoilage Chemistry</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01193</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01193</guid>
+<description>Abstract Research-inspired laboratory experiences can help students connect molecular structure, spectroscopic behavior, and decisions made during real-sample analysis. In this 12 h upper-division experiment, fourth-year Pharmaceutical Engineering students used instructor-prepared nitrogen-doped carbon quantum dots (Clus-CQDs) as a pH-responsive fluorescent material for qualitative, storage-associated freshness indication in real food samples. Students recorded Fourier transform infrared and fluorescence spectra and interpreted instructor-provided transmission electron microscopy/high-resolution transmission electron microscopy and X-ray photoelectron spectroscopy data. They then compared excitation- and solvent-dependent emission, related the pH-dependent fluorescence response to plausible protonation and deprotonation of surface groups, and examined responses to four representative spoilage-associated biogenic amines and to three protein-rich foods. The sequence from structural evidence to optical properties and then to application required students to distinguish a pH-dependent fluorescence response from analyte-specific recognition and to identify food-matrix and imaging factors that limit interpretation. The experiment was piloted with 18 students in three groups; paired pre- and postlab concept-question responses were retained for five students and are reported as descriptive evidence of student reasoning. The experiment is adaptable for advanced courses in analytical c
+
+作者：Wang Nan、Hu Zu-e、Lan Guo-xiang、Mao Hua-feng、Wu Yu、Yu Xiao-qi | DOI：10.1021/acs.jchemed.6c01193 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Wang Nan</dc:creator>
+<category>10.1021/acs.jchemed.6c01193</category>
 </item>
 <item>
 <title>Evaluating Generative AI in Chemistry Prelabs: Efficiency Gains without Measurable Learning Benefits</title>
@@ -270,72 +336,6 @@
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Liu Helei</dc:creator>
 <category>10.1021/acs.jchemed.5c01471</category>
-</item>
-<item>
-<title>Ligand-Binding Right out of the Gate in a Biochemistry Laboratory Course: Metal Binding to a Model Chromophore at Variable pH</title>
-<link>https://doi.org/10.1021/acs.jchemed.5c01813</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c01813</guid>
-<description>Abstract We have developed an introductory, biochemistry laboratory module investigating the pH and metal-dependent binding of divalent metals to the model chromophore 8-hydroxyquinoline-5-sulfonic acid (HQS). Over 3 weeks, students first measure shifts in HQS absorbance versus two metals at multiple pHs, then construct and interpret binding isotherms, and finally test follow-up hypotheses with an expanded set of metals and pHs. The student learning objectives of this laboratory module are 3-fold: (1) practice essential laboratory skills (microplate analysis, pipetting, dilutions, instrument operation, nonlinear regression, error analysis, and graphic presentation), (2) reinforce introductory biochemistry material (buffers, pH, pKa’s, intermolecular forces, and equilibrium constants), and (3) introduce equilibrium ligand binding (Kd, binding isotherms, quantitative comparisons). Assessment of student results from two laboratory assignments confirms reproducible development of essential laboratory skills with improvement in pipetting, graph and table preparation, and hypothesis generation over the 3 weeks. After lab completion, students can also successfully plot and interpret binding isotherms and the relationship between Kd values and binding affinity. Depending on available time, this laboratory can be run in 1, 2, or 3 weeks, shifting from lower levels of inquiry to greater student independence. With its low time commitment, nonspecialized laboratory equipment, adaptabilit
-
-作者：Johnson R. Jeremy、Macbeth Mark R.、Hoops Geoffrey C. | DOI：10.1021/acs.jchemed.5c01813 | 类型：journal-article</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Johnson R. Jeremy</dc:creator>
-<category>10.1021/acs.jchemed.5c01813</category>
-</item>
-<item>
-<title>A CURE in Oxygen Bomb Calorimetry to Raise Food Awareness and Build Scientific Work Skills</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01587</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01587</guid>
-<description>Abstract In this Course Undergraduate Research Experience (CURE), upper division chemistry and environmental science students in a South Texas public university engaged in a student-driven experiment that allowed them to explore the calorific values (Hg) of different food-derived fuels (e.g., crab shells, fruit peels, wood shavings, artificial sweeteners, herbal teas, and snacks). All student learning objectives (SLOs) were successfully accomplished by enhancing (1) the understanding of the thermodynamics of fuel combustion, (2) the basic and in-depth instrumentation skills in oxygen bomb calorimetry, and (3) the understanding of the scientific method facilitating new research discoveries and training of a qualified workforce in STEM. This one-semester-long pilot study complemented the traditional 2-week-long learning experience in Physical Chemistry foundational courses and brought additional personal gains (attitude, identity, and persistence in STEM) and professional growth (advanced instrumentation, problem solving, and critical thinking). These outcomes were evaluated through student interviews, entry and exit surveys, class discussions, assignments, literature data, and instructor observations. Overall, this CURE was very well received by the students, who addressed meaningful research questions and new hypotheses focusing on food awareness and food waste repurpose for ecofriendly, sustainable agriculture (e.g., wood shavings and fruit peels as “brown” and “green” compo
-
-作者：Barrientos Mazzy Y.、Leeton Brock M.、Reyes Ivan、Marr-Lyon Leah、Hall Emily R.、Reyna Lauren G.、Adams Daniel G.、Zvoch Keith | DOI：10.1021/acs.jchemed.6c01587 | 类型：journal-article</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Barrientos Mazzy Y.</dc:creator>
-<category>10.1021/acs.jchemed.6c01587</category>
-</item>
-<item>
-<title>The Implicit Chemistry of TikTok: How Everyday Videos Embed Chemical Thinking</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00311</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00311</guid>
-<description>Abstract Chemistry is deeply embedded in everyday discussions of health, nutrition, wellness, and consumer products, yet little is known about the nature of the chemical thinking present in popular social media content. This study analyzes 40 TikTok videos that invoke chemical substances or processes without being designed as chemistry instruction. Using the multifaceted chemical thinking framework, we characterized the granularity (from macroscopic phenomena to finer levels of granularity), basis (rule-, case-, or model-based), and mode (noncausal and causal) of the chemical rationales presented. We also examined the communicative functions that chemical ideas serve within these videos. Results reveal that chemical concepts are frequently mobilized to justify recommendations or enhance credibility. Explanations rely on simple causal structures and selective references to finer-grained entities and processes, with mechanistic reasoning varying in depth. These findings illuminate how chemistry circulates in vernacular digital discourse and suggest opportunities for engaging students in critical reflection about chemical reasoning, epistemic authority, and the role of chemistry in everyday media environments.
-
-作者：Talanquer Vicente | DOI：10.1021/acs.jchemed.6c00311 | 类型：journal-article</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Talanquer Vicente</dc:creator>
-<category>10.1021/acs.jchemed.6c00311</category>
-</item>
-<item>
-<title>Visualizing Chemical Principles Using Interactive Python Modules</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01185</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01185</guid>
-<description>Abstract The translation of chemical principles into visual data is essential for helping students to understand how these principles apply in diverse contexts. This is especially important at the freshman level where students are broadly unfamiliar with the principles of chemistry. In this paper, a variety of Python-based modules using only widely available and well-documented Python packages are introduced to assist instructors with making visual representations of data related to a wide variety of chemical concepts. These modules also allow for rapid on-the-fly generation of graphical examples and problems both in and out of the classroom. These modules are written with ease of use and robustness in mind to facilitate use by either students or instructors.
-
-作者：Clos Lindsay、Smith Katherine、Hanson Matthew D. | DOI：10.1021/acs.jchemed.6c01185 | 类型：journal-article</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Clos Lindsay</dc:creator>
-<category>10.1021/acs.jchemed.6c01185</category>
-</item>
-<item>
-<title>From Sequence to Structure: A Course-Based Undergraduate Research Experience in Protein Biochemistry</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00683</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00683</guid>
-<description>Abstract A bioinformatics-driven course-based undergraduate research experience (CURE) project was developed and implemented in an upper-level biochemistry course to address the need for an accessible, lecture-based framework that integrates contemporary computational protein analysis into undergraduate biochemistry education. Students predicted the physicochemical and structural properties of uncharacterized, putative antimicrobial peptides using freely accessible databases, software, and web-based servers, including GenBank and UniProt databases, ExPASy ProtParam, SWISS-MODEL, AlphaFold 3, and PyMOL. Students were asked to identify key molecular features, formulate hypotheses to inform subsequent purification and functional investigations, and present their outputs in abstract, poster, and video formats. Student perceptions of learning and skill development were collected using a Likert scale survey and open-ended feedback. Strong perceived learning gains were highlighted by the Likert scale data, while positive learning experiences and skill development were prominent themes captured in the qualitative feedback. Group dynamics emerged as an important factor influencing the student experience, with both positive and negative perspectives reported. Altogether, the overall feedback was positive, showcasing that the CURE enhanced students’ understanding of protein biochemistry while developing computational, analytical, and scientific communication skills. Lastly, the CURE pro
-
-作者：Acedo Jeella Z.、Caldo Kristian Mark P. | DOI：10.1021/acs.jchemed.6c00683 | 类型：journal-article</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Acedo Jeella Z.</dc:creator>
-<category>10.1021/acs.jchemed.6c00683</category>
-</item>
-<item>
-<title>From Theory To Practice: Understanding de Gennes’ Scaling Laws By Measuring Polyelectrolyte Viscosity</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00363</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00363</guid>
-<description>Abstract Connecting macroscopic measurements with molecular-level interactions is central to physicochemical education and underlies the interpretation of polymer solution behavior. Although implemented in a final-year undergraduate physics course, this experiment illustrates how chemical concepts can be effectively introduced in interdisciplinary contexts. Here, we present a laboratory experiment designed to allow undergraduate students to explore the viscosity of polymer solutions across different concentration regimes. Using PDADMAC as a model polyelectrolyte, students examine how polymer concentration and ionic strength influence viscosity through electrostatic interactions. By varying salt conditions, the activity provides a clear chemical framework for interpreting the role of intermolecular forces in solution behavior. The experiment allows students to analyze experimental data in light of scaling relationships and to relate these trends to the polymer’s conformation in solution. The experimental results are consistent with the expected scaling behavior, supporting the interpretation of viscosity in terms of polymer conformation and intermolecular interactions. As ionic strength increases, a progressive transition from polyelectrolyte to neutral polymer behavior is observed, consistent with electrostatic screening effects. The activity also makes abstract physicochemical concepts accessible through direct observation and measurement, while also providing opportunities 
-
-作者：del Barrio María Cecilia、Fernández Leyes Marcos、Lencina María M. Soledad、Fernández Acuña Jaqueline、Sánchez Morales Jhon F.、Ritacco Hernán | DOI：10.1021/acs.jchemed.6c00363 | 类型：journal-article</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>del Barrio María Cecilia</dc:creator>
-<category>10.1021/acs.jchemed.6c00363</category>
 </item>
 </channel>
 </rss>

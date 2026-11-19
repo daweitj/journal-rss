@@ -5,8 +5,30 @@
 <link>https://pubs.acs.org/journal/chreay</link>
 <description>Chemical Reviews（ISSN 0009-2665）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 17:49:47 +0800</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 17:57:52 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Toward a Deeper Understanding of Single-Atom Catalysis</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00408</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00408</guid>
+<description>Abstract Single-atom catalysts (SACs) promise control of heterogeneous reactivity at a molecular level by maximizing metal utilization and enabling deliberate tuning of local coordination and microenvironment. Yet SACs expose a central challenge in modern catalysis: the catalytically relevant site is often a working-state ensemble whose coordination, charge, spin state, adsorbate binding, and environment evolve under operating conditions. As the field expands toward bimetallic motifs, atom pairs, and hybrid SAC–nanoparticle architectures, multiple site families can coexist and interconvert. This complicates unambiguous site assignment and limits general structure–property relationships. This Review offers a critical mechanistic perspective on the use of single atoms in thermal catalysis, electrocatalysis, and photocatalysis. We first summarize stabilization strategies for host matrices, emphasizing how anchoring motifs and microenvironments govern site identity and its evolution. We then develop an evidence-based approach to site assignment that treats characterization as hypothesis testing and clarifies what can and cannot be concluded regarding coordination, electronic structure, site density, and working-state identity. Finally, we connect recurring descriptors to reactivity, selectivity, and durability. We thereby highlight benchmarking techniques, site-retention metrics, and durability protocols. The goals are reliable comparison of results across studies and the transit
+
+作者：Zdražil Lukáš、Bad’ura Zdeněk、Panáček David、Zdražil Jan、Zoppellaro Giorgio、Hrubý Vítězslav、Langer Michal、Lazar Petr | DOI：10.1021/acs.chemrev.6c00408 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zdražil Lukáš</dc:creator>
+<category>10.1021/acs.chemrev.6c00408</category>
+</item>
+<item>
+<title>Manufacturing Halide Perovskite PV: Considerations To Enable Wide-Scale Deployment</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00252</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00252</guid>
+<description>Abstract Perovskite photovoltaic (PV) technologies have witnessed rapid progress during the past decade and are rapidly approaching the stage of commercialization. With small-area perovskite solar cells rapidly overtaking many conventional PV technology records, scaling and material stability have become roadblocks to commercialization. Wide-scale market adoption of perovskite-based PV technologies can only be achieved when key challenges for all three pillars of efficiency, scalability, and stability/reliability are successfully addressed. Although lab-scale material stability and performance are often measured in controlled laboratory settings, module-scale reliability must be demonstrated in real-world conditions. Here, we aim to provide a comprehensive review of the current challenges to commercialization as well as recent innovations and pathways to overcome these challenges. For recent material and processing innovations, we focus on solution-based approaches, but we also briefly discuss some vapor-based approaches. For reliability considerations, we review module packaging approaches, current state of real-world demonstrations, and efforts to field test modules. We also discuss economic considerations and potential next steps on remaining challenges toward commercialization of perovskite PV technologies.
+
+作者：Chen Lei、Liu Tianran、Wen Jin、Cordell Jacob J.、Owen-Bellini Michael、Schelhas Laura T.、Zhu Kai | DOI：10.1021/acs.chemrev.6c00252 | 类型：journal-article</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Chen Lei</dc:creator>
+<category>10.1021/acs.chemrev.6c00252</category>
+</item>
 <item>
 <title>Vinylcyclopropanes in Rearrangement Reactions</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00544</link>
@@ -314,28 +336,6 @@
 <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
 <dc:creator>Rosso Cristian</dc:creator>
 <category>10.1021/acs.chemrev.6c00681</category>
-</item>
-<item>
-<title>Metal–Support Interactions in Heterogeneous Electrocatalysis</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00356</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00356</guid>
-<description>Abstract Electrochemical energy conversion underpins the sustainable production of fuels and chemicals, with efficiency and selectivity governed by reactions at electrified solid–liquid interfaces. In supported electrocatalysts, metal–support interactions (MSIs) shape how catalytic states form and persist under polarization. Yet a predictive description of MSI remains elusive. The as-prepared contact may reconstruct under operating conditions. Activity shifts, morphology, and charge redistribution do not uniquely identify the current-carrying ensemble. These limitations motivate this review, which separates interfacial structure, chemical bonding, and collective adhesion before relating them to catalytic function. The framework spans single atoms, clusters, nanoparticles, core–shell architectures, and reconstructed interphases. We assess how atomic-resolution imaging, operando characterization, and potential-aware calculations constrain models of the working interface and relate them to electrocatalytic performance. Together, these analyses show that MSI effects depend on the working interfacial state and its reaction environment. Predictive design therefore requires balancing interfacial stabilization with the active-site accessibility and structural adaptability needed for turnover.
-
-作者：Wu Ziyang、Xie Fengting、Sun Wenping、Wang Dingsheng、Yang Jianping | DOI：10.1021/acs.chemrev.6c00356 | 类型：journal-article</description>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<dc:creator>Wu Ziyang</dc:creator>
-<category>10.1021/acs.chemrev.6c00356</category>
-</item>
-<item>
-<title>Free Radical Multiphase Chemistry on Tropospheric Photoreactive Particles</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00549</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00549</guid>
-<description>Abstract Gas-phase and multiphase reactions of free radicals play pivotal roles in tropospheric chemistry. Recent studies indicate that photoinduced multiphase reactions serve as a potential source of free radicals rather than a traditional sink. To accurately evaluate their environmental impacts, this Review provides a comprehensive overview of radical multiphase chemistry on key photoactive components. By systematically reviewing the multiphase generation of photoinduced free radicals, we first provide insights into the underlying multiphase reaction mechanisms and kinetics. Subsequently, the synergistic reactions among photoreactive components and the mutual feedback mechanism between short-lived and persistent free radicals are illustrated, thereby revealing their complex interactions on environmental microinterfaces. Then, the effects of multiphase radical chemistry on primary particle aging and secondary particle formation and growth are described in detail. Finally, we critically examine existing challenges and inaccuracies in the exploration of radical multiphase chemistry, highlighting the urgent need for the comprehensive quantification of photoinduced surface oxidation capacity, along with the scientific evaluation of their health risks and climatic effects. The aim of this work is to identify the missing source of atmospheric radicals, thereby facilitating the evaluation of their environmental impacts and illuminating future directions for particle-emission reduct
-
-作者：Zuo Yize、Zhang Zhaoran、Zhang Peng、George Christian、Chu Biwu、Ma Qingxin、Chen Chuncheng、Wang Shuxiao | DOI：10.1021/acs.chemrev.6c00549 | 类型：journal-article</description>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
-<dc:creator>Zuo Yize</dc:creator>
-<category>10.1021/acs.chemrev.6c00549</category>
 </item>
 </channel>
 </rss>
