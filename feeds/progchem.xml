@@ -5,7 +5,7 @@
 <link>https://hxjz.magtechjournal.com</link>
 <description>化学进展 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 30 条。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 19 Nov 2026 17:59:53 +0800</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 17:47:00 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
 <title>TiO2在选择性光催化中的应用：理性设计到机制探究</title>
@@ -74,6 +74,17 @@
 <category>10.7536/PC20251217</category>
 </item>
 <item>
+<title>废弃塑料的化学转化</title>
+<link>https://hxjz.magtechjournal.com/CN/10.7536/PC20260305</link>
+<guid isPermaLink="true">https://hxjz.magtechjournal.com/CN/10.7536/PC20260305</guid>
+<description>全球废弃塑料剧增，传统处理方式存在环境与资源弊端。发展高效和绿色的废弃塑料化学转化回收技术，对于缓解环境压力、推动资源循环利用和实现可持续发展至关重要。本文系统综述了废弃塑料化学转化的研究进展，重点聚焦于传统化学转化技术（热裂解和溶剂解聚）和外场辅助化学转化技术（电催化、光催化、光热催化及微波和焦耳热辅助裂解）对废弃塑料转化的发展趋势，并深入分析多方法耦合转化的创新路径及优势。最后对未来的废弃塑料化学转化研究提出一些建议，为废弃塑料高值化回收的技术选择与催化剂设计提供直接参考。
+
+作者：章儒仙、刘星立、夏思敏、董志军、张海军、黄亮 | DOI：10.7536/PC20260305 | 发布日期：2026/09/03</description>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+<dc:creator>章儒仙</dc:creator>
+<category>10.7536/PC20260305</category>
+</item>
+<item>
 <title>邻硝基苯甲醛合成方法研究进展</title>
 <link>https://hxjz.magtechjournal.com/CN/10.7536/PC20260309</link>
 <guid isPermaLink="true">https://hxjz.magtechjournal.com/CN/10.7536/PC20260309</guid>
@@ -105,17 +116,6 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
 <dc:creator>王梅</dc:creator>
 <category>10.7536/PC20260306</category>
-</item>
-<item>
-<title>废弃塑料的化学转化</title>
-<link>https://hxjz.magtechjournal.com/CN/10.7536/PC20260305</link>
-<guid isPermaLink="true">https://hxjz.magtechjournal.com/CN/10.7536/PC20260305</guid>
-<description>全球废弃塑料剧增，传统处理方式存在环境与资源弊端。发展高效和绿色的废弃塑料化学转化回收技术，对于缓解环境压力、推动资源循环利用和实现可持续发展至关重要。本文系统综述了废弃塑料化学转化的研究进展，重点聚焦于传统化学转化技术（热裂解和溶剂解聚）和外场辅助化学转化技术（电催化、光催化、光热催化及微波和焦耳热辅助裂解）对废弃塑料转化的发展趋势，并深入分析多方法耦合转化的创新路径及优势。最后对未来的废弃塑料化学转化研究提出一些建议，为废弃塑料高值化回收的技术选择与催化剂设计提供直接参考。
-
-作者：章儒仙、刘星立、夏思敏、董志军、张海军、黄亮 | DOI：10.7536/PC20260305 | 发布日期：2026/09/03</description>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
-<dc:creator>章儒仙</dc:creator>
-<category>10.7536/PC20260305</category>
 </item>
 <item>
 <title>从生物质平台分子到绿色未来：5-羟甲基糠醛催化合成2，5-呋喃二羧酸</title>
@@ -162,6 +162,28 @@
 <category>10.7536/PC20260421</category>
 </item>
 <item>
+<title>磷酸盐系正极材料在锂离子电池中的应用进展</title>
+<link>https://hxjz.magtechjournal.com/CN/10.7536/PC20260216</link>
+<guid isPermaLink="true">https://hxjz.magtechjournal.com/CN/10.7536/PC20260216</guid>
+<description>随着能源危机的日益加重，锂离子二次电池被认为是最具发展前景的能源存储装置。相比于三元材料，磷酸盐系正极材料由于其低廉的价格、优异的安全性、较高的循环稳定性和环境友好性而备受关注。橄榄石型LiMnxFe1-xPO4（LMFP）作为高性能锂离子电池的正极材料，兼具磷酸铁锂LiFePO4的高安全性与磷酸锰锂LiMnPO4的高能量密度。然而，其较低的电子电导率、离子电导率，导致磷酸盐系正极材料在动力电池市场的应用仍然面临诸多挑战。本文首先分析了磷酸盐系正极材料在锂离子电池应用中所面临的限制因素，详细阐述了影响内部离子传输和电子传导的体相特性，包括相变机制、晶格畸变、点缺陷、元素掺杂、Fe/Mn比例和颗粒形态。并深入探讨了改善磷酸盐系正极材料放电比容量、放电电压和循环稳定性的方法，具体包括表面包覆、颗粒尺寸的调控、离子掺杂和形貌调控等。另外，对磷酸盐系正极材料的合成工艺与电化学性能之间的关系进行了探究，以了解各种工艺路线的优缺点，从而制备具有预期功能的材料。最后，展望了高性能磷酸盐系正极材料结构调控策略及其在锂离子电池中的应用前景。
+
+作者：史姗姗、沈建博、彭操、叶罕章、张星、白依冉、王国栋、许希军 | DOI：10.7536/PC20260216 | 发布日期：2026/07/24</description>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+<dc:creator>史姗姗</dc:creator>
+<category>10.7536/PC20260216</category>
+</item>
+<item>
+<title>基于6种关键翻译后修饰的乳腺癌肿瘤标志物研究</title>
+<link>https://hxjz.magtechjournal.com/CN/10.7536/PC20260211</link>
+<guid isPermaLink="true">https://hxjz.magtechjournal.com/CN/10.7536/PC20260211</guid>
+<description>乳腺癌是全球高发恶性肿瘤之一，20%~30%的晚期患者会发生远处器官转移，现有治疗手段难以实现根治。肿瘤标志物的挖掘与靶向干预是乳腺癌诊断与治疗研究的前沿热点，而蛋白质翻译后修饰（PTMs）的动态调控，已成为发掘乳腺癌新型诊断生物标志物与治疗药物靶点的重要途径。目前，磷酸化、甲基化、棕榈酰化、乙酰化等经典PTM的乳腺癌相关研究已较为深入，乳酰化、糖基化等新兴修饰类型也逐渐成为领域研究热点。本文系统综述了乳腺癌中6种主要PTM的类型特征、调控机制及其相关研究进展，重点剖析了PTM在乳腺癌生物标志物（如HDAC2、SIRT7、BRD4）与关键研究靶点（PIM2、KAT2B、ATAT1、RAD51、KLRB1、KLF5、PRMT5）中的调控作用。这些靶点可通过调控细胞增殖、迁移与侵袭、糖代谢及耐药等恶性生物学行为，参与乳腺癌的发生发展进程。系统研究乳腺癌中PTM的分子调控机制，可为乳腺癌早期精准诊断、个体化治疗及预后评估提供新思路与理论依据，也为后续相关研究奠定理论基础。
+
+作者：周春花、马建峰、郑淑珍 | DOI：10.7536/PC20260211 | 发布日期：2026/07/24</description>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+<dc:creator>周春花</dc:creator>
+<category>10.7536/PC20260211</category>
+</item>
+<item>
 <title>半导体-微生物杂化界面的能量转换：进展与展望</title>
 <link>https://hxjz.magtechjournal.com/CN/10.7536/PC20260212</link>
 <guid isPermaLink="true">https://hxjz.magtechjournal.com/CN/10.7536/PC20260212</guid>
@@ -182,28 +204,6 @@
 <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
 <dc:creator>李雪松</dc:creator>
 <category>10.7536/PC20260407</category>
-</item>
-<item>
-<title>基于6种关键翻译后修饰的乳腺癌肿瘤标志物研究</title>
-<link>https://hxjz.magtechjournal.com/CN/10.7536/PC20260211</link>
-<guid isPermaLink="true">https://hxjz.magtechjournal.com/CN/10.7536/PC20260211</guid>
-<description>乳腺癌是全球高发恶性肿瘤之一，20%~30%的晚期患者会发生远处器官转移，现有治疗手段难以实现根治。肿瘤标志物的挖掘与靶向干预是乳腺癌诊断与治疗研究的前沿热点，而蛋白质翻译后修饰（PTMs）的动态调控，已成为发掘乳腺癌新型诊断生物标志物与治疗药物靶点的重要途径。目前，磷酸化、甲基化、棕榈酰化、乙酰化等经典PTM的乳腺癌相关研究已较为深入，乳酰化、糖基化等新兴修饰类型也逐渐成为领域研究热点。本文系统综述了乳腺癌中6种主要PTM的类型特征、调控机制及其相关研究进展，重点剖析了PTM在乳腺癌生物标志物（如HDAC2、SIRT7、BRD4）与关键研究靶点（PIM2、KAT2B、ATAT1、RAD51、KLRB1、KLF5、PRMT5）中的调控作用。这些靶点可通过调控细胞增殖、迁移与侵袭、糖代谢及耐药等恶性生物学行为，参与乳腺癌的发生发展进程。系统研究乳腺癌中PTM的分子调控机制，可为乳腺癌早期精准诊断、个体化治疗及预后评估提供新思路与理论依据，也为后续相关研究奠定理论基础。
-
-作者：周春花、马建峰、郑淑珍 | DOI：10.7536/PC20260211 | 发布日期：2026/07/24</description>
-<pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
-<dc:creator>周春花</dc:creator>
-<category>10.7536/PC20260211</category>
-</item>
-<item>
-<title>磷酸盐系正极材料在锂离子电池中的应用进展</title>
-<link>https://hxjz.magtechjournal.com/CN/10.7536/PC20260216</link>
-<guid isPermaLink="true">https://hxjz.magtechjournal.com/CN/10.7536/PC20260216</guid>
-<description>随着能源危机的日益加重，锂离子二次电池被认为是最具发展前景的能源存储装置。相比于三元材料，磷酸盐系正极材料由于其低廉的价格、优异的安全性、较高的循环稳定性和环境友好性而备受关注。橄榄石型LiMnxFe1-xPO4（LMFP）作为高性能锂离子电池的正极材料，兼具磷酸铁锂LiFePO4的高安全性与磷酸锰锂LiMnPO4的高能量密度。然而，其较低的电子电导率、离子电导率，导致磷酸盐系正极材料在动力电池市场的应用仍然面临诸多挑战。本文首先分析了磷酸盐系正极材料在锂离子电池应用中所面临的限制因素，详细阐述了影响内部离子传输和电子传导的体相特性，包括相变机制、晶格畸变、点缺陷、元素掺杂、Fe/Mn比例和颗粒形态。并深入探讨了改善磷酸盐系正极材料放电比容量、放电电压和循环稳定性的方法，具体包括表面包覆、颗粒尺寸的调控、离子掺杂和形貌调控等。另外，对磷酸盐系正极材料的合成工艺与电化学性能之间的关系进行了探究，以了解各种工艺路线的优缺点，从而制备具有预期功能的材料。最后，展望了高性能磷酸盐系正极材料结构调控策略及其在锂离子电池中的应用前景。
-
-作者：史姗姗、沈建博、彭操、叶罕章、张星、白依冉、王国栋、许希军 | DOI：10.7536/PC20260216 | 发布日期：2026/07/24</description>
-<pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
-<dc:creator>史姗姗</dc:creator>
-<category>10.7536/PC20260216</category>
 </item>
 <item>
 <title>非均相金属催化腈加氢制胺反应的机理认知与微环境调控</title>

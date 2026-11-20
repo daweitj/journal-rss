@@ -5,8 +5,52 @@
 <link>https://pubs.acs.org/journal/chreay</link>
 <description>Chemical Reviews（ISSN 0009-2665）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 17:57:52 +0800</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 17:45:35 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Asymmetric Amyloid Cross-Seeding Beyond “Like-Seeds-Like”</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00727</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00727</guid>
+<description>Abstract Amyloid cross-seeding has often been viewed as a “like-seeds-like” extension of homologous nucleation, in which structurally similar amyloid proteins reciprocally accelerate assembly through a shared cross-β architecture. Increasing evidence instead reveals frequent asymmetry: A→B and B→A can differ in rate, mechanism, structural outcome, and biological consequence, and may change with seed state, fibril polymorph, or microenvironment. Here, we propose that productive cross-seeding is governed by directionally selective compatibility rather than generic β-sheet similarity. We examine six mechanistic origins of asymmetry: conformational selection and population shift, fibril-end templating, dock-and-lock kinetic gating, lateral-face recognition, surface-catalyzed secondary nucleation, and coaggregation coupled to strain selection. We integrate kinetic, structural, cellular, animal, and human evidence, emphasizing that bulk aggregation measurements alone cannot distinguish templated elongation from secondary nucleation, adsorption, sequestration, coaggregation, or strain conversion. We further discuss how heterotypic interfaces reshape fibril polymorphism and disease relevance, and assess emerging molecular-simulation and machine-learning approaches for predicting directional cross-seeding. This mechanism-centered framework provides a basis for understanding mixed amyloid pathologies and for developing strategies to block, redirect, or exploit heterotypic propagation i
+
+作者：Wang Lijin、Shuzan Nazmul、Zhang Yanxian、Zhao Chao、Zheng Jie | DOI：10.1021/acs.chemrev.6c00727 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Wang Lijin</dc:creator>
+<category>10.1021/acs.chemrev.6c00727</category>
+</item>
+<item>
+<title>Substitution Reactions of Halogen-Substituted Acetals: Glycosylations and Related Reactions</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00248</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00248</guid>
+<description>Abstract The nucleophilic substitution reactions of halogen-substituted acetals are useful for the synthesis of a variety of compounds, most particularly of sugar derivatives. This review will summarize the current understanding of the mechanisms involved in these reactions and will present substitution reactions of carbohydrate derivatives with fluorine, chlorine, bromine, and iodine substituents. The halogen atom at C-2 can have a powerful influence on the stereoselectivities of the glycosylation reactions, most often leading to 1,2-trans stereoselectivity. Examples of the uses of these halogen-substituted products will also be provided.
+
+作者：Demkiw Krystyna M.、Helm Elena J.、Woerpel K. A. | DOI：10.1021/acs.chemrev.6c00248 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Demkiw Krystyna M.</dc:creator>
+<category>10.1021/acs.chemrev.6c00248</category>
+</item>
+<item>
+<title>Development and Application of Nanopore Direct RNA Sequencing</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00374</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00374</guid>
+<description>Abstract Individual RNA strands can be sequenced directly using nanoscale protein pores. This process, Nanopore Direct RNA Sequencing (Nanopore DRS), uses a helicase motor protein to regulate RNA displacement through the nanopore orifice in single nucleotide steps. Partial blockade of the monovalent ionic current is recorded at 4 kHz and converted to a string of RNA nucleotide basecalls using machine learning models. In this review, we discuss the development of Nanopore DRS from 1996 to the present. This includes performance metrics, evolution of machine learning models, and applications of Nanopore DRS to major RNA classes across kingdoms. Advantages of the technology are highlighted with special emphasis on nucleotide modifications along intact single strands. Shortcomings of the technology are also considered along with possible solutions. We close with forward looking Nanopore DRS applications: Single cell RNA sequencing; remote monitoring of infectious agents; principled understanding of nanopore ionic current patterns using all-atoms simulations; global food security; and clinical applications.
+
+作者：Jain Miten、Abu-Shumays Robin、Olsen Hugh E.、Akeson Mark | DOI：10.1021/acs.chemrev.6c00374 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Jain Miten</dc:creator>
+<category>10.1021/acs.chemrev.6c00374</category>
+</item>
+<item>
+<title>Incorporating Noncanonical Amino Acids for Protein Structure Analysis: Site-Directed Spin Labeling CW and Pulsed EPR Approaches</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00290</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00290</guid>
+<description>Abstract Site-directed spin labeling in combination with electron paramagnetic resonance spectroscopy (SDSL–EPR) has emerged as a powerful and highly adaptable platform probing protein structure and dynamics with residue-level precision. In its classical strategy, a stable paramagnetic label, most commonly a nitroxide radical, but not only, is covalently introduced at a predefined position, typically through an engineered cysteine residue. Continuous-wave (cw) EPR spectroscopy provides sensitivity to protein dynamics across a broad range of time scales (and techniques), from backbone motions (ps-ns) to protein complex assembly and conformational transitions (ms-s) or characterization of protein conformational exchange (μs-ms). Pulsed EPR methodologies, particularly double electron–electron resonance (DEER), provide access to long-range distance distributions in the nanometer regime (ca. 2–8 nm) through the measurement of dipolar interactions between pairs of spin labels. Recent developments in the genetic encoding of noncanonical amino acids (ncAAs) have substantially expanded the scope of SDSL–EPR by overcoming the intrinsic limitations associated with cysteine-based labeling. In this review, we provide a comprehensive overview of ncAA-based spin-labeling strategies for SDSL–EPR, discuss the repertoire of reported spin labels and their synthetic routes, and highlight representative applications in structural investigations of proteins in vitro as well as in cellular environm
+
+作者：Bizet Maxime、Balázsi Áron、Byrne Deborah、Gerbaud Guillaume、Kálai Tamás、Martinho Marlène | DOI：10.1021/acs.chemrev.6c00290 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Bizet Maxime</dc:creator>
+<category>10.1021/acs.chemrev.6c00290</category>
+</item>
 <item>
 <title>Toward a Deeper Understanding of Single-Atom Catalysis</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00408</link>
@@ -292,50 +336,6 @@
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
 <dc:creator>Rajabi Nima</dc:creator>
 <category>10.1021/acs.chemrev.6c00369</category>
-</item>
-<item>
-<title>Nonaqueous Redox Flow Batteries: Opportunities and Challenges for Sustainable Energy Storage</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00427</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00427</guid>
-<description>Abstract Redox flow batteries (RFBs) have emerged as promising electrochemical energy storage technologies for long-duration stationary applications. Although aqueous RFBs represent the most commercially mature class, they are inherently limited by a narrow electrochemical stability window and high temperature sensitivity. Nonaqueous RFBs (NRFBs) expand the accessible voltage and temperature ranges, offering a promising route toward high-energy-density storage for long-duration and extreme-environment applications. However, their practical deployment remains impeded by several challenges, including high costs, insufficient power density, limited cycling stability, and safety concerns. This review offers a systematic synthesis of recent advances in key NRFB components, encompassing solvents, supporting electrolytes, membranes, electrodes, and redox-active molecules. We also highlight emerging methodologies expected to accelerate development, including machine-learning-enabled screening, advanced characterization, and life cycle assessment. Finally, this review compares aqueous and nonaqueous systems from commercialization and sustainability perspectives. Collectively, this review aims to advance design principles and optimization strategies for NRFBs, providing guidance for next-generation low-cost, high-energy-density flow battery technologies.
-
-作者：Wang Tao、Xia Yuheng、Ju Zhengyu、Zhao Zhitao、Chen Miao、Cui Mingjin、Ding Yu、Yu Guihua | DOI：10.1021/acs.chemrev.6c00427 | 类型：journal-article</description>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Wang Tao</dc:creator>
-<category>10.1021/acs.chemrev.6c00427</category>
-</item>
-<item>
-<title>Asymmetric Dipolar Cycloadditions toward Chiral Medium-Sized Rings under Palladium and Iridium Catalysis</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00441</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00441</guid>
-<description>Abstract Chiral medium-sized rings, defined herein as 7- to 11-membered cyclic frameworks, are common in bioactive molecules and occupy an important but still underexplored region of drug-like chemical space. Their asymmetric synthesis remains formidably challenging, as conformational flexibility, transannular interactions, and unfavorable entropic and enthalpic factors collectively complicate ring formation and stereocontrol. In recent years, palladium- and iridium-catalyzed asymmetric dipolar cycloadditions and related cascade processes have emerged as effective strategies for building structurally diverse and stereochemically complex medium-sized rings. As such, this review aims to summarize the advances in this emerging field from the perspectives of metal identity, precursor class, and dipole-generation mode, with emphasis on their effects on chemo-, regio-, diastereo-, and enantioselectivity. We also highlight the distinct yet complementary features of Pd and Ir catalysis, as well as current limitations in generality, selectivity, and substrate scope. By combining mechanistic insight with representative applications, this review aims to define the foundations, boundaries, and future opportunities of this rapidly evolving area.
-
-作者：Li Yu-Jie、Wang Xuerui、Wang Qiang、Deng Wei-Ping、Xiao Wen-Jing、Lu Liang-Qiu | DOI：10.1021/acs.chemrev.6c00441 | 类型：journal-article</description>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Li Yu-Jie</dc:creator>
-<category>10.1021/acs.chemrev.6c00441</category>
-</item>
-<item>
-<title>Overcoming the Charge Confinement-Transport Trade-Off in Perovskite Light-Emitting Diodes</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00202</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00202</guid>
-<description>Abstract Nanocrystalline metal halide perovskites are promising light emitters for light-emitting diodes (PeLEDs) because they suppress the intrinsic problem of exciton dissociation through charge confinement within nanocrystalline domains. Although these nanostructures have enabled high-emission efficiencies, such confinement strategies typically result in significantly reduced charge transport. This limitation is attributed to numerous grain boundaries, which induce severe charge carrier scattering and trapping, alongside insulating organic ligands typically introduced for defect passivation and size reduction. Poor charge transport increases the required operating voltage and accelerates device degradation pathways under an electrical bias, leading to limited operational lifetimes. This Review examines material design strategies intended to mitigate the competition between charge confinement and transport across various nanocrystalline perovskites. Specifically, we investigate fundamental crystal nucleation and growth mechanisms and evaluate methods to optimize grain size, aiming to minimize the grain boundary to increase charge transport while maintaining charge confinement. Passivation strategies for defect states are also evaluated, emphasizing the engineering of organic ligands to enhance their electrical conductivity while maximizing the passivation efficacy. In addition, the integration of core/shell architectures is discussed as a promising strategy. By controlling 
-
-作者：Jang Kyung Yeon、Choi Bo-Hyun、Lee Kyoo-Hyung、Park Chan-Yul、Zeng Qingsen、Lee Tae-Woo | DOI：10.1021/acs.chemrev.6c00202 | 类型：journal-article</description>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Jang Kyung Yeon</dc:creator>
-<category>10.1021/acs.chemrev.6c00202</category>
-</item>
-<item>
-<title>Photochemical Hetero-cycloadditions</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00681</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00681</guid>
-<description>Abstract Hetero-cycloaddition reactions are powerful, atom-economical strategies for the rapid construction of heterocyclic frameworks from readily available building blocks. Over the past two decades, advances in photochemistry, photocatalysis, and modern excitation strategies have driven remarkable developments in the field. By accessing electronically excited states, light enables cycloaddition pathways inaccessible under classical thermal conditions, providing access to reactive radical, ionic, or excited-state intermediates under mild conditions. Technological advances in light sources and photocatalyst design have improved reaction efficiency, site-, regio-, and stereoselectivity, while considerably expanding the accessible chemical space. Beyond established hetero-[2 + 2], hetero-(3 + 2), and hetero-[4 + 2] processes, new reaction classes, including π–σ hetero-cycloadditions exploiting strained small-ring systems, have emerged as powerful approaches to structurally complex saturated scaffolds of increasing relevance in medicinal chemistry. In this Review, we critically examine the evolution of photochemical hetero-cycloadditions from 2000 to 2026, discussing fundamental concepts and terminology, cycloaddition classes, heterocyclic targets, and activation mechanisms. We highlight the conceptual advances that have shaped modern photochemical hetero-cycloaddition chemistry and conclude by discussing current limitations and future directions for the field.
-
-作者：Rosso Cristian、Corti Vasco、Goti Giulio、Cuadros Sara、Marcantonio Enrico、Dell’Amico Luca | DOI：10.1021/acs.chemrev.6c00681 | 类型：journal-article</description>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Rosso Cristian</dc:creator>
-<category>10.1021/acs.chemrev.6c00681</category>
 </item>
 </channel>
 </rss>
