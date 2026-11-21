@@ -5,8 +5,19 @@
 <link>https://pubs.acs.org/amrcda</link>
 <description>Accounts of Materials Research（ISSN 2643-6728）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 17:18:39 +0800</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 07:25:02 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Dynamic Cluster Catalysis: Active-Center Formation, Collective Function, and Design Principles</title>
+<link>https://doi.org/10.1021/accountsmr.6c00279</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00279</guid>
+<description>Conspectus The active center in heterogeneous catalysis is commonly represented as a single, well-defined atomic motif. Our work examined whether this picture remains valid for metal clusters under working conditions. Their finite size and strong coupling to adsorbates, supports, and electrochemical environments create shallow energy landscapes on which the geometry, composition, coverage, and charge can change on catalytically relevant time scales. Our studies of reaction-reconstructed metal surfaces, supported clusters, and cluster–oxide interfaces revealed that the operative center can be generated, selected, and continually renewed by the reaction environment. The catalyst’s composition, nuclearity, and support environment constrain its configurational space, whereas operating conditions determine which states become populated and contribute to catalytic turnover. This realization led us to distinguish two connected aspects of dynamic cluster catalysis: the formation of operative centers and the catalytic function of the resulting ensemble. Reactants, temperature, pressure, potential, and support interactions can lift atoms from an extended surface to form finite ensembles, reorganize supported particles and preexisting clusters, or transform alloy-derived centers into chemically reconstructed motifs. These changes are not necessarily signatures of deactivation. They can create low-coordination atoms, multicenter adsorption geometries, charge-redistributed structures, and
+
+作者：Chen Jia-Lan、Zhao Jian-Wen、Wang Hong-Yue、Jiang Yu-Qing、Liu Jin-Xun、Li Wei-Xue | DOI：10.1021/accountsmr.6c00279 | 类型：journal-article</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Chen Jia-Lan</dc:creator>
+<category>10.1021/accountsmr.6c00279</category>
+</item>
 <item>
 <title>One-Dimensional Organic Polynanomers: Design, Synthesis, Properties, and Applications</title>
 <link>https://doi.org/10.1021/accountsmr.6c00263</link>
@@ -325,17 +336,6 @@
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
 <dc:creator>McBride Samantha A.</dc:creator>
 <category>10.1021/accountsmr.6c00237</category>
-</item>
-<item>
-<title>Site Engineering of Single-Atom Nanozymes: Designing Across Intrinsic Activity, Density, and Accessibility for Biomedical Applications</title>
-<link>https://doi.org/10.1021/accountsmr.6c00185</link>
-<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00185</guid>
-<description>Conspectus Nanozymes have garnered substantial interest due to their intrinsic enzyme-like catalytic activities and their capacity to circumvent several inherent drawbacks of natural enzymes, including laborious purification, high production costs, stringent reaction conditions, and poor operational stability. These merits render nanozymes promising candidates for a wide array of applications, ranging from colorimetric analysis and the prevention of drug-resistant bacterial infections to tumor therapy. Despite the rapid expansion of the field and the development of thousands of nanozyme systems, only a limited subset exhibits catalytic efficacies on par with those of their natural counterparts. This performance gap has significantly restricted their broader practical deployment. The rational design of highly active nanozymes necessitates a comprehensive understanding of active-site engineering, encompassing three interrelated pillars: the structure–activity relationship of the catalytic site, site density, and site accessibility. In this context, single-atom nanozymes (SAzymes) offer an ideal platform to tackle these challenges, benefiting from maximal atom-utilization efficacy, atomically dispersed and structurally homogeneous active centers, and readily tunable electronic configurations. Considerable progress has been made in elucidating structure–activity relationships at the single-site level through coordination engineering, dimensionality regulation, functional-group mo
-
-作者：Ji Yanjun、Zhao Longge、Wang Huan、Ren Jinsong | DOI：10.1021/accountsmr.6c00185 | 类型：journal-article</description>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
-<dc:creator>Ji Yanjun</dc:creator>
-<category>10.1021/accountsmr.6c00185</category>
 </item>
 </channel>
 </rss>
