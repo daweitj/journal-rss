@@ -1,6 +1,6 @@
 # journal-rss
 
-几本期刊的最新论文 RSS 源，GitHub Actions 每天 10:00（北京时间）重新生成，产物在 `feeds/`。
+多本期刊的最新论文 RSS 源，GitHub Actions 每天 10:00（北京时间）重新生成，产物在 `feeds/`。
 
 ## 订阅地址
 
@@ -11,6 +11,8 @@
 | Journal of Chemical Education | https://daweitj.github.io/journal-rss/feeds/jce.xml |
 | Electrochemical Energy Reviews | https://daweitj.github.io/journal-rss/feeds/eer.xml |
 | Journal of Materials Science | https://daweitj.github.io/journal-rss/feeds/jms.xml |
+| MRS Bulletin | https://daweitj.github.io/journal-rss/feeds/mrsb.xml |
+| Progress in Additive Manufacturing | https://daweitj.github.io/journal-rss/feeds/piam.xml |
 | 物理学进展 | https://daweitj.github.io/journal-rss/feeds/physics-progress.xml |
 | 中国工程科学 | https://daweitj.github.io/journal-rss/feeds/sscae.xml |
 | 电源技术 | https://daweitj.github.io/journal-rss/feeds/dyjs.xml |
@@ -18,6 +20,8 @@
 | 功能材料 | https://daweitj.github.io/journal-rss/feeds/gncl.xml |
 | 材料导报 | https://daweitj.github.io/journal-rss/feeds/mater-rep.xml |
 | 金属学报 | https://daweitj.github.io/journal-rss/feeds/ams.xml |
+
+Wiley 官方（不入仓库）：Batteries & Supercaps — https://chemistry-europe.onlinelibrary.wiley.com/feed/25666223/most-recent
 
 一次导入全部：`feeds/subscriptions.opml`
 
@@ -31,7 +35,7 @@
 - 功能材料：gncl.cn，无 sitemap 可用（索引里的 loc 有拼写错误），改抓首页当期目录 + 文章页 citation 元信息。
 - 材料导报：mater-rep.com，无 sitemap，抓首页当期目录；摘要写在正文里，脚本从“摘要 … 关键词/服务”之间抽取。
 - 金属学报：ams.org.cn，sitemap 分片的 id 与时间不同序，改抓首页 + 近三期期目录。
-- Electrochemical Energy Reviews / Journal of Materials Science：Springer 的 search.rss 会 303 到登录页（阅读器报“不包含 RSS 订阅源”），改抓期刊文章列表 + 文章页 citation/dc.description 元信息，摘要齐全。
+- Springer 四本（Electrochemical Energy Reviews、Journal of Materials Science、MRS Bulletin、Progress in Additive Manufacturing）：search.rss 会 303 到登录页（阅读器报“不包含 RSS 订阅源”），改抓期刊文章列表 + 文章页 citation/dc.description 元信息，摘要齐全。MRS Bulletin 的 DOI 前缀是 10.1557 而非 10.1007。
 
 ## 说明
 

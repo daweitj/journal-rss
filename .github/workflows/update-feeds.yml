@@ -155,6 +155,28 @@ jobs:
             --limit 30 --workers 6 \
             --out feeds/jms.xml
 
+      - name: MRS Bulletin (Springer 列表页)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://link.springer.com \
+            --name "MRS Bulletin" \
+            --list-url "https://link.springer.com/journal/43577/articles" \
+            --link-pattern "/article/10\\.1557/s43577" \
+            --limit 30 --workers 6 \
+            --out feeds/mrsb.xml
+
+      - name: Progress in Additive Manufacturing (Springer 列表页)
+        continue-on-error: true
+        run: |
+          python scripts/feedgen_journal.py \
+            --site https://link.springer.com \
+            --name "Progress in Additive Manufacturing" \
+            --list-url "https://link.springer.com/journal/40964/articles" \
+            --link-pattern "/article/10\\.1007/s40964" \
+            --limit 30 --workers 6 \
+            --out feeds/piam.xml
+
       - name: 校验产物
         run: |
           python - <<'PY'
