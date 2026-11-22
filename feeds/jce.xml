@@ -5,7 +5,7 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 07:35:33 +0800</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 17:27:02 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
 <title>Measuring Course-Level Belonging and Perceived Social Doubt of Science Fit in General Chemistry: Instrument Development and Invariance Testing</title>
@@ -129,17 +129,6 @@
 <category>10.1021/acs.jchemed.6c00238</category>
 </item>
 <item>
-<title>Teaching the Periodic Table to Ninth-Grade Students through Game-Based Learning and a Contextualized Science–Technology–Society–Environment Approach</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00751</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00751</guid>
-<description>Abstract Chemistry is often perceived as a challenging subject due to its abstract nature, particularly in topics such as the Periodic Table, where students frequently struggle with chemical symbolism and conceptual understanding. This study examined how a structured instructional approach combining teacher-led instruction, a contextualized Science–Technology–Society–Environment (STSE) perspective, and game-based activities supported ninth-grade students’ learning of the Periodic Table, motivation, and perceived skill development. The intervention included a contextualized text (“Chemical Elements and the Brain”), digital quizzes using Kahoot, and a teacher-designed board game (Tab2Elementar). The study involved 20 students and adopted a single-group exploratory mixed-methods design without a control group, combining quantitative data from pre- and post-tests with qualitative data from interviews, students’ written reflections, and classroom observations. Results indicate an overall improvement in students’ performance, with most students achieving medium normalized gains and showing progress in key curriculum-related learning outcomes concerning the Periodic Table, including the identification of groups 1, 2, 17, and 18, the distinction between metals and nonmetals, and the role of chemical elements in the human body. Qualitative findings revealed increased motivation, engagement, and perceived learning, with students highlighting the value of collaborative discussion and co
-
-作者：Jesus Susana、Saúde Isabel、Morais Carla | DOI：10.1021/acs.jchemed.6c00751 | 类型：journal-article</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Jesus Susana</dc:creator>
-<category>10.1021/acs.jchemed.6c00751</category>
-</item>
-<item>
 <title>From Lab Technique to Scientific Practice: Using Thin-Layer Chromatography to Investigate Reaction Rates in an Organic Chemistry Laboratory</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c01439</link>
 <guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01439</guid>
@@ -149,6 +138,17 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Glover Kason J.</dc:creator>
 <category>10.1021/acs.jchemed.6c01439</category>
+</item>
+<item>
+<title>Teaching the Periodic Table to Ninth-Grade Students through Game-Based Learning and a Contextualized Science–Technology–Society–Environment Approach</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00751</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00751</guid>
+<description>Abstract Chemistry is often perceived as a challenging subject due to its abstract nature, particularly in topics such as the Periodic Table, where students frequently struggle with chemical symbolism and conceptual understanding. This study examined how a structured instructional approach combining teacher-led instruction, a contextualized Science–Technology–Society–Environment (STSE) perspective, and game-based activities supported ninth-grade students’ learning of the Periodic Table, motivation, and perceived skill development. The intervention included a contextualized text (“Chemical Elements and the Brain”), digital quizzes using Kahoot, and a teacher-designed board game (Tab2Elementar). The study involved 20 students and adopted a single-group exploratory mixed-methods design without a control group, combining quantitative data from pre- and post-tests with qualitative data from interviews, students’ written reflections, and classroom observations. Results indicate an overall improvement in students’ performance, with most students achieving medium normalized gains and showing progress in key curriculum-related learning outcomes concerning the Periodic Table, including the identification of groups 1, 2, 17, and 18, the distinction between metals and nonmetals, and the role of chemical elements in the human body. Qualitative findings revealed increased motivation, engagement, and perceived learning, with students highlighting the value of collaborative discussion and co
+
+作者：Jesus Susana、Saúde Isabel、Morais Carla | DOI：10.1021/acs.jchemed.6c00751 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Jesus Susana</dc:creator>
+<category>10.1021/acs.jchemed.6c00751</category>
 </item>
 <item>
 <title>A Practical Guide to RNA NMR Spectral Analysis for Undergraduate Students</title>
