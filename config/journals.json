@@ -289,5 +289,62 @@
    "--workers",
    "4"
   ]
+ },
+ {
+  "label": "焊接学报",
+  "script": "scripts/feedgen_list.py",
+  "out": "feeds/hjxb.xml",
+  "args": [
+   "--site",
+   "https://hjxb.hwi.com.cn",
+   "--name",
+   "焊接学报",
+   "--list-url",
+   "https://hjxb.hwi.com.cn/",
+   "--link-pattern",
+   "/hjxb/article/doi/",
+   "--limit",
+   "30",
+   "--workers",
+   "4"
+  ]
+ },
+ {
+  "label": "金属热处理",
+  "script": "scripts/feedgen_list.py",
+  "out": "feeds/jsrcl.xml",
+  "args": [
+   "--site",
+   "http://www.jsrcl.net",
+   "--name",
+   "金属热处理",
+   "--list-url",
+   "http://www.jsrcl.net/CN/0254-6051/home.shtml",
+   "--link-pattern",
+   "/CN/10\\.13251",
+   "--limit",
+   "30",
+   "--workers",
+   "4"
+  ]
+ },
+ {
+  "label": "理化检验-物理分册",
+  "script": "scripts/feedgen_rhhz_rss.py",
+  "out": "feeds/lhjywlfc.xml",
+  "args": [
+   "--site",
+   "https://lhjywlfc.mat-test.com",
+   "--rss-url",
+   "https://lhjywlfc.mat-test.com/rss/current.xml",
+   "--name",
+   "理化检验-物理分册",
+   "--limit",
+   "24",
+   "--seed",
+   "feeds/lhjywlfc-dates.json",
+   "--budget",
+   "300"
+  ]
  }
 ]
