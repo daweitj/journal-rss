@@ -3,97 +3,229 @@
 <channel>
 <title>物理学进展 — 最新发布</title>
 <link>https://pip.nju.edu.cn</link>
-<description>物理学进展 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 8 条。</description>
+<description>物理学进展 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 20 条。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 17:27:14 +0800</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 14:58:03 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
-<title>铁基超导体中拓扑超导态研究进展</title>
-<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/240</link>
-<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/240</guid>
-<description>铁基超导体兼具多带电子结构、较高超导转变温度和本征超导，与能带反转产生的非平庸 表面态相结合，为在单一材料中实现拓扑超导提供了重要平台。本文围绕铁基超导体中的拓扑超 导态及马约拉纳零能模研究进展展开综述，首先介绍配体 p 轨道与铁 3d 轨道反转、自旋-轨道耦 合开隙以及本征超导在拓扑表面态上诱导配对的基本机制，随后总结铁碲硒、砷化锂铁、钙钾铁砷 和氢氧化锂铁硒等代表体系的能带谱、超导能隙和涡旋束缚态实验。现有结果在拓扑表面态、自 旋-动量锁定、表面超导能隙、涡旋零能峰、束缚态能级序列及近量子化隧穿电导等方面形成了相 互关联的证据链，但局域零能信号仍可能受到普通涡旋态、杂质束缚态、无序和多带效应的影响。 进一步确证马约拉纳准粒子的非阿贝尔性质，需要结合非局域输运、相位与费米子宇称敏感测量， 并发展应变、组分、缺陷和约瑟夫森相位等可控手段。铁基超导体正由候选材料阶段筛选走向拓 扑零能模的可重复产生、判别与操纵阶段，为本征拓扑超导及拓扑量子器件研究提供新的材料基 础。
+<title>超冷原子中拓扑超流的发展现状</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/162</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/162</guid>
+<description>拓扑超流态是一种奇异物质态，它的内部受能隙保护，而在其系统边缘却可以容纳无能隙的Majorana 费米子。由于该粒子满足非阿贝尔统计，并且受拓扑保护具有良好的稳定性，用它 们携带量子化的信息，可以用于拓扑量子计算的研究。近年来，理论工作预测了各类系统中可能 存在的拓扑超流态。我们首先介绍了在各类光晶格模型中的拓扑超流, 光晶格的超冷原子具有良 好的可控性与普适性，是实现拓扑超流的理想模型系统。接下来我们介绍了自旋轨道耦合调控下 的拓扑超流，自旋轨道耦合效应是诱导拓扑相的重要条件，并且人们已经在实验上合成了人工自 旋轨道耦合，这为实验上观测拓扑超流取得了突破性的进展。随着近年来实验技术的提高，曾经 难以在实验中观测的，被人们所忽略的拓扑Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) 超流相也 成为了人们研究的热点，因此我们接下来介绍了拓扑的FFLO 超流。此外，我们还介绍了拓扑超 流其他方面的进展，包括孤子引诱的拓扑超流、三组分的拓扑超流、大陈数的拓扑超流以及拓扑 超流临界温度的提高。在实验中，如何检测与实现拓扑超流，是其研究的目的及意义所在，因 此我们在文章的最后介绍了拓扑超流的识别与实现。
 
-作者：黄 勇 , 张 鹏 | DOI：10.13725/j.cnki.pip.2026.06.005 | 发布日期：2026-12-20</description>
-<pubDate>Sun, 20 Dec 2026 00:00:00 +0800</pubDate>
-<dc:creator>黄 勇 , 张 鹏</dc:creator>
-<category>10.13725/j.cnki.pip.2026.06.005</category>
+作者：冯鉴, 张伟伟, 林良伟, 蔡启鹏, 张义财, 刘超飞 | DOI：10.13725/j.cnki.pip.2022.03.001 | 发布日期：2022-06-20</description>
+<pubDate>Mon, 20 Jun 2022 00:00:00 +0800</pubDate>
+<dc:creator>冯鉴, 张伟伟, 林良伟, 蔡启鹏, 张义财, 刘超飞</dc:creator>
+<category>10.13725/j.cnki.pip.2022.03.001</category>
 </item>
 <item>
-<title>表面格林函数方法在第一性原理量子输运模拟中的应用</title>
-<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/238</link>
-<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/238</guid>
-<description>表面格林函数(surface Green’s function, SGF) 方法在第一性原理量子输运模拟中，针对传统平板模型的固有缺陷，提供了一种可行的解决方案。传统平板模型受限于有限尺寸效应、双面耦合干扰及费米能级漂移，在功函数、表面态及电化学界面计算中收敛缓慢且易失真。SGF 方法将半无限体系划分为有限表面区与半无限体区，后者作为无限电子库通过自能项与表面耦合，从而在开放边界条件下实现自洽计算。在密度泛函理论与线性组合原子轨道基组的框架之下，该方法通过复围道积分与高效递归算法求解格林函数，计算成本与原子层数呈线性关系，且能带收敛速度远优于平板模型。本文系统梳理了SGF 方法在金属功函数计算、半导体异质结能带排列、表面态描述及外静电场下表面化学调控等典型场景中的应用，展示了其在精度、效率与物理图像合理性的综合优势，表明SGF 方法已成为界面量子模拟的有力工具。
+<title>Ce 基重费米子材料的电子态研究与维度调控</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/163</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/163</guid>
+<description>重费米子材料作为一类典型的强关联电子体系，蕴含着非常规超导、奇异金属、量子临界、 磁有序、重电子态、关联拓扑态等新奇的量子态，而4f 电子在其中扮演着重要的作用。随着高分 辨角分辨光电子能谱和薄膜生长技术的发展，精确探测重费米子材料中4f 电子在能量/动量空间 的色散和谱权重成为了可能，这为从微观上理解这类材料中的电子关联效应和新奇量子现象提供 了重要的基础。本论文总结了几个典型的重费米子单晶和薄膜体系的电子态研究，包括Ce-115 体 系、CeCu2Si2、CeRh6Ge4 以及单晶 Ce 膜等。这些结果为理解重费米子体系中重电子态的形成 和温度演化、近藤杂化的能带/动量依赖、重电子能带与超导的关系、近藤效应与磁性和其它量子 态的竞争、4f 电子的维度调控等重要物理问题提供了谱学证据。
 
-作者：陈一凡, 吕劲, 李鸿 | DOI：10.13725/j.cnki.pip.2026.05.003 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>陈一凡, 吕劲, 李鸿</dc:creator>
-<category>10.13725/j.cnki.pip.2026.05.003</category>
+作者：吴毅, 李鹏, 吴中正, 方圆, 刘洋 | DOI：10.13725/j.cnki.pip.2022.03.002 | 发布日期：2022-06-20</description>
+<pubDate>Mon, 20 Jun 2022 00:00:00 +0800</pubDate>
+<dc:creator>吴毅, 李鹏, 吴中正, 方圆, 刘洋</dc:creator>
+<category>10.13725/j.cnki.pip.2022.03.002</category>
 </item>
 <item>
-<title>信息论在生物系统中的应用与探索</title>
-<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/239</link>
-<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/239</guid>
-<description>生物系统通过多层次信息传递网络实现对内外环境的感知与适应，其固有的非线性、随机性与多尺度耦合特征给传统分析方法带来了巨大挑战。信息论作为量化系统不确定性与关联性的强大理论框架，以熵、互信息、信道容量等核心指标为工具，突破了传统分析的局限，为解析生物系统的信息流动规律提供了全新视角。本文系统综述了信息论在网络调控及信号传递研究中的应用，详细阐述了其基本原理、计算方法、核心应用场景，重点强调了互信息在处理生物噪声、揭 示非线性调控关系及整合多组学数据等方面的独特优势，并分析了当前面临的挑战与未来发展方向。
+<title>光子自旋霍尔效应及其在物性参数测量中的应用</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/159</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/159</guid>
+<description>光子自旋霍尔效应是指光束在非均匀介质中传输时，自旋角动量相反的光子在垂直于入射 面的方向发生的横向自旋相关分裂。光子自旋霍尔效应可以和电子自旋霍尔效应作类比：自旋光 子扮演自旋电子的角色，折射率梯度扮演外场的角色。光子自旋霍尔效应源于光的自旋-轨道相互 作用，和两类几何相位有关：一类是动量空间的自旋重定向Rytov-Vlasimirskii-Berry 相位；另 一类是斯托克斯参数空间的Pancharatnam-Berry 相位。光子自旋霍尔效应对物性参数非常敏感， 结合量子弱测量技术，在物性参数测量、光学传感等领域具有重要的应用前景。本文将简单分析 光子自旋霍尔效应的物理根源，回顾近几年不同物理系统中光子自旋霍尔效应的研究进展，介绍 光子自旋霍尔效应在物性参数测量中的应用。最后，展望其在光学模拟运算、显微成像、量子成 像等领域的可能发展方向。
 
-作者：赵沛燚, 周邦彦, 吴人杰 | DOI：10.13725/j.cnki.pip.2026.05.004 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>赵沛燚, 周邦彦, 吴人杰</dc:creator>
-<category>10.13725/j.cnki.pip.2026.05.004</category>
+作者：刘硕卿, 陈世祯, 罗海陆 | DOI：10.13725/j.cnki.pip.2022.02.001 | 发布日期：2022-04-20</description>
+<pubDate>Wed, 20 Apr 2022 00:00:00 +0800</pubDate>
+<dc:creator>刘硕卿, 陈世祯, 罗海陆</dc:creator>
+<category>10.13725/j.cnki.pip.2022.02.001</category>
 </item>
 <item>
-<title>基于PPKTP晶体的高纯度高预示效率单光子源研制</title>
-<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/236</link>
-<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/236</guid>
-<description>单光子源对光学量子信息处理与安全通信等领域至关重要。当前基于非线性品体自发参量下转换过程的预示单光子源通常难以兼顾高预示效率与高纯度，这直接限制了量子密钥分发的安全码率与传输距离。本文基于周期极化磷酸氧钛钾(periodically poled KTiOPO4,PPKTP)非线性晶体，利用连续光泵浦的自发参量下转换过程，研制了一种高纯度、高预示效率的单光子源。通过采用长品体并优化系浦光束腰，显著提升光子预示效率和收集效率。在系浦光功率1mW，光源亮度6.3x104 pairs/(s.mW)，预示效率57.3%的实验状态下，单光子源获得了 0.9946的单光子纯度，同时还表现出良好的稳定性和对多光子噪声的抑制能力。研究结果为制备低成本、高质量的预报单光子源提供了可行方案。
+<title>二维钙钛矿太阳能电池光电流成像研究</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/160</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/160</guid>
+<description>深入了解钙钛矿太阳能电池中微纳空间形貌特征、光电特性与光伏参数之间的关系，对于 指导高效钙钛矿太阳能电池器件的构建至关重要。本文通过将时间分辨共聚焦荧光显微镜与光电 流检测模块相结合，实现了二维（2D）层状钙钛矿太阳能电池在实际工作条件下微纳空间的光电 流、荧光强度和荧光寿命成像检测。发现在钙钛矿多晶膜中同一个晶粒的不同区域，光电流与荧 光强度和荧光寿命成像之间存在明显的负相关性，在微纳空间尺度上建立了光伏参数与材料光电 性质和形貌之间的相互关联，为钙钛矿太阳能电池的性能优化提供了理论指导。
 
-作者：杨婷妤, 李丰沛, 陈建兰, 张涵 | DOI：10.13725/j.cnki.pip.2026.05.001 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>杨婷妤, 李丰沛, 陈建兰, 张涵</dc:creator>
-<category>10.13725/j.cnki.pip.2026.05.001</category>
+作者：赵晓霞, 田文明, 孙中皋, 金盛烨 | DOI：10.13725/j.cnki.pip.2022.02.002 | 发布日期：2022-04-20</description>
+<pubDate>Wed, 20 Apr 2022 00:00:00 +0800</pubDate>
+<dc:creator>赵晓霞, 田文明, 孙中皋, 金盛烨</dc:creator>
+<category>10.13725/j.cnki.pip.2022.02.002</category>
 </item>
 <item>
-<title>钙钛矿纳米晶激发态动力学研究进展</title>
-<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/237</link>
-<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/237</guid>
-<description>钙钛矿半导体纳米晶由于具有优异的发光特性，在激光、发光二极管和量子光源等方面展现出巨大的应用潜力。这些器件的性能与纳米晶中激发态动力学密切相关。本文系统综述了钙钛矿半导体纳米晶中激发态及相关的多尺度动力学过程，包括光激发载流子的产生、弛豫与复合动力学，带边激子的精细能级结构与相干动力学，自旋动力学，以及在强光场下能级的相干操控，并总结了该领域的关键科学问题和技术挑战。
+<title>基于提高精度的量子雷达方案及其进展</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/161</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/161</guid>
+<description>定位测量一直是人们关注的问题，将量子技术应用于定位任务有望展示出经典定位方案无 法达到的优势。目前，已有部分量子雷达方案被提出，展示了科研工作者从量子信息角度对定位 测量的新思考。本文总结了部分已有的量子雷达方案，介绍了相关方案的概念和分类，并着重对 量子定位、量子照明和三维增强雷达三种方案的基本原理进行论述，同时分析了各方案的优势以 及亟待解决的问题。
 
-作者：伍晓微, 钱海宁, 张春峰 | DOI：10.13725/j.cnki.pip.2026.05.002 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>伍晓微, 钱海宁, 张春峰</dc:creator>
-<category>10.13725/j.cnki.pip.2026.05.002</category>
+作者：李勇强, 任昌亮 | DOI：10.13725/j.cnki.pip.2022.02.003 | 发布日期：2022-04-20</description>
+<pubDate>Wed, 20 Apr 2022 00:00:00 +0800</pubDate>
+<dc:creator>李勇强, 任昌亮</dc:creator>
+<category>10.13725/j.cnki.pip.2022.02.003</category>
 </item>
 <item>
-<title>多晶相 BN 范德瓦耳斯异质结构中的双曲声子极化激元调控</title>
-<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/233</link>
-<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/233</guid>
-<description>声子极化激元是由红外光子与晶格振动耦合形成的混合准粒子，能够实现亚波长电磁场局 域。这一独特性质使其在纳米尺度红外光场调控和强光–物质相互作用方面极具前景。在本研究中， 我们从理论上探讨了不同氮化硼 (boron nitride, BN) 系统中的双曲声子极化激元。通过将不同 BN 材料包括 h 10BN、h 11BN、热解氮化硼 (pyrolytic boron nitride) 和纤锌矿氮化硼 (wurtzite boron nitride) 组合构建范德瓦耳斯异质结构，并进一步与 α-MoO3 集成，系统地分析了材料组 成、堆叠顺序和层厚对极化激元色散、层间耦合和界面杂化的影响。我们首先研究了同位素质量变 化、晶体无序引起的阻尼以及相位依赖介电响应对不同 BN 本征色散的影响，研究结果表明，多 层 BN 异质结构能够实现可调模式杂化，从而导致色散重构，包括支路重排和光谱重新分布。当 与 α-MoO3 耦合时，体系在特定参数条件下可能出现由模式耦合引起的多个色散带隙以及低群速 度分支等特征。整体结果表明，材料选择、堆叠构型和厚度分配为定制双曲声子极化激元提供了 多种自由度，为复杂范德瓦耳斯异质结构中的红外极化激元工程提供了理论指导。
+<title>钙钛矿薄膜钝化策略的研究进展</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/156</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/156</guid>
+<description>钙钛矿太阳能电池由于其优异的光电转化效率及成本低等优点被引入作为一种新的光伏器件。在过去的十几年内，钙钛矿太阳能电池的研究及发展尤为迅速，性能有了显著提高。然而，要使其进入光伏市场，研究者还需要做出巨大努力。这主要是由于钙钛矿薄膜自身制备的局限性，使其缺陷的存在是不可避免的，这严重影响了钙钛矿太阳能电池中载流子的数目及迁移率，从而制约了钙钛矿太阳能电池效率及稳定性的提升。本综述在对钙钛矿及其缺陷分类简单介绍的基础上，总结了近些年来钙钛矿薄膜钝化的不同策略，希望可以对钙钛矿材料领域的研究人员在选择合适钝化剂方面提供一定的参考。
 
-作者：王开元, 吕 昕, 马国龙, 文 露, 李志强, 王 雷 | DOI：10.13725/j.cnki.pip.2026.04.001 | 发布日期：2026-08-20</description>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-<dc:creator>王开元, 吕 昕, 马国龙, 文 露, 李志强, 王 雷</dc:creator>
-<category>10.13725/j.cnki.pip.2026.04.001</category>
+作者：赵敏, 张伟婷, 边红涛 | DOI：10.13725/j.cnki.pip.2022.01.001 | 发布日期：2022-02-20</description>
+<pubDate>Sun, 20 Feb 2022 00:00:00 +0800</pubDate>
+<dc:creator>赵敏, 张伟婷, 边红涛</dc:creator>
+<category>10.13725/j.cnki.pip.2022.01.001</category>
 </item>
 <item>
-<title>反铁电薄膜材料体系、研究现状及应用展望</title>
-<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/234</link>
-<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/234</guid>
-<description>反铁电材料的研究迄今已有七十余年，其独特的场致相变行为在电介质储能器件、新型信 息器件及热管理器件等领域展现出巨大的应用价值。随着薄膜生长技术的进步以及电子器件小型 化、集成化的发展需求，反铁电薄膜受到越来越广泛的关注。大量研究显示，反铁电薄膜材料展 现出异于块体的新奇物性，同时也面临诸多挑战，如尺寸效应导致反铁电特性在临界厚度以下减 弱甚至消失等。在此基础上，本文系统梳理了反铁电薄膜材料的发展历程，从反铁电性的物理起 源、典型材料体系 (包括钙钛矿结构的 PbZrO3、PbHfO3、NaNbO3、AgNbO3 以及萤石结构的 HfxZr1−xO2 等) 的结构与相变特征，到储能电容器、反铁电存储器、反铁电场效应晶体管、反铁 电隧道结以及电热效应等多元化功能器件应用，进行了全面的归纳与讨论。期待能吸引更多研究 人员关注反铁电薄膜的发展，深入探索其尚未完全揭示的微观机理，共同推动反铁电薄膜新材料、 新器件与新应用的持续突破。
+<title>大尺寸硫醇配体保护金团簇的激发态动力学研究</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/157</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/157</guid>
+<description>纳米金团簇作为桥梁连接了金纳米粒子和单个金原子，对于揭示表面等离子激元共振和金属键的来源具有重要意义。有机配体保护的纳米金团簇为理解金纳米粒子从金属性质到非金属性质的转变提供了理想的研究对象，而处于转变区域的金团簇的激发态动力学还尚待研究。在本文中，我们总结了表现出分子性质，并且尺寸较大（大于100 个金原子）的纳米金团簇的激发态动力学，同时将其与表现出金属性质的金纳米粒子的激发态动力学进行比较。本文通过对处于转变区域的金团簇的电子和振动动力学的描述，进一步讨论了其电子结构。对大尺寸纳米金团簇激发态弛豫机理的深入理解，将有助于理解金属纳米团簇和纳米粒子的光学性质，从而进一步推动这一类功能材料的设计和应用。
 
-作者：马行健, 黄新苗, 李伟伟 | DOI：10.13725/j.cnki.pip.2026.04.002 | 发布日期：2026-08-20</description>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-<dc:creator>马行健, 黄新苗, 李伟伟</dc:creator>
-<category>10.13725/j.cnki.pip.2026.04.002</category>
+作者：周蒙 | DOI：10.13725/j.cnki.pip.2022.01.002 | 发布日期：2022-02-20</description>
+<pubDate>Sun, 20 Feb 2022 00:00:00 +0800</pubDate>
+<dc:creator>周蒙</dc:creator>
+<category>10.13725/j.cnki.pip.2022.01.002</category>
 </item>
 <item>
-<title>固态色心量子传感研究进展</title>
-<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/235</link>
-<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/235</guid>
-<description>量子传感作为量子信息技术的核心分支，借助量子叠加、量子纠缠等量子效应突破经典物 理极限，成功实现物理量的超高精度测量。相较于传统量子传感材料，固态色心材料因嵌入刚性晶 格，具备在室温大气环境下稳定保持量子相干性、良好生物相容性、优异环境耐受性以及长自旋 态相干时间等核心优势，为量子传感产业化落地提供了优质材料支撑。本文首先介绍了量子精密 测量和传感技术的发展趋势，阐述了量子传感的重要性；接着聚焦金刚石氮—空位色心、第 IV 主 族色心以及六方氮化硼色心等典型固态色心量子传感体系，系统介绍了其结构与应用；最后拓展 至其他固态量子传感材料，并对固态色心量子传感的发展前景及面临的挑战进行了展望。
+<title>非富勒烯受体有机光伏体系的激发态动力学</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/158</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/158</guid>
+<description>受益于非富勒烯受体的不断发展，近年来有机光伏器件的性能得到长足进步。传统富勒烯受体有机光伏体系下建立起来的电荷拆分和能量损耗模型，不完全适用于非富勒烯受体体系。我们利用超快光谱学方法，发现在模型体系中，非富勒烯受体畴内非局域激发态代替界面电荷转移态介导了电荷拆分的空穴转移通道，在很小的驱动能下实现高效电荷拆分。非富勒烯体系中双分子复合过程在能量损耗中扮演重要角色，分子氟化设计可以改变能级排列，抑制双分子复合产生的三线态，从而抑制损耗。分子间相互作用调控关键能级位置，可用以调控非富勒烯光伏体系光电流产生机制，有效抑制损耗通道，进一步提升有机光伏体系的效率。
 
-作者：冯子涵, 汪帅岩, 林春丹, 杨振清 | DOI：10.13725/j.cnki.pip.2026.04.003 | 发布日期：2026-08-20</description>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-<dc:creator>冯子涵, 汪帅岩, 林春丹, 杨振清</dc:creator>
-<category>10.13725/j.cnki.pip.2026.04.003</category>
+作者：张圣兵, 张春峰 | DOI：10.13725/j.cnki.pip.2022.01.003 | 发布日期：2022-02-20</description>
+<pubDate>Sun, 20 Feb 2022 00:00:00 +0800</pubDate>
+<dc:creator>张圣兵, 张春峰</dc:creator>
+<category>10.13725/j.cnki.pip.2022.01.003</category>
+</item>
+<item>
+<title>表观遗传修饰核酸碱基的超快激发态动力学研究</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/151</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/151</guid>
+<description>核酸碱基的表观遗传修饰是生命体实现表观遗传功能的重要组成部分，可以直接参与调控细胞分化、基因表达等重要的生理过程。然而，核酸碱基的光稳定性会受表观遗传修饰的影响，相应的碱基可能成为紫外线诱导皮肤癌产生的重要突变位点。因此，研究表观遗传修饰对核酸碱基的光物理与光化学性质的影响具有十分重要的意义。本文综述了近年来本课题组利用超快时间光谱技术结合高精度的量子化学理论计算对一系列表观遗传修饰的核酸碱基激发态动力学性质的研究。研究表明，表观遗传修饰对碱基激发态性质的影响主要分为三个方面：显著增长ππ∗1态的寿命、引入分子内电荷转移态、有效促进单重态到三重态系间窜跃。
+
+作者：王雪力, 潘海峰, 陈缙泉 | DOI：10.13725/j.cnki.pip.2021.05.001 | 发布日期：2021-10-20</description>
+<pubDate>Wed, 20 Oct 2021 00:00:00 +0800</pubDate>
+<dc:creator>王雪力, 潘海峰, 陈缙泉</dc:creator>
+<category>10.13725/j.cnki.pip.2021.05.001</category>
+</item>
+<item>
+<title>二氧化硅微光纤与一维纳米材料集成器件的原理与应用</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/152</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/152</guid>
+<description>微光纤器件由于其优异的光波导特性、较高的机械强度、操作灵活性和易于集成的特性，已经受到越来越多的关注，并且实现了在传感、激光、生物化学等领域的广泛应用。然而，二氧化硅微光纤器件尺寸相对较大、材料折射率较低，使其在微纳尺度的气、液态环境中的应用具有极大的挑战性。一维纳米材料的出现弥补了这一不足，由于其具有更小的尺寸和更高的折射率，基于单纳米线集成的微光纤器件在一些特殊环境中可以实现更高灵敏度和更高空间分辨率，拥有广阔的应用前景。本文从器件制备、耦合原理以及具体应用等方面对纳米线集成的微光纤器件进行了系统的介绍，并简要介绍了国内外以及南京大学近年来在该领域的研究进展。
+
+作者：李丹然, 周康虎, 邢欢, 丁梓轩, 王好尚, 徐飞 | DOI：10.13725/j.cnki.pip.2021.05.002 | 发布日期：2021-10-20</description>
+<pubDate>Wed, 20 Oct 2021 00:00:00 +0800</pubDate>
+<dc:creator>李丹然, 周康虎, 邢欢, 丁梓轩, 王好尚, 徐飞</dc:creator>
+<category>10.13725/j.cnki.pip.2021.05.002</category>
+</item>
+<item>
+<title>畴壁深深是我家</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/153</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/153</guid>
+<description>铁电畴壁 铁性相生铁性畴 同船共梦未强求 闲来忽有新花样 峭壁幽深可放舟
+
+作者：刘俊明 | DOI：10.13725/j.cnki.pip.2021.05.003 | 发布日期：2021-10-20</description>
+<pubDate>Wed, 20 Oct 2021 00:00:00 +0800</pubDate>
+<dc:creator>刘俊明</dc:creator>
+<category>10.13725/j.cnki.pip.2021.05.003</category>
+</item>
+<item>
+<title>采用双核模型研究超重核合成机制</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/147</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/147</guid>
+<description>本文首先介绍了两种描述低能重离子核反应的理论，然后基于这些理论发展了一个描述超重核合成的理论模型，即双核模型(dinuclear system model)。不同于Adamian 的处理，本文的模型采用数值求解主方程的方法来描述重离子的熔合过程，重点讨论了熔合过程中主方程的发展演化，选择一维至三维不同的宏观自由度说明重离子熔合机制，为今后进一步发展模型与预言新核素提供理论依据。
+
+作者：王艺澎, 郭树青, 包小军, 邓军刚, 张鸿飞 | DOI：10.13725/j.cnki.pip.2021.04.001 | 发布日期：2021-08-20</description>
+<pubDate>Fri, 20 Aug 2021 00:00:00 +0800</pubDate>
+<dc:creator>王艺澎, 郭树青, 包小军, 邓军刚, 张鸿飞</dc:creator>
+<category>10.13725/j.cnki.pip.2021.04.001</category>
+</item>
+<item>
+<title>游走于边缘---铁电金属</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/149</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/149</guid>
+<description>铁电畴壁 君问江山美若何 良金铁电各蹉跎 曾经几世无相见 此共登场唱牧歌
+
+作者：刘俊明 | DOI：10.13725/j.cnki.pip.2021.04.003 | 发布日期：2021-08-20</description>
+<pubDate>Fri, 20 Aug 2021 00:00:00 +0800</pubDate>
+<dc:creator>刘俊明</dc:creator>
+<category>10.13725/j.cnki.pip.2021.04.003</category>
+</item>
+<item>
+<title>固体物理学发展简史</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/150</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/150</guid>
+<description>固体物理学研究多体问题，是物理学的重要分支，涉及面极其广泛，也是包括材料科学等在内的多个技术学科的基础。本文论述了固体物理学的发展简史，包括初期发展史、对热性质研 究、魏德曼–弗兰兹定律、晶体微观几何结构的研究历程、自由电子气体模型、固体能带论、对固 体磁性的研究、信息时代、中国固体物理学的发展、固体物理学教材等多个部分，简述了固体物 理学发展中的大事件和具有较大影响力的科学家及其贡献。
+
+作者：石锋, 韩秀君, 张灵翠, 徐越, 张川江 | DOI：10.13725/j.cnki.pip.2021.04.002 | 发布日期：2021-08-20</description>
+<pubDate>Fri, 20 Aug 2021 00:00:00 +0800</pubDate>
+<dc:creator>石锋, 韩秀君, 张灵翠, 徐越, 张川江</dc:creator>
+<category>10.13725/j.cnki.pip.2021.04.002</category>
+</item>
+<item>
+<title>拓扑绝缘体/超导体异质结中的近邻效应</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/144</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/144</guid>
+<description>拓扑超导体自身具有对量子退相干天然的免疫性以及可编织性，这使得它在现代量子计算领域中受到了越来越多的重视，并且成为了下一代计算技术中最有希望的候选者之一。由于拓扑超导态在固有拓扑超导体中相当罕见，因此，当前大部分实验上的工作主要集中在由 s 波超导体与拓扑绝缘体之间通过近邻效应所诱导的拓扑超导体上。本论文中，我们回顾了基于拓扑绝缘体/超导体异质结的拓扑超导体的研究进展。在理论上，Fu 和 Kane 提出，通过近邻效应将 s 波超导体的能隙引入到拓扑绝缘体，可以诱导出拓扑超导电性。在实验上，我们也回顾了一些不同体系中的拓扑超导近邻效应的研究进展。文章的第一部分，我们介绍了一些异质结，包括：三维拓扑绝缘体 Bi2Se3和 Bi2Se3 与 s 波超导体NbSe2 以及 d 波超导体 Bi2Sr2CaCu2O8+δ 的异质结，拓扑绝缘体 Sn1−xPbxTe 与 Pb 的异质结，二维拓扑绝缘体 WTe2 与NbSe2 的异质结。此外，还介绍了 TiBiSe2 在 Pb 上的拓扑绝缘近邻效应。另一部分中，我们对基于拓扑绝缘体的约瑟夫森结进行了回顾，包括著名的基于 Fu-Kane 体系的拓扑绝缘体约瑟夫森结，以及基于约瑟夫森结的超导量子干涉器件。
+
+作者：贺家电, 丁逸凡, 滕博伦, 董鹏, 李逸飞, 张忆文, 吴越珅, 王靖珲, 周翔, 王志, 李军 | DOI：10.13725/j.cnki.pip.2021.03.001 | 发布日期：2021-06-20</description>
+<pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
+<dc:creator>贺家电, 丁逸凡, 滕博伦, 董鹏, 李逸飞, 张忆文, 吴越珅, 王靖珲, 周翔, 王志, 李军</dc:creator>
+<category>10.13725/j.cnki.pip.2021.03.001</category>
+</item>
+<item>
+<title>反铁磁半金属 EuCd2Pn2（Pn = As, Sb）中磁交换诱导的外尔态</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/145</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/145</guid>
+<description>由于丰富的拓扑量子效应及巨大的潜在应用价值，拓扑材料逐渐成为凝聚态物理前沿的研究材料体系。其中，作为与石墨烯具有相似电子结构的材料，三维拓扑半金属吸引了越来越多的研究兴趣。目前已知的拓扑半金属大多为非磁性的，而磁性拓扑半金属数量有限，与非磁性拓扑半金属相比较，研究开展的还比较少。磁性与拓扑之间的相互作用能够导致非常规的物理性质，如反常霍尔效应甚至量子反常霍尔效应等。此外，在一些具有特殊磁结构的拓扑半金属中，施加外磁场能够调制其自旋结构，从而影响其拓扑能带结构。在该综述中，笔者将详细介绍利用外磁场在 EuCd2Pn2 (Pn = As, Sb) 反铁磁半金属材料中通过调制自旋结构从而改变晶体结构对称性来诱导拓扑相变。此外，笔者也将简单介绍包括 GdPtBi 和 MnBi2Te4 在内的几个相关材料。该综述中讨论的外磁场调控的磁交换诱导的拓扑相变不仅有望应用于拓扑器件，也有助于为理解磁性与拓扑态之间的紧密关联提供新的线索，对于设计新的磁性拓扑材料有启发意义。综述最后，笔者对发展磁性拓扑半金属做了一些简单展望。
+
+作者：苏豪, 陈雷明, 夏威, 郭艳峰 | DOI：10.13725/j.cnki.pip.2021.03.002 | 发布日期：2021-06-20</description>
+<pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
+<dc:creator>苏豪, 陈雷明, 夏威, 郭艳峰</dc:creator>
+<category>10.13725/j.cnki.pip.2021.03.002</category>
+</item>
+<item>
+<title>正反重强子对构成的强子分子态能谱</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/142</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/142</guid>
+<description>近二十年来，世界上众多高能物理实验发现了大量超出传统夸克模型的共振结构。为了理解 这些性质奇特的共振结构，科学家们提出了很多方法和模型。其中，因为实验上发现的这些奇特态 大多处在一对强子阈值附近，强子分子态的观点得到了很多关注。本文我们将以粲{反粲强子对为例 来探究哪些系统可以形成分子态，进而给出粲{反粲强子分子态的能谱。我们考虑了所有由 S 波粲 介子、粲重子以及窄的 P 波粲介子构成的粲{反粲强子对。我们假定它们之间的相互作用由介子交 换主导，在最低阶近似下可简化为常数。通过求解常数相互作用的 Bethe---Salpeter 方程，我们可以 找到振幅的极点进而确定该系统分子态的质量。最终我们发现，那些通过轻矢量介子交换在阈值附 近产生吸引力的系统，会存在一个靠近阈值的极点。不同的系统，由于其相互作用强度不同，极点 可能会处于能量复平面的第一黎曼面或者第二黎曼面，分别对应于束缚态或者虚态。我们总共发现 了 229 个强子分子态。很多实验上发现的那些位于粲---反粲强子对阈值附近的共振结构可以很好地 与我们的结果吻合。另外，我们需要强调所预言的一个 ΛcΛc 分子态，这个态可以很好地解释北京正负电子谱仪 (BESIII) 上测量的数据。
+
+作者：董相坤, 郭奉坤, 邹冰松 | DOI：10.13725/j.cnki.pip.2021.02.001 | 发布日期：2021-04-20</description>
+<pubDate>Tue, 20 Apr 2021 00:00:00 +0800</pubDate>
+<dc:creator>董相坤, 郭奉坤, 邹冰松</dc:creator>
+<category>10.13725/j.cnki.pip.2021.02.001</category>
+</item>
+<item>
+<title>重费米子化合物 CemMnIn3m+2n (m = 1, 2, 3; n = 0, 1, 2; M = Co, Rh,Ir, Pt 及Pd) 的角分辨光电子能谱研究</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/143</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/143</guid>
+<description>重费米子材料以其新奇多变的宏观性质，复杂而难以理解的微观物理过程而受到广泛的关注，长期是凝聚态物理研究的重点。角分辨光电子能谱作为一种能够直接探测材料电子结构的实验手段，随着近年来实验技术的高度发展，能量和动量分辨率得到了极大的提高，能够有力地探测到强关联材料中更加精细的电子结构。使用角分辨光电子能谱探测重费米子材料的电子结构，为理解其各种物理过程提供强有力的实验证据，进而推进重费米子理论的发展。本文回顾 Ce 基重费米子材料 CemMnIn3m+2n (m = 1; 2; 3；n = 0; 1; 2；M =Co, Rh, Ir, Pt, Pd) 系列化合物的角分辨光电子能谱研究，包括电子结构的维度、近藤共振、f 电子与导带电子的杂化和电子结构随温度的变化等。
+
+作者：罗洋, 宋姣姣, 赵尹陬, 孟建桥 | DOI：10.13725/j.cnki.pip.2021.02.002 | 发布日期：2021-04-20</description>
+<pubDate>Tue, 20 Apr 2021 00:00:00 +0800</pubDate>
+<dc:creator>罗洋, 宋姣姣, 赵尹陬, 孟建桥</dc:creator>
+<category>10.13725/j.cnki.pip.2021.02.002</category>
+</item>
+<item>
+<title>“薄膜即是界面，界面即是薄膜”：二维有机半导体晶体的研究进展</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/140</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/140</guid>
+<description>自首次于聚乙炔发现导电现象以来，具有共轭结构的有机半导体材料赖其种类丰富多样、 制备工艺简捷低耗、以及优异的机械柔性等特点，在“后硅时代”中有望以先进光电子设备展现 其广阔前景，因而多年来备受学界和产业界的瞩目。如何进一步阐明有机半导体中结构和性能之 间的关系，探索电荷载流子微观动力学行为，构筑高性能、新功能的有机光电子器件，是当下有 机电子学领域的前沿核心问题，也是保证其持续发展的基石。近年来，二维有机半导体晶体材料 在秉持高度有序的分子排列与极低的杂质缺陷浓度等优点的同时，更是以“薄膜即是界面、界面 即是薄膜”为一帜，克服传统体材料在研究与应用中的瓶颈，为揭示材料构性关系及其中基本物 理过程提供了良好的平台，也是实现多样化的新型有机光电子器件的理想材料，有望为微纳电子 领域带来新一轮变革。本文从二维有机半导体晶体的制备工艺、电荷载流子微观动力学行为，再 到新型器件的光电功能应用等方面，综述了最新研究进展，做出总结和展望，并提出目前面临的 挑战及未来研究方向，旨在为进一步深入理论研究，结合有机材料与先进技术，推动有机电子学 的发展提供有益帮助。
+
+作者：裴梦皎, 李雅婷, 鲁姱姱, 张博睿, 王杭之, 李昀, 施毅 | DOI：10.13725/j.cnki.pip.2021.01.001 | 发布日期：2021-02-20</description>
+<pubDate>Sat, 20 Feb 2021 00:00:00 +0800</pubDate>
+<dc:creator>裴梦皎, 李雅婷, 鲁姱姱, 张博睿, 王杭之, 李昀, 施毅</dc:creator>
+<category>10.13725/j.cnki.pip.2021.01.001</category>
+</item>
+<item>
+<title>MAX 相陶瓷的结构、制备及物理性能研究</title>
+<link>https://pip.nju.edu.cn/CN/abstract/article/1000-0542/141</link>
+<guid isPermaLink="true">https://pip.nju.edu.cn/CN/abstract/article/1000-0542/141</guid>
+<description>MAX 相陶瓷因具有独特的 MX 片层与A 片层交替堆叠的晶体结构，使其兼具金属和陶 瓷的优良特性，如良好的导热导电性、可加工性，同时具有良好的抗氧化性、耐腐蚀性以及耐 摩擦磨损等性能，具有非常广泛的应用前景。本文首先介绍了 MAX 相陶瓷材料的种类与晶体 结构，并简述了近几年新发现的 MAX 相陶瓷材料以及制备手段的发展动态。之后从 MAX 相 物理性能的角度出发，重点综述了几种典型 MAX 相陶瓷材料的弹性性能、电学性能、热学性 能、磁性能以及抗辐照性能的研究进展。此外，进一步介绍了MAX 相的二维衍生物 MXene 的 衍生过程、超导性以及其在电化学储能、催化领域的研究进展。最后，本文从探索 MAX 相材 料新结构的多样性、MAX 相物理性能及相关理论计算、MXene 二维材料以及相应的制备、表 征和应用等方面，展望了 MAX 相陶瓷材料的潜在研究方向及应用前景，为 MAX 相和 MXene 材料的深入研究提供了新的思路。
+
+作者：田莉, 付超, 李月明, 范晓星, 王恩哥, 赵国瑞 | DOI：10.13725/j.cnki.pip.2021.01.002 | 发布日期：2021-02-20</description>
+<pubDate>Sat, 20 Feb 2021 00:00:00 +0800</pubDate>
+<dc:creator>田莉, 付超, 李月明, 范晓星, 王恩哥, 赵国瑞</dc:creator>
+<category>10.13725/j.cnki.pip.2021.01.002</category>
 </item>
 </channel>
 </rss>

@@ -3,262 +3,339 @@
 <channel>
 <title>电源技术 — 最新发布</title>
 <link>https://manu70.magtech.com.cn</link>
-<description>电源技术 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 23 条。</description>
+<description>电源技术 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 30 条。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 17:27:47 +0800</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 14:58:57 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
-<title>电化学储能电池多层级安全标准体系研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2448</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2448</guid>
-<description>随着全球能源结构持续向高比例可再生能源加速转型,电化学储能已成为新型电力系统的关键支撑装备。其中,以磷酸铁锂和三元体系为代表的锂离子电池因其能量密度高、成本下降快、产业链成熟,在发电侧、电网侧和用户侧储能中占据主导地位。然而,近年来全球频发的大规模储能火灾与爆炸事件暴露出储能系统在热管理、系统集成、运行控制和安全标准体系方面的明显短板。结合典型事故案例总结热失控链式蔓延的触发机制与传播规律,系统对比中国、美国及欧洲的储能安全测试标准体系,明确国内在单体电池测试方面已形成较为完整的框架,但在系统级热蔓延验证、环境适应性评估及全生命周期安全治理等方面仍需加强。基于此,提出包括系统级热扩散试验、多气候适应性标准体系建设、人工智能(artificial intelligence, AI)+数字孪生主动安全策略、运维管理与退役规范化以及标准国际协同等建议,以期为我国储能产业高安全性、高质量发展提供参考。
+<title>中国氢燃料电池全产业链发展现状及创新趋势</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2183</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2183</guid>
+<description>围绕标准体系构建、示范应用推进、多元化场景拓展及技术创新趋势四大维度,系统梳理和分析了中国氢燃料电池技术的发展现状、应用成果与未来演进方向。研究表明,我国已建立覆盖氢能、整车、关键部件及核心材料的全链条标准体系,依托五大示范城市群,成功推动技术规模化应用落地。燃料电池汽车在续航里程、功率密度等关键性能指标上实现显著跃升,燃料电池堆、空气压缩机等核心部件国产化率超 90%,质子交换膜、炭纸、催化剂等核心材料国产化进程加速。与此同时,技术应用场景持续向多领域延伸,在船舶、轨道交通、固定发电、无人机及两轮车等领域完成示范验证,充分体现其技术可行性与碳减排效益。未来,液氢/换氢等新型补能模式的成熟、低成本-长寿命技术路线的突破、人工智能与燃料电池技术的深度融合,以及燃料电池乘用车的应用与推广,将成为驱动我国氢燃料电池技术迈向更大规模化的关键方向。
 
-作者：陈文涛、韦振、李谦、刘仕强 | DOI：10.3969/j.issn.1002-087X.2026.10.001 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>陈文涛</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.001</category>
+作者：焦道宽、何云堂、王佳、张妍懿、郝冬 | DOI：10.3969/j.issn.1002-087X.2025.11.001 | 发布日期：2025-11-20</description>
+<pubDate>Thu, 20 Nov 2025 00:00:00 +0800</pubDate>
+<dc:creator>焦道宽</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.11.001</category>
 </item>
 <item>
-<title>硫化物全固态电池技术进展</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2449</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2449</guid>
-<description>硫化物全固态电池因其高离子电导率、良好可加工性及宽温域适应性,成为下一代高比能量、高安全性储能体系的关键候选。系统综述了其在材料体系、电芯结构与制备工艺方面的进展与挑战,重点分析了电解质空气/电化学稳定性提升、负极体积膨胀效应抑制及正极界面动力学调控等关键技术突破,并探讨了双极堆叠与干法电极工艺对比能量的提升效能,强调先进工艺与专用装备自主研发是实现规模化生产的关键。最后,从材料-界面协同调控、工艺装备革新及产业化路径进行展望,旨在为硫化物全固态电池领域的基础研究、技术迭代与工程化应用提供理论支撑与实践指引。
+<title>氢燃料电池混合动力系统与能量管理策略研究综述</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2184</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2184</guid>
+<description>氢燃料电池(PEMFC)与动力电池构成的混合动力系统,其系统设计与能量管理策略的协同优化是提升整体效率、延长系统寿命及改善动态响应性能的关键。首先系统总结了燃-锂混合动力系统的拓扑结构分类及应用,剖析了不同拓扑结构的关键问题。根据问题建立“拓扑-控制”的逻辑关系,为能量管理策略优化设计提供基础。重点对并联和混合两种拓扑结构的能量管理研究方法展开讨论和分析：对以燃料电池为主要供能单元的并联式混合动力系统,研究了其应用与优化设计,强调需综合优化燃料电池的工作状态以提升混合动力系统的效率与稳定性。对混合式动力系统,围绕功率需求预测、能量调度、电池健康管理和系统优化等四个关键方面展开分析,提出建立多目标优化的自适应能量管理体系。通过典型案例的研究与工程应用结合,提高混合动力系统的能源经济性。研究表明：具备在线学习与自适应性的智能能量管理策略,是未来实现混合动力系统性能跃升的重要研究方向。
 
-作者：刘佳 | DOI：10.3969/j.issn.1002-087X.2026.10.002 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>刘佳</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.002</category>
+作者：贾秋红、鲁清华、汪如君、陈义、王谷城、韩明 | DOI：10.3969/j.issn.1002-087X.2025.11.002 | 发布日期：2025-11-20</description>
+<pubDate>Thu, 20 Nov 2025 00:00:00 +0800</pubDate>
+<dc:creator>贾秋红</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.11.002</category>
 </item>
 <item>
-<title>钠离子电容器用碳基电极材料的研究进展</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2450</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2450</guid>
-<description>碳基钠离子电容器因结合了钠离子电池高能量密度及电容器高功率的特点而备受关注。低成本高性能碳基电极材料的设计与制备是推动钠离子电容器进一步应用的关键。在归纳钠离子电容器储能机理及其对电极材料要求的基础上,对碳基材料及其改性方法进行了综述,并对其发展趋势进行了展望。
+<title>氢能在轨道交通领域的应用现状及技术研究</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2185</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2185</guid>
+<description>氢能作为一种低排放、零污染的新型动力源,受到各行业的青睐,其在道路交通、船舶、航空等领域均有应用,但相关技术在轨道交通装备上的应用尚处于起步阶段。对国内外氢能轨道交通的应用现状进行了阐述,并针对轨道交通装备大功率、多工况需求,对氢燃料电池多堆集成技术、动力源能量分配技术等进行了深入研究。
 
-作者：罗远荣、钏星、牛振勇、彭依明、张扬 | DOI：10.3969/j.issn.1002-087X.2026.10.003 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>罗远荣</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.003</category>
+作者：刘建华、汤丽娟、李军、束昊昱 | DOI：10.3969/j.issn.1002-087X.2025.11.003 | 发布日期：2025-11-20</description>
+<pubDate>Thu, 20 Nov 2025 00:00:00 +0800</pubDate>
+<dc:creator>刘建华</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.11.003</category>
 </item>
 <item>
-<title>基于多尺度卷积与通道注意力的锂电池SOH轻量化预测框架</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2451</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2451</guid>
-<description>针对现有锂离子电池健康状态(SOH)预测方法难以有效捕捉退化过程的多尺度时序演化,且缺乏对多维通道特征的精细化判别的问题,提出一种结合多尺度卷积与高效通道注意力(efficient channel attention,ECA)的轻量化框架。首先,提取恒流充电统计量、增量容量(IC)曲线峰值及充电时间等健康特征作为输入;其次,设计MSConv-ECA架构,利用MSConv的并行卷积提取多尺度时域特征,并通过ECA自适应捕捉通道间相关性,在保持低参数量的同时强化了关键退化信息的表征。实验证明,该方法在NASA和CALCE数据集上均实现了高精度的SOH预测,均方根误差(RMSE)分别为0.716 1%和1.259 7%;且相较于MSConv-Transformer模型,所提框架的模型参数量减少了约44.9%,训练时间缩短了38.3%,极大地降低了计算复杂度。研究结果为BMS提供了一种兼顾高精度与高效率的端侧部署方案。
+<title>基于卷积神经网络的锂离子电池寿命多任务预测</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2155</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2155</guid>
+<description>为了加速锂离子电池技术发展、保证电池长期可靠运行,准确预测电池的循环寿命至关重要。然而,锂离子电池老化机制的多样性、制造和测试设备的差异以及工况条件的差异,导致电池寿命预测难以准确。要实现准确的电池寿命预测,需要合理的数据描述和有效的预测算法。提取初始充电循环的电压、电流和温度以及其在不同循环的差异作为输入特征描述电池的状态,基于多任务学习框架,使用三维卷积神经网络(3DCNN)和二维卷积神经网络(2DCNN)融合的模型自动提取输入曲线中的特征,挖掘不同特征和循环之间的关系,从而预测电池寿命。结果表明,所提出的方法在不同电池不同充电策略下的早期预测(20个循环)误差可达到5.01%。
 
-作者：江铭、王萌、刘铭扬、高飞、苏岳锋 | DOI：10.3969/j.issn.1002-087X.2026.10.004 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>江铭</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.004</category>
+作者：王鹏程、蓝宇啸、吴长风、蔡翔、孙聪聪、卢光波、王铈汶 | DOI：10.3969/j.issn.1002-087X.2025.09.021 | 发布日期：2025-09-20</description>
+<pubDate>Sat, 20 Sep 2025 00:00:00 +0800</pubDate>
+<dc:creator>王鹏程</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.09.021</category>
 </item>
 <item>
-<title>基于PWM开关振荡的锂电池组单体芯温在线监测方法研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2452</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2452</guid>
-<description>芯温是反映锂电池安全、高效、可靠运行的重要状态变量。为在线安全及时获取锂电池组中多个单体的芯温信息,提出一种基于PWM开关振荡的锂电池组单体芯温在线监测新方法。首先人为构建各电池单体的RLC谐振网络,然后通过非接触方式在线提取电池系统电力电子变换器PWM自激开关振荡电流并估计锂电池单体高频阻抗,最后基于高频阻抗温敏特性在线连续监测单体芯温。锂电池组单体温度不均衡实验表明,该方法可在不影响系统正常运行的情况下实时在线发现锂电池单体间的温度异常,为锂电池故障预警与保护提供支持。
+<title>基于随机森林模型的锂离子电池放电容量预测</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2156</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2156</guid>
+<description>放电容量对于评估电池性能至关重要,需要对放电容量进行准确预测以便优化电池管理,从而延长电池使用寿命。锂离子电池放电容量的衰减速率无线性规律且受多因素影响,难以准确预测;而广泛应用于此类回归问题的反向传播(BP)神经网络模型易出现过拟合现象。构建了基于随机森林算法的放电容量预测模型,采用递归特征消除(RFE)方法优化特征组合,解决高维数据带来的模型过拟合问题,并引入K折交叉验证提升模型泛化能力。采用某储能锂离子电池1 800次循环数据进行实验,并与BP神经网络模型的预测情况进行对比分析,以验证随机森林(RF)预测模型较BP神经网络模型具有更优异的预测性能。结果表明：优化后的RF模型决定系数(R2)达 0.97,均方根误差(RMSE)为 0.062,平均绝对误差(MAE)为 0.28,精准刻画了不同工况下放电容量的衰减规律,并且较BP神经网络模型具有更好的预测效果,为锂离子电池放电容量预测提供了可靠的数据驱动方法。
 
-作者：谢强、李豪、赵怀健、向大为 | DOI：10.3969/j.issn.1002-087X.2026.10.005 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>谢强</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.005</category>
+作者：赵金诺、王岩、李阳 | DOI：10.3969/j.issn.1002-087X.2025.09.022 | 发布日期：2025-09-20</description>
+<pubDate>Sat, 20 Sep 2025 00:00:00 +0800</pubDate>
+<dc:creator>赵金诺</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.09.022</category>
 </item>
 <item>
-<title>循环对NCM622/石墨软包锂电池过充热失控行为影响研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2453</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2453</guid>
-<description>为探究循环老化对锂离子电池过充安全性的影响,以53 Ah NCM622/石墨软包电池为对象,对比新鲜电池与循环250次老化电池1 C过充下的热失控行为及温度演变,结合充放电测试、热电偶测温及COMSOL电-热耦合仿真,将过充划分为四阶段。老化电池热失控触发时间提前,热失控阶段平均温升速率33 ℃/s(新鲜电池5 ℃/s),峰值温度高出约450 ℃;循环老化致电池内阻增大35%、SEI膜稳定性下降及正极结构损伤,协同降低热失控触发壁垒、加剧产热,明确其对过充各阶段产热机制的影响规律,据此提出的安全优化策略为电池系统安全性设计提供理论依据。
+<title>锂离子电池三元正极材料改性研究进展</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2157</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2157</guid>
+<description>锂离子电池三元正极材料具有比容量高、能量密度高的优点。然而,在长期循环中,三元正极材料面临着阳离子混排、界面副反应以及结构稳定性不足等挑战,这在很大程度上抑制了锂离子电池性能的持续提升。当今研究表明,元素掺杂和表面包覆等改性方法可以有效改善其电化学性能。综述了近几年来三元正极材料改性研究的进展,特别是元素掺杂和表面包覆等方法对材料性能的影响,系统总结了三元正极材料的多种改性方案并进行了深入的分析,为未来的研究方向及三元正极材料的产业化提出了建议。
 
-作者：王浩南、杨烨、卢苏阳、李根鹏 | DOI：10.3969/j.issn.1002-087X.2026.10.006 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>王浩南</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.006</category>
+作者：林俊炜、叶子贤、丁翔 | DOI：10.3969/j.issn.1002-087X.2025.10.001</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>林俊炜</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.001</category>
 </item>
 <item>
-<title>314 Ah磷酸铁锂电池热失控及产气特性研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2454</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2454</guid>
-<description>为研究大容量磷酸铁锂电池的热失控与产气特性,在开放环境与密闭空间内过热诱导314 Ah磷酸铁锂电池热失控,对热失控行为、热特性及产气特性进行分析。结果表明：磷酸铁锂电池在安全阀开启与剧烈产气间存在过渡期,无外界点火源不会自燃;点燃后形成喷射火,燃烧持续585 s,最高火焰温度达993.4 ℃。热失控由局部向整体蔓延,受热面先触发热失控,热量传递使非受热面温升速率更高,热释放速率(heat release rate,HRR)峰值达119.1 kW,总释热量(total heat release,THR)为12.483 MJ。电池产气总量约为182.88 L,主要成分为H2、CO2、CO及烷烃类气体,其中H2与CO2体积分数分别高达55.97%与23.26%,混合气体爆炸极限为5.02%~52.86%,在受限空间内遇点火源具有极高燃爆风险。研究结果可为大容量磷酸铁锂电池的热失控防护与消防安全设计提供数据支撑。
+<title>新能源汽车储能系统快充策略研究进展</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2158</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2158</guid>
+<description>锂离子电池作为电动汽车的核心储能部件,安全、快速且高效的充电是解决电动汽车里程焦虑的核心问题。然而,快速充电会引起锂离子电池副反应,加速储能容量和使用寿命衰减,并引发一系列的安全问题。因此,明确快速充电工况下动力电池容量衰减机制,构建合理的电极结构、精准调控电解液类型、结合多目标合理优化充电策略成为了研发锂离子电池快充技术的关键。综述了新能源汽车储能系统快充策略研究进展：基于电极材料结构调控,提升材料的离子/电子电导率或缩短电极材料内部Li+转移路径,加快锂离子电池充电速率;通过调控添加剂类型、锂盐浓度、探寻新型电解质等方式,优化电极-电解液界面结构,实现锂离子电池快充;讨论了不同类型的充电策略,缩短充电时间,有效控制充电过程中的安全性。
 
-作者：宋浩宇、杨凯、张明杰、陈浩、魏斌 | DOI：10.3969/j.issn.1002-087X.2026.10.007 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>宋浩宇</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.007</category>
+作者：马鹏飞、王伟、郭辉 | DOI：10.3969/j.issn.1002-087X.2025.10.002</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>马鹏飞</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.002</category>
 </item>
 <item>
-<title>纯电重卡动力电池蛇形流道散热分析与优化</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2455</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2455</guid>
-<description>为了改善某纯电动商用车动力电池包的散热能力,降低电池模组冷却系统的能耗,以230 Ah方形磷酸铁锂电池为研究对象,提出了一种二进二出式新结构液冷板,建立了液冷板电池模组冷却系统的仿真模型。探究了冷却液入口流速、长宽比、流道数量与冷却液入口温度等对电池模组的散热特性影响,并通过正交试验对结果进行了优化。结果表明：该液冷板在满足电池组散热能力的同时能够较好地控制液冷板压降;新结构较传统蛇形流道温度明显降低,最高温度降低2.18 ℃,最大温差降低2.72 ℃,同时,压降大幅降低。基于正交试验优化后的结构最高温度可以降低2.51 ℃,最大温差降低2.77 ℃。
+<title>锂离子电池防热失控专利技术分析</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2159</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2159</guid>
+<description>基于专利数据,分析了锂离子电池防热失控技术的发展态势,揭示了关键技术分支及其创新点。从宏观层面分析了全球主要国家/地区的专利申请趋势、重要申请人及其技术构成,分析了中美日韩欧的专利流向和各技术分支发展态势。从关键技术层面剖析了材料优化、结构改进、热管理等技术分支的研究进展。结果显示,中国企业在锂离子电池防热失控技术领域表现突出,专利申请量占比62%,但国际化布局不足。材料优化仍为核心,而热管理、电池管理系统和消防技术正成为新的增长引擎。固态电解质、阻燃电解液等方向已形成显著优势。建议优化海外专利布局,强化高增长领域的研发投入,并加强跨学科合作,推动技术向系统化防护发展。
 
-作者：冉稳江、魏胜利、杨赠长、谢渭博 | DOI：10.3969/j.issn.1002-087X.2026.10.008 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>冉稳江</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.008</category>
+作者：苏建明、邱慧 | DOI：10.3969/j.issn.1002-087X.2025.10.003</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>苏建明</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.003</category>
 </item>
 <item>
-<title>石蜡基阻燃复合相变材料在电池热管理中的作用机制研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2456</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2456</guid>
-<description>制备了一种兼具高导热性、优异阻燃性及良好结构稳定性的阻燃复合相变材料,用于锂离子电池模组热管理。该材料以石蜡为相变基体,苯乙烯-乙烯-丁烯-苯乙烯共聚物为柔性支撑骨架,膨胀石墨为导热增强剂,采用甲基MQ硅树脂与三聚氰酸作为协同阻燃体系。实验结果表明,当膨胀石墨、甲基MQ硅树脂与三聚氰酸的质量分数分别为2%、14%和14%时,所得复合材料(PSEF2)性能最优：相变潜热为141.15 J/g,导热系数为1.112 W/(m·K)。在1 C、1.5 C和2 C放电倍率下,采用该材料的电池模块最高温度分别为41.9、48.2和56.0 ℃,最大温差仅为5.0、7.2和8.8 ℃,表现出优异的温度控制与均温性能。该研究为动力电池热管理提供了一种高效、安全的材料解决方案,在新能源汽车等领域具有广阔的应用前景。
+<title>高比能量锂金属电池研究进展</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2160</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2160</guid>
+<description>锂金属电池凭借锂金属负极的高理论比容量(3 862 mAh/g)是实现高能量密度电池器件的关键体系,但锂枝晶引发的内短路和热失控风险阻碍了其工程化应用。综述了锂金属电池的研究进展。负极方面,三维微纳结构集流体通过物理限域引导锂均匀沉积;元素掺杂降低了锂成核过电势并调控界面化学反应;锂合金提升了电池循环稳定性。电解液工程中,介电调控策略优化了界面电场,聚合体系增强了还原动力学。隔膜方面,涂层优化和超薄复合设计改善了锂离子传输。安全性研究方面,高浓度电解液、原位耐高温界面和阻燃添加剂显著提高了电池热失控触发温度。这些材料与界面层面的突破为高比能锂金属电池的安全应用奠定了基础。
 
-作者：李绪雄、何锐峰、刘洪丽、陈培辉、梁倍揾、刘效洲、李新喜 | DOI：10.3969/j.issn.1002-087X.2026.10.009 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>李绪雄</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.009</category>
+作者：杨宗凡、徐德华、付甜甜、赵子寿、刘兴江 | DOI：10.3969/j.issn.1002-087X.2025.10.004</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>杨宗凡</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.004</category>
 </item>
 <item>
-<title>基于VMD-CNN-Transformer的电动汽车电池RUL预测</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2457</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2457</guid>
-<description>电动汽车动力电池的剩余使用寿命(RUL)是电池健康管理中不可或缺的重要指标。为提高电池RUL的预测精度,提出一种基于滚动变分模态分解(VMD)和CNN-Transformer的预测方法。利用VMD算法将预处理后的数据进行滚动特征分解,得到不同趋势和频率的多种模态分量,有效降低数据非线性和噪声的影响,提升数据的平滑性。通过Spearman相关系数法计算不同分量之间的相关性。建立CNN-Transformer模型进行锂电池的剩余寿命预测,利用CNN模型提取不同模态分量的局部信息,利用Transformer模型建模各模态分量间的长期依赖关系。数据集大小直接影响模型的训练效果,为解决电池容量衰减数据不足的问题,利用WGAN-GP算法生成数据,用于模型的预训练,利用真实容量数据进行微调,提升模型预测效果。通过马里兰大学所提供的CALCE锂电池数据集和生成的数据集进行仿真测试,并对不同算法的预测结果进行对比,实验结果表明该方法能够精确预测锂电池RUL的变化趋势。
+<title>钠离子电池P2型层状氧化物正极材料改性研究进展</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2161</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2161</guid>
+<description>P2型层状氧化物正极材料具有理论比容量高、离子电导率高、结构稳定等优点,被认为是最具发展潜力的钠离子电池正极材料。但是在充放电过程中,P2型正极材料出现的微裂纹、相变、表面副反应等现象使其电化学性能迅速衰退。鉴于此,总结了近年来关于钠离子电池P2型层状氧化物正极材料改性的研究进展,从掺杂改性、熵调控、表面包覆、结构调控、相调控、比例调控、共改性等方面阐述了不同改性策略对P2型层状氧化物正极材料电化学性能的影响,为P2型正极材料的改性研究提供了参考。
 
-作者：李练兵、高欣 | DOI：10.3969/j.issn.1002-087X.2026.10.010 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>李练兵</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.010</category>
+作者：唐浩、后小毅、徐源、张一博、赵亮、谈燕、王淼、康宇龙 | DOI：10.3969/j.issn.1002-087X.2025.10.005</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>唐浩</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.005</category>
 </item>
 <item>
-<title>融合应力的跨工况磷酸铁锂电池SOC估算</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2458</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2458</guid>
-<description>锂离子电池在复杂工况下的荷电状态(SOC)估算精度直接影响电池管理系统的安全性与可靠性。针对传统仅依赖电压、电流特征的SOC估算方法在跨工况场景下鲁棒性不足的问题,提出一种融合应力特征的ALA-BiTCN-BiGRU跨工况SOC预测方法。将电压、电流与应力信号共同作为模型输入,充分挖掘电化学-力学耦合信息,并引入人工旅鼠算法(artificial lemming algorithm,ALA)对BiTCN-BiGRU网络关键超参数进行全局寻优,以提升模型的时序特征提取能力与泛化性能。基于FUDS、UDDS、DST和NEDC四种动态工况构建跨工况测试集,并采用留一工况法进行验证。实验结果表明,融合应力特征后模型预测误差显著降低,在未知工况下仍能保持较高精度与稳定性,验证了所提方法的有效性与工程应用潜力。
+<title>电动汽车集成热管理研究现状及展望</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2162</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2162</guid>
+<description>随着全球能源需求增加,纯电动汽车因其高能量效率和环保优势受到关注。然而,电池性能对温度敏感,空调系统在寒冷条件下也需消耗大量电能,电动汽车续航里程受限,合理的热管理系统方案对续航里程、汽车安全性和乘员舒适性至关重要。分析了电动汽车的主要产热源,并对其特点进行了分析;探讨了电动汽车热源的整合方案,主要分为双热源与多热源系统;分别介绍了不同集成方案的设计思路和优缺点,分析了集成热管理的控制策略;对电动汽车热管理方向进行了展望,总结了热管理集成化的发展趋势及其重要性。
 
-作者：刘子洋、乔辛磊、董千里、王鹿军 | DOI：10.3969/j.issn.1002-087X.2026.10.011 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>刘子洋</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.011</category>
+作者：王德军、曹阳阳、许成林、孙浩翰、栗欢欢 | DOI：10.3969/j.issn.1002-087X.2025.10.006</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>王德军</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.006</category>
 </item>
 <item>
-<title>外部压力调控NCM811||Si/C软包电池体积膨胀及寿命的研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2459</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2459</guid>
-<description>探究了外部机械压力对NCM811||Si/C软包锂离子电池循环寿命的影响及其作用机理。针对Si/C负极在循环过程中剧烈的体积膨胀导致电池性能衰退的问题,通过对软包电池施加不同初始压力进行充放电测试。研究结果表明,施加较高的外部压力能有效抑制循环过程中因电极体积变化引起的电池整体膨胀,显著提升电池的容量保持率。结合原位压力监测与失效分析发现,外部压力通过调控电极界面的接触状态与成分演化,减少了活性锂的不可逆损失。在高压力约束下,电极界面结构保持稳定。反之,在低压力下则出现显著界面膨胀与接触失效。研究揭示了外部压力通过抑制体积膨胀来优化界面特性,进而提升循环稳定性的内在机制,为高容量硅基负极电池在工况条件下的应用提供了有效的性能优化策略。
+<title>磷酸铁锂碳包覆层对草酸锂补锂性能的影响</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2163</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2163</guid>
+<description>电极导电性对草酸锂(Li2C2O4, LCO)补锂剂的补锂效果至关重要,但这两个因素之间是否呈现正相关关系仍存在争议。采用水热合成法制备了4种不同碳包覆含量的磷酸铁锂(LFP),揭示LCO的补锂效果与电极导电性能之间的关联机制。研究结果表明,磷酸铁锂电极的导电性与草酸锂的补锂效果并不成正相关关系。实际上,随着碳含量的增加,LCO的补锂容量先增加后减小。当碳包覆量为2%(质量分数)时,LCO几乎无补锂容量,而在碳含量为0.54%时,LCO提供了8.97mAh/g的补锂比容量。
 
-作者：蔡淑军、丁正平、司玉峰、刘家琛、黄依、任玉荣 | DOI：10.3969/j.issn.1002-087X.2026.10.012 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>蔡淑军</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.012</category>
+作者：韩鹏、王立帆、詹纯 | DOI：10.3969/j.issn.1002-087X.2025.10.007</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>韩鹏</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.007</category>
 </item>
 <item>
-<title>商用储能电芯过充试验研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2460</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2460</guid>
-<description>以商用储能方壳电芯为研究对象,基于GB/T 36276-2023标准,深入探讨了试验夹具及其预紧作用对电芯过充安全性的影响。通过对比无夹具、有夹具无预紧和有夹具有预紧三种工况下的过充试验,揭示了夹具和预紧力在抑制电芯过充热失控中的关键作用。研究发现,夹具的使用显著降低了电芯过充时的温升速率和热失控的剧烈程度,而预紧力的施加进一步优化了这一效果,显著延缓了热失控的发生并减轻了其危害。电极材料微观形貌分析表明,夹具与预紧作用能够有效维持电极材料的完整性,减少热失控引发的活性物质脱落和结构损伤。研究结论为储能电芯过充安全评估提供了科学依据,并为完善过充测试标准、提高系统安全性和可靠性提供了理论支持。
+<title>离子液体电沉积法制备SnCu/石墨极片</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2164</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2164</guid>
+<description>采用电化学沉积法将SnCu合金引入石墨电极基体,构建SnCu/石墨电极体系,用于补偿负极因固体电解质界面(SEI)膜的形成引起的不可逆容量损失,以提高电池的比容量。采用X射线衍射光谱法(XRD)、扫描电子显微镜法(SEM)对SnCu/石墨极片进行了表征,组装扣式电池后,对电池进行充放电测试。结果表明,采用离子液体电沉积法可以在石墨负极片上成功沉积SnCu合金,制备SnCu/石墨极片,且在锡盐浓度为1mol/L,铜盐浓度为0.5mol/L,电流密度为2.5mA/cm2,电沉积时间为30min的条件下,SnCu/石墨极片的比容量最高。
 
-作者：顾泽波、黄鲲、张思瑶、唐昕雅、刘国荣、冯皓、陈浩、王文涛等 | DOI：10.3969/j.issn.1002-087X.2026.10.013 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>顾泽波</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.013</category>
+作者：郑睿鹏、徐艳、徐加民、吴涛、林双 | DOI：10.3969/j.issn.1002-087X.2025.10.008</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>郑睿鹏</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.008</category>
 </item>
 <item>
-<title>石墨烯改性固态电池负极铜箔的界面机制研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2461</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2461</guid>
-<description>采用溶液涂覆法制备了一系列质量分数分别为70%、80%及90%的石墨烯改性铜箔(G-Cu),以增强集流体在硫化物固态电池中界面稳定性,并系统分析涂层微观结构对界面保护机制及电化学性能的影响。测试结果表明,80%G-Cu样品在涂层致密化程度与孔隙率之间实现了最佳权衡;80%G-Cu在静态界面接触及动态锂沉积/剥离循环中均表现出优异的界面相容性、低界面极化以及长循环寿命。这主要归因于其均匀的孔隙结构在有效阻断铜集流体与硫化物电解质直接接触,构建高效的锂离子传输通道,显著抑制了界面副反应与枝晶渗透。本研究表明精确调控石墨烯与粘结剂的质量比是提升集流体在硫化物全固态电池中电化学兼容性的关键途径,并确定80%为石墨烯涂层的最优质量占比。
+<title>一种可提升磷酸铁锂电池高温性能的电解液功能添加剂</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2165</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2165</guid>
+<description>随着磷酸铁锂(LiFePO4)电池在储能和动力市场的广泛应用,其在高温等极端环境下的性能受到越来越多关注。基于此需求,对LiFePO4软包电池45℃高温循环性能进行了研究,选用2,3‑二氢吡啶并[2,3‑d][1,3]唑‑2‑酮(2,3-Dihydropyrido[2,3-d][1,3]oxazol-2-one,DPT)作为功能型添加剂加入电解液中,其具有较高的还原电位[1.47V,碳酸亚乙烯酯(VC)还原电位为1.17V],构筑含有LiNxOy、Li3N、LixPOyFz和LiF等的固体电解质界面膜(SEI膜)。对比不同添加量[0%、0.3%、0.5%和1.0%(质量分数)]的DPT对10.24W下软包电芯高温(45℃)循环性能的影响,其中DPT添加量为0%、0.3%和0.5%的软包电芯分别循环232、432和971次后,容量保持率达到了60%,而DPT添加量为1.0%的软包电芯在循环1000次时仍然具有80%的容量保持率。但是DPT添加量增加会增大充放电阻抗,综合考虑,DPT的添加量为0.5%。
 
-作者：耿振坤、刘可欣、刘洪丽、曾玥瑜、张国庆、李新喜 | DOI：10.3969/j.issn.1002-087X.2026.10.014 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>耿振坤</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.014</category>
+作者：王鹏程、王其超、王铈汶 | DOI：10.3969/j.issn.1002-087X.2025.10.009</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>王鹏程</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.009</category>
 </item>
 <item>
-<title>低变质程度烟煤基钠离子电池硬碳负极材料</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2462</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2462</guid>
-<description>将煤基硬碳用作高性能钠离子电池负极材料,对推动钠离子电池商业化具有重要意义。然而,由于钠离子半径较大、扩散动力学缓慢,且其存储机制尚不明确,该类负极材料的比容量、倍率性能和循环稳定性仍有待提升。以低变质程度烟煤为原料,通过纯化与碳化处理,制备出综合性能优异的钠离子电池用硬碳负极材料。实验结果表明：随着原料中干燥基固定碳含量的增加,所得硬碳材料的比表面积减小、孔隙结构减少;将其用作钠离子电池负极时,比容量可达284 mAh/g,首次库仑效率为85.8%,2 C/0.1 C容量保持率(2 C容量与0.1 C容量的比值)为65%,循环100次后容量保持率为91.2%。储钠机制分析表明,煤基硬碳的容量主要由表面吸附主导的斜坡段容量与插层-孔填充复合机制贡献的平台段容量共同构成。
+<title>航天器用INR33650电池电解液质量对性能影响研究</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2166</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2166</guid>
+<description>针对航天器用INR33650锂离子电池,系统探究电解液质量(12~24g)对其性能的影响。通过化成、老化、过充及循环测试,发现电解液质量明显影响放电容量、电压平台及内阻,但对过充安全性能、循环寿命影响较小。电解液质量为16~20g时,电解液充分浸润电极,电性能稳定、循环寿命长、比能量高。电解液质量低于16g时,储气空间增大,部分抵消了电极浸润不足对循环寿命的影响,但过充电池温升较高(31.1℃)。电解液质量增至22~24g(壳体加高5mm)虽可缓冲电极的机械应力、增大储气空间,略微提升循环寿命,但不符合轻量化要求。综合分析,确认INR33650电池最佳电解液质量为16~20g(电解液体积系数为1.31~1.65),为航天器用高比能电池设计提供了技术支撑。
 
-作者：潘广宏、董春伟、贺国峰、孔俊丽、苏志江、董阳 | DOI：10.3969/j.issn.1002-087X.2026.10.015 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>潘广宏</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.015</category>
+作者：吴金伟、檀帅林 | DOI：10.3969/j.issn.1002-087X.2025.10.010</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>吴金伟</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.010</category>
 </item>
 <item>
-<title>液流电池用复合石墨双极板制备及其性能研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2463</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2463</guid>
-<description>以膨胀石墨和石墨烯为导电材料,环氧-丙烯酸酯为粘结剂,采用辊压-浸渗联合手段成功制备出全钒液流电池复合石墨双极板。对不同厚度复合石墨双极板进行了导电性、力学特性、溶胀行为和电化学性能考察对比,并组装成单电池完成了充放电性能测试。结果显示,通过构筑连续性导电网络结构,协同树脂优异的填充和结构强化作用,此种策略所制备的双极板弯曲强度可达30 MPa以上,电导率可达300 S/cm以上,动电位腐蚀电流密度仅为10-6 A/cm2数量级,同时在电解液中无明显溶胀现象发生。鉴于上述性能特性,利用文中所制备的双极板组装成全钒单电池,在150 mA/cm2电流密度条件下,经过800次循环测试后,仍可具有82.5%电压效率。
+<title>炭黑硫杂质及含量对锂离子电池性能的影响</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2167</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2167</guid>
+<description>采用控制单一变量法,选用4款不同硫含量的炭黑产品,借助扫描电子显微镜法(SEM)、电感耦合等离子体光谱分析法(ICP)、电阻率测试仪、电池检测柜等对炭黑原材料粉末、电极片、电芯进行不同维度的测试分析。结果表明,炭黑产品受原材选型及生产工艺影响,产品含硫量存在较大差异,炉黑产品结构中存在较多的官能团,更易分散,可降低正极片电阻率,也有利于降低电芯直流内阻(DCIR);炭黑硫含量对倍率及高低温性能无显著影响,但是,硫杂质的存在会对比容量、循环性能造成负面影响,尤其在日历寿命方面,硫含量对荷电保持率与容量恢复率的影响呈现出较强的负相关性。该研究结果对高硫炭黑在锂离子电池中的应用提供了参考。
 
-作者：刘姿、汪聿为、郝强州、张祺、何英男、刘振、冯伟、吴静波等 | DOI：10.3969/j.issn.1002-087X.2026.10.016 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>刘姿</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.016</category>
+作者：仲启方、孙延生 | DOI：10.3969/j.issn.1002-087X.2025.10.011</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>仲启方</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.011</category>
 </item>
 <item>
-<title>加热药初始激活温度对热电池安全性影响的研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2464</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2464</guid>
-<description>为探究加热药初始激活温度对热电池安全性的影响,开展相关实验研究。结果表明：热电池的激活温度需控制在理论临界值以下;电池空载工况下内部缺少有效吸热机制,持续累积的自放热会引发正极材料热分解并生成大量气体,进而引发电池鼓胀、泄漏等安全性问题。
+<title>电池直冷散热板分区域导热垫设计</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2168</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2168</guid>
+<description>为了满足电池模组的温控要求,提出了一种分区域变导热系数导热垫的设计方案。该方案将电池模组与直冷板间的导热垫划分为三个区域,并采用不同的导热系数,从而提升整体均温性。采用正交实验设计,结合极差分析方法,确定了最优导热系数分配方案。仿真结果表明,相较于采用传统方案,在保证电池模组最高温度处于最佳工作区间的同时,该方案将最大温差从5.8℃降低至4.85℃,有效提升了电池模组的温度均匀性。此外,分析了冷媒质量流量、进口干度和蒸发温度对系统性能的影响。这为动力电池直冷热管理系统的工程设计提供了参考。
 
-作者：陈旭、安建民、刘宇飞 | DOI：10.3969/j.issn.1002-087X.2026.10.017 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>陈旭</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.017</category>
+作者：康元春、宋博扬 | DOI：10.3969/j.issn.1002-087X.2025.10.012</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>康元春</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.012</category>
 </item>
 <item>
-<title>交联ePTFE增强SPES膜在中高温PEM水电解中的应用</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2465</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2465</guid>
-<description>在中高温质子交换膜水电解系统中,质子交换膜(proton exchange membrane,PEM)在高温高压液态水环境下易发生过度溶胀和力学性能下降,制约电解性能与长期运行稳定性。针对上述问题,以高磺化度磺化聚醚砜(SPES)为膜基体,采用热交联与膨体聚四氟乙烯(ePTFE)多孔骨架增强相结合的协同改性策略,制备了适用于中高温PEM水电解的复合质子交换膜。通过调控热交联工艺参数并引入ePTFE多孔骨架的物理约束作用,有效抑制了膜在高温高压液态水条件下的溶胀行为,提高了尺寸稳定性和机械强度。扫描电子显微镜及能谱分析结果表明,SPES基体能够充分浸润并填充ePTFE多孔结构。性能测试结果显示,该复合膜在110 ℃高压液态水条件下仍保持168.3 mS/cm的质子电导率。膜电极电解性能测试表明,在110 ℃、1.9 V条件下电流密度达到7.52 A/cm2,高于商业Nafion膜电极的3.34 A/cm2。
+<title>基于ALA的锂离子电池ESP模型参数辨识</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2169</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2169</guid>
+<description>锂离子电池的电化学模型是目前精度最高的模型,然而当前电化学模型参数辨识面临着参数维度较高以及复杂性强的困难。针对锂离子电池扩展单粒子模型(ESPM)的参数辨识,提出了一种基于人工旅鼠算法(ALA)的多时间尺度参数分组辨识方法。该方法通过将模型参数按照不同时间尺度分组,然后结合不同实验工况分组依次辨识,减少了参数空间维度,简化了参数辨识步骤。实验结果表明该方法参数辨识结果的平均绝对百分误差可以达到0.5%以下,结合ALA算法后可进一步降至0.25%。
 
-作者：王保安、郝金凯、朱莹然、张洪杰、邵志刚 | DOI：10.3969/j.issn.1002-087X.2026.10.018 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>王保安</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.018</category>
+作者：荆志豪、周忠凯 | DOI：10.3969/j.issn.1002-087X.2025.10.013</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>荆志豪</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.013</category>
 </item>
 <item>
-<title>脉冲负载策略提高PEMFC高电位工作稳定性的研究</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2466</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2466</guid>
-<description>针对质子交换膜燃料电池在高电位工作时Pt表面氧化导致的性能衰减问题,提出了一种非短路式的脉冲负载激活策略,有效抑制了燃料电池在高电位工作时的电压衰减。研究发现：该策略的抗电压衰减效果受脉冲频率及脉冲电压谷值等参数的影响。脉冲频率的设定要平衡氧化物的清除和Pt催化剂的稳定性。脉冲频率过低时(0.01 Hz)会因单次周期氧化时间长,氧化物清除不彻底导致抗衰减效果不明显,而较低频率(0.1 Hz)会出现Pt催化剂稳定性变差。施加2 Hz较高频率脉冲负载实现了最佳的抗衰减效果。相较于未施加脉冲的样品,其24 h内的总电压衰减量由51.12 mV降至23.90 mV。同时,脉冲电压谷值要低于0.6 V时才会出现明显的抗衰减效果,使电压衰减幅度至少减少45%。
+<title>一种基于线性注意力机制的动力电池低复杂度SOH估计方法</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2170</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2170</guid>
+<description>当前,通过增加模型复杂度来提高电池健康状态(SOH)估计预测精度的技术路线往往会造成较大的计算量,不利于在轻量化的嵌入式设备上使用。针对该问题,提出了一种高效、高精度的SOH估计方法。该方法引入自适应权重多头线性自注意力机制,在降低计算开销的同时,对电池退化过程中的长短期依赖关系进行有效建模;结合深度可分离卷积,实现轻量级的多尺度特征提取;同时利用白鹭群优化算法对模型超参数进行优化,从而进一步提升预测精度与模型鲁棒性。实验结果表明,该方法在多个公开电池数据集上均实现了优异的SOH估计性能,而且相比卷积神经网络(CNN)-Transforme、Transformer,训练时间分别降低了27.30%、10.29%,存储空间分别降低了21.59%、21.80%,具有良好的工程应用前景。
 
-作者：张汉伟、张慧、梅坚、周芬、潘牧 | DOI：10.3969/j.issn.1002-087X.2026.10.019 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>张汉伟</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.019</category>
+作者：杨世超、赵理 | DOI：10.3969/j.issn.1002-087X.2025.10.014</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>杨世超</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.014</category>
 </item>
 <item>
-<title>基于海星优化算法的质子交换膜燃料电池静态模型参数辨识</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2467</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2467</guid>
-<description>针对质子交换膜燃料电池(PEMFC)静态模型未知参数多、耦合性强导致参数辨识困难且效率低的问题,提出一种基于海星优化算法(starfish optimization algorithm,SFOA)的参数辨识方法。首先基于Nernst方程、Tafel关系、欧姆定律与扩散极限等电化学理论,构建了仅含3个未知参数的低维静态模型,以降低辨识维度与相关性。然后采用SFOA实现未知参数的精确辨识。最后在30 kW电堆平台采集了50、60、70和80 ℃稳态极化数据验证方法有效性。实验结果显示,4种不同温度工况误差平方和分别为0.126 4、0.558 9、0.105 6、0.553 3,较豪猪优化算法、天鹅绒蠕虫优化算法与灰狼优化算法具有更高精度与稳定性,模型输出的I-V与I-P曲线与实验数据点高度贴合,且具备优秀泛化能力,可为大功率PEMFC性能预测与功率优化控制提供可靠基础。
+<title>三种典型硬碳材料产品的性能表征</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2171</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2171</guid>
+<description>为了优化钠离子电池制备及提高硬碳负极材料性能,对主流厂家生产的3种硬碳产品(可乐丽、佰思格及贝特瑞)的形貌、颗粒尺寸、晶体结构、孔洞、压实密度、容量、循环性能、倍率性能、扩散性能等结构及电化学性能进行了分析。结果表明：可乐丽硬碳粒径及比表面积最小,孔径分布最集中,压实密度最高;佰思格硬碳晶体无序度最高;贝特瑞硬碳颗粒及比表面积最大;佰思格、可乐丽及贝特瑞硬碳首次可逆比容量分别为319.0、303.3和301.0mAh/g,且可乐丽硬碳循环250次后的容量保持率及10C下比容量最高,分别为95.7%和232.0mAh/g;电化学反应过程中,可乐丽硬碳易受表面控制,而贝特瑞及佰思格硬碳主要受扩散控制。
 
-作者：金畅、刘淼、方烨盛、邢彦锋、李传昌 | DOI：10.3969/j.issn.1002-087X.2026.10.020 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>金畅</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.020</category>
+作者：夏晶、高源、李枢相、李首毅、高隆、张大奎、张宝磊 | DOI：10.3969/j.issn.1002-087X.2025.10.015</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>夏晶</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.015</category>
 </item>
 <item>
-<title>考虑过电流时基于CNN-FEDformer的PEMFC故障诊断</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2468</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2468</guid>
-<description>针对质子交换膜燃料电池(proton exchange membrane fuel cell ,PEMFC)故障诊断中易混淆过电流和故障状态、评估指标单一和模型复杂等问题,提出一种基于卷积神经网络(convolutional neural network, CNN)-频域增强分解Transformer(frequency-enhanced decomposition transformer, FEDformer)双通道特征融合模型。该模型利用并联结构结合CNN的局部空间特征提取能力与FEDformer的全局时序建模优势,并引入门控循环单元(gated recurrent unit, GRU)进一步优化时序特征,实现对PEMFC运行状态的高精度诊断。实验采用英国拉夫堡大学提供的数据集,经预处理后划分为训练集和测试集。结果显示,所提方法在测试集上的准确率、精确率、召回率、F1-score均达99.96%,误报率和拒识率分别为0.000 1和0.000 4,显著优于对比模型。该研究将过电流状态纳入诊断范围,采用六项指标全面评估性能,为PEMFC智能故障诊断提供了高效稳健的解决方案。
+<title>Cu2Se纳米材料的制备及其储钠性能研究</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2172</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2172</guid>
+<description>近年来,过渡金属硒化物因其丰富的配位方式、较高的理论比容量和低成本在储能领域（如钠离子电池、钾离子电池、超级电容器）受到广泛关注。通过简单的溶剂热法,制备了纳米片状Cu2Se材料,并将其用于钠离子电池负极,结合各种表征手段以及电化学测试对其储钠性能进行了系统研究。实验结果表明,合成的Cu2Se材料在电化学性能方面表现出色,在0.5A/g电流密度下循环200次后,仍保持285.26mAh/g的可逆比容量,其库仑效率接近100%;在2A/g大电流密度下循环1000次后,仍保持258.26mAh/g的可逆比容量,容量保持率达到98.5%。同时,Cu2Se材料也表现出了良好的倍率性能和较低的阻抗。综上所述,Cu2Se纳米材料展现出了优异的储钠性能。
 
-作者：徐楼菘、袁至、邹滋钒、李骥 | DOI：10.3969/j.issn.1002-087X.2026.10.021 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>徐楼菘</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.021</category>
+作者：郭旭帆、王少兰、刘文飞、何庭龙、兰佳伟、何选盟、马栓 | DOI：10.3969/j.issn.1002-087X.2025.10.016</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>郭旭帆</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.016</category>
 </item>
 <item>
-<title>质子交换膜电解池三维两相流多场模拟及性能优化</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2469</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2469</guid>
-<description>深入理解质子交换膜电解池(proton exchange membrane electrolytic cell,PEMEC)热质传输、电化学过程及多场分布特征,可为面向提升性能与耐久性的优化设计与运行管理提供理论支撑。建立三维PEMEC模型,耦合了热、质两相流传输及电化学过程,对其中多场分布特征进行模拟研究,随后对运行条件的影响进行评估。结论认为,流道的下游及肋板处气体饱和度较高而液相饱和度较低;膜电极阴极侧催化层温度最高,电压为2 V时膜电极内外温差达7 K;即使在未考虑接触电阻、膜润湿良好情况下,欧姆损失仍然较大,特别是在高电压工作时。工作电压为2 V时,活化损失占比56%,欧姆损失约占30.3%,传质损失增加至13.7%。适当提高运行温度可降低活化损失及欧姆损失;提高阳极液态水流速可降低传质损失,在所考虑的工况范围内,流道液态水速度为2.5 m/s、温度为80 ℃时电解池达到最佳工作状态。所研究的结论可以为PEMEC的设计与运行管理提供参考。
+<title>N/P比对软包钠离子电池性能的影响</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2173</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2173</guid>
+<description>以O3型Na(NiFeMn)1/3O2 (NFM)为正极材料,硬炭(HC)为负极材料,通过调控正负极面密度参数,设计并制备了不同负极过量系数(N/P比,分别为1.01、1.06、1.10、1.16、1.25)的单层软包钠离子电池。采用三电极技术、恒流充放电和交流阻抗等方法,对其电化学性能进行分析比较。结果表明：当N/P比为1.16时,软包电池综合性能表现最佳,倍率循环测试后,可维持70mAh/g的可逆比容量;0.3C下经过200次循环后,仍保持75mAh/g的可逆比容量,容量保持率高达95.4%;同时,循环后负极材料展现出最优的结构完整性。三电极测试进一步表明：在充放电过程中,N/P比为1.16的体系电压曲线稳定,负极电位始终稳定在0V以上,有效避免了钠枝晶的生成。
 
-作者：秦如意、王谊、安磊、沈科炬、陆晓红、刘敏、叶夏明、杨扬等 | DOI：10.3969/j.issn.1002-087X.2026.10.022 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>秦如意</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.022</category>
+作者：张桂芳、周靖渝、陈振磊、时志强 | DOI：10.3969/j.issn.1002-087X.2025.10.017</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>张桂芳</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.017</category>
 </item>
 <item>
-<title>大功率车用燃料电池运行工况参数敏感性分析</title>
-<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2470</link>
-<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2470</guid>
-<description>针对大功率车用质子交换膜燃料电池在多参数波动下的输出响应特性,开展运行工况参数敏感性试验研究。选取0.2、0.5、1.0、1.6和1.9 A/cm2五个典型电流密度点,针对氢气、空气的过量系数、压力、加湿露点及冷却液的流量、温度、压力等9项运行参数进行±10%偏离调节,测试参数波动对燃料电池输出电压的影响。结果表明：各电流密度下燃料电池运行稳定,多数参数±10%偏离引起的性能变化率小于2%,工况适应性良好;冷却液温度、空气过量系数及空气压力为高敏感性参数,其中冷却液温度偏离影响最为显著,1.9 A/cm²下冷却液温度-10%时性能衰减达5.82%;氢气压力、冷却液压力为低敏感性参数,多数工况下性能影响接近于零;参数偏离的影响幅度随电流密度增大而上升,高电流密度点(1.6~1.9 A/cm2)性能波动幅度为低电流密度点(0.2 A/cm2)的5~9倍,且低温偏离对性能的抑制作用强于高温偏离的促进作用。研究结果为车用燃料电池的工况优化、控制策略制定及误差容限设计提供了试验依据。
+<title>基于GS-LSTM-Attention的钠储能电池荷电状态估计</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2174</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2174</guid>
+<description>储能电池的荷电状态(SOC)具有波动性和非线性等特点,这给准确估计荷电状态带来了困难。为了解决这一问题,提出了一种网格搜索优化的结合注意力机制的长短期记忆网络(GS-LSTM-Attention)模型,通过注意力机制捕捉关键信息,通过网格搜索优化模型的关键超参数。实验结果表明,GS-LSTM-Attention模型在各个工况和各个指标上都优于LSTM模型和LSTM-Attention模型,各个工况下的决定系数(R2)都高于0.91,且在2A工况下,R2高达0.9771,比其它两种模型的R2分别提高了0.120 3和0.0763,均方误差和平均绝对误差也有不同程度的降低,验证了本文模型的高精度和应用价值。
 
-作者：刘真、周亚芬、肖宽 | DOI：10.3969/j.issn.1002-087X.2026.10.023 | 发布日期：2026-10-20</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>刘真</dc:creator>
-<category>10.3969/j.issn.1002-087X.2026.10.023</category>
+作者：周刚、戴迎根、方浩、于天剑 | DOI：10.3969/j.issn.1002-087X.2025.10.018</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>周刚</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.018</category>
+</item>
+<item>
+<title>NiCoLDH@超小尺寸石墨烯纳米片复合材料制备及其电化学性能</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2175</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2175</guid>
+<description>通过Fe3+/Fe2+离子介导的光催化“剪切”技术,制备了超小尺寸石墨烯纳米片,并以此为基底,原位生长阵列结构NiCo双金属氢氧化物。超小石墨烯基底不仅显著增强了体系导电性,同时其空间限域效应有效抑制了材料的团聚,暴露出了丰富的电化学活性位点。电化学测试表明,该复合材料的电子及离子传输性能均得到了显著优化,在1A/g电流密度下展现出281.3mAh/g的高质量比容量。以该材料为正极,组装得到的非对称超级电容器在5A/g大电流密度下循环10000次后仍具有88.91%的电容保持率,展现出良好的循环稳定性。
+
+作者：黄斌 | DOI：10.3969/j.issn.1002-087X.2025.10.019</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>黄斌</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.019</category>
+</item>
+<item>
+<title>MoS2基复合纳米材料的制备及其电化学性能研究</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2176</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2176</guid>
+<description>采用水热法制备出了花簇状结构的MoS2,并在氩气氛围中对其进行煅烧处理,煅烧温度选定为600、700、800和900℃。结果表明,随着煅烧温度的适当提高,模板F127的碳化分解使MoS2的颗粒外包覆一层薄碳层,得到MoS2/C复合材料。同时,高温煅烧使MoS2粒径变小,分布均匀,结晶程度提高。在MoS2和薄碳层的协同作用下,电化学性能有所提升。根据电化学测试结果,800℃下煅烧处理后得到的MoS2/C复合材料电化学性能最佳,在1A/g的电流密度下比电容高达335.4 F/g。选用该复合材料构筑了一种全对称的超级电容器,进行电化学测试,结果表明,该超级电容器展现出了较高的比能量(16.13Wh/kg)和比功率(6000W/kg),也展现出了优异的倍率性能和循环稳定性,在经过4000次充放电后,电容保持率为92%。这说明该方法制备的MoS2/C复合材料可以作为超级电容器的电极材料,有助于提升超级电容器的电化学性能。
+
+作者：张梦琦、蒲国宏、张军、欧阳丽霞 | DOI：10.3969/j.issn.1002-087X.2025.10.020</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>张梦琦</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.020</category>
+</item>
+<item>
+<title>银杏果壳基多孔碳材料的制备及储锌特性研究</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2177</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2177</guid>
+<description>碳材料作为锌离子混合电容器最常用的正极材料,对器件性能至关重要。以银杏果壳为原料,通过预碳化-KOH活化两步热解法成功制备了三维多孔碳材料。通过扫描电子显微镜、X射线衍射仪、电化学工作站等对材料的形貌特征、微观结构以及电化学性能进行了分析。结果表明,所制备的银杏果壳基碳材料具有相互连通孔道结构的3D块状结构,以及微孔为主同时具有一定量介孔/大孔的层次孔结构。所组装的锌离子混合电容器在比功率为203.39W/kg时,能输出高达189.83Wh/kg的比能量,并且在比功率为11172.41W/kg时,仍能保持106.76Wh/kg的比能量。
+
+作者：胡燕辉、孙雅怡、王右军、李欣、盛喆 | DOI：10.3969/j.issn.1002-087X.2025.10.021</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>胡燕辉</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.021</category>
+</item>
+<item>
+<title>铁铬电池用MnOx活性石墨毡电极及其性能研究</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2178</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2178</guid>
+<description>为提高铁铬电池用石墨毡电极的电化学性能,利用高温固相反应法对石墨毡进行活化处理,研究了MnOx掺杂工艺对石墨毡性能的影响,以及MnOx活化后石墨毡作为铁铬电池电极的性能。结果表明,高温固相反应法制备的MnOx活性石墨毡电极比表面积增大、亲液性改善;电化学反应过程中的氧化还原峰电流值提高、电荷转移电阻降低;在120mA/cm2电流密度下,其铁铬电池的电压效率和能量效率最高可以达到96.22%、84.56%,比石墨毡(GF)分别提高4.11%、15.01%。本方法操作简便、易于工业化,为铁铬电池进一步商业化应用提供了新思路。
+
+作者：赫赛龙、白家骏、陈娜、李宗彬、王立强 | DOI：10.3969/j.issn.1002-087X.2025.10.022</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>赫赛龙</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.022</category>
+</item>
+<item>
+<title>基于全钒液流电池模拟的正负极浓度失衡研究</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2179</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2179</guid>
+<description>针对全钒液流电池长期循环中正负极电解液浓度失衡引发的电压效率衰减问题,基于COMSOL Multiphysics仿真软件,构建能斯特-普朗克方程与三次电流分布模块耦合的二维多物理场模型,解析浓度失衡-过电位分布-极化机制的动态关联。研究表明,浓度失衡导致电极入口5mm处电化学反应电流密度最大,诱发负极近膜侧局部放电过电位高达0.11V,且放电工况下该区域过电位较充电过程增加0.019V。在以正极为动力学约束的钒电池电化学反应中,浓度失衡导致充电时隔膜内H⁺浓度下降,使正极活化极化为主导。放电过程中膜内H⁺浓度随失衡加剧增大,进而增大负极的浓差极化。高电流密度下,沿电解液流动方向的浓度梯度明显增大,负极浓差极化增大导致电压效率最大衰减19.35%。本研究结果可为电解液使用策略研究及运行参数调整提供指导。
+
+作者：林永健、韩子娇、谢冰、胡姝博、李爱魁 | DOI：10.3969/j.issn.1002-087X.2025.10.023</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>林永健</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.023</category>
+</item>
+<item>
+<title>无空穴传输层CsGeI3钙钛矿电池的性能模拟研究</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2180</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2180</guid>
+<description>无铅CsGeI3钙钛矿材料由于其较小的空穴有效质量等特性展现出良好的空穴传输潜力。这为进一步简化钙钛矿太阳电池结构、降低制作成本提供了新的可能性。对无空穴传输层CsGeI3钙钛矿太阳电池进行了电学仿真。通过对吸光层进行梯度掺杂的方式提升了器件的性能,并探讨了掺杂浓度梯度、平均掺杂浓度、子层数量等关键因素对太阳电池性能的影响。研究发现,梯度掺杂可以有效扩展吸收层中的内建电场,促进光生载流子的分离和传输,仅需两层子层即能实现理想的掺杂效果。同时,适当优化吸收层的电子亲和能和背电极功函数可进一步提升电池的性能。优化后的电池光电转换效率可从4.17%提升至16.9%。这为高效无空穴传输层钙钛矿电池的实验制备提供了新的思路。
+
+作者：黄孝坤 | DOI：10.3969/j.issn.1002-087X.2025.10.024</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>黄孝坤</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.024</category>
+</item>
+<item>
+<title>基于MVMD-BKA-Transformer的短期光伏功率预测</title>
+<link>https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2181</link>
+<guid isPermaLink="true">https://manu70.magtech.com.cn/dyjs/CN/abstract/article/1002-087X/2181</guid>
+<description>针对传统分解预测方法忽略多元气象因素分解时自身在时域及频域上的耦合关系,及Transformer训练时间长、学习效率低等问题,提出基于多元变分模态分解(MVMD)和黑翅鸢优化算法(BKA)改进的Transformer的短期光伏功率预测方法。利用K-means算法,根据辐照度将数据分类为a类和b类,并使用MVMD将多元气象因素及光伏功率分解为频率对齐的多元本征模态函数,保留原始序列耦合性的基础上,提高气象因素的平稳性。针对多元本征模态函数,分别构建BKA改进过的Transformer预测模型。选用澳大利亚沙漠知识太阳能中心(DKASC)的数据集进行验证与对比。实验仿真结果显示,提出的模型各项误差指标表现最优,具有较高的预测精度。
+
+作者：黄瑞承、成燕、查航伟、董国鹏 | DOI：10.3969/j.issn.1002-087X.2025.10.025</description>
+<pubDate>Mon, 23 Nov 2026 14:58:57 +0800</pubDate>
+<dc:creator>黄瑞承</dc:creator>
+<category>10.3969/j.issn.1002-087X.2025.10.025</category>
 </item>
 </channel>
 </rss>

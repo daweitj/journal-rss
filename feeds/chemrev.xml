@@ -5,8 +5,19 @@
 <link>https://pubs.acs.org/journal/chreay</link>
 <description>Chemical Reviews（ISSN 0009-2665）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 17:27:01 +0800</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 14:57:52 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00476</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00476</guid>
+<description>Abstract Redox flow batteries represent one of the most actively investigated platforms for grid-scale electrochemical energy storage. The rapid expansion of electrolyte chemistries has broadened the field, but has also introduced significant inconsistencies in experimental methods, testing protocols, and reporting practices. This variability impedes interlaboratory comparison and, in some cases, produces misleading assessments of electrolyte performance and stability. This article presents structured, practical guidance for researchers working with novel flow battery electrolytes, organized around four core activities: electrolyte formulation and physicochemical characterization, electroanalytical screening, flow cell assembly and hardware selection, and performance and lifetime evaluation. Key topics include staged characterization of redox-active compounds from dilute cyclic voltammetry through operationally relevant conditions, component selection and compatibility checks, the distinction between symmetric and full cell configurations for performance versus lifetime testing, and the role of potentiostatic cycling protocols in generating reliable capacity fade data. Finally, the reporting of capacity fade is discussed with consideration of the underlying degradation mechanisms. The guidance is condensed into ten practical recommendations, and the article is published as a living document on GitHub, open to continuous community revision and peer review to work toward a comm
+
+作者：Goulet Marc-Antoni、Stolze Christian、Guihéneuf Solène、Le Vot Steven、Ventosa Edgar、Schubert Ulrich S.、Brushett Fikile、Aziz Michael J. | DOI：10.1021/acs.chemrev.6c00476 | 类型：journal-article</description>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Goulet Marc-Antoni</dc:creator>
+<category>10.1021/acs.chemrev.6c00476</category>
+</item>
 <item>
 <title>Asymmetric Amyloid Cross-Seeding Beyond “Like-Seeds-Like”</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00727</link>
@@ -325,17 +336,6 @@
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
 <dc:creator>Cross Jessica N.</dc:creator>
 <category>10.1021/acs.chemrev.5c01007</category>
-</item>
-<item>
-<title>Applications of Single-Atom Alloys in Thermal, Electro, and Photo Catalysis</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00369</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00369</guid>
-<description>Abstract Single-atom alloys (SAAs) are an emerging class of heterogeneous catalysts that maximize atom efficiency by embedding isolated reactive metal atoms within a host metal surface, creating well-defined active sites. Atomic isolation imparts unique catalytic properties, including high selectivity, resistance to poisoning, coking, and sintering, and in some cases the ability to circumvent conventional scaling relationships that limit traditional catalysts. This article focuses on progress in the SAA field since our 2020 review (Chem. Rev.2020, 120, 12044−12088.), while incorporating earlier foundational studies where relevant. We first examine the fundamental principles governing SAA formation, stability, electronic structure, reactivity, and selectivity, drawing on insights from experimental single-crystal model systems and theoretical studies. We then review the application of SAAs in a wide range of industrially important reactions, including hydrogenation, dehydrogenation, selective oxidation, water–gas shift, Fischer–Tropsch synthesis, and dry reforming, among others. Beyond thermal catalysis, SAAs demonstrate great promise in electrocatalysis and plasmon-driven chemistry. Their structurally simple active sites have also enabled the rational design of novel catalysts and promoters that challenge conventional catalytic intuition. Looking ahead, recent advances in computing, including machine-learning potentials, offer the opportunity to explore vast compositional spac
-
-作者：Rajabi Nima、Kim Dongbeom、Wang Yicheng、Hollis Emma、Meier Dennis、Azizli Toghrul、Montemore Matthew M.、Holewinski Adam | DOI：10.1021/acs.chemrev.6c00369 | 类型：journal-article</description>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Rajabi Nima</dc:creator>
-<category>10.1021/acs.chemrev.6c00369</category>
 </item>
 </channel>
 </rss>
