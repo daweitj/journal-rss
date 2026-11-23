@@ -6,316 +6,8 @@
     <atom:link href="https://jxgccl.mat-test.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>《机械工程材料》最新论文（优先在线发表 + 当期目录），由官网元数据整理</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:31:55 +0000</lastBuildDate>
     <generator>journal-rss / feedgen_jxgccl</generator>
-    <item>
-      <title>基于机器学习的GH4169高温合金喷丸表面完整性预测</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260120</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260120</guid>
-      <prism:doi>10.11973/jxgccl260120</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-11，DOI 10.11973/jxgccl260120</p><p>基于Abaqus平台构建耦合Johnson-Cook本构模型与ETMB微观演化模型的三维有限元模型，设计喷丸速度60～120 m·ssup−1/sup、覆盖率50%～150%的21组仿真试验，分析喷丸速度和喷丸覆盖率参数对残余应力、等效塑性应变、表面粗糙度及位错胞尺寸等表面完整性指标的影响；基于仿真数据构建反向传播人工神经网络（BP-ANN）预测模型，对喷丸后表面完整性指标进行预测，并开展工艺参数敏感性分析。结果表明：喷丸引入的残余压应力和等效塑性应变主要集中在GH4169高温合金0～0.15 mm深度的表面和次表层，晶粒细化区域主要集中在0～0.20 mm深度的表面与次表层。随喷丸速度或覆盖率增加，最大残余压应力和残余压应力层深以及最大等效塑性应变和等效塑性应变层深均增大，最大位错胞尺寸减小，位错胞减小的区域深度增大。BP-ANN预测喷丸后GH4169高温合金残余应力、等效塑性应变、表面粗糙度和位错胞尺寸的决定系数均大于0.99，且平均绝对相对误差均不大于4%，预测值与有限元模拟值吻合良好。等效塑性应变对喷丸覆盖率更敏感，表面粗糙度对喷丸速度更敏感，位错胞尺寸对喷丸速度的敏感性随参数区间变化，残余应力则受喷丸速度和喷丸覆盖率二者的非线性耦合作用。
-
-			
-机械工程材料. 2026 50(): 1-11.</p>]]></description>
-    </item>
-    <item>
-      <title>钇含量对CoCrNiAlYx高熵合金抗1 200 ℃氧化性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250588</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250588</guid>
-      <prism:doi>10.11973/jxgccl250588</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl250588</p><p>采用真空电弧熔炼制备不同钇含量的CoCrNiAlYsubitalicx/italic/sub合金（italicx/italic取0.15，0.20，0.25，原子分数/%），并在1 200 ℃下进行60 h准等温氧化试验，研究了合金的抗氧化性能；基于氧化动力学数据，利用随机森林回归、多元线性回归、支持向量回归、高斯过程回归等机器学习算法建立钇含量与合金抗氧化性能之间的预测关系，辨识最优成分区间。结果表明：CoCrNiAlYsub0.20/sub合金在1 200 ℃氧化60 h的氧化速率常数和单位面积质量增量均最小，分别为2.4×10sup−6/sup mgsup2/sup·cmsup−4/sup·hsup−1/sup和0.68 mg·cmsup−2/sup，抗氧化性能最好；CoCrNiAlYsub0.15/sub合金次之，CoCrNiAlYsub0.25/sub合金的抗氧化性能最差。当钇原子分数不超过0.20%时，随着钇含量增加，钇元素在α-Alsub2/subOsub3/sub晶界及氧化膜/合金界面处的偏析程度增大，氧化膜稳定性增强；当钇原子分数达到0.25%时，氧化膜内析出的大量离散Ysub3/subAlsub5/subOsub12/sub相破坏了α-Alsub2/subOsub3/sub的连续性，同时过度的钇-铝拮抗作用消耗基体中的铝元素，抗氧化性能变差。随机森林回归算法在高温氧化单位面积质量增量测试集上的均方根误差最小，为0.142，决定系数最大，为0.934，该算法能精准捕捉钇含量与合金单位面积质量增量之间的非线性依赖关系，预测出钇原子分数为0.19%～0.20%的合金具有最低的单位面积质量增量；其预测结果与试验结果高度吻合，最大相对误差为5%，验证了该算法的有效性。
-
-			
-机械工程材料. 2026 50(): 1-9.</p>]]></description>
-    </item>
-    <item>
-      <title>2A12/6061异种铝合金搅拌摩擦焊搭接接头的疲劳性能及寿命预测</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260024</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260024</guid>
-      <prism:doi>10.11973/jxgccl260024</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260024</p><p>采用3组工艺（A组工艺采用锥形螺纹搅拌针，焊接速度80 mm·minsup−1/sup，转速800 r·minsup−1/sup；C组工艺采用三平面锥形螺纹搅拌针，焊接速度80 mm·minsup−1/sup，转速800 r·minsup−1/sup；D组工艺采用锥形螺纹搅拌针，焊接速度100 mm·minsup−1/sup，转速1 200 r· minsup−1/sup）制备2A12/6061异种铝合金搅拌摩擦焊搭接接头，通过恒幅疲劳试验研究接头的疲劳性能并观察其典型疲劳断口形貌；基于实际焊缝几何形状建立缺口应力法的有限元模型，结合应力分析结果对接头疲劳寿命进行预测，并将预测寿命与试验寿命对比。结果表明：A组和D组工艺下焊核区以2A12铝合金为主，而C组工艺下焊核区6061铝合金占比增加，材料混合更充分。A组与C组工艺下前进侧界面处的钩状缺陷规则向上弯折，而D组工艺下因局部转速过高未规则向上弯折。在相同载荷水平下，A组工艺下接头的疲劳寿命最最长，C组工艺次之，D组工艺最短。在本试验参数范围，适宜的焊接工艺为工艺A。不同工艺下接头均沿前进侧钩状缺陷尖端断裂，该缺陷是影响接头疲劳寿命的主要因素，且D组工艺下接头因钩状缺陷与疲劳源区间存在粗糙的弱连接区域，断口分区不典型。基于缺口应力法预测得到A组和C组模型的疲劳寿命与试验结果吻合较好，大部分结果位于3倍误差带范围；D组模型因未考虑弱连接区域的影响，在疲劳寿命超过10sup4/sup 周次的预测结果超过3倍误差带。整合高载荷（疲劳寿命低于10sup4/sup 周次）下未考虑弱连接与低载荷（疲劳寿命超过10sup4/sup 周次）下考虑弱连接的预测后，数据点均位于3倍误差带范围。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>316L不锈钢原位拉伸过程中孪晶界及耐腐蚀性能的演化</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250269</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250269</guid>
-      <prism:doi>10.11973/jxgccl250269</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl250269</p><p>采用电子背散射衍射方法研究了316L核级不锈钢在原位拉伸过程中不同工程应变（0，3.0%，5.4%，6.8%，8.4%）下的微观结构以及在模拟核电溶液中的耐腐蚀性能变化，探讨了耐腐蚀性能与微观结构之间的相关性。结果表明：随着拉伸工程应变增加，316L不锈钢的局部取向差增大，局部晶格畸变程度提高，应变集中带沿与加载轴向呈45°方向优先扩展，部分孪晶界转变为普通大角度晶界，这与在拉伸过程中孪晶界两侧施密德因子的差异导致大量位错在晶界处塞积以及位错的相互作用有关；随着拉伸工程应变增加，316L不锈钢在模拟核电溶液中的自腐蚀电位整体呈降低趋势，自腐蚀电流密度整体呈增大趋势，316L不锈钢的耐腐蚀性能降低，这与拉伸过程中位错的塞积以及孪晶界的减少有关。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
-      <title>SiO2添加剂含量对多孔SiC陶瓷微观结构和性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250531</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250531</guid>
-      <prism:doi>10.11973/jxgccl250531</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-6，DOI 10.11973/jxgccl250531</p><p>以商业SiC粉为基体原料、SiOsub2/sub和Bsub4/subC为添加剂、聚甲基丙烯酸甲酯为造孔剂、酚醛树脂为黏结剂，采用牺牲模板法结合无压烧结工艺制备了多孔SiC陶瓷，研究了SiOsub2/sub添加剂质量分数（0～10%）对陶瓷微观结构、力学性能和电学性能的影响。结果表明：随着SiOsub2/sub添加剂含量增加，游离碳质量分数先显著下降，当SiOsub2/sub添加剂质量分数超过4%后稳定在0.15%以下的较低水平。不同SiOsub2/sub添加剂含量下多孔SiC陶瓷的物相均主要为SiC。随着SiOsub2/sub添加剂含量增加，多孔SiC陶瓷的体积密度先增后降，开孔隙率由39%逐渐增大至71%，孔径分布范围逐渐变宽，弹性模量和弯曲强度均呈先升后降最后趋于稳定的趋势，表面电阻率先显著增大后趋于稳定。当SiOsub2/sub添加剂质量分数为2%时，多孔SiC陶瓷的体积密度最大，为1.58 g·cmsup−3/sup，弹性模量和弯曲强度达到最大，分别为67.2 GPa和110.8 MPa，此时表面电阻率为8.76×10sup8/sup Ω·cm。多孔SiC陶瓷的力学性能取决于SiOsub2/sub与游离碳原位反应生成SiC对颗粒的增强与过量SiOsub2/sub反应产气造孔的破坏作用，而其表面电阻率的升高则归因于游离碳被消耗及孔隙增加导致导电网络被破坏。
-
-			
-机械工程材料. 2026 50(): 1-6.</p>]]></description>
-    </item>
-    <item>
-      <title>TC4钛合金激光自熔焊气体保护装置的设计与应用</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260135</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260135</guid>
-      <prism:doi>10.11973/jxgccl260135</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260135</p><p>为改善TC4钛合金激光自熔焊接的正面惰性气体保护效果，设计了一种焊缝正面惰性气保护装置，对比研究了该装置与传统喷嘴保护方式下接头的宏观形貌、显微组织、物相组成及力学性能。结果表明：采用正面气保护装置，设置正面保护气流量为25 L·minsup−1/sup、通气时间为1.5 min时，焊缝表面呈均匀银白色，无明显氧化，成形质量良好，保护效果较佳。在正面惰性气体保护下，焊缝中心的显微硬度为360.6 HV，较传统喷嘴保护方式下降低8.6%；接头抗拉强度为1 010 MPa（与母材相当），较传统喷嘴保护方式下提升约6.0%，断后伸长率为9.6%，断裂位置由传统喷嘴保护方式下的焊缝中心转移至母材。优化后的正面气体保护装置有效抑制了焊缝中氢、氧、氮侵入及脆性化合物生成，显著提升了接头的塑性与综合力学性能。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>焊接电流对电弧熔丝增材修复熔池流动行为与接头性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260282</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260282</guid>
-      <prism:doi>10.11973/jxgccl260282</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-10，DOI 10.11973/jxgccl260282</p><p>基于流体体积法建立熔池的三维瞬态数值模型，模拟了不同焊接电流（170，175，180 A）下的熔池温度场与流场，并与试验结果进行了对比；通过红外测温、截面形貌观察、拉伸试验及扫描电镜与能谱分析研究了不同焊接电流下熔池温度变化及成形质量。结果表明：随着焊接电流从170 A增大至180 A，试验测得熔宽由4.8 mm增大至6.2 mm，熔深由3.3 mm增大至4.8 mm；沿焊接方向的模拟峰值温度由1 997 K升高至2 269 K。模拟与实测的熔宽和熔深绝对误差均不超过0.4 mm，相对误差均低于10%，验证了模型可行性。随着焊接电流增大，接头的抗拉强度先升后降，焊接电流为175 A时最高，断后伸长率升高；不同焊接电流下拉伸试样均断裂于热影响区。焊接电流175 A下焊缝轮廓均匀，气孔少，焊缝成形质量良好；拉伸断口中存在韧窝和解理面，呈韧脆混合断裂模式，断口局部存在铁元素富集。
-
-			
-机械工程材料. 2026 50(): 1-10.</p>]]></description>
-    </item>
-    <item>
-      <title>保温时间对NiV/Ni/Cu扩散焊接头组织与力学性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260114</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260114</guid>
-      <prism:doi>10.11973/jxgccl260114</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260114</p><p>以镍箔为中间层，在焊接温度650 ℃、焊接压力20 MPa下对NiV合金与无氧铜进行不同保温时间的真空热压扩散焊接，研究了保温时间对NiV/Ni/Cu扩散焊接头组织与力学性能的影响。结果表明：随保温时间延长，接头的焊合率增加，剪切强度先升后降，但塑韧性提高，总体表现为力学性能升高。母材中的主要元素镍和铜的原子互扩散行为增强，剪切断口中出现一定数量的韧窝。当保温时间为1.5 h时，接头界面焊合率达到100%，抗剪强度为163.36 MPa。镍原子在接头Ni/Cu界面处向铜基体侧发生明显扩散；接头NiV/Ni界面处存在氧和钒原子富集现象，部分区域出现微观未焊合缺陷，此为影响接头强度的关键因素。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>不同缺口小冲杆试样的启裂特征与应力状态</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260104</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260104</guid>
-      <prism:doi>10.11973/jxgccl260104</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl260104</p><p>通过改变小冲杆试样缺口尺寸和缺口类型（U型、O型、CL型、L型、UO型、UCL型）的方式，设计了12种缺口小冲杆试样，并通过试验和有限元弹塑性模拟分析了不同缺口小冲杆试样的启裂位置、启裂特征和启裂点应力状态参数，进而优选了适合用于断裂性能研究的缺口小冲杆试样。结果表明：不同类型缺口小冲杆试样的启裂可分为一点启裂、两点启裂和不确定性启裂3种。启裂位置的应力三轴度随等效塑性应变增加呈现先波动后稳定的趋势，稳定值在0.30～0.70；除U型缺口试样外，其他缺口试样的罗德角在变形初期迅速趋于稳定，稳定值接近1，而U型缺口试样的罗德角接近0。缺口类型对启裂点应力状态影响显著，而缺口尺寸的影响较小。基于启裂点应力状态、启裂特征和裂纹扩展可预测性以及加工难度，优选了缺口宽分别为0.240，0.330 mm的U型缺口试样，O型缺口直径为0.330 mm的UO型缺口试样，以及CL型缺口长度分别为0.900，1.300 mm的UCL型缺口试样，用于材料断裂性能研究。
-
-			
-机械工程材料. 2026 50(): 1-9.</p>]]></description>
-    </item>
-    <item>
-      <title>基于表面机械研磨处理的梯度纳米结构CrCoNi中熵合金力学性能</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260355</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260355</guid>
-      <prism:doi>10.11973/jxgccl260355</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260355</p><p>通过真空感应熔炼制备等原子比CrCoNi中熵合金，经均匀化、冷轧和再结晶退火处理后，采用表面机械研磨技术对试验合金进行表面强化处理，研究了塑性变形层中的物相组成、显微组织及力学性能。结果表明：表面机械研磨后，试验合金表面未发生相变，仍为单一的面心立方结构；表面由于高应变率塑性变形形成了梯度纳米结构，该结构从合金表面到内部依次为纳米晶、变形孪晶以及位错结构，进而形成梯度分布的应变硬化层，组织在深度方向上呈连续演变特征；具有表面梯度纳米结构的试验合金获得了良好的强塑性匹配，屈服强度和抗拉强度分别达到551 MPa和781 MPa，并保持34.9%的断后伸长率。表面机械研磨后试验合金的表面显微硬度由处理前的305 HV提高到532 HV。梯度纳米结构表层中的细晶强化、位错强化及孪晶强化是实现强度上升的主要原因；在拉伸变形过程中，应变集中始于表面并逐渐向内部扩展，具有高应变硬化能力的梯度纳米结构层能有效抑制早期颈缩并保障稳态塑性变形，使合金获得良好的断后伸长率。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
-      <title>摆动电弧增材制造含铜低合金钢的组织与耐腐蚀性能</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260186</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260186</guid>
-      <prism:doi>10.11973/jxgccl260186</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl260186</p><p>以Q370钢成分为基础、添加不同质量分数（0，2%，4%）铜粉的药芯焊丝为沉积材料，通过摆动电弧增材制造技术制备沉积试样，结合数值模拟、显微组织表征、电化学测试，研究了铜合金化与摆动电弧工艺对试样组织与耐腐蚀性能的影响。结果表明：摆动电弧通过拓宽熔池宽度至约40 mm，降低熔池平均温度梯度至68 ℃·cmsup−1/sup，并引入强熔池对流，细化了显微组织，使贝氏体板条平均宽度从非摆动工艺的48.2 nm减小至18.7 nm；摆动电弧的多峰热循环发挥了原位时效作用，促进了纳米级富铜析出相的高度弥散析出，避免了铜元素在晶界的偏聚。随着铜粉添加量的增加，沉积试样的容抗弧半径增大，自腐蚀电流密度降低，耐腐蚀性能提升。
-
-			
-机械工程材料. 2026 50(): 1-9.</p>]]></description>
-    </item>
-    <item>
-      <title>基于图像映射的薄壁焊接构件孔隙缺陷有限元建模及疲劳分析</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260110</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260110</guid>
-      <prism:doi>10.11973/jxgccl260110</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260110</p><p>以某电站用薄壁焊接构件为研究对象，通过X射线数字扫描成像结合图像处理技术，提取焊缝孔隙的形状、尺寸及空间分布；基于图像-模型映射构建含真实孔隙的三维有限元模型，采用“弱材料”模拟孔隙特性并细化焊接区域网格。以不含孔隙模型为对照基准，基于Goodman平均应力修正的应力-寿命曲线和Miner线性累积损伤法则，利用ABAQUS和fe-safe软件开展疲劳仿真分析，研究了不同孔隙率（0，0.05，0.10）对构件疲劳寿命的影响。通过与蠕变试验结果对比，验证了含孔隙有限元建模方法的有效性。结果表明：薄壁焊接构件的危险点集中于焊接边缘两端；随着孔隙率增大，危险点范围扩大至连接处边缘表面，但位置无明显变化。与不含孔隙相比，孔隙率为0.05时薄壁焊接构件的循环次数最低值降低44.5%；孔隙率为0.10时循环次数进一步降低。孔隙缺陷显著缩短薄壁焊接构件的疲劳寿命。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>FeCrNiCoMo0.2高熵合金黏结剂质量分数对Mo2FeB2基金属陶瓷组织与耐腐蚀性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260107</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260107</guid>
-      <prism:doi>10.11973/jxgccl260107</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl260107</p><p>以FeCrNiCoMosub0.2/sub高熵合金为黏结剂，采用真空烧结法制备黏结剂质量分数分别为20%，30%，40%，50%和60%的Mosub2/subFeBsub2/sub基金属陶瓷，研究了黏结剂质量分数对物相组成、显微组织、晶体取向及电化学腐蚀行为的影响。结果表明：烧结试样主要由Mosub2/subFeBsub2/sub硬质相和面心立方结构的高熵合金黏结相组成，并含少量Mosub6/subCosub7/sub相和MoBsub2/sub相。随着黏结剂质量分数增加，烧结试样的孔隙率先降低后升高，在质量分数为50%时达到最低（0.76%），组织较为均匀致密。Mosub2/subFeBsub2/sub相的取向密度极值随黏结剂质量分数变化呈非单调变化，在质量分数为50%时最低（6.59），此时织构强度最弱。在质量分数为3.5%的NaCl溶液中，随着黏结剂质量分数增加，烧结试样的自腐蚀电流密度先降低后升高，极化电阻先升高后降低。当黏结剂质量分数为50%时，烧结试样的自腐蚀电流密度最低，容抗弧半径和极化电阻最大，表现出最佳耐腐蚀性能。
-
-			
-机械工程材料. 2026 50(): 1-9.</p>]]></description>
-    </item>
-    <item>
-      <title>铜对Al-7Si-Mg铸造合金显微组织和拉伸性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260105</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260105</guid>
-      <prism:doi>10.11973/jxgccl260105</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260105</p><p>采用铜微合金化及微量Al-Sr-RE复合变质技术制备Al-7Si-Mg铸造合金，研究了铜含量（0，0.2，0.5，0.8，质量分数/%）对合金显微组织与室温拉伸性能的影响。结果表明：随着铜含量增加，合金中除共晶硅以外的第二相面积分数增加，长径比增大，形貌由针状逐渐向粗大针状和块状转变；较高含量铜促进了Alsub7/subCusub2/subSi(Ce)、Alsub7/subCusub2/subFe(Ce)和Alsub2/subCu(Si)等含铜相的形成，并抑制了β-Alsub5/subFeSi向π-Alsub8/subMgsub3/subSisub6/subFe的完全转变，导致针状β-Alsub5/subFeSi粗化。随着铜含量增加，合金强度提高，但断后伸长率降低。当铜含量为0.5%～0.8%时，合金的抗拉强度达到361～377 MPa，断后伸长率仍保持在9.8%～10.3%，表现出良好的强韧性匹配。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>锆制结构TIG焊接头组织转变特征及其对性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260125</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260125</guid>
-      <prism:doi>10.11973/jxgccl260125</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260125</p><p>采用连续送丝、同质填充焊缝方式对R6070锆板进行钨极氩弧焊（TIG）试验，研究了接头组织转变特征及其对力学性能和耐腐蚀性能的影响。结果表明：热循环导致接头热影响区由初始等轴状α相转变成为板条状α′锆马氏体，焊缝凝固冷却后形成大量篮网状魏氏组织和残余β相。组织转变导致焊缝强度较母材升高，但塑形和韧性降低。焊缝中观察到含高密度位错的板条状马氏体和含孪晶结构的透镜状马氏体，二者构成滑移-孪生协调塑性变形方式，协调接头塑性变形及维持总体延性断裂特征。接头母材、热影响区及焊缝的开路电位及阻抗模量均依次减小，容抗弧由母材的近似半圆形向焊缝与热影响区的45°直线特征演变，腐蚀速率依次增加，耐腐蚀性能依次降低。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
-      <title>T700碳纤维/7901环氧树脂基复合材料单向板的拉-拉疲劳性能及寿命预测</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260065</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260065</guid>
-      <prism:doi>10.11973/jxgccl260065</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260065</p><p>对T700碳纤维/7901环氧树脂基复合材料单向板开展不同纤维取向角度（0°，30°，45°，90°）的拉-拉疲劳试验，研究了纤维取向角度对复合材料疲劳性能的影响；基于30°偏轴疲劳应力-寿命（italicS-N/italic）曲线估算了面内剪切疲劳italicS-N/italic曲线，并结合疲劳渐进损伤模型预测了不同纤维取向角度下单向板的疲劳寿命。结果表明：当纤维取向角度为0°时，复合材料单向板的疲劳强度最高，疲劳性能最优，随纤维取向角度增大，疲劳强度降低，疲劳性能降低。采用估算剪切疲劳数据预测得到的疲劳寿命与试验结果吻合良好，纤维取向角0°，45°，90°下的预测结果偏差在3倍误差带以内，纤维取向角30°下的偏差基本在5倍误差带以内，验证了使用估算剪切疲劳数据进行复合材料单向板寿命预测的可行性。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>两种型号自动扶梯铝合金梳齿板的缺陷致裂规律</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260102</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260102</guid>
-      <prism:doi>10.11973/jxgccl260102</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260102</p><p>为揭示不同型号自动扶梯ZLD-104铝合金梳齿板的缺陷致裂规律，选取两款基材同为ZLD-104铸造铝合金但基体力学性能存在差异的商用梳齿板，分别加工为1号和2号拉伸试样开展室温拉伸试验；建立了无气孔及含直径1 mm球形气孔缺陷的拉伸试样有限元模型，研究了气孔缺陷及其空间位置对试样拉伸致裂行为的影响。结果表明：无缺陷条件下1号试样的抗拉强度、屈服强度、弹性模量均高于2号试样，承载稳定性更优；两种试样的断后伸长率均为1.0%，屈服前断裂试样断口均存在铸造气孔缺陷。与无气孔缺陷试样仿真结果相比，仿真得到含气孔缺陷试样最大等效应力与标距伸长量降低，气孔缺陷直接诱发材料在屈服前断裂。气孔位置对1号试样最大拉伸应力影响微弱，对2号试样影响显著，纵向、横向布置气孔时最大应力分别呈倒V型、U型变化，同一横向位置不同纵向子位置的最大应力差达33 MPa，边缘区域应力受缺陷影响相对较弱。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
-      <title>铁含量对Al-3Ni合金组织和性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260083</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260083</guid>
-      <prism:doi>10.11973/jxgccl260083</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260083</p><p>制备了不同铁含量（0%，0.3%，0.6%，0.9%，1.2%）的Al-3Ni-italicx/italicFe合金，研究了铁含量对显微组织、导热性能和拉伸性能的影响。结果表明：Al-3Ni合金主要由α-Al和（α-Al+Alsub3/subNi）共晶组织组成；当铁含量为0.3%～0.6%时，共晶组织中形成细小弥散的层片状Alsub9/subFeNi相，其随铁含量增加而数量增多、尺寸增大；当铁含量超过0.6%时，初生Alsub9/subFeNi相优先析出，并趋于粗大。随着铁含量增加，Al-3Ni-italicx/italicFe合金的热导率减小，当铁含量超过0.6%时，铁含量对热导率的不利影响显著加剧；随着铁含量增加，抗拉强度和屈服强度增大，断后伸长率减小，断裂机制由韧性向脆性转变。0.6%铁含量是Al-3Ni-italicx/italicFe合金由弥散强化主导转向界面损伤主导的临界阈值，精确调控Alsub9/subFeNi相的尺寸与分布，是平衡该体系合金强度与塑性的关键。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
-      <title>等温相变热处理和微合金元素对过共析钢轨显微组织和断裂韧性的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250423</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250423</guid>
-      <prism:doi>10.11973/jxgccl250423</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl250423</p><p>在自主设计的含质量分数0.25%镍过共析钢中添加铈元素（质量分数0.005%，0.010%）和铜元素（质量分数0.53%），通过真空感应熔炼、900 ℃轧制、540 ℃等温相变热处理等工艺制备试验钢，研究了热处理及铈、铜微合金元素对其显微组织、断裂韧性和断口形貌的影响。结果表明：等温相变热处理后轧制态试验钢珠光体片层间距大幅减小，组织分布更均匀，渗碳体由层片状转变为粒状或短棒状。铈的添加可显著细化珠光体片层间距，铜与铈的复合添加进一步增强细化效果，而在含铜条件下随着铈含量增加，珠光体细化程度持续提高，但组织中形成铈硫化物（Cesub2/subSsub3/sub/CeS）脆性夹杂。等温相变热处理可显著提高试验钢的断裂韧度，其中未添加铈和铜试验钢的断裂韧性最优，而添加铜和质量分数0.010%铈的试验钢的断裂韧性最差。等温相变热处理使试验钢的断裂形式由轧制态的脆性断裂转变为韧脆混合断裂。随着铈、铜元素添加以及含铜条件下铈含量增加，断口中韧窝数量减少，河流花样面积增多，断裂韧性降低。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>钢侧坡口角度对6061铝合金/Q235镀锌钢激光熔钎焊温度场及接头组织和性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260042</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260042</guid>
-      <prism:doi>10.11973/jxgccl260042</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260042</p><p>选用ER4043焊丝为填充材料，以6061-T6铝合金板和Q235镀锌钢板为母材，在铝合金侧坡口角度固定为60°条件下，分别采用30°，45°，60°的钢侧坡口角度进行激光熔钎焊对接试验，通过ANSYS软件模拟不同钢侧坡口角度下接头的焊接温度场以及通过试验研究接头的组织和拉伸性能。结果表明：模拟得到不同钢侧坡口角度下6061铝合金/Q235镀锌钢激光熔钎焊接头铝合金侧熔池边界与试验接头中的熔合线吻合较好，验证了模拟的准确性；随钢侧坡口角度由60°减小到30°，接头钢/焊缝界面中部的峰值温度由2 130 ℃降低至1 860 ℃，焊缝金属熔化时间由2.67 s缩至2.03 s，界面结合面积由27.7 mmsup2/sup增大至48.0 mmsup2/sup，界面的金属间化合物层厚度由11.0 μm减小至2.8 μm，接头的拉伸强度由121 MPa升高至152 MPa。不同钢侧坡口角度接头均沿钢/焊缝界面的金属间化合物层断裂，断裂模式均为脆性断裂。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
-      <title>42CrMo钢小冲杆缺口试样氢扩散行为的有限元模拟</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260021</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260021</guid>
-      <prism:doi>10.11973/jxgccl260021</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260021</p><p>以螺栓用42CrMo高强度合金钢为研究对象，采用Abaqus软件建立含U型纵向贯穿缺口的小冲杆试样应力-氢扩散耦合有限元模型，系统模拟了不同载荷、扩散时间及缺口几何尺寸下的氢扩散行为与浓度分布；开展了无缺口试样与缺口试样（缺口长度5 mm，根部半径0.25 mm）在充氢前后的小冲杆试验，研究了其载荷-位移响应和断口形貌，并基于应力诱导氢扩散理论计算理论氢浓度，以验证模拟结果的准确性。结果表明：缺口使未充氢试样的最大断裂载荷下降43.9%，但断裂机制未发生变化，仍为韧性断裂；充氢使无缺口试样的最大断裂载荷降低59.6%，断口由等轴韧窝转变为准解理与二次微裂纹；缺口与氢共存时性能劣化最为严重，最大断裂载荷降幅达68.6%，断口呈脆性断裂特征。当扩散时间较短时（10sup2/sup s），应力对氢浓度分布无显著影响；随着扩散时间延长至10sup3/sup s以上，应力梯度开始驱动氢向缺口根部高静水应力区富集，400 N载荷下稳态扩散时的无量纲归一化氢浓度峰值相较于无应力状态下提高1.12倍。400 N低载荷下随着缺口根部半径增加，稳态扩散时的无量纲归一化氢浓度峰值降低；随着载荷增加，缺口根部半径对氢浓度峰值的影响减弱。400N低载荷下，模拟得到不同缺口根部半径试样的无量纲归一化氢浓度峰值与理论解的相对误差小于5%；随着载荷增加，有限元模拟结果的相对误差增大，1 600 N高载荷下，0.05 mm缺口根部半径下的相对误差达42.68%。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>深度调峰下电厂锅炉TP347H不锈钢蒸汽管道的显微组织和低周疲劳性能</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260025</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260025</guid>
-      <prism:doi>10.11973/jxgccl260025</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-10，DOI 10.11973/jxgccl260025</p><p>以深度调峰工况下服役62 500 h的某电厂锅炉高温再热器出口段及高温过热器出口段迎火面TP347H钢蒸汽管道为研究对象，对其显微组织、拉伸性能和600 ℃低周疲劳断口形貌进行研究，并采用Manson-Coffin方程预测TP347H钢管道在高温循环工况下的疲劳寿命。结果表明：高温再热器与高温过热器出口段迎火面的TP347H钢管道组织均保持为等轴奥氏体晶粒，未见大量析出物聚集及晶粒异常长大现象，管道壁厚中心部位组织无明显择优取向，大角度晶界占主导，组织稳定；相比于高温再热器，高温过热器出口段迎火面管道内壁形成的氧化层更厚，紧邻氧化层的析出物数量更多，局部晶格畸变更显著，整体变形程度更大，宏观和微观损伤程度略高。两个部位管道的室温拉伸性能相似，且均满足标准要求。600 ℃高温下TP347H钢管道的低周疲劳断口存在多源疲劳起裂、不对称裂纹扩展以及瞬断区韧窝大而浅等典型低周疲劳特征；低周疲劳过程表现出初始循环硬化，随后循环软化，最终因裂纹萌生导致断裂的特征，且其疲劳硬化程度随应变幅增大而升高；疲劳寿命符合Manson-Coffin模型，预测值与试验值均落在2倍分散带内，拟合精度较高。深度调峰工况下服役62 500 h的TP347H不锈钢管道具备良好的组织稳定性与抗疲劳性能，可满足高温高压蒸汽管道长期安全服役要求。
-
-			
-机械工程材料. 2026 50(): 1-10.</p>]]></description>
-    </item>
-    <item>
-      <title>Y2O3掺杂量对ZnO压敏电阻冲击老化特性的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260020</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260020</guid>
-      <prism:doi>10.11973/jxgccl260020</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-6，DOI 10.11973/jxgccl260020</p><p>以ZnO，SiOsub2/sub，Cosub2/subOsub3/sub，Sbsub2/subOsub3/sub，Bisub2/subOsub3/sub，Mnsub2/subOsub3/sub，Crsub2/subOsub3/sub，Ysub2/subOsub3/sub为原料，采用固相烧结法制备不同Ysub2/subOsub3/sub掺杂量（0，0.50%，0.75%，1.00%，物质的量分数，下同）的ZnO压敏电阻，研究了压敏电阻的微观结构以及标准电流冲击100次后的冲击老化特性。结果表明：随着Ysub2/subOsub3/sub掺杂量增加，ZnO压敏电阻的晶粒细化且分布更加均匀，晶界处的钇元素含量增加。在1 mA大电流区Ysub2/subOsub3/sub掺杂量为0，0.75%，1.00%的ZnO压敏电阻压敏电压梯度随冲击次数增加而增大，而掺杂量为0.50%时则先减小后增大；Ysub2/subOsub3/sub掺杂可有效抑制冲击后压敏电压梯度的增幅，其中0.75%掺杂量的抑制效果最大，电流冲击100次后的增幅仅为0.44%。在1 μA小电流区，不同Ysub2/subOsub3/sub掺杂量下ZnO压敏电阻的压敏电压梯度均随冲击次数增加而降低，0.75%掺杂量下的降幅最小，仅为2.94%。Ysub2/subOsub3/sub掺杂量为0的ZnO压敏电阻的非线性系数随冲击次数增加整体呈增大趋势，Ysub2/subOsub3/sub掺杂量为0.50%，0.75%，1.00%的非线性系数均整体呈降低趋势，降低幅度均约为8%。随着电流冲击次数增加，Ysub2/subOsub3/sub掺杂量为0，0.50%的ZnO压敏电阻的漏电流增大，而Ysub2/subOsub3/sub掺杂量为0.75%和1.00%的漏电流则先增大后减小；Ysub2/subOsub3/sub掺杂量为0.75%的漏电流增加幅度最小，仅为7.72%。ZnO压敏电阻中Ysub2/subOsub3/sub的适宜掺杂量为0.75%，此时晶粒内和晶界处的钇元素含量趋于一致，抗冲击老化性能最优。
-
-			
-机械工程材料. 2026 50(): 1-6.</p>]]></description>
-    </item>
-    <item>
-      <title>连续退火工艺对DP590双相钢组织及拉伸性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260033</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260033</guid>
-      <prism:doi>10.11973/jxgccl260033</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260033</p><p>以C-Si-Mn系DP590冷轧双相钢为研究对象，为解决在实际连续退火工艺带来的屈强比偏高的问题，基于相图、等温转变曲线和连续冷却转变曲线确定避开贝氏体转变的理论工艺区间（缓冷温度需控制在580 ℃以上），利用热模拟试验机研究了均热温度（730～850 ℃）和缓冷温度（610～710 ℃）对显微组织和拉伸性能的影响。结果表明：当缓冷温度固定为670 ℃时，随着均热温度升高，试验钢中马氏体面积分数由16.1%增至21.1%，且分布更加均匀，屈服强度先降后高，抗拉强度在620～666 MPa范围波动，无明显单调趋势，断后伸长率整体呈增大趋势，屈强比整体呈先降后升的波动变化趋势；此条件下适宜的均热温度为790 ℃，此时铁素体再结晶充分，细小马氏体弥散分布，屈强比最低，为0.40，断后伸长率较高，为14.1%。在均热温度固定为790 ℃条件下，随着缓冷温度升高，马氏体面积分数由17.2%增至19.2%，且分布更加均匀，屈服强度在260～274 MPa范围呈略微升高趋势，抗拉强度在633～654 MPa范围呈先略微降低后略微升高趋势，断后伸长率基本稳定在16.0%～16.5%之间，屈强比整体呈先升高后略微降低的趋势。适宜的缓冷温度为610 ℃，此时马氏体细小且弥散分布，铁素体再结晶充分，屈强比最小，为0.40，断后伸长率最高，为16.5%。在试验条件下DP590冷轧双相钢连续退火的推荐工艺窗口为均热温度790 ℃、缓冷温度610 ℃，可实现低屈强比与良好的强塑性匹配。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
-      <title>2195铝锂合金搅拌摩擦焊缝表面起皮形成机制及影响因素</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250499</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250499</guid>
-      <prism:doi>10.11973/jxgccl250499</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl250499</p><p>在不同转速（300，600，1 200 r·minsup−1/sup）、焊接速度（100，200，600 mm·minsup−1/sup）、压入量（0.1，0.2，0.5，0.8 mm）和焊接次数（1，3次）下，采用搅拌摩擦焊接技术对6 mm厚T8态2195铝锂合金板进行对接试验，研究了焊缝表面起皮形貌、显微组织、化学成分、形成机制及影响因素。结果表明：2195铝锂合金搅拌摩擦焊缝表面的起皮程度随着焊接转速、焊接速度或焊接次数的增加而加剧，压入量对焊缝表面起皮影响不明显。表面起皮未对焊缝静载强度产生明显。焊缝表面起皮呈鳞片状或翘曲细丝状，开口方向与焊接方向相反，组织为晶粒尺寸0.3～0.8 μm的超细小等轴晶，起皮区域的化学成分与母材基本相同。起皮产生于距离焊缝表面0.2～0.4 mm范围，起皮根部与母材呈约70°夹角，起皮根部存在明显的疏松特征，距焊缝表面约0.4 mm范围分布着平行于焊缝表面的层间微裂纹。焊缝表面起皮源于材料低导热性和层间开裂敏感性的本征特性，在焊接过程中因轴肩影响区与搅拌针影响区塑性流变场差异及轴肩定向机械作用的叠加，导致层间流动不连续而产生分层起皮。
-
-			
-机械工程材料. 2026 50(): 1-9.</p>]]></description>
-    </item>
-    <item>
-      <title>Co2O3和MnO2掺杂量对ZnO压敏电阻冲击老化特性的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260207</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260207</guid>
-      <prism:doi>10.11973/jxgccl260207</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260207</p><p>以ZnO、Bisub2/subOsub3/sub、Al（NOsub3/sub）sub3/sub、SiOsub2/sub、MnOsub2/sub、Cosub2/subOsub3/sub、Crsub2/subOsub3/sub、Sbsub2/subOsub3/sub、Ysub2/subOsub3/sub为原料，采用固相烧结方法制备掺杂不同含量Cosub2/subOsub3/sub（物质的量分数1.00%，2.00%，3.00%，4.00%，5.00%，MnOsub2/sub物质的量分数固定为0.50%）和MnOsub2/sub（物质的量分数0.50%，1.00%，1.50%，2.00%，Cosub2/subOsub3/sub物质的量分数固定为1.00%）的高电压梯度ZnO压敏电阻，分别研究Cosub2/subOsub3/sub和MnOsub2/sub掺杂量对ZnO压敏电阻微观结构和冲击老化特性的影响。结果表明：随着Cosub2/subOsub3/sub掺杂量增加，ZnO压敏电阻的晶粒尺寸减小；随着MnOsub2/sub掺杂量增加，ZnO压敏电阻的晶粒尺寸相差不大。随着电流冲击次数增加，不同Cosub2/subOsub3/sub和MnOsub2/sub掺杂量下ZnO压敏电阻的压敏电压梯度、非线性系数和泄漏电流呈非单调变化规律。Cosub2/subOsub3/sub掺杂量对ZnO压敏电阻的压敏电压梯度、非线性系数和泄漏电流均具有显著影响，其中掺杂物质的量分数4.00% Cosub2/subOsub3/sub的ZnO压敏电阻在冲击100次后的非线性系数降低20.61%，但其数值仍较大，压敏电压梯度升高2.02%，泄漏电流升高24.04%，但数值仍较小，抗冲击老化性能较优。MnOsub2/sub掺杂量对压敏电压梯度的影响相对较弱，但非线性系数和泄漏电流的影响显著，其中掺杂物质的量分数1.50% MnOsub2/sub的ZnO压敏电阻在冲击100次后的非线性系数提高42.40%，泄漏电流降低15.46%，抗冲击老化性能较优。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
-      <title>蜂窝多孔钛表面锌基超疏水合金涂层生长及其耐久性</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250455</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250455</guid>
-      <prism:doi>10.11973/jxgccl250455</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-10，DOI 10.11973/jxgccl250455</p><p>以TA2纯钛板为基材，采用直流阳极氧化法在不同电压（140～180 V）下制备蜂窝多孔钛基板，根据表面润湿性确定最佳氧化电压；在多孔钛表面脉冲电沉积锌基（Ni-Co-Zn）合金涂层，研究了镀液中ZnSOsub4/sub物质的量浓度（0.12～0.36 mol·Lsup−1/sup）对涂层表面形貌影响，确定了最佳ZnSOsub4/sub浓度；对最佳ZnSOsub4/sub浓度下制备的涂层进行不同温度（100～300 ℃）人工时效2 h+25 ℃自然时效不同时间（0～14 d）以及仅进行25 ℃自然时效不同时间（0～14 d），研究了人工时效对涂层表面润湿性影响；通过耐水流冲射、落砂及耐酸碱浸泡试验，研究了超疏水涂层的耐久性。结果表明：当电压为160 V时，试验钛板表面为单一纳米孔结构，孔洞分布均匀，表面水滴静态接触角最小，为最佳电压。当镀液中ZnSOsub4/sub物质的量浓度为0.24 mol·Lsup−1/sup时，涂层表面形成以镍/钴为球壳、多触角ZnO枝晶的仿苍耳球冠织构，为最优ZnSOsub4/sub浓度。涂层仅经自然时效14 d后表面仍亲水；经不同温度人工时效+25 ℃自然时效8 d后表面由亲水转变为疏水。最佳ZnSOsub4/sub浓度下涂层经200 ℃人工时效+自然时效14 d后，因表面形成仿苍耳球冠微-纳结构，表面水滴静态接触角达157°，涂层表面实现超疏水。不同时间或高度水流冲击、不同时间落砂和不同pH酸碱溶液浸泡后，超疏水涂层表面的水滴静态接触角均大于135°，滚动角均小于14.5°，其耐水流冲射性能、落砂冲击和耐酸碱性均较好，耐久性优异。
-
-			
-机械工程材料. 2026 50(): 1-10.</p>]]></description>
-    </item>
-    <item>
-      <title>采用热-弹-塑性有限元仿真优化钛合金T型接头熔化极惰性气体保护焊接参数</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250536</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250536</guid>
-      <prism:doi>10.11973/jxgccl250536</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl250536</p><p>基于Sysweld平台，采用热-弹-塑性有限元法开发了钛合金熔化极惰性气体保护焊接T型接头热源模型，通过模拟熔池形貌与试验接头对比进行热源校核，模拟研究了焊接热输入（256.6，324.0，444.8 J·mmsup−1/sup）和焊接形式（双面焊、单面焊）对焊接温度场及应力应变场的影响，并进行了试验验证。结果表明：模拟所得熔池形貌与试验接头形貌相似，模拟与试验得到热循环曲线的相关系数在0.954以上，残余应力峰值相对误差在9.6%以内，角变形相对误差在8%以内，验证了热源模型以及温度场、应力应变场模拟的准确性。随着热输入增加，残余应力峰值增大，角变形增大。在相同热输入下，单面焊接头的立板在垂直方向出现了明显偏移，双面焊接头的立板则保持了良好的垂直度，双面焊接头的角变形小于单面焊接头。推荐采用双面焊、热输入324.0 J·mmsup−1/sup焊接方案，所得接头熔合良好、无成形缺陷，残余应力水平较低，焊接变形程度较低，兼顾生产效率与成形精度。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
     <item>
       <title>H2S/CO2分压比对L360QS钢腐蚀行为的影响</title>
       <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260277</link>
@@ -336,6 +28,342 @@
 
 			
 机械工程材料. 2026 50(): 1-16.</p>]]></description>
+    </item>
+    <item>
+      <title>基于机器学习的GH4169高温合金喷丸表面完整性预测</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260120</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260120</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260120</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-11，DOI 10.11973/jxgccl260120</p><p>基于Abaqus平台构建耦合Johnson-Cook本构模型与ETMB微观演化模型的三维有限元模型，设计喷丸速度60～120 m·ssup−1/sup、覆盖率50%～150%的21组仿真试验，分析喷丸速度和喷丸覆盖率参数对残余应力、等效塑性应变、表面粗糙度及位错胞尺寸等表面完整性指标的影响；基于仿真数据构建反向传播人工神经网络（BP-ANN）预测模型，对喷丸后表面完整性指标进行预测，并开展工艺参数敏感性分析。结果表明：喷丸引入的残余压应力和等效塑性应变主要集中在GH4169高温合金0～0.15 mm深度的表面和次表层，晶粒细化区域主要集中在0～0.20 mm深度的表面与次表层。随喷丸速度或覆盖率增加，最大残余压应力和残余压应力层深以及最大等效塑性应变和等效塑性应变层深均增大，最大位错胞尺寸减小，位错胞减小的区域深度增大。BP-ANN预测喷丸后GH4169高温合金残余应力、等效塑性应变、表面粗糙度和位错胞尺寸的决定系数均大于0.99，且平均绝对相对误差均不大于4%，预测值与有限元模拟值吻合良好。等效塑性应变对喷丸覆盖率更敏感，表面粗糙度对喷丸速度更敏感，位错胞尺寸对喷丸速度的敏感性随参数区间变化，残余应力则受喷丸速度和喷丸覆盖率二者的非线性耦合作用。
+
+			
+机械工程材料. 2026 50(): 1-11.</p>]]></description>
+    </item>
+    <item>
+      <title>钇含量对CoCrNiAlYx高熵合金抗1 200 ℃氧化性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250588</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250588</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl250588</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl250588</p><p>采用真空电弧熔炼制备不同钇含量的CoCrNiAlYsubitalicx/italic/sub合金（italicx/italic取0.15，0.20，0.25，原子分数/%），并在1 200 ℃下进行60 h准等温氧化试验，研究了合金的抗氧化性能；基于氧化动力学数据，利用随机森林回归、多元线性回归、支持向量回归、高斯过程回归等机器学习算法建立钇含量与合金抗氧化性能之间的预测关系，辨识最优成分区间。结果表明：CoCrNiAlYsub0.20/sub合金在1 200 ℃氧化60 h的氧化速率常数和单位面积质量增量均最小，分别为2.4×10sup−6/sup mgsup2/sup·cmsup−4/sup·hsup−1/sup和0.68 mg·cmsup−2/sup，抗氧化性能最好；CoCrNiAlYsub0.15/sub合金次之，CoCrNiAlYsub0.25/sub合金的抗氧化性能最差。当钇原子分数不超过0.20%时，随着钇含量增加，钇元素在α-Alsub2/subOsub3/sub晶界及氧化膜/合金界面处的偏析程度增大，氧化膜稳定性增强；当钇原子分数达到0.25%时，氧化膜内析出的大量离散Ysub3/subAlsub5/subOsub12/sub相破坏了α-Alsub2/subOsub3/sub的连续性，同时过度的钇-铝拮抗作用消耗基体中的铝元素，抗氧化性能变差。随机森林回归算法在高温氧化单位面积质量增量测试集上的均方根误差最小，为0.142，决定系数最大，为0.934，该算法能精准捕捉钇含量与合金单位面积质量增量之间的非线性依赖关系，预测出钇原子分数为0.19%～0.20%的合金具有最低的单位面积质量增量；其预测结果与试验结果高度吻合，最大相对误差为5%，验证了该算法的有效性。
+
+			
+机械工程材料. 2026 50(): 1-9.</p>]]></description>
+    </item>
+    <item>
+      <title>2A12/6061异种铝合金搅拌摩擦焊搭接接头的疲劳性能及寿命预测</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260024</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260024</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260024</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260024</p><p>采用3组工艺（A组工艺采用锥形螺纹搅拌针，焊接速度80 mm·minsup−1/sup，转速800 r·minsup−1/sup；C组工艺采用三平面锥形螺纹搅拌针，焊接速度80 mm·minsup−1/sup，转速800 r·minsup−1/sup；D组工艺采用锥形螺纹搅拌针，焊接速度100 mm·minsup−1/sup，转速1 200 r· minsup−1/sup）制备2A12/6061异种铝合金搅拌摩擦焊搭接接头，通过恒幅疲劳试验研究接头的疲劳性能并观察其典型疲劳断口形貌；基于实际焊缝几何形状建立缺口应力法的有限元模型，结合应力分析结果对接头疲劳寿命进行预测，并将预测寿命与试验寿命对比。结果表明：A组和D组工艺下焊核区以2A12铝合金为主，而C组工艺下焊核区6061铝合金占比增加，材料混合更充分。A组与C组工艺下前进侧界面处的钩状缺陷规则向上弯折，而D组工艺下因局部转速过高未规则向上弯折。在相同载荷水平下，A组工艺下接头的疲劳寿命最最长，C组工艺次之，D组工艺最短。在本试验参数范围，适宜的焊接工艺为工艺A。不同工艺下接头均沿前进侧钩状缺陷尖端断裂，该缺陷是影响接头疲劳寿命的主要因素，且D组工艺下接头因钩状缺陷与疲劳源区间存在粗糙的弱连接区域，断口分区不典型。基于缺口应力法预测得到A组和C组模型的疲劳寿命与试验结果吻合较好，大部分结果位于3倍误差带范围；D组模型因未考虑弱连接区域的影响，在疲劳寿命超过10sup4/sup 周次的预测结果超过3倍误差带。整合高载荷（疲劳寿命低于10sup4/sup 周次）下未考虑弱连接与低载荷（疲劳寿命超过10sup4/sup 周次）下考虑弱连接的预测后，数据点均位于3倍误差带范围。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>316L不锈钢原位拉伸过程中孪晶界及耐腐蚀性能的演化</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250269</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250269</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl250269</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl250269</p><p>采用电子背散射衍射方法研究了316L核级不锈钢在原位拉伸过程中不同工程应变（0，3.0%，5.4%，6.8%，8.4%）下的微观结构以及在模拟核电溶液中的耐腐蚀性能变化，探讨了耐腐蚀性能与微观结构之间的相关性。结果表明：随着拉伸工程应变增加，316L不锈钢的局部取向差增大，局部晶格畸变程度提高，应变集中带沿与加载轴向呈45°方向优先扩展，部分孪晶界转变为普通大角度晶界，这与在拉伸过程中孪晶界两侧施密德因子的差异导致大量位错在晶界处塞积以及位错的相互作用有关；随着拉伸工程应变增加，316L不锈钢在模拟核电溶液中的自腐蚀电位整体呈降低趋势，自腐蚀电流密度整体呈增大趋势，316L不锈钢的耐腐蚀性能降低，这与拉伸过程中位错的塞积以及孪晶界的减少有关。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>SiO2添加剂含量对多孔SiC陶瓷微观结构和性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250531</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250531</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl250531</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-6，DOI 10.11973/jxgccl250531</p><p>以商业SiC粉为基体原料、SiOsub2/sub和Bsub4/subC为添加剂、聚甲基丙烯酸甲酯为造孔剂、酚醛树脂为黏结剂，采用牺牲模板法结合无压烧结工艺制备了多孔SiC陶瓷，研究了SiOsub2/sub添加剂质量分数（0～10%）对陶瓷微观结构、力学性能和电学性能的影响。结果表明：随着SiOsub2/sub添加剂含量增加，游离碳质量分数先显著下降，当SiOsub2/sub添加剂质量分数超过4%后稳定在0.15%以下的较低水平。不同SiOsub2/sub添加剂含量下多孔SiC陶瓷的物相均主要为SiC。随着SiOsub2/sub添加剂含量增加，多孔SiC陶瓷的体积密度先增后降，开孔隙率由39%逐渐增大至71%，孔径分布范围逐渐变宽，弹性模量和弯曲强度均呈先升后降最后趋于稳定的趋势，表面电阻率先显著增大后趋于稳定。当SiOsub2/sub添加剂质量分数为2%时，多孔SiC陶瓷的体积密度最大，为1.58 g·cmsup−3/sup，弹性模量和弯曲强度达到最大，分别为67.2 GPa和110.8 MPa，此时表面电阻率为8.76×10sup8/sup Ω·cm。多孔SiC陶瓷的力学性能取决于SiOsub2/sub与游离碳原位反应生成SiC对颗粒的增强与过量SiOsub2/sub反应产气造孔的破坏作用，而其表面电阻率的升高则归因于游离碳被消耗及孔隙增加导致导电网络被破坏。
+
+			
+机械工程材料. 2026 50(): 1-6.</p>]]></description>
+    </item>
+    <item>
+      <title>TC4钛合金激光自熔焊气体保护装置的设计与应用</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260135</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260135</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260135</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260135</p><p>为改善TC4钛合金激光自熔焊接的正面惰性气体保护效果，设计了一种焊缝正面惰性气保护装置，对比研究了该装置与传统喷嘴保护方式下接头的宏观形貌、显微组织、物相组成及力学性能。结果表明：采用正面气保护装置，设置正面保护气流量为25 L·minsup−1/sup、通气时间为1.5 min时，焊缝表面呈均匀银白色，无明显氧化，成形质量良好，保护效果较佳。在正面惰性气体保护下，焊缝中心的显微硬度为360.6 HV，较传统喷嘴保护方式下降低8.6%；接头抗拉强度为1 010 MPa（与母材相当），较传统喷嘴保护方式下提升约6.0%，断后伸长率为9.6%，断裂位置由传统喷嘴保护方式下的焊缝中心转移至母材。优化后的正面气体保护装置有效抑制了焊缝中氢、氧、氮侵入及脆性化合物生成，显著提升了接头的塑性与综合力学性能。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>焊接电流对电弧熔丝增材修复熔池流动行为与接头性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260282</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260282</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260282</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-10，DOI 10.11973/jxgccl260282</p><p>基于流体体积法建立熔池的三维瞬态数值模型，模拟了不同焊接电流（170，175，180 A）下的熔池温度场与流场，并与试验结果进行了对比；通过红外测温、截面形貌观察、拉伸试验及扫描电镜与能谱分析研究了不同焊接电流下熔池温度变化及成形质量。结果表明：随着焊接电流从170 A增大至180 A，试验测得熔宽由4.8 mm增大至6.2 mm，熔深由3.3 mm增大至4.8 mm；沿焊接方向的模拟峰值温度由1 997 K升高至2 269 K。模拟与实测的熔宽和熔深绝对误差均不超过0.4 mm，相对误差均低于10%，验证了模型可行性。随着焊接电流增大，接头的抗拉强度先升后降，焊接电流为175 A时最高，断后伸长率升高；不同焊接电流下拉伸试样均断裂于热影响区。焊接电流175 A下焊缝轮廓均匀，气孔少，焊缝成形质量良好；拉伸断口中存在韧窝和解理面，呈韧脆混合断裂模式，断口局部存在铁元素富集。
+
+			
+机械工程材料. 2026 50(): 1-10.</p>]]></description>
+    </item>
+    <item>
+      <title>保温时间对NiV/Ni/Cu扩散焊接头组织与力学性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260114</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260114</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260114</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260114</p><p>以镍箔为中间层，在焊接温度650 ℃、焊接压力20 MPa下对NiV合金与无氧铜进行不同保温时间的真空热压扩散焊接，研究了保温时间对NiV/Ni/Cu扩散焊接头组织与力学性能的影响。结果表明：随保温时间延长，接头的焊合率增加，剪切强度先升后降，但塑韧性提高，总体表现为力学性能升高。母材中的主要元素镍和铜的原子互扩散行为增强，剪切断口中出现一定数量的韧窝。当保温时间为1.5 h时，接头界面焊合率达到100%，抗剪强度为163.36 MPa。镍原子在接头Ni/Cu界面处向铜基体侧发生明显扩散；接头NiV/Ni界面处存在氧和钒原子富集现象，部分区域出现微观未焊合缺陷，此为影响接头强度的关键因素。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>不同缺口小冲杆试样的启裂特征与应力状态</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260104</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260104</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260104</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl260104</p><p>通过改变小冲杆试样缺口尺寸和缺口类型（U型、O型、CL型、L型、UO型、UCL型）的方式，设计了12种缺口小冲杆试样，并通过试验和有限元弹塑性模拟分析了不同缺口小冲杆试样的启裂位置、启裂特征和启裂点应力状态参数，进而优选了适合用于断裂性能研究的缺口小冲杆试样。结果表明：不同类型缺口小冲杆试样的启裂可分为一点启裂、两点启裂和不确定性启裂3种。启裂位置的应力三轴度随等效塑性应变增加呈现先波动后稳定的趋势，稳定值在0.30～0.70；除U型缺口试样外，其他缺口试样的罗德角在变形初期迅速趋于稳定，稳定值接近1，而U型缺口试样的罗德角接近0。缺口类型对启裂点应力状态影响显著，而缺口尺寸的影响较小。基于启裂点应力状态、启裂特征和裂纹扩展可预测性以及加工难度，优选了缺口宽分别为0.240，0.330 mm的U型缺口试样，O型缺口直径为0.330 mm的UO型缺口试样，以及CL型缺口长度分别为0.900，1.300 mm的UCL型缺口试样，用于材料断裂性能研究。
+
+			
+机械工程材料. 2026 50(): 1-9.</p>]]></description>
+    </item>
+    <item>
+      <title>基于表面机械研磨处理的梯度纳米结构CrCoNi中熵合金力学性能</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260355</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260355</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260355</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260355</p><p>通过真空感应熔炼制备等原子比CrCoNi中熵合金，经均匀化、冷轧和再结晶退火处理后，采用表面机械研磨技术对试验合金进行表面强化处理，研究了塑性变形层中的物相组成、显微组织及力学性能。结果表明：表面机械研磨后，试验合金表面未发生相变，仍为单一的面心立方结构；表面由于高应变率塑性变形形成了梯度纳米结构，该结构从合金表面到内部依次为纳米晶、变形孪晶以及位错结构，进而形成梯度分布的应变硬化层，组织在深度方向上呈连续演变特征；具有表面梯度纳米结构的试验合金获得了良好的强塑性匹配，屈服强度和抗拉强度分别达到551 MPa和781 MPa，并保持34.9%的断后伸长率。表面机械研磨后试验合金的表面显微硬度由处理前的305 HV提高到532 HV。梯度纳米结构表层中的细晶强化、位错强化及孪晶强化是实现强度上升的主要原因；在拉伸变形过程中，应变集中始于表面并逐渐向内部扩展，具有高应变硬化能力的梯度纳米结构层能有效抑制早期颈缩并保障稳态塑性变形，使合金获得良好的断后伸长率。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>摆动电弧增材制造含铜低合金钢的组织与耐腐蚀性能</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260186</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260186</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260186</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl260186</p><p>以Q370钢成分为基础、添加不同质量分数（0，2%，4%）铜粉的药芯焊丝为沉积材料，通过摆动电弧增材制造技术制备沉积试样，结合数值模拟、显微组织表征、电化学测试，研究了铜合金化与摆动电弧工艺对试样组织与耐腐蚀性能的影响。结果表明：摆动电弧通过拓宽熔池宽度至约40 mm，降低熔池平均温度梯度至68 ℃·cmsup−1/sup，并引入强熔池对流，细化了显微组织，使贝氏体板条平均宽度从非摆动工艺的48.2 nm减小至18.7 nm；摆动电弧的多峰热循环发挥了原位时效作用，促进了纳米级富铜析出相的高度弥散析出，避免了铜元素在晶界的偏聚。随着铜粉添加量的增加，沉积试样的容抗弧半径增大，自腐蚀电流密度降低，耐腐蚀性能提升。
+
+			
+机械工程材料. 2026 50(): 1-9.</p>]]></description>
+    </item>
+    <item>
+      <title>基于图像映射的薄壁焊接构件孔隙缺陷有限元建模及疲劳分析</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260110</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260110</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260110</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260110</p><p>以某电站用薄壁焊接构件为研究对象，通过X射线数字扫描成像结合图像处理技术，提取焊缝孔隙的形状、尺寸及空间分布；基于图像-模型映射构建含真实孔隙的三维有限元模型，采用“弱材料”模拟孔隙特性并细化焊接区域网格。以不含孔隙模型为对照基准，基于Goodman平均应力修正的应力-寿命曲线和Miner线性累积损伤法则，利用ABAQUS和fe-safe软件开展疲劳仿真分析，研究了不同孔隙率（0，0.05，0.10）对构件疲劳寿命的影响。通过与蠕变试验结果对比，验证了含孔隙有限元建模方法的有效性。结果表明：薄壁焊接构件的危险点集中于焊接边缘两端；随着孔隙率增大，危险点范围扩大至连接处边缘表面，但位置无明显变化。与不含孔隙相比，孔隙率为0.05时薄壁焊接构件的循环次数最低值降低44.5%；孔隙率为0.10时循环次数进一步降低。孔隙缺陷显著缩短薄壁焊接构件的疲劳寿命。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>FeCrNiCoMo0.2高熵合金黏结剂质量分数对Mo2FeB2基金属陶瓷组织与耐腐蚀性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260107</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260107</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260107</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl260107</p><p>以FeCrNiCoMosub0.2/sub高熵合金为黏结剂，采用真空烧结法制备黏结剂质量分数分别为20%，30%，40%，50%和60%的Mosub2/subFeBsub2/sub基金属陶瓷，研究了黏结剂质量分数对物相组成、显微组织、晶体取向及电化学腐蚀行为的影响。结果表明：烧结试样主要由Mosub2/subFeBsub2/sub硬质相和面心立方结构的高熵合金黏结相组成，并含少量Mosub6/subCosub7/sub相和MoBsub2/sub相。随着黏结剂质量分数增加，烧结试样的孔隙率先降低后升高，在质量分数为50%时达到最低（0.76%），组织较为均匀致密。Mosub2/subFeBsub2/sub相的取向密度极值随黏结剂质量分数变化呈非单调变化，在质量分数为50%时最低（6.59），此时织构强度最弱。在质量分数为3.5%的NaCl溶液中，随着黏结剂质量分数增加，烧结试样的自腐蚀电流密度先降低后升高，极化电阻先升高后降低。当黏结剂质量分数为50%时，烧结试样的自腐蚀电流密度最低，容抗弧半径和极化电阻最大，表现出最佳耐腐蚀性能。
+
+			
+机械工程材料. 2026 50(): 1-9.</p>]]></description>
+    </item>
+    <item>
+      <title>铜对Al-7Si-Mg铸造合金显微组织和拉伸性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260105</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260105</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260105</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260105</p><p>采用铜微合金化及微量Al-Sr-RE复合变质技术制备Al-7Si-Mg铸造合金，研究了铜含量（0，0.2，0.5，0.8，质量分数/%）对合金显微组织与室温拉伸性能的影响。结果表明：随着铜含量增加，合金中除共晶硅以外的第二相面积分数增加，长径比增大，形貌由针状逐渐向粗大针状和块状转变；较高含量铜促进了Alsub7/subCusub2/subSi(Ce)、Alsub7/subCusub2/subFe(Ce)和Alsub2/subCu(Si)等含铜相的形成，并抑制了β-Alsub5/subFeSi向π-Alsub8/subMgsub3/subSisub6/subFe的完全转变，导致针状β-Alsub5/subFeSi粗化。随着铜含量增加，合金强度提高，但断后伸长率降低。当铜含量为0.5%～0.8%时，合金的抗拉强度达到361～377 MPa，断后伸长率仍保持在9.8%～10.3%，表现出良好的强韧性匹配。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>锆制结构TIG焊接头组织转变特征及其对性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260125</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260125</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260125</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260125</p><p>采用连续送丝、同质填充焊缝方式对R6070锆板进行钨极氩弧焊（TIG）试验，研究了接头组织转变特征及其对力学性能和耐腐蚀性能的影响。结果表明：热循环导致接头热影响区由初始等轴状α相转变成为板条状α′锆马氏体，焊缝凝固冷却后形成大量篮网状魏氏组织和残余β相。组织转变导致焊缝强度较母材升高，但塑形和韧性降低。焊缝中观察到含高密度位错的板条状马氏体和含孪晶结构的透镜状马氏体，二者构成滑移-孪生协调塑性变形方式，协调接头塑性变形及维持总体延性断裂特征。接头母材、热影响区及焊缝的开路电位及阻抗模量均依次减小，容抗弧由母材的近似半圆形向焊缝与热影响区的45°直线特征演变，腐蚀速率依次增加，耐腐蚀性能依次降低。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>T700碳纤维/7901环氧树脂基复合材料单向板的拉-拉疲劳性能及寿命预测</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260065</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260065</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260065</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260065</p><p>对T700碳纤维/7901环氧树脂基复合材料单向板开展不同纤维取向角度（0°，30°，45°，90°）的拉-拉疲劳试验，研究了纤维取向角度对复合材料疲劳性能的影响；基于30°偏轴疲劳应力-寿命（italicS-N/italic）曲线估算了面内剪切疲劳italicS-N/italic曲线，并结合疲劳渐进损伤模型预测了不同纤维取向角度下单向板的疲劳寿命。结果表明：当纤维取向角度为0°时，复合材料单向板的疲劳强度最高，疲劳性能最优，随纤维取向角度增大，疲劳强度降低，疲劳性能降低。采用估算剪切疲劳数据预测得到的疲劳寿命与试验结果吻合良好，纤维取向角0°，45°，90°下的预测结果偏差在3倍误差带以内，纤维取向角30°下的偏差基本在5倍误差带以内，验证了使用估算剪切疲劳数据进行复合材料单向板寿命预测的可行性。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>两种型号自动扶梯铝合金梳齿板的缺陷致裂规律</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260102</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260102</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260102</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260102</p><p>为揭示不同型号自动扶梯ZLD-104铝合金梳齿板的缺陷致裂规律，选取两款基材同为ZLD-104铸造铝合金但基体力学性能存在差异的商用梳齿板，分别加工为1号和2号拉伸试样开展室温拉伸试验；建立了无气孔及含直径1 mm球形气孔缺陷的拉伸试样有限元模型，研究了气孔缺陷及其空间位置对试样拉伸致裂行为的影响。结果表明：无缺陷条件下1号试样的抗拉强度、屈服强度、弹性模量均高于2号试样，承载稳定性更优；两种试样的断后伸长率均为1.0%，屈服前断裂试样断口均存在铸造气孔缺陷。与无气孔缺陷试样仿真结果相比，仿真得到含气孔缺陷试样最大等效应力与标距伸长量降低，气孔缺陷直接诱发材料在屈服前断裂。气孔位置对1号试样最大拉伸应力影响微弱，对2号试样影响显著，纵向、横向布置气孔时最大应力分别呈倒V型、U型变化，同一横向位置不同纵向子位置的最大应力差达33 MPa，边缘区域应力受缺陷影响相对较弱。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>铁含量对Al-3Ni合金组织和性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260083</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260083</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260083</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260083</p><p>制备了不同铁含量（0%，0.3%，0.6%，0.9%，1.2%）的Al-3Ni-italicx/italicFe合金，研究了铁含量对显微组织、导热性能和拉伸性能的影响。结果表明：Al-3Ni合金主要由α-Al和（α-Al+Alsub3/subNi）共晶组织组成；当铁含量为0.3%～0.6%时，共晶组织中形成细小弥散的层片状Alsub9/subFeNi相，其随铁含量增加而数量增多、尺寸增大；当铁含量超过0.6%时，初生Alsub9/subFeNi相优先析出，并趋于粗大。随着铁含量增加，Al-3Ni-italicx/italicFe合金的热导率减小，当铁含量超过0.6%时，铁含量对热导率的不利影响显著加剧；随着铁含量增加，抗拉强度和屈服强度增大，断后伸长率减小，断裂机制由韧性向脆性转变。0.6%铁含量是Al-3Ni-italicx/italicFe合金由弥散强化主导转向界面损伤主导的临界阈值，精确调控Alsub9/subFeNi相的尺寸与分布，是平衡该体系合金强度与塑性的关键。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>等温相变热处理和微合金元素对过共析钢轨显微组织和断裂韧性的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250423</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250423</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl250423</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl250423</p><p>在自主设计的含质量分数0.25%镍过共析钢中添加铈元素（质量分数0.005%，0.010%）和铜元素（质量分数0.53%），通过真空感应熔炼、900 ℃轧制、540 ℃等温相变热处理等工艺制备试验钢，研究了热处理及铈、铜微合金元素对其显微组织、断裂韧性和断口形貌的影响。结果表明：等温相变热处理后轧制态试验钢珠光体片层间距大幅减小，组织分布更均匀，渗碳体由层片状转变为粒状或短棒状。铈的添加可显著细化珠光体片层间距，铜与铈的复合添加进一步增强细化效果，而在含铜条件下随着铈含量增加，珠光体细化程度持续提高，但组织中形成铈硫化物（Cesub2/subSsub3/sub/CeS）脆性夹杂。等温相变热处理可显著提高试验钢的断裂韧度，其中未添加铈和铜试验钢的断裂韧性最优，而添加铜和质量分数0.010%铈的试验钢的断裂韧性最差。等温相变热处理使试验钢的断裂形式由轧制态的脆性断裂转变为韧脆混合断裂。随着铈、铜元素添加以及含铜条件下铈含量增加，断口中韧窝数量减少，河流花样面积增多，断裂韧性降低。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>钢侧坡口角度对6061铝合金/Q235镀锌钢激光熔钎焊温度场及接头组织和性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260042</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260042</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260042</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260042</p><p>选用ER4043焊丝为填充材料，以6061-T6铝合金板和Q235镀锌钢板为母材，在铝合金侧坡口角度固定为60°条件下，分别采用30°，45°，60°的钢侧坡口角度进行激光熔钎焊对接试验，通过ANSYS软件模拟不同钢侧坡口角度下接头的焊接温度场以及通过试验研究接头的组织和拉伸性能。结果表明：模拟得到不同钢侧坡口角度下6061铝合金/Q235镀锌钢激光熔钎焊接头铝合金侧熔池边界与试验接头中的熔合线吻合较好，验证了模拟的准确性；随钢侧坡口角度由60°减小到30°，接头钢/焊缝界面中部的峰值温度由2 130 ℃降低至1 860 ℃，焊缝金属熔化时间由2.67 s缩至2.03 s，界面结合面积由27.7 mmsup2/sup增大至48.0 mmsup2/sup，界面的金属间化合物层厚度由11.0 μm减小至2.8 μm，接头的拉伸强度由121 MPa升高至152 MPa。不同钢侧坡口角度接头均沿钢/焊缝界面的金属间化合物层断裂，断裂模式均为脆性断裂。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>42CrMo钢小冲杆缺口试样氢扩散行为的有限元模拟</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260021</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260021</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260021</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260021</p><p>以螺栓用42CrMo高强度合金钢为研究对象，采用Abaqus软件建立含U型纵向贯穿缺口的小冲杆试样应力-氢扩散耦合有限元模型，系统模拟了不同载荷、扩散时间及缺口几何尺寸下的氢扩散行为与浓度分布；开展了无缺口试样与缺口试样（缺口长度5 mm，根部半径0.25 mm）在充氢前后的小冲杆试验，研究了其载荷-位移响应和断口形貌，并基于应力诱导氢扩散理论计算理论氢浓度，以验证模拟结果的准确性。结果表明：缺口使未充氢试样的最大断裂载荷下降43.9%，但断裂机制未发生变化，仍为韧性断裂；充氢使无缺口试样的最大断裂载荷降低59.6%，断口由等轴韧窝转变为准解理与二次微裂纹；缺口与氢共存时性能劣化最为严重，最大断裂载荷降幅达68.6%，断口呈脆性断裂特征。当扩散时间较短时（10sup2/sup s），应力对氢浓度分布无显著影响；随着扩散时间延长至10sup3/sup s以上，应力梯度开始驱动氢向缺口根部高静水应力区富集，400 N载荷下稳态扩散时的无量纲归一化氢浓度峰值相较于无应力状态下提高1.12倍。400 N低载荷下随着缺口根部半径增加，稳态扩散时的无量纲归一化氢浓度峰值降低；随着载荷增加，缺口根部半径对氢浓度峰值的影响减弱。400N低载荷下，模拟得到不同缺口根部半径试样的无量纲归一化氢浓度峰值与理论解的相对误差小于5%；随着载荷增加，有限元模拟结果的相对误差增大，1 600 N高载荷下，0.05 mm缺口根部半径下的相对误差达42.68%。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>深度调峰下电厂锅炉TP347H不锈钢蒸汽管道的显微组织和低周疲劳性能</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260025</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260025</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260025</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-10，DOI 10.11973/jxgccl260025</p><p>以深度调峰工况下服役62 500 h的某电厂锅炉高温再热器出口段及高温过热器出口段迎火面TP347H钢蒸汽管道为研究对象，对其显微组织、拉伸性能和600 ℃低周疲劳断口形貌进行研究，并采用Manson-Coffin方程预测TP347H钢管道在高温循环工况下的疲劳寿命。结果表明：高温再热器与高温过热器出口段迎火面的TP347H钢管道组织均保持为等轴奥氏体晶粒，未见大量析出物聚集及晶粒异常长大现象，管道壁厚中心部位组织无明显择优取向，大角度晶界占主导，组织稳定；相比于高温再热器，高温过热器出口段迎火面管道内壁形成的氧化层更厚，紧邻氧化层的析出物数量更多，局部晶格畸变更显著，整体变形程度更大，宏观和微观损伤程度略高。两个部位管道的室温拉伸性能相似，且均满足标准要求。600 ℃高温下TP347H钢管道的低周疲劳断口存在多源疲劳起裂、不对称裂纹扩展以及瞬断区韧窝大而浅等典型低周疲劳特征；低周疲劳过程表现出初始循环硬化，随后循环软化，最终因裂纹萌生导致断裂的特征，且其疲劳硬化程度随应变幅增大而升高；疲劳寿命符合Manson-Coffin模型，预测值与试验值均落在2倍分散带内，拟合精度较高。深度调峰工况下服役62 500 h的TP347H不锈钢管道具备良好的组织稳定性与抗疲劳性能，可满足高温高压蒸汽管道长期安全服役要求。
+
+			
+机械工程材料. 2026 50(): 1-10.</p>]]></description>
+    </item>
+    <item>
+      <title>Y2O3掺杂量对ZnO压敏电阻冲击老化特性的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260020</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260020</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260020</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-6，DOI 10.11973/jxgccl260020</p><p>以ZnO，SiOsub2/sub，Cosub2/subOsub3/sub，Sbsub2/subOsub3/sub，Bisub2/subOsub3/sub，Mnsub2/subOsub3/sub，Crsub2/subOsub3/sub，Ysub2/subOsub3/sub为原料，采用固相烧结法制备不同Ysub2/subOsub3/sub掺杂量（0，0.50%，0.75%，1.00%，物质的量分数，下同）的ZnO压敏电阻，研究了压敏电阻的微观结构以及标准电流冲击100次后的冲击老化特性。结果表明：随着Ysub2/subOsub3/sub掺杂量增加，ZnO压敏电阻的晶粒细化且分布更加均匀，晶界处的钇元素含量增加。在1 mA大电流区Ysub2/subOsub3/sub掺杂量为0，0.75%，1.00%的ZnO压敏电阻压敏电压梯度随冲击次数增加而增大，而掺杂量为0.50%时则先减小后增大；Ysub2/subOsub3/sub掺杂可有效抑制冲击后压敏电压梯度的增幅，其中0.75%掺杂量的抑制效果最大，电流冲击100次后的增幅仅为0.44%。在1 μA小电流区，不同Ysub2/subOsub3/sub掺杂量下ZnO压敏电阻的压敏电压梯度均随冲击次数增加而降低，0.75%掺杂量下的降幅最小，仅为2.94%。Ysub2/subOsub3/sub掺杂量为0的ZnO压敏电阻的非线性系数随冲击次数增加整体呈增大趋势，Ysub2/subOsub3/sub掺杂量为0.50%，0.75%，1.00%的非线性系数均整体呈降低趋势，降低幅度均约为8%。随着电流冲击次数增加，Ysub2/subOsub3/sub掺杂量为0，0.50%的ZnO压敏电阻的漏电流增大，而Ysub2/subOsub3/sub掺杂量为0.75%和1.00%的漏电流则先增大后减小；Ysub2/subOsub3/sub掺杂量为0.75%的漏电流增加幅度最小，仅为7.72%。ZnO压敏电阻中Ysub2/subOsub3/sub的适宜掺杂量为0.75%，此时晶粒内和晶界处的钇元素含量趋于一致，抗冲击老化性能最优。
+
+			
+机械工程材料. 2026 50(): 1-6.</p>]]></description>
+    </item>
+    <item>
+      <title>连续退火工艺对DP590双相钢组织及拉伸性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260033</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260033</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260033</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260033</p><p>以C-Si-Mn系DP590冷轧双相钢为研究对象，为解决在实际连续退火工艺带来的屈强比偏高的问题，基于相图、等温转变曲线和连续冷却转变曲线确定避开贝氏体转变的理论工艺区间（缓冷温度需控制在580 ℃以上），利用热模拟试验机研究了均热温度（730～850 ℃）和缓冷温度（610～710 ℃）对显微组织和拉伸性能的影响。结果表明：当缓冷温度固定为670 ℃时，随着均热温度升高，试验钢中马氏体面积分数由16.1%增至21.1%，且分布更加均匀，屈服强度先降后高，抗拉强度在620～666 MPa范围波动，无明显单调趋势，断后伸长率整体呈增大趋势，屈强比整体呈先降后升的波动变化趋势；此条件下适宜的均热温度为790 ℃，此时铁素体再结晶充分，细小马氏体弥散分布，屈强比最低，为0.40，断后伸长率较高，为14.1%。在均热温度固定为790 ℃条件下，随着缓冷温度升高，马氏体面积分数由17.2%增至19.2%，且分布更加均匀，屈服强度在260～274 MPa范围呈略微升高趋势，抗拉强度在633～654 MPa范围呈先略微降低后略微升高趋势，断后伸长率基本稳定在16.0%～16.5%之间，屈强比整体呈先升高后略微降低的趋势。适宜的缓冷温度为610 ℃，此时马氏体细小且弥散分布，铁素体再结晶充分，屈强比最小，为0.40，断后伸长率最高，为16.5%。在试验条件下DP590冷轧双相钢连续退火的推荐工艺窗口为均热温度790 ℃、缓冷温度610 ℃，可实现低屈强比与良好的强塑性匹配。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>2195铝锂合金搅拌摩擦焊缝表面起皮形成机制及影响因素</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250499</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250499</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl250499</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl250499</p><p>在不同转速（300，600，1 200 r·minsup−1/sup）、焊接速度（100，200，600 mm·minsup−1/sup）、压入量（0.1，0.2，0.5，0.8 mm）和焊接次数（1，3次）下，采用搅拌摩擦焊接技术对6 mm厚T8态2195铝锂合金板进行对接试验，研究了焊缝表面起皮形貌、显微组织、化学成分、形成机制及影响因素。结果表明：2195铝锂合金搅拌摩擦焊缝表面的起皮程度随着焊接转速、焊接速度或焊接次数的增加而加剧，压入量对焊缝表面起皮影响不明显。表面起皮未对焊缝静载强度产生明显。焊缝表面起皮呈鳞片状或翘曲细丝状，开口方向与焊接方向相反，组织为晶粒尺寸0.3～0.8 μm的超细小等轴晶，起皮区域的化学成分与母材基本相同。起皮产生于距离焊缝表面0.2～0.4 mm范围，起皮根部与母材呈约70°夹角，起皮根部存在明显的疏松特征，距焊缝表面约0.4 mm范围分布着平行于焊缝表面的层间微裂纹。焊缝表面起皮源于材料低导热性和层间开裂敏感性的本征特性，在焊接过程中因轴肩影响区与搅拌针影响区塑性流变场差异及轴肩定向机械作用的叠加，导致层间流动不连续而产生分层起皮。
+
+			
+机械工程材料. 2026 50(): 1-9.</p>]]></description>
+    </item>
+    <item>
+      <title>Co2O3和MnO2掺杂量对ZnO压敏电阻冲击老化特性的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260207</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260207</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260207</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260207</p><p>以ZnO、Bisub2/subOsub3/sub、Al（NOsub3/sub）sub3/sub、SiOsub2/sub、MnOsub2/sub、Cosub2/subOsub3/sub、Crsub2/subOsub3/sub、Sbsub2/subOsub3/sub、Ysub2/subOsub3/sub为原料，采用固相烧结方法制备掺杂不同含量Cosub2/subOsub3/sub（物质的量分数1.00%，2.00%，3.00%，4.00%，5.00%，MnOsub2/sub物质的量分数固定为0.50%）和MnOsub2/sub（物质的量分数0.50%，1.00%，1.50%，2.00%，Cosub2/subOsub3/sub物质的量分数固定为1.00%）的高电压梯度ZnO压敏电阻，分别研究Cosub2/subOsub3/sub和MnOsub2/sub掺杂量对ZnO压敏电阻微观结构和冲击老化特性的影响。结果表明：随着Cosub2/subOsub3/sub掺杂量增加，ZnO压敏电阻的晶粒尺寸减小；随着MnOsub2/sub掺杂量增加，ZnO压敏电阻的晶粒尺寸相差不大。随着电流冲击次数增加，不同Cosub2/subOsub3/sub和MnOsub2/sub掺杂量下ZnO压敏电阻的压敏电压梯度、非线性系数和泄漏电流呈非单调变化规律。Cosub2/subOsub3/sub掺杂量对ZnO压敏电阻的压敏电压梯度、非线性系数和泄漏电流均具有显著影响，其中掺杂物质的量分数4.00% Cosub2/subOsub3/sub的ZnO压敏电阻在冲击100次后的非线性系数降低20.61%，但其数值仍较大，压敏电压梯度升高2.02%，泄漏电流升高24.04%，但数值仍较小，抗冲击老化性能较优。MnOsub2/sub掺杂量对压敏电压梯度的影响相对较弱，但非线性系数和泄漏电流的影响显著，其中掺杂物质的量分数1.50% MnOsub2/sub的ZnO压敏电阻在冲击100次后的非线性系数提高42.40%，泄漏电流降低15.46%，抗冲击老化性能较优。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>蜂窝多孔钛表面锌基超疏水合金涂层生长及其耐久性</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250455</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250455</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl250455</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-10，DOI 10.11973/jxgccl250455</p><p>以TA2纯钛板为基材，采用直流阳极氧化法在不同电压（140～180 V）下制备蜂窝多孔钛基板，根据表面润湿性确定最佳氧化电压；在多孔钛表面脉冲电沉积锌基（Ni-Co-Zn）合金涂层，研究了镀液中ZnSOsub4/sub物质的量浓度（0.12～0.36 mol·Lsup−1/sup）对涂层表面形貌影响，确定了最佳ZnSOsub4/sub浓度；对最佳ZnSOsub4/sub浓度下制备的涂层进行不同温度（100～300 ℃）人工时效2 h+25 ℃自然时效不同时间（0～14 d）以及仅进行25 ℃自然时效不同时间（0～14 d），研究了人工时效对涂层表面润湿性影响；通过耐水流冲射、落砂及耐酸碱浸泡试验，研究了超疏水涂层的耐久性。结果表明：当电压为160 V时，试验钛板表面为单一纳米孔结构，孔洞分布均匀，表面水滴静态接触角最小，为最佳电压。当镀液中ZnSOsub4/sub物质的量浓度为0.24 mol·Lsup−1/sup时，涂层表面形成以镍/钴为球壳、多触角ZnO枝晶的仿苍耳球冠织构，为最优ZnSOsub4/sub浓度。涂层仅经自然时效14 d后表面仍亲水；经不同温度人工时效+25 ℃自然时效8 d后表面由亲水转变为疏水。最佳ZnSOsub4/sub浓度下涂层经200 ℃人工时效+自然时效14 d后，因表面形成仿苍耳球冠微-纳结构，表面水滴静态接触角达157°，涂层表面实现超疏水。不同时间或高度水流冲击、不同时间落砂和不同pH酸碱溶液浸泡后，超疏水涂层表面的水滴静态接触角均大于135°，滚动角均小于14.5°，其耐水流冲射性能、落砂冲击和耐酸碱性均较好，耐久性优异。
+
+			
+机械工程材料. 2026 50(): 1-10.</p>]]></description>
+    </item>
+    <item>
+      <title>采用热-弹-塑性有限元仿真优化钛合金T型接头熔化极惰性气体保护焊接参数</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250536</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250536</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl250536</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl250536</p><p>基于Sysweld平台，采用热-弹-塑性有限元法开发了钛合金熔化极惰性气体保护焊接T型接头热源模型，通过模拟熔池形貌与试验接头对比进行热源校核，模拟研究了焊接热输入（256.6，324.0，444.8 J·mmsup−1/sup）和焊接形式（双面焊、单面焊）对焊接温度场及应力应变场的影响，并进行了试验验证。结果表明：模拟所得熔池形貌与试验接头形貌相似，模拟与试验得到热循环曲线的相关系数在0.954以上，残余应力峰值相对误差在9.6%以内，角变形相对误差在8%以内，验证了热源模型以及温度场、应力应变场模拟的准确性。随着热输入增加，残余应力峰值增大，角变形增大。在相同热输入下，单面焊接头的立板在垂直方向出现了明显偏移，双面焊接头的立板则保持了良好的垂直度，双面焊接头的角变形小于单面焊接头。推荐采用双面焊、热输入324.0 J·mmsup−1/sup焊接方案，所得接头熔合良好、无成形缺陷，残余应力水平较低，焊接变形程度较低，兼顾生产效率与成形精度。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
     </item>
   </channel>
 </rss>
