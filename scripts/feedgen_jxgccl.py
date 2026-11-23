@@ -1,21 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""《机械工程材料》(Materials for Mechanical Engineering) 最新论文 RSS 生成器
+"""《机械工程材料》(Materials for Mechanical Engineering) 最新论文 RSS 生成器。
 
-站点 https://jxgccl.mat-test.com 属仁和汇智 RHHz 平台，页面 JS 模板渲染、无 sitemap。
-官网自带 RSS(/rss/latest.xml) 能拿到条目和 DOI，但 dc:date / prism:publicationDate 全为空,
-标题还被多层转义破坏(如 H&lt;sub&lt;2…),不能直接给阅读器用。
+站点 https://jxgccl.mat-test.com 属仁和汇智 RHHz 平台，页面 JS 渲染、无 sitemap。
+官网 RSS(/rss/latest.xml) 能拿到条目和 DOI，但 dc:date/prism:publicationDate 全空,
+标题还被多层转义破坏，不能直接给阅读器。
 
-做法：
-  1. 用官网 RSS 作条目索引(含 DOI、官方摘要兜底)；
-  2. 串行抓文章页 /article/doi/<doi>，取 citation_publication_date(真实发布日)、
-     citation_title(规范标题)、citation_author、citation_keywords，
-     摘要优先取页面 div.abstract-cn(保留 sub/sup 上下标)；
-  3. 抓不到的条目退回官方数据也不丢；日期依次从上一版 feed、feeds/jxgccl-dates.json 继承；
-  4. 输出标准 RSS 2.0，并回写日期种子。
-
-注意：该站对境外/连续请求会返回 403，故固定串行 + 限预算 + 日期持久化，
-即使某天抓不到页面，feed 也不会丢掉已知道的发布日期。
+做法：官网 RSS 作条目索引 -> 串行抓 /article/doi/<doi> 取 citation_publication_date、
+标题、作者、关键词，摘要优先取 div.abstract-cn（保留 sub/sup）-> 输出 RSS 2.0。
+抓不到的条目退回官方数据不丢；日期依次从上一版 feed、feeds/jxgccl-dates.json 继承。
+该站对境外/连续请求会 403 或超时，故固定串行 + 限预算 + 日期持久化。
 """
 import json
 import os
@@ -24,6 +18,7 @@ import html
 import sys
 import time
 import argparse
+import traceback
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import format_datetime, parsedate_to_datetime
@@ -31,6 +26,7 @@ from datetime import datetime, timezone
 
 SITE = "https://jxgccl.mat-test.com"
 LIST_FEED = SITE + "/rss/latest.xml"
+ERR_FILE = "feeds/jxgccl-error.txt"
 UA = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -46,15 +42,14 @@ def http_get(url, timeout=25, retries=2):
             req = urllib.request.Request(url, headers=UA)
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read().decode("utf-8", "ignore")
-        except Exception as e:  # noqa: BLE001
+        except Exception as e:
             last = e
             if i < retries - 1:
-                time.sleep(1.5)
+                time.sleep(2)
     raise last
 
 
 def clean_text(t):
-    """多层转义 + 正常/畸形 HTML 标签统一清理"""
     if not t:
         return ""
     for _ in range(6):
@@ -62,14 +57,13 @@ def clean_text(t):
         if nt == t:
             break
         t = nt
-    t = re.sub(r"</?[a-zA-Z][^<>]{0,20}>", "", t)      # <sub>xxx</sub>
-    t = re.sub(r"</?[a-zA-Z][^<>]{0,20}<", "", t)      # 畸形 <sub< / </sub<
+    t = re.sub(r"</?[a-zA-Z][^<>]{0,20}>", "", t)
+    t = re.sub(r"</?[a-zA-Z][^<>]{0,20}<", "", t)
     t = t.replace("<", "").replace(">", "")
     return re.sub(r"[ \t\r\n]+", " ", t).strip()
 
 
 def strip_html_keep_para(t):
-    """官方摘要兜底：去标签、保留段落"""
     if not t:
         return ""
     for _ in range(5):
@@ -100,8 +94,7 @@ def parse_list_feed(xml_text):
         if not link and doi:
             link = f"{SITE}/article/doi/{doi}"
         items.append(dict(
-            link=link,
-            doi=doi,
+            link=link, doi=doi,
             title_raw=it.findtext("rss:title", default="", namespaces=ns),
             desc_raw=it.findtext("rss:description", default="", namespaces=ns),
             volume=it.findtext("prism:volume", default="", namespaces=ns),
@@ -112,7 +105,6 @@ def parse_list_feed(xml_text):
 
 
 def meta_of(page_html):
-    """<meta> 解析，兼容 name/content 属性顺序"""
     out = {}
     for tag in re.finditer(r"<meta\b[^>]*>", page_html, re.I):
         s = tag.group(0)
@@ -124,7 +116,6 @@ def meta_of(page_html):
 
 
 def abstract_from_page(page_html):
-    """文章页 div.abstract-cn 里的中文摘要，保留 sub/sup"""
     m = re.search(r'<div class="abstract-cn">(.*?)<div class="abstract-en">', page_html, re.S)
     if not m:
         return ""
@@ -134,12 +125,11 @@ def abstract_from_page(page_html):
     blk = re.sub(r"<(?:div|script|style|img)[^>]*>", "", blk, flags=re.I)
     blk = re.sub(r"</(?:div|script|style|img)>", "", blk, flags=re.I)
     blk = re.sub(r"[ \t\r\n]+", " ", blk)
-    blk = re.sub(r"</?[a-zA-Z][^<>]{0,18}<", "", blk)   # 只清理畸形 <sub< 形式
+    blk = re.sub(r"</?[a-zA-Z][^<>]{0,18}<", "", blk)
     return blk.strip()
 
 
 def fallback_entry(e):
-    """详情页拿不到时退回官方数据，条目照常输出"""
     return dict(title=clean_text(e["title_raw"]), link=e["link"], doi=e["doi"],
                 authors=[], date="", pub_dt=None, keywords="",
                 volume=e["volume"], number=e["number"], pages=e["pages"],
@@ -155,7 +145,7 @@ def fetch_article(e, timeout=25, deadline=None):
         try:
             page = http_get(e["link"], timeout=timeout, retries=1)
             m = meta_of(page)
-        except Exception as ex:  # noqa: BLE001
+        except Exception as ex:
             print(f"  [retry{attempt}] {e['link']} -> {ex}", file=sys.stderr, flush=True)
             time.sleep(1)
             continue
@@ -196,11 +186,10 @@ def esc(s):
 
 
 def load_prev(path):
-    """上次产物里的 link -> 日期"""
     d = {}
     try:
         root = ET.parse(path).getroot()
-    except Exception:  # noqa: BLE001
+    except Exception:
         return d
     for it in root.findall(".//item"):
         link = (it.findtext("link") or "").strip()
@@ -210,20 +199,18 @@ def load_prev(path):
         try:
             dt = parsedate_to_datetime(pd_txt.strip()).astimezone(timezone.utc)
             d[link] = dt.replace(hour=0, minute=0, second=0, microsecond=0)
-        except Exception:  # noqa: BLE001
+        except Exception:
             continue
     return d
 
 
 def load_seed(path):
-    """日期种子：link -> 日期。官网详情页在境外服务器常被 403，
-    这里把历史抓到的日期持久化，后续即使抓不到也不丢日期。"""
     try:
         with open(path, encoding="utf-8") as f:
             raw = json.load(f)
         return {k: datetime.strptime(v, "%Y-%m-%d").replace(tzinfo=timezone.utc)
                 for k, v in raw.items()}
-    except Exception:  # noqa: BLE001
+    except Exception:
         return {}
 
 
@@ -236,7 +223,7 @@ def save_seed(path, items, seed):
         with open(path, "w", encoding="utf-8") as f:
             json.dump({k: v.strftime("%Y-%m-%d") for k, v in sorted(merged.items())},
                       f, ensure_ascii=False, indent=1)
-    except Exception as e:  # noqa: BLE001
+    except Exception as e:
         print(f"  [warn] 日期种子写入失败: {e}", file=sys.stderr, flush=True)
 
 
@@ -302,12 +289,12 @@ def main():
     ap.add_argument("--budget", type=int, default=780, help="详情页抓取总预算秒数")
     a = ap.parse_args()
 
-    entries = parse_list_feed(http_get(LIST_FEED, timeout=40))
+    entries = parse_list_feed(http_get(LIST_FEED, timeout=45, retries=5))
     print(f"官方 feed 条目 {len(entries)}，取前 {min(a.limit, len(entries))} 条", flush=True)
     todo = entries[:a.limit]
     prev = load_prev(a.out)
     if prev:
-        print(f"上次产物可复用日期 {len(prev)} 条", flush=True)
+        print(f"上一次产物可复用日期 {len(prev)} 条", flush=True)
     seed_path = os.path.join(os.path.dirname(os.path.abspath(a.out)), "jxgccl-dates.json")
     seed = load_seed(seed_path)
     if seed:
@@ -330,10 +317,11 @@ def main():
             print(f"  {r['date']}  {r['title'][:42]}", flush=True)
         results.append(r)
 
-    # 无日期的当最新排前面，避免刚上线的文章沉底
     results.sort(key=lambda x: x["pub_dt"] or datetime.max.replace(tzinfo=timezone.utc), reverse=True)
     write_rss(results, a.out)
     save_seed(seed_path, results, seed)
+    if os.path.exists(ERR_FILE):
+        os.remove(ERR_FILE)
     dated = sum(1 for r in results if r["pub_dt"])
     print(f"写入 {a.out}：{len(results)} 条（其中 {dated} 条有发布日期）", flush=True)
     if not results:
@@ -341,4 +329,16 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except BaseException:
+        msg = traceback.format_exc()
+        print(msg, file=sys.stderr, flush=True)
+        try:
+            with open(ERR_FILE, "w", encoding="utf-8") as f:
+                f.write(msg)
+        except Exception:
+            pass
+        sys.exit(1)
