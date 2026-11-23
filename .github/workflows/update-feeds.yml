@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 2 * * *"      # UTC 02:00 = 北京时间 10:00
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:                   # 只在此类改动时自动重跑，避免文档改动也触发
+      - "scripts/**"
+      - "config/**"
+      - ".github/workflows/**"
 
 permissions:
   contents: write
