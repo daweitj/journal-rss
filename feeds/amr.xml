@@ -5,8 +5,19 @@
 <link>https://pubs.acs.org/amrcda</link>
 <description>Accounts of Materials Research（ISSN 2643-6728）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 18:24:39 +0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:42:27 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Supramolecular Polymeric Ionogels</title>
+<link>https://doi.org/10.1021/accountsmr.6c00256</link>
+<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00256</guid>
+<description>Conspectus Polymeric ionogels (PIs), comprising ionic liquids as solvents and swollen polymeric matrices, are expected to play crucial roles in next-generation electronics. Owing to the nearly unlimited diversity of anion–cation combinations, the physicochemical properties of ionogels can be widely tuned. More importantly, in contrast to hydrogels, ionogels inherit the intrinsic ionic conductivity, nonvolatility, and electrochemical stability of ILs, although issues such as higher toxicity and viscosity should be addressed by careful chemical design. To achieve excellent electrical performance and mechanical compliance, the key is to identify suitable motifs for PIs. Reversible physical cross-linking, self-assembly, phase separation, self-healing, and network reorganization are not new in ionic liquids. They have been widely studied in physical ionogels, block copolymer ion gels, poly(ionic liquid)s (PILs), and supramolecular hydrogels. Thus, supramolecular polymeric ionogels (SPIs) are not proposed simply because they contain dynamic cross-links. The main point is to understand how these dynamic junctions work in polymeric ionogels. In other words, we focus on how ionic liquids, polymer chains, and reversible bonds together determine mechanics, conductivity, processability, and device functions. Among several materials, supramolecular polymers are emerging as promising building blocks for designing complex architectures with remarkable properties because of their dynamic and
+
+作者：Liu Kai、Dai Fanghao、Wu Peiyi | DOI：10.1021/accountsmr.6c00256 | 类型：journal-article</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Liu Kai</dc:creator>
+<category>10.1021/accountsmr.6c00256</category>
+</item>
 <item>
 <title>Dynamic Cluster Catalysis: Active-Center Formation, Collective Function, and Design Principles</title>
 <link>https://doi.org/10.1021/accountsmr.6c00279</link>
@@ -325,17 +336,6 @@
 <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
 <dc:creator>Li Mao</dc:creator>
 <category>10.1021/accountsmr.6c00205</category>
-</item>
-<item>
-<title>Materials Engineering to Unlock Saltwater Cooling</title>
-<link>https://doi.org/10.1021/accountsmr.6c00237</link>
-<guid isPermaLink="true">https://doi.org/10.1021/accountsmr.6c00237</guid>
-<description>
-
-作者：McBride Samantha A.、Kumar Rehan | DOI：10.1021/accountsmr.6c00237 | 类型：journal-article</description>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
-<dc:creator>McBride Samantha A.</dc:creator>
-<category>10.1021/accountsmr.6c00237</category>
 </item>
 </channel>
 </rss>

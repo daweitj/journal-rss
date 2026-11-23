@@ -5,8 +5,19 @@
 <link>https://pubs.acs.org/journal/chreay</link>
 <description>Chemical Reviews（ISSN 0009-2665）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 18:24:39 +0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:42:27 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Single-Atom Catalysts for Biomass Valorization</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00675</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00675</guid>
+<description>Abstract Biomass, the only renewable organic carbon resource on Earth, offers a promising feedstock for producing value-added chemicals and fuels. However, the principal challenge in biomass valorization stems from the inherent complexity of its functional groups, necessitating catalysts capable of precisely activating specific C–O/C═O/C═C bonds while suppressing undesired side reactions. Single-atom catalysts (SACs), featuring unique geometric and electronic structures as well as high atomic utilization efficiency, have shown potential for highly effective biomass conversion in thermocatalysis, electrocatalysis, and photocatalysis. Drawing upon recent continuous efforts on SACs in biomass valorization, we provide a comprehensive overview of recent advances in applying SACs to the transformation of main components of lignocellulosic biomass and their platform molecules. Structure–activity relationships and catalytic behavior of SACs under different external stimuli (e.g., thermal, electrical, and photonic) are emphasized, showcasing their innovative applications. The important factors governing catalytic activity and selectivity with a particular focus on the geometric and electronic structures of active sites are discussed, aiming to derive fundamental principles for the rational design of efficient and selective catalysts for biomass valorization. Finally, an outlook highlights the key challenges and prospects in this flourishing field.
+
+作者：Tian Jiangli、Guan Weixiang、Reinhold Julian Skagfjörd、Jiang Xunzhu、Wilson Karen、Wang Aiqin、Kühn Fritz E.、Zhang Bo | DOI：10.1021/acs.chemrev.6c00675 | 类型：journal-article</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Tian Jiangli</dc:creator>
+<category>10.1021/acs.chemrev.6c00675</category>
+</item>
 <item>
 <title>Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00476</link>
@@ -325,17 +336,6 @@
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
 <dc:creator>Bonilla Valeria</dc:creator>
 <category>10.1021/acs.chemrev.6c00440</category>
-</item>
-<item>
-<title>Marine Carbonate System Observing and mCDR: New Processes, Needs, and Systems</title>
-<link>https://doi.org/10.1021/acs.chemrev.5c01007</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.5c01007</guid>
-<description>Abstract Marine carbon dioxide removal (mCDR) techniques have the potential to remove legacy emitted carbon dioxide from the atmosphere and store it durably in ocean reservoirs. While the ocean’s vast surface area and buffering capacity offer benefits for scaling removal, monitoring remains challenging. This comprehensive review of marine carbonate system observing and monitoring technologies finds that mCDR processes span multiple scales, often at the edges of existing platform and sensing capability. While some mCDR observing and monitoring is possible today, challenges will arise as experiments and operations expand. Leaps forward in assessing the novel scales of mCDR processes will emerge from low-energy, low-cost, highly durable sensors; innovative deployment platforms; cooperative sensing networks; dedicated model validation programs; and decision support tools. This review is intended to serve as a guide to the history, ongoing innovation, and transformative vision of future marine carbonate system observing and monitoring informed by mCDR.
-
-作者：Cross Jessica N.、Achterberg Eric P.、Atamanchuk Dariia、Bresnahan Philip J.、Byrne Robert H.、DeGrandpre Michael D.、Fennel Katja、Hales Burke | DOI：10.1021/acs.chemrev.5c01007 | 类型：journal-article</description>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Cross Jessica N.</dc:creator>
-<category>10.1021/acs.chemrev.5c01007</category>
 </item>
 </channel>
 </rss>
