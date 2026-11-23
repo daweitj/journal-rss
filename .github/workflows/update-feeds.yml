@@ -23,6 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -32,14 +34,28 @@ jobs:
       - name: 生成各刊 feed
         run: python scripts/build_all.py
 
+      # 单刊报错不再拖垮整个任务：空的/损坏的产物回滚成仓库旧版，其余正常提交
       - name: 校验产物
         run: |
           python - <<'PY'
-          import glob, xml.etree.ElementTree as ET
+          import glob, subprocess, xml.etree.ElementTree as ET
+
+          bad = []
           for f in sorted(glob.glob("feeds/*.xml")):
-              items = ET.parse(f).getroot().findall(".//item")
-              print(f"{f}: {len(items)} 条")
-              assert len(items) > 0, f"{f} 为空"
+              n = 0
+              try:
+                  n = len(ET.parse(f).getroot().findall(".//item"))
+              except Exception as e:
+                  print(f"{f}: XML 解析失败 {e}")
+              print(f"{f}: {n} 条")
+              if n == 0:
+                  bad.append(f)
+
+          for f in bad:
+              subprocess.run(["git", "checkout", "--", f], check=False)
+              print(f"[回滚] {f} 本次为空/损坏，保留仓库旧文件")
+
+          print(f"完成：{len(bad)} 个 feed 回滚")
           PY
 
       - name: 提交变更
