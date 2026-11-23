@@ -13,5 +13,6 @@
  {"label":"Journal of Materials Science","script":"scripts/feedgen_journal.py","out":"feeds/jms.xml","args":["--site","https://link.springer.com","--name","Journal of Materials Science","--list-url","https://link.springer.com/journal/10853/articles","--link-pattern","/article/10\\.1007/s10853","--limit","30","--workers","6"]},
  {"label":"MRS Bulletin","script":"scripts/feedgen_journal.py","out":"feeds/mrsb.xml","args":["--site","https://link.springer.com","--name","MRS Bulletin","--list-url","https://link.springer.com/journal/43577/articles","--link-pattern","/article/10\\.1557/s43577","--limit","30","--workers","6"]},
  {"label":"Progress in Additive Manufacturing","script":"scripts/feedgen_journal.py","out":"feeds/piam.xml","args":["--site","https://link.springer.com","--name","Progress in Additive Manufacturing","--list-url","https://link.springer.com/journal/40964/articles","--link-pattern","/article/10\\.1007/s40964","--limit","30","--workers","6"]},
- {"label":"澎湃新闻·上海书评","script":"scripts/feedgen_thepaper.py","out":"feeds/thepaper-shuping.xml","args":["--channel","168153","--name","澎湃新闻·上海书评","--limit","30"]}
+ {"label":"澎湃新闻·上海书评","script":"scripts/feedgen_thepaper.py","out":"feeds/thepaper-shuping.xml","args":["--channel","168153","--name","澎湃新闻·上海书评","--limit","30"]},
+ {"label":"观察者网","script":"scripts/feedgen_guancha.py","out":"feeds/guancha.xml","args":["--site","https://www.guancha.cn","--list-url","https://www.guancha.cn/","--name","观察者网","--limit","30"]}
 ]
