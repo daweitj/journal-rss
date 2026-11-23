@@ -101,7 +101,7 @@ def parse_list_feed(xml_text):
             source=it.findtext("dc:source", default="", namespaces=ns),
             volume=it.findtext("prism:volume", default="", namespaces=ns),
             number=it.findtext("prism:number", default="", namespaces=ns),
-            pages=it.findtext("prism:startin gPage", default="", namespaces=ns),
+            pages=it.findtext("prism:startingPage", default="", namespaces=ns),
         ))
     return items
 
