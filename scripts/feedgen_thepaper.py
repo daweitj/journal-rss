@@ -8,12 +8,16 @@
 """
 import argparse, json, re, sys, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from email.utils import formatdate
 from xml.sax.saxutils import escape
 
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 API = "https://api.thepaper.cn/contentapi/nodeCont/getByChannelId"
+
+
+def rfc822(ts):
+    """按北京时间（+0800）输出 RFC822 时间。"""
+    return time.strftime("%a, %d %b %Y %H:%M:%S +0800", time.gmtime(ts + 8 * 3600))
 
 
 def get_text(url, headers=None, tries=3):
@@ -118,7 +122,6 @@ def main():
     rows = []
     for it in items:
         ts = it["ts"] / 1000 if it["ts"] else time.time()
-        pub = formatdate(ts, usegmt=True).replace("+0000", "+0800")
         body_html = ""
         if it.get("pic"):
             body_html += f'<p><img src="{escape(it["pic"])}" /></p>'
@@ -130,7 +133,7 @@ def main():
       <title>{escape(it['title'])}</title>
       <link>{escape(it['link'])}</link>
       <guid isPermaLink="true">{escape(it['link'])}</guid>
-      <pubDate>{pub}</pubDate>
+      <pubDate>{rfc822(ts)}</pubDate>
       <description><![CDATA[{body_html}]]></description>
     </item>""")
 
@@ -141,7 +144,7 @@ def main():
     <link>{args.site}/channel_{args.channel}</link>
     <description>{escape(args.name)} 最新文章</description>
     <language>zh-cn</language>
-    <lastBuildDate>{formatdate(time.time(), usegmt=True)}</lastBuildDate>
+    <lastBuildDate>{rfc822(time.time())}</lastBuildDate>
     <generator>feedgen_thepaper.py</generator>
 {chr(10).join(rows)}
   </channel>
