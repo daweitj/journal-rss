@@ -5,8 +5,41 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 14:57:53 +0800</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 15:47:52 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Embedding Authentic Medicinal Chemistry Reasoning through a Virtual Lead-Optimization Activity</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01450</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01450</guid>
+<description>Abstract Authentic learning experiences that reflect the reasoning practices of professional scientists are intended to support the development of higher-order decision-making skills. This article presents a fully virtual lead-optimization (vLO) activity designed to embed medicinal chemistry reasoning within the curriculum. Using a curated PI3Kδ inhibitor dataset and a sequence of scaffolded design stages, students analyze structure–activity relationships, evaluate multiparameter tradeoffs, and justify molecular design decisions under conditions of uncertainty. Early design stages provide full access to experimental data to support reflection and interrogation of missed opportunities, whereas a final predictive stage requires students to apply Free–Wilson reasoning to propose new analogues from predicted or calculated properties. The vLO is assessed by submission of an individual, professional-style report, describing the process, reasoning and analysis of the optimization. The vLO activity offers a scalable, research-aligned approach for developing decision-making competencies central to medicinal chemistry and provides a transferable framework for incorporating authentic, data-rich inquiry into chemistry education.
+
+作者：Fray M. Jonathan、Macdonald Simon J. F.、Nortcliffe Andrew | DOI：10.1021/acs.jchemed.6c01450 | 类型：journal-article</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Fray M. Jonathan</dc:creator>
+<category>10.1021/acs.jchemed.6c01450</category>
+</item>
+<item>
+<title>Smartphone-Assisted Digital Image Colorimetry for the Determination of Iron Content in Spinach for High School Students</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00486</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00486</guid>
+<description>Abstract To develop a simple, low-cost quantitative analytical approach for chemistry teaching, this study integrated smartphone-assisted digital image colorimetry (DIC) into the quantitative determination of iron content in spinach for high school education. A lightweight web tool, Concentration Determination by Image Analysis (CDIM 1.0), was developed to support the colorimetric quantification workflow. In this teaching experiment, students completed spinach iron extraction and a series of iron standard solution preparations. With a user-friendly graphical interface platform, students acquired image-based data, plotted standard calibration curves, and quantified iron concentrations in real spinach samples. The DIC detection results exhibited high consistency with traditional spectrophotometry, with a relative error of less than 5% for Fe2+ measurement. Variations in smartphone models exerted negligible impacts on experimental outcomes. This method can serve as a viable alternative to professional spectrophotometers for quantitative analysis in high school chemistry instructional scenarios. Featuring simple operation and low experimental cost, this approach is adaptable to quantitative analytical teaching in diverse secondary educational settings.
+
+作者：Guo Mingyu、Ding Qiao、Yuan Xingcheng、Li Dan | DOI：10.1021/acs.jchemed.6c00486 | 类型：journal-article</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Guo Mingyu</dc:creator>
+<category>10.1021/acs.jchemed.6c00486</category>
+</item>
+<item>
+<title>Electrochemical Detection of Ethanol in Liquid Samples and Simulated Breath: Investigating Calibration, Selectivity, and Preconcentration</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01392</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01392</guid>
+<description>Abstract Advances in miniaturized and point-of-care electrochemical sensors have expanded their applications in healthcare, environmental monitoring, and public safety. Consequently, it is important to study the principles of these technologies in an undergraduate setting. This experiment uses screen-printed electrodes for electrochemical detection of ethanol and introduces students to electrocatalysis, calibration curves, chemical interference, selectivity, and preconcentration. Students use cyclic voltammetry and chronoamperometry to make calibration curves and determine ethanol concentrations in ethanol standards and diluted beer and wine samples. Glucose interference is investigated, and a simulated breath experiment demonstrates how selecting breath as the analytical sample and condensing it can eliminate interference while simultaneously preconcentrating ethanol. The activity provides an opportunity to discuss blood alcohol concentration, breath alcohol concentration, and modern alcohol-sensing technologies. This experiment is suitable for upper-level undergraduate courses in analytical chemistry, physical chemistry, and electrochemistry.
+
+作者：Nelson Benjamin、Pandey Keya、Powell Oliver、Soureshjani Setareh、Khalafi Lida、Hosseini Mahsa、Rafiee Mohammad | DOI：10.1021/acs.jchemed.6c01392 | 类型：journal-article</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Nelson Benjamin</dc:creator>
+<category>10.1021/acs.jchemed.6c01392</category>
+</item>
 <item>
 <title>Measuring Course-Level Belonging and Perceived Social Doubt of Science Fit in General Chemistry: Instrument Development and Invariance Testing</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c00965</link>
@@ -129,17 +162,6 @@
 <category>10.1021/acs.jchemed.6c00238</category>
 </item>
 <item>
-<title>From Lab Technique to Scientific Practice: Using Thin-Layer Chromatography to Investigate Reaction Rates in an Organic Chemistry Laboratory</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01439</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01439</guid>
-<description>Abstract Thin-layer chromatography (TLC) provides an opportunity to connect lab techniques with students’ understanding of organic reaction mechanisms by monitoring the relative rates of two comparable reactions. A traditional lab activity was redesigned with guided inquiry elements to help students integrate acid–base and elimination concepts with reaction monitoring via TLC. Students monitored the base-mediated eliminations of phenethyl bromide and 4-nitrophenethyl bromide to investigate how electron-withdrawing substituents influence elimination rates. Students used their TLC results to support or refine initial hypotheses about the relative rates of the two elimination reactions. Learning outcomes are described with a thematic analysis of chemistry concepts used in students’ hypotheses and conclusions, finding that students increased the number of chemistry concepts in their reasoning between prelab and postlab arguments about the relative rates. Findings also suggest that the increased number of concepts are related to students making sense of uncertainty emerging from the scientific practice of interpreting unexpected or ambiguous data, suggesting that students may engage in more meaningful learning in lab activities that support the use of lab techniques to ask and answer questions about chemical phenomena.
-
-作者：Glover Kason J.、Berges Kathryn G.、Hanks Garret T.、Cruz Andrew、Wolfe John P. | DOI：10.1021/acs.jchemed.6c01439 | 类型：journal-article</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Glover Kason J.</dc:creator>
-<category>10.1021/acs.jchemed.6c01439</category>
-</item>
-<item>
 <title>Teaching the Periodic Table to Ninth-Grade Students through Game-Based Learning and a Contextualized Science–Technology–Society–Environment Approach</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c00751</link>
 <guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00751</guid>
@@ -149,6 +171,17 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Jesus Susana</dc:creator>
 <category>10.1021/acs.jchemed.6c00751</category>
+</item>
+<item>
+<title>From Lab Technique to Scientific Practice: Using Thin-Layer Chromatography to Investigate Reaction Rates in an Organic Chemistry Laboratory</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01439</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01439</guid>
+<description>Abstract Thin-layer chromatography (TLC) provides an opportunity to connect lab techniques with students’ understanding of organic reaction mechanisms by monitoring the relative rates of two comparable reactions. A traditional lab activity was redesigned with guided inquiry elements to help students integrate acid–base and elimination concepts with reaction monitoring via TLC. Students monitored the base-mediated eliminations of phenethyl bromide and 4-nitrophenethyl bromide to investigate how electron-withdrawing substituents influence elimination rates. Students used their TLC results to support or refine initial hypotheses about the relative rates of the two elimination reactions. Learning outcomes are described with a thematic analysis of chemistry concepts used in students’ hypotheses and conclusions, finding that students increased the number of chemistry concepts in their reasoning between prelab and postlab arguments about the relative rates. Findings also suggest that the increased number of concepts are related to students making sense of uncertainty emerging from the scientific practice of interpreting unexpected or ambiguous data, suggesting that students may engage in more meaningful learning in lab activities that support the use of lab techniques to ask and answer questions about chemical phenomena.
+
+作者：Glover Kason J.、Berges Kathryn G.、Hanks Garret T.、Cruz Andrew、Wolfe John P. | DOI：10.1021/acs.jchemed.6c01439 | 类型：journal-article</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Glover Kason J.</dc:creator>
+<category>10.1021/acs.jchemed.6c01439</category>
 </item>
 <item>
 <title>A Practical Guide to RNA NMR Spectral Analysis for Undergraduate Students</title>
@@ -303,39 +336,6 @@
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Rabah Ghada</dc:creator>
 <category>10.1021/acs.jchemed.6c01038</category>
-</item>
-<item>
-<title>Light-up Intracellular Mitochondrial G-Quadruplex Structures: Expanding the Understanding of Atypical Nucleic Acid Structures for Undergraduate Students</title>
-<link>https://doi.org/10.1021/acs.jchemed.5c00767</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c00767</guid>
-<description>Abstract In recent years, many atypical nucleic acid structures have been reported closely associated with the occurrence and development of various diseases. However, many undergraduate students remain largely unfamiliar with these structures. To broaden undergraduates’ understanding and reinforce their comprehension through hands-on practice, we have developed an undergraduate experiment using a fluorescent probe to visualize DNA G-quadruplexes (G4, an atypical nucleic acid structure). This probe features operational simplicity, strong stability, and intuitive visualization, which perfectly aligns with the technical criteria of ″low threshold, high safety, and strong feedback″ for undergraduate experimental teaching. First, using this probe, students can rapidly identify DNA sequences that form G4 structures through fluorescence spectroscopy. Subsequently, students can directly observe G4 structures in mitochondrial DNA (mtG4) of living cells via confocal microscopy, thereby transforming abstract theories of DNA structures into intuitive imaging results. The experimental design and data processing procedures enable students to (a) learn the methodologies for probe performance testing and application research, (b) gain a comprehensive understanding of the structure and function of DNA G-quadruplexes, (c) recognize that molecular probes are powerful tools for addressing a wide range of biological challenges, and (d) stimulate curiosity and innovative thinking, encouraging the
-
-作者：Yu Kang-Kang、Zhou Qian、Wu Chuan-Fang、Liu Yan-Hong、Yu Xiao-Qi、Bao Jin-Ku、Li Kun | DOI：10.1021/acs.jchemed.5c00767 | 类型：journal-article</description>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Yu Kang-Kang</dc:creator>
-<category>10.1021/acs.jchemed.5c00767</category>
-</item>
-<item>
-<title>Determining the Structure of the Oxalate Ion in Aqueous Solution: An Upper Division Laboratory Project Using IR Spectroscopy, Raman Spectroscopy, and DFT Calculations</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00103</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00103</guid>
-<description>Abstract Although the planar D2h structure for the oxalate ion is found in solid metal oxalates with small cations, IR and Raman spectra of the oxalate ion in aqueous solutions and high-level theoretical calculations indicate the nonplanar D2d structure is more stable in systems with large cations or in these solutions. A laboratory exercise using attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectroscopy, Raman spectroscopy, NMR, and density functional theory (DFT) calculations to determine the structure of the oxalate ion in aqueous solutions has been developed and used three times in the physical chemistry laboratory at James Madison University (JMU). While the measured IR and Raman spectra are consistent with the D2d structure, DFT/B3LYP calculations using the integral equation formalism polarizable continuum model (IEFPCM) to model the intrinsic solvent interactions found a stable D2 structure that is only 300 J higher in energy than the D2d structure. In addition to showing that IR and Raman spectroscopies are complementary techniques for determining the structure of a molecule, this exercise shows that DFT calculations can provide additional information that is not easily determined using only experimental measurements. For example, students can explore the effect that solute–solvent interactions have on the structure of the ion in aqueous solution by adding explicit water molecules hydrogen bonded to the oxalate. Calculations with two explicit wat
-
-作者：Brubaker Jonathan R.、Yin Jun、DeVore Thomas C. | DOI：10.1021/acs.jchemed.6c00103 | 类型：journal-article</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Brubaker Jonathan R.</dc:creator>
-<category>10.1021/acs.jchemed.6c00103</category>
-</item>
-<item>
-<title>The Use of Contact Angle in Conjunction with Dyne Tests: A Multimethod Surface Analysis Approach for Understanding Various Theoretical Concepts for an Upper-Division Undergraduate Course</title>
-<link>https://doi.org/10.1021/acs.jchemed.5c01869</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c01869</guid>
-<description>Abstract Concepts such as surface energy, contact angle, wettability, printability, critical surface tension of a material, etc. are pertinent across various fundamental scientific, engineering, technological, and industrial fields. Such concepts are widely researched, taught, and applied. However, these fundamental concepts at the undergraduate level are partly understood at best even in the well-rounded scientific disciplines. For students in cross-disciplinary domains with diverse and applied educational curricula these concepts can be perplexing. A sequential two-instrument methodology has been applied for hands-on learning of these concepts in an upper-division undergraduate instrumental analysis laboratory course in a polytechnic university, central coast California. Contact angle measurement along with dyne test were used to measure surface energy, contact angle, and wettability. This sequential two-stage material evaluation exercise introduces students to two different test methods utilized for qualitative and quantitative surface energy measurement of various polymers.
-
-作者：Kathuria Ajay、Shin Joongmin | DOI：10.1021/acs.jchemed.5c01869 | 类型：journal-article</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Kathuria Ajay</dc:creator>
-<category>10.1021/acs.jchemed.5c01869</category>
 </item>
 </channel>
 </rss>
