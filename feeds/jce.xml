@@ -5,7 +5,7 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 06:42:28 +0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:57:08 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
 <title>Relationship between Chemistry Classroom Social Environment and Academic Resilience: A Cross-Sectional Moderated Serial Mediation Analysis</title>
@@ -52,6 +52,17 @@
 <category>10.1021/acs.jchemed.6c00028</category>
 </item>
 <item>
+<title>Simulated Scenarios for Chemistry Lab: A Smartphone-Assisted Pharmaceutical Inspector</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00360</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00360</guid>
+<description>Abstract Traditional STEM education increasingly benefits from integrating accessible digital technologies that reflect authentic professional practice. This study presents a smartphone-based quantitative colorimetry approach implemented in simulated professional scenarios to support instrumental analysis instruction at the high school and first-year university levels through defined roles between lecturers and students. The method employs a smartphone camera and BGR and CIELAB color models for quantitative analysis, validated against conventional analytical techniques with high precision and reproducibility. The strategy is illustrated through a simulated pharmaceutical quality control scenario (n = 40), where participants assumed professional roles and compared conventional visual methods with smartphone-based analysis. This approach promoted the application of pharmacopoeial criteria, integration of qualitative and quantitative data, and development of evidence-based decision-making, collaborative work, and resource-efficient practices. Measured outcomes included 100% correct identification of an adulterated paracetamol sample using both visual comparison and digital criteria, an approximate 40% reduction in decision time with the digital method, peer evaluation scores above 4/5 in teamwork and communication, and 95% of students demonstrating the ability to justify quality control decisions in terms of public health impact. Each group timed their decision time with plain e
+
+作者：Villa-González Arantza、Padilla-Arizmendi Fabiola、Zárate-Navarro Marco A.、Zárate-Guzmán Ana I.、Romero-Cano Luis A. | DOI：10.1021/acs.jchemed.6c00360 | 类型：journal-article</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Villa-González Arantza</dc:creator>
+<category>10.1021/acs.jchemed.6c00360</category>
+</item>
+<item>
 <title>Smartphone-Assisted Digital Image Colorimetry for the Determination of Iron Content in Spinach for High School Students</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c00486</link>
 <guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00486</guid>
@@ -72,17 +83,6 @@
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Nelson Benjamin</dc:creator>
 <category>10.1021/acs.jchemed.6c01392</category>
-</item>
-<item>
-<title>Simulated Scenarios for Chemistry Lab: A Smartphone-Assisted Pharmaceutical Inspector</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00360</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00360</guid>
-<description>Abstract Traditional STEM education increasingly benefits from integrating accessible digital technologies that reflect authentic professional practice. This study presents a smartphone-based quantitative colorimetry approach implemented in simulated professional scenarios to support instrumental analysis instruction at the high school and first-year university levels through defined roles between lecturers and students. The method employs a smartphone camera and BGR and CIELAB color models for quantitative analysis, validated against conventional analytical techniques with high precision and reproducibility. The strategy is illustrated through a simulated pharmaceutical quality control scenario (n = 40), where participants assumed professional roles and compared conventional visual methods with smartphone-based analysis. This approach promoted the application of pharmacopoeial criteria, integration of qualitative and quantitative data, and development of evidence-based decision-making, collaborative work, and resource-efficient practices. Measured outcomes included 100% correct identification of an adulterated paracetamol sample using both visual comparison and digital criteria, an approximate 40% reduction in decision time with the digital method, peer evaluation scores above 4/5 in teamwork and communication, and 95% of students demonstrating the ability to justify quality control decisions in terms of public health impact. Each group timed their decision time with plain e
-
-作者：Villa-González Arantza、Padilla-Arizmendi Fabiola、Zárate-Navarro Marco A.、Zárate-Guzmán Ana I.、Romero-Cano Luis A. | DOI：10.1021/acs.jchemed.6c00360 | 类型：journal-article</description>
-<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Villa-González Arantza</dc:creator>
-<category>10.1021/acs.jchemed.6c00360</category>
 </item>
 <item>
 <title>Measuring Course-Level Belonging and Perceived Social Doubt of Science Fit in General Chemistry: Instrument Development and Invariance Testing</title>

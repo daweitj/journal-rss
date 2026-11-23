@@ -6,17 +6,8 @@
     <atom:link href="https://jxgccl.mat-test.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>《机械工程材料》最新论文（优先在线发表 + 当期目录），由官网元数据整理</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:49:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:05:20 +0000</lastBuildDate>
     <generator>journal-rss / feedgen_jxgccl</generator>
-    <item>
-      <title>数据驱动的铝合金性能预测模型研究进展</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260233</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260233</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <dc:creator>马文娟, 肖鑫龙, 邹林池, 林智杰, 张荣</dc:creator>
-      <prism:doi>10.11973/jxgccl260233</prism:doi>
-      <description><![CDATA[<p><b>作者：</b>马文娟, 肖鑫龙, 邹林池, 林智杰, 张荣</p><p><b>出处：</b>页 1-16，DOI 10.11973/jxgccl260233</p><p><b>关键词：</b>铝合金, 性能预测, 机器学习, 神经网络, 模型优化</p><p>航空航天、轨道交通等高端装备制造业的快速发展对高性能铝合金的需求日益增长，而传统经验试错法难以满足开发新型合金高效率、低成本的需求。相较传统方法，数据驱动建模无需完全依赖物理解析方程，可基于大量工艺试验与检测数据，通过算法学习深度挖掘铝合金制备过程中工艺参数、显微组织与力学性能之间的隐性关联与复杂映射，推动材料研发由传统以物理试验为主的迭代模式逐步转向数据与算法协同驱动的智能预测模式。介绍了现象本构模型、物理本构模型和经验回归模型等传统预测模型的基本原理及局限性；综述了现代数据驱动建模方法，重点阐述了监督学习、半监督学习和半监督学习模型在铝合金性能预测中的应用，并指出不同模型的应用差异；梳理了数据增强、特征构造、模型可解释性优化等提升预测精度与工程可用性的关键改进手段；最后提出未来应聚焦于由原材料到成品的全流程预测，提升模型少数据的预测能力，搭建多目标高通量平台等方面。</p>]]></description>
-    </item>
     <item>
       <title>基于机器学习的GH4169高温合金喷丸表面完整性预测</title>
       <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260120</link>
@@ -40,17 +31,6 @@
 机械工程材料. 2026 50(): 1-9.</p>]]></description>
     </item>
     <item>
-      <title>H2S/CO2分压比对L360QS钢腐蚀行为的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260277</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260277</guid>
-      <prism:doi>10.11973/jxgccl260277</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl260277</p><p>基于国内某气田长输管道的实际工况（温度50 ℃，输送压力为5.2 MPa，COsub2/sub分压为0.312 MPa，Hsub2/subS分压在0.2～35.0 kPa之间），通过模拟腐蚀试验和电化学腐蚀试验系统研究了Hsub2/subS/COsub2/sub分压比（1∶500，1∶300，1∶100和1∶10）对L360QS钢腐蚀速率、腐蚀形貌及电化学腐蚀动力学特征参数的影响。结果表明：随Hsub2/subS/COsub2/sub分压比增加，L360QS钢的腐蚀速率先减小后增大。当Hsub2/subS/COsub2/sub分压比为1∶500时，腐蚀速率最大，为0.854 8 mm·asup−1/sup，腐蚀产物主要为FeCOsub3/sub；当Hsub2/subS/COsub2/sub分压比增加至1∶100时，腐蚀速率最小，为0.166 2 mm·asup−1/sup，钢表面形成致密的FeS保护膜，腐蚀过程由Hsub2/subS主导；当Hsub2/subS/COsub2/sub分压比继续增加至1∶10时，腐蚀产物膜发生破损，腐蚀速率略微升高。在Hsub2/subS与COsub2/sub共存体系中，L360QS钢的腐蚀反应主要受阴极反应控制；随Hsub2/subS/COsub2/sub分压比增加，L360QS钢的自腐蚀电流密度先减小后增大，当Hsub2/subS/COsub2/sub分压比为1∶100时，自腐蚀电流密度最小，腐蚀程度最轻。
-
-			
-机械工程材料. 2026 50(): 1-9.</p>]]></description>
-    </item>
-    <item>
       <title>2A12/6061异种铝合金搅拌摩擦焊搭接接头的疲劳性能及寿命预测</title>
       <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260024</link>
       <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260024</guid>
@@ -62,17 +42,6 @@
 机械工程材料. 2026 50(): 1-8.</p>]]></description>
     </item>
     <item>
-      <title>SiO2添加剂含量对多孔SiC陶瓷微观结构和性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250531</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250531</guid>
-      <prism:doi>10.11973/jxgccl250531</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-6，DOI 10.11973/jxgccl250531</p><p>以商业SiC粉为基体原料、SiOsub2/sub和Bsub4/subC为添加剂、聚甲基丙烯酸甲酯为造孔剂、酚醛树脂为黏结剂，采用牺牲模板法结合无压烧结工艺制备了多孔SiC陶瓷，研究了SiOsub2/sub添加剂质量分数（0～10%）对陶瓷微观结构、力学性能和电学性能的影响。结果表明：随着SiOsub2/sub添加剂含量增加，游离碳质量分数先显著下降，当SiOsub2/sub添加剂质量分数超过4%后稳定在0.15%以下的较低水平。不同SiOsub2/sub添加剂含量下多孔SiC陶瓷的物相均主要为SiC。随着SiOsub2/sub添加剂含量增加，多孔SiC陶瓷的体积密度先增后降，开孔隙率由39%逐渐增大至71%，孔径分布范围逐渐变宽，弹性模量和弯曲强度均呈先升后降最后趋于稳定的趋势，表面电阻率先显著增大后趋于稳定。当SiOsub2/sub添加剂质量分数为2%时，多孔SiC陶瓷的体积密度最大，为1.58 g·cmsup−3/sup，弹性模量和弯曲强度达到最大，分别为67.2 GPa和110.8 MPa，此时表面电阻率为8.76×10sup8/sup Ω·cm。多孔SiC陶瓷的力学性能取决于SiOsub2/sub与游离碳原位反应生成SiC对颗粒的增强与过量SiOsub2/sub反应产气造孔的破坏作用，而其表面电阻率的升高则归因于游离碳被消耗及孔隙增加导致导电网络被破坏。
-
-			
-机械工程材料. 2026 50(): 1-6.</p>]]></description>
-    </item>
-    <item>
       <title>316L不锈钢原位拉伸过程中孪晶界及耐腐蚀性能的演化</title>
       <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250269</link>
       <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250269</guid>
@@ -82,6 +51,17 @@
 
 			
 机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>SiO2添加剂含量对多孔SiC陶瓷微观结构和性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250531</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250531</guid>
+      <prism:doi>10.11973/jxgccl250531</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-6，DOI 10.11973/jxgccl250531</p><p>以商业SiC粉为基体原料、SiOsub2/sub和Bsub4/subC为添加剂、聚甲基丙烯酸甲酯为造孔剂、酚醛树脂为黏结剂，采用牺牲模板法结合无压烧结工艺制备了多孔SiC陶瓷，研究了SiOsub2/sub添加剂质量分数（0～10%）对陶瓷微观结构、力学性能和电学性能的影响。结果表明：随着SiOsub2/sub添加剂含量增加，游离碳质量分数先显著下降，当SiOsub2/sub添加剂质量分数超过4%后稳定在0.15%以下的较低水平。不同SiOsub2/sub添加剂含量下多孔SiC陶瓷的物相均主要为SiC。随着SiOsub2/sub添加剂含量增加，多孔SiC陶瓷的体积密度先增后降，开孔隙率由39%逐渐增大至71%，孔径分布范围逐渐变宽，弹性模量和弯曲强度均呈先升后降最后趋于稳定的趋势，表面电阻率先显著增大后趋于稳定。当SiOsub2/sub添加剂质量分数为2%时，多孔SiC陶瓷的体积密度最大，为1.58 g·cmsup−3/sup，弹性模量和弯曲强度达到最大，分别为67.2 GPa和110.8 MPa，此时表面电阻率为8.76×10sup8/sup Ω·cm。多孔SiC陶瓷的力学性能取决于SiOsub2/sub与游离碳原位反应生成SiC对颗粒的增强与过量SiOsub2/sub反应产气造孔的破坏作用，而其表面电阻率的升高则归因于游离碳被消耗及孔隙增加导致导电网络被破坏。
+
+			
+机械工程材料. 2026 50(): 1-6.</p>]]></description>
     </item>
     <item>
       <title>TC4钛合金激光自熔焊气体保护装置的设计与应用</title>
@@ -117,17 +97,6 @@
 机械工程材料. 2026 50(): 1-8.</p>]]></description>
     </item>
     <item>
-      <title>基于表面机械研磨处理的梯度纳米结构CrCoNi中熵合金力学性能</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260355</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260355</guid>
-      <prism:doi>10.11973/jxgccl260355</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260355</p><p>通过真空感应熔炼制备等原子比CrCoNi中熵合金，经均匀化、冷轧和再结晶退火处理后，采用表面机械研磨技术对试验合金进行表面强化处理，研究了塑性变形层中的物相组成、显微组织及力学性能。结果表明：表面机械研磨后，试验合金表面未发生相变，仍为单一的面心立方结构；表面由于高应变率塑性变形形成了梯度纳米结构，该结构从合金表面到内部依次为纳米晶、变形孪晶以及位错结构，进而形成梯度分布的应变硬化层，组织在深度方向上呈连续演变特征；具有表面梯度纳米结构的试验合金获得了良好的强塑性匹配，屈服强度和抗拉强度分别达到551 MPa和781 MPa，并保持34.9%的断后伸长率。表面机械研磨后试验合金的表面显微硬度由处理前的305 HV提高到532 HV。梯度纳米结构表层中的细晶强化、位错强化及孪晶强化是实现强度上升的主要原因；在拉伸变形过程中，应变集中始于表面并逐渐向内部扩展，具有高应变硬化能力的梯度纳米结构层能有效抑制早期颈缩并保障稳态塑性变形，使合金获得良好的断后伸长率。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
       <title>不同缺口小冲杆试样的启裂特征与应力状态</title>
       <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260104</link>
       <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260104</guid>
@@ -137,6 +106,17 @@
 
 			
 机械工程材料. 2026 50(): 1-9.</p>]]></description>
+    </item>
+    <item>
+      <title>基于表面机械研磨处理的梯度纳米结构CrCoNi中熵合金力学性能</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260355</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260355</guid>
+      <prism:doi>10.11973/jxgccl260355</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260355</p><p>通过真空感应熔炼制备等原子比CrCoNi中熵合金，经均匀化、冷轧和再结晶退火处理后，采用表面机械研磨技术对试验合金进行表面强化处理，研究了塑性变形层中的物相组成、显微组织及力学性能。结果表明：表面机械研磨后，试验合金表面未发生相变，仍为单一的面心立方结构；表面由于高应变率塑性变形形成了梯度纳米结构，该结构从合金表面到内部依次为纳米晶、变形孪晶以及位错结构，进而形成梯度分布的应变硬化层，组织在深度方向上呈连续演变特征；具有表面梯度纳米结构的试验合金获得了良好的强塑性匹配，屈服强度和抗拉强度分别达到551 MPa和781 MPa，并保持34.9%的断后伸长率。表面机械研磨后试验合金的表面显微硬度由处理前的305 HV提高到532 HV。梯度纳米结构表层中的细晶强化、位错强化及孪晶强化是实现强度上升的主要原因；在拉伸变形过程中，应变集中始于表面并逐渐向内部扩展，具有高应变硬化能力的梯度纳米结构层能有效抑制早期颈缩并保障稳态塑性变形，使合金获得良好的断后伸长率。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
     </item>
     <item>
       <title>摆动电弧增材制造含铜低合金钢的组织与耐腐蚀性能</title>
@@ -205,23 +185,23 @@
 机械工程材料. 2026 50(): 1-8.</p>]]></description>
     </item>
     <item>
-      <title>铁含量对Al-3Ni合金组织和性能的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260083</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260083</guid>
-      <prism:doi>10.11973/jxgccl260083</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260083</p><p>制备了不同铁含量（0%，0.3%，0.6%，0.9%，1.2%）的Al-3Ni-italicx/italicFe合金，研究了铁含量对显微组织、导热性能和拉伸性能的影响。结果表明：Al-3Ni合金主要由α-Al和（α-Al+Alsub3/subNi）共晶组织组成；当铁含量为0.3%～0.6%时，共晶组织中形成细小弥散的层片状Alsub9/subFeNi相，其随铁含量增加而数量增多、尺寸增大；当铁含量超过0.6%时，初生Alsub9/subFeNi相优先析出，并趋于粗大。随着铁含量增加，Al-3Ni-italicx/italicFe合金的热导率减小，当铁含量超过0.6%时，铁含量对热导率的不利影响显著加剧；随着铁含量增加，抗拉强度和屈服强度增大，断后伸长率减小，断裂机制由韧性向脆性转变。0.6%铁含量是Al-3Ni-italicx/italicFe合金由弥散强化主导转向界面损伤主导的临界阈值，精确调控Alsub9/subFeNi相的尺寸与分布，是平衡该体系合金强度与塑性的关键。
-
-			
-机械工程材料. 2026 50(): 1-7.</p>]]></description>
-    </item>
-    <item>
       <title>两种型号自动扶梯铝合金梳齿板的缺陷致裂规律</title>
       <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260102</link>
       <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260102</guid>
       <prism:doi>10.11973/jxgccl260102</prism:doi>
       <prism:volume>50</prism:volume>
       <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260102</p><p>为揭示不同型号自动扶梯ZLD-104铝合金梳齿板的缺陷致裂规律，选取两款基材同为ZLD-104铸造铝合金但基体力学性能存在差异的商用梳齿板，分别加工为1号和2号拉伸试样开展室温拉伸试验；建立了无气孔及含直径1 mm球形气孔缺陷的拉伸试样有限元模型，研究了气孔缺陷及其空间位置对试样拉伸致裂行为的影响。结果表明：无缺陷条件下1号试样的抗拉强度、屈服强度、弹性模量均高于2号试样，承载稳定性更优；两种试样的断后伸长率均为1.0%，屈服前断裂试样断口均存在铸造气孔缺陷。与无气孔缺陷试样仿真结果相比，仿真得到含气孔缺陷试样最大等效应力与标距伸长量降低，气孔缺陷直接诱发材料在屈服前断裂。气孔位置对1号试样最大拉伸应力影响微弱，对2号试样影响显著，纵向、横向布置气孔时最大应力分别呈倒V型、U型变化，同一横向位置不同纵向子位置的最大应力差达33 MPa，边缘区域应力受缺陷影响相对较弱。
+
+			
+机械工程材料. 2026 50(): 1-7.</p>]]></description>
+    </item>
+    <item>
+      <title>铁含量对Al-3Ni合金组织和性能的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260083</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260083</guid>
+      <prism:doi>10.11973/jxgccl260083</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-7，DOI 10.11973/jxgccl260083</p><p>制备了不同铁含量（0%，0.3%，0.6%，0.9%，1.2%）的Al-3Ni-italicx/italicFe合金，研究了铁含量对显微组织、导热性能和拉伸性能的影响。结果表明：Al-3Ni合金主要由α-Al和（α-Al+Alsub3/subNi）共晶组织组成；当铁含量为0.3%～0.6%时，共晶组织中形成细小弥散的层片状Alsub9/subFeNi相，其随铁含量增加而数量增多、尺寸增大；当铁含量超过0.6%时，初生Alsub9/subFeNi相优先析出，并趋于粗大。随着铁含量增加，Al-3Ni-italicx/italicFe合金的热导率减小，当铁含量超过0.6%时，铁含量对热导率的不利影响显著加剧；随着铁含量增加，抗拉强度和屈服强度增大，断后伸长率减小，断裂机制由韧性向脆性转变。0.6%铁含量是Al-3Ni-italicx/italicFe合金由弥散强化主导转向界面损伤主导的临界阈值，精确调控Alsub9/subFeNi相的尺寸与分布，是平衡该体系合金强度与塑性的关键。
 
 			
 机械工程材料. 2026 50(): 1-7.</p>]]></description>
@@ -249,17 +229,6 @@
 机械工程材料. 2026 50(): 1-7.</p>]]></description>
     </item>
     <item>
-      <title>深度调峰下电厂锅炉TP347H不锈钢蒸汽管道的显微组织和低周疲劳性能</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260025</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260025</guid>
-      <prism:doi>10.11973/jxgccl260025</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-10，DOI 10.11973/jxgccl260025</p><p>以深度调峰工况下服役62 500 h的某电厂锅炉高温再热器出口段及高温过热器出口段迎火面TP347H钢蒸汽管道为研究对象，对其显微组织、拉伸性能和600 ℃低周疲劳断口形貌进行研究，并采用Manson-Coffin方程预测TP347H钢管道在高温循环工况下的疲劳寿命。结果表明：高温再热器与高温过热器出口段迎火面的TP347H钢管道组织均保持为等轴奥氏体晶粒，未见大量析出物聚集及晶粒异常长大现象，管道壁厚中心部位组织无明显择优取向，大角度晶界占主导，组织稳定；相比于高温再热器，高温过热器出口段迎火面管道内壁形成的氧化层更厚，紧邻氧化层的析出物数量更多，局部晶格畸变更显著，整体变形程度更大，宏观和微观损伤程度略高。两个部位管道的室温拉伸性能相似，且均满足标准要求。600 ℃高温下TP347H钢管道的低周疲劳断口存在多源疲劳起裂、不对称裂纹扩展以及瞬断区韧窝大而浅等典型低周疲劳特征；低周疲劳过程表现出初始循环硬化，随后循环软化，最终因裂纹萌生导致断裂的特征，且其疲劳硬化程度随应变幅增大而升高；疲劳寿命符合Manson-Coffin模型，预测值与试验值均落在2倍分散带内，拟合精度较高。深度调峰工况下服役62 500 h的TP347H不锈钢管道具备良好的组织稳定性与抗疲劳性能，可满足高温高压蒸汽管道长期安全服役要求。
-
-			
-机械工程材料. 2026 50(): 1-10.</p>]]></description>
-    </item>
-    <item>
       <title>42CrMo钢小冲杆缺口试样氢扩散行为的有限元模拟</title>
       <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260021</link>
       <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260021</guid>
@@ -269,6 +238,17 @@
 
 			
 机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>深度调峰下电厂锅炉TP347H不锈钢蒸汽管道的显微组织和低周疲劳性能</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260025</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260025</guid>
+      <prism:doi>10.11973/jxgccl260025</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-10，DOI 10.11973/jxgccl260025</p><p>以深度调峰工况下服役62 500 h的某电厂锅炉高温再热器出口段及高温过热器出口段迎火面TP347H钢蒸汽管道为研究对象，对其显微组织、拉伸性能和600 ℃低周疲劳断口形貌进行研究，并采用Manson-Coffin方程预测TP347H钢管道在高温循环工况下的疲劳寿命。结果表明：高温再热器与高温过热器出口段迎火面的TP347H钢管道组织均保持为等轴奥氏体晶粒，未见大量析出物聚集及晶粒异常长大现象，管道壁厚中心部位组织无明显择优取向，大角度晶界占主导，组织稳定；相比于高温再热器，高温过热器出口段迎火面管道内壁形成的氧化层更厚，紧邻氧化层的析出物数量更多，局部晶格畸变更显著，整体变形程度更大，宏观和微观损伤程度略高。两个部位管道的室温拉伸性能相似，且均满足标准要求。600 ℃高温下TP347H钢管道的低周疲劳断口存在多源疲劳起裂、不对称裂纹扩展以及瞬断区韧窝大而浅等典型低周疲劳特征；低周疲劳过程表现出初始循环硬化，随后循环软化，最终因裂纹萌生导致断裂的特征，且其疲劳硬化程度随应变幅增大而升高；疲劳寿命符合Manson-Coffin模型，预测值与试验值均落在2倍分散带内，拟合精度较高。深度调峰工况下服役62 500 h的TP347H不锈钢管道具备良好的组织稳定性与抗疲劳性能，可满足高温高压蒸汽管道长期安全服役要求。
+
+			
+机械工程材料. 2026 50(): 1-10.</p>]]></description>
     </item>
     <item>
       <title>Y2O3掺杂量对ZnO压敏电阻冲击老化特性的影响</title>
@@ -293,17 +273,6 @@
 机械工程材料. 2026 50(): 1-7.</p>]]></description>
     </item>
     <item>
-      <title>Co2O3和MnO2掺杂量对ZnO压敏电阻冲击老化特性的影响</title>
-      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260207</link>
-      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260207</guid>
-      <prism:doi>10.11973/jxgccl260207</prism:doi>
-      <prism:volume>50</prism:volume>
-      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260207</p><p>以ZnO、Bisub2/subOsub3/sub、Al（NOsub3/sub）sub3/sub、SiOsub2/sub、MnOsub2/sub、Cosub2/subOsub3/sub、Crsub2/subOsub3/sub、Sbsub2/subOsub3/sub、Ysub2/subOsub3/sub为原料，采用固相烧结方法制备掺杂不同含量Cosub2/subOsub3/sub（物质的量分数1.00%，2.00%，3.00%，4.00%，5.00%，MnOsub2/sub物质的量分数固定为0.50%）和MnOsub2/sub（物质的量分数0.50%，1.00%，1.50%，2.00%，Cosub2/subOsub3/sub物质的量分数固定为1.00%）的高电压梯度ZnO压敏电阻，分别研究Cosub2/subOsub3/sub和MnOsub2/sub掺杂量对ZnO压敏电阻微观结构和冲击老化特性的影响。结果表明：随着Cosub2/subOsub3/sub掺杂量增加，ZnO压敏电阻的晶粒尺寸减小；随着MnOsub2/sub掺杂量增加，ZnO压敏电阻的晶粒尺寸相差不大。随着电流冲击次数增加，不同Cosub2/subOsub3/sub和MnOsub2/sub掺杂量下ZnO压敏电阻的压敏电压梯度、非线性系数和泄漏电流呈非单调变化规律。Cosub2/subOsub3/sub掺杂量对ZnO压敏电阻的压敏电压梯度、非线性系数和泄漏电流均具有显著影响，其中掺杂物质的量分数4.00% Cosub2/subOsub3/sub的ZnO压敏电阻在冲击100次后的非线性系数降低20.61%，但其数值仍较大，压敏电压梯度升高2.02%，泄漏电流升高24.04%，但数值仍较小，抗冲击老化性能较优。MnOsub2/sub掺杂量对压敏电压梯度的影响相对较弱，但非线性系数和泄漏电流的影响显著，其中掺杂物质的量分数1.50% MnOsub2/sub的ZnO压敏电阻在冲击100次后的非线性系数提高42.40%，泄漏电流降低15.46%，抗冲击老化性能较优。
-
-			
-机械工程材料. 2026 50(): 1-8.</p>]]></description>
-    </item>
-    <item>
       <title>2195铝锂合金搅拌摩擦焊缝表面起皮形成机制及影响因素</title>
       <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250499</link>
       <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl250499</guid>
@@ -313,6 +282,17 @@
 
 			
 机械工程材料. 2026 50(): 1-9.</p>]]></description>
+    </item>
+    <item>
+      <title>Co2O3和MnO2掺杂量对ZnO压敏电阻冲击老化特性的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260207</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260207</guid>
+      <prism:doi>10.11973/jxgccl260207</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-8，DOI 10.11973/jxgccl260207</p><p>以ZnO、Bisub2/subOsub3/sub、Al（NOsub3/sub）sub3/sub、SiOsub2/sub、MnOsub2/sub、Cosub2/subOsub3/sub、Crsub2/subOsub3/sub、Sbsub2/subOsub3/sub、Ysub2/subOsub3/sub为原料，采用固相烧结方法制备掺杂不同含量Cosub2/subOsub3/sub（物质的量分数1.00%，2.00%，3.00%，4.00%，5.00%，MnOsub2/sub物质的量分数固定为0.50%）和MnOsub2/sub（物质的量分数0.50%，1.00%，1.50%，2.00%，Cosub2/subOsub3/sub物质的量分数固定为1.00%）的高电压梯度ZnO压敏电阻，分别研究Cosub2/subOsub3/sub和MnOsub2/sub掺杂量对ZnO压敏电阻微观结构和冲击老化特性的影响。结果表明：随着Cosub2/subOsub3/sub掺杂量增加，ZnO压敏电阻的晶粒尺寸减小；随着MnOsub2/sub掺杂量增加，ZnO压敏电阻的晶粒尺寸相差不大。随着电流冲击次数增加，不同Cosub2/subOsub3/sub和MnOsub2/sub掺杂量下ZnO压敏电阻的压敏电压梯度、非线性系数和泄漏电流呈非单调变化规律。Cosub2/subOsub3/sub掺杂量对ZnO压敏电阻的压敏电压梯度、非线性系数和泄漏电流均具有显著影响，其中掺杂物质的量分数4.00% Cosub2/subOsub3/sub的ZnO压敏电阻在冲击100次后的非线性系数降低20.61%，但其数值仍较大，压敏电压梯度升高2.02%，泄漏电流升高24.04%，但数值仍较小，抗冲击老化性能较优。MnOsub2/sub掺杂量对压敏电压梯度的影响相对较弱，但非线性系数和泄漏电流的影响显著，其中掺杂物质的量分数1.50% MnOsub2/sub的ZnO压敏电阻在冲击100次后的非线性系数提高42.40%，泄漏电流降低15.46%，抗冲击老化性能较优。
+
+			
+机械工程材料. 2026 50(): 1-8.</p>]]></description>
     </item>
     <item>
       <title>蜂窝多孔钛表面锌基超疏水合金涂层生长及其耐久性</title>
@@ -335,6 +315,27 @@
 
 			
 机械工程材料. 2026 50(): 1-8.</p>]]></description>
+    </item>
+    <item>
+      <title>H2S/CO2分压比对L360QS钢腐蚀行为的影响</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260277</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260277</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>杨雪, 郭梦龙, 张双双, 魏林, 胡莎莎, 胡楠, 赵龙博, 宋洋</dc:creator>
+      <prism:doi>10.11973/jxgccl260277</prism:doi>
+      <description><![CDATA[<p><b>作者：</b>杨雪, 郭梦龙, 张双双, 魏林, 胡莎莎, 胡楠, 赵龙博, 宋洋</p><p><b>出处：</b>页 1-9，DOI 10.11973/jxgccl260277</p><p><b>关键词：</b>L360QS钢, H2S/CO2分压比, 模拟腐蚀试验, 腐蚀产物膜, 动电位极化曲线</p><p>基于国内某气田长输管道的实际工况（温度50 ℃，输送压力为5.2 MPa，CO<sub>2</sub>分压为0.312 MPa，H<sub>2</sub>S分压在0.2～35.0 kPa之间），通过模拟腐蚀试验和电化学腐蚀试验系统研究了H<sub>2</sub>S/CO<sub>2</sub>分压比（1∶500，1∶300，1∶100和1∶10）对L360QS钢腐蚀速率、腐蚀形貌及电化学腐蚀动力学特征参数的影响。结果表明：随H<sub>2</sub>S/CO<sub>2</sub>分压比增加，L360QS钢的腐蚀速率先减小后增大。当H<sub>2</sub>S/CO<sub>2</sub>分压比为1∶500时，腐蚀速率最大，为0.854 8 mm·a<sup>−1</sup>，腐蚀产物主要为FeCO<sub>3</sub>；当H<sub>2</sub>S/CO<sub>2</sub>分压比增加至1∶100时，腐蚀速率最小，为0.166 2 mm·a<sup>−1</sup>，钢表面形成致密的FeS保护膜，腐蚀过程由H<sub>2</sub>S主导；当H<sub>2</sub>S/CO<sub>2</sub>分压比继续增加至1∶10时，腐蚀产物膜发生破损，腐蚀速率略微升高。在H<sub>2</sub>S与CO<sub>2</sub>共存体系中，L360QS钢的腐蚀反应主要受阴极反应控制；随H<sub>2</sub>S/CO<sub>2</sub>分压比增加，L360QS钢的自腐蚀电流密度先减小后增大，当H<sub>2</sub>S/CO<sub>2</sub>分压比为1∶100时，自腐蚀电流密度最小，腐蚀程度最轻。</p>]]></description>
+    </item>
+    <item>
+      <title>数据驱动的铝合金性能预测模型研究进展</title>
+      <link>https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260233</link>
+      <guid isPermaLink="true">https://jxgccl.mat-test.com/article/doi/10.11973/jxgccl260233</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <prism:doi>10.11973/jxgccl260233</prism:doi>
+      <prism:volume>50</prism:volume>
+      <description><![CDATA[<p><b>出处：</b>页 1-16，DOI 10.11973/jxgccl260233</p><p>航空航天、轨道交通等高端装备制造业的快速发展对高性能铝合金的需求日益增长，而传统经验试错法难以满足开发新型合金高效率、低成本的需求。相较传统方法，数据驱动建模无需完全依赖物理解析方程，可基于大量工艺试验与检测数据，通过算法学习深度挖掘铝合金制备过程中工艺参数、显微组织与力学性能之间的隐性关联与复杂映射，推动材料研发由传统以物理试验为主的迭代模式逐步转向数据与算法协同驱动的智能预测模式。介绍了现象本构模型、物理本构模型和经验回归模型等传统预测模型的基本原理及局限性；综述了现代数据驱动建模方法，重点阐述了监督学习、半监督学习和半监督学习模型在铝合金性能预测中的应用，并指出不同模型的应用差异；梳理了数据增强、特征构造、模型可解释性优化等提升预测精度与工程可用性的关键改进手段；最后提出未来应聚焦于由原材料到成品的全流程预测，提升模型少数据的预测能力，搭建多目标高通量平台等方面。
+
+			
+机械工程材料. 2026 50(): 1-16.</p>]]></description>
     </item>
   </channel>
 </rss>
