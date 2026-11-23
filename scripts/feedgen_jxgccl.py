@@ -11,11 +11,14 @@
   2. 串行抓文章页 /article/doi/<doi>，取 citation_publication_date(真实发布日)、
      citation_title(规范标题)、citation_author、citation_keywords，
      摘要优先取页面 div.abstract-cn(保留 sub/sup 上下标)；
-  3. 抓不到的条目退回官方数据也不丢，日期若上次产物里已有则继承；
-  4. 输出标准 RSS 2.0。
+  3. 抓不到的条目退回官方数据也不丢；日期依次从上一版 feed、feeds/jxgccl-dates.json 继承；
+  4. 输出标准 RSS 2.0，并回写日期种子。
 
-注意：该站对连续/并发请求会返回 403，故固定串行 + 限预算。
+注意：该站对境外/连续请求会返回 403，故固定串行 + 限预算 + 日期持久化，
+即使某天抓不到页面，feed 也不会丢掉已知道的发布日期。
 """
+import json
+import os
 import re
 import html
 import sys
@@ -193,7 +196,7 @@ def esc(s):
 
 
 def load_prev(path):
-    """上次产物里的 link -> 日期，用来补本次抓不到的日期"""
+    """上次产物里的 link -> 日期"""
     d = {}
     try:
         root = ET.parse(path).getroot()
@@ -210,6 +213,31 @@ def load_prev(path):
         except Exception:  # noqa: BLE001
             continue
     return d
+
+
+def load_seed(path):
+    """日期种子：link -> 日期。官网详情页在境外服务器常被 403，
+    这里把历史抓到的日期持久化，后续即使抓不到也不丢日期。"""
+    try:
+        with open(path, encoding="utf-8") as f:
+            raw = json.load(f)
+        return {k: datetime.strptime(v, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+                for k, v in raw.items()}
+    except Exception:  # noqa: BLE001
+        return {}
+
+
+def save_seed(path, items, seed):
+    merged = dict(seed)
+    for it in items:
+        if it["pub_dt"]:
+            merged[it["link"]] = it["pub_dt"]
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump({k: v.strftime("%Y-%m-%d") for k, v in sorted(merged.items())},
+                      f, ensure_ascii=False, indent=1)
+    except Exception as e:  # noqa: BLE001
+        print(f"  [warn] 日期种子写入失败: {e}", file=sys.stderr, flush=True)
 
 
 def write_rss(items, out, site=SITE, title="机械工程材料 (Materials for Mechanical Engineering)"):
@@ -280,22 +308,32 @@ def main():
     prev = load_prev(a.out)
     if prev:
         print(f"上次产物可复用日期 {len(prev)} 条", flush=True)
+    seed_path = os.path.join(os.path.dirname(os.path.abspath(a.out)), "jxgccl-dates.json")
+    seed = load_seed(seed_path)
+    if seed:
+        print(f"日期种子 {len(seed)} 条（{seed_path}）", flush=True)
 
     deadline = time.time() + a.budget
     results = []
     for e in todo:
         r = fetch_article(e, a.timeout, deadline)
-        if r["pub_dt"] is None and r["link"] in prev:
-            r["pub_dt"] = prev[r["link"]]
-            r["date"] = r["pub_dt"].strftime("%Y-%m-%d")
-            print(f"  (继承旧日期) {r['date']}  {r['title'][:36]}", flush=True)
+        if r["pub_dt"] is None:
+            for src in (prev, seed):
+                if r["link"] in src:
+                    r["pub_dt"] = src[r["link"]]
+                    r["date"] = r["pub_dt"].strftime("%Y-%m-%d")
+                    print(f"  (沿用已有日期) {r['date']}  {r['title'][:36]}", flush=True)
+                    break
+            else:
+                print(f"  (无日期) {r['title'][:42]}", flush=True)
         else:
-            print(f"  {r['date'] or '(无日期)'}  {r['title'][:42]}", flush=True)
+            print(f"  {r['date']}  {r['title'][:42]}", flush=True)
         results.append(r)
 
     # 无日期的当最新排前面，避免刚上线的文章沉底
     results.sort(key=lambda x: x["pub_dt"] or datetime.max.replace(tzinfo=timezone.utc), reverse=True)
     write_rss(results, a.out)
+    save_seed(seed_path, results, seed)
     dated = sum(1 for r in results if r["pub_dt"])
     print(f"写入 {a.out}：{len(results)} 条（其中 {dated} 条有发布日期）", flush=True)
     if not results:
