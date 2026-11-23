@@ -1,17 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""《机械工程材料》(Materials for Mechanical Engineering) RSS 生成器
+"""《机械工程材料》(Materials for Mechanical Engineering) 最新论文 RSS 生成器
 
-站点：https://jxgccl.mat-test.com  （仁和汇智 RHHz 平台，页面 JS 模板渲染，无 sitemap）
-数据源分层：
-  1. 站点官方 RSS(1.0) https://jxgccl.mat-test.com/rss/latest.xml
-     —— 提供条目 DOI、摘要原文；缺陷是 dc:date 与 prism:publicationDate 均为空、
-        部分标题被多层转义破坏（如 H&lt;sub&lt;2&lt;/sub&lt;S…）
-  2. 逐条抓文章详情页 /article/doi/<doi>
-     —— 取 citation_publication_date / citation_online_date（真实发布日）、
-        citation_title（规范标题）、citation_author（作者）、
-        div.abstract-cn 内的干净中文摘要（保留 sub/sup 上下标）
-输出标准 RSS 2.0，按发布日期倒序。
+站点 https://jxgccl.mat-test.com 属仁和汇智 RHHz 平台，页面 JS 模板渲染、无 sitemap。
+官网自带 RSS(/rss/latest.xml) 能拿到条目和 DOI，但 dc:date / prism:publicationDate 全为空,
+标题还被多层转义破坏(如 H&lt;sub&lt;2…),不能直接给阅读器用。
+
+做法：
+  1. 用官网 RSS 作条目索引(含 DOI、官方摘要兜底)；
+  2. 串行抓文章页 /article/doi/<doi>，取 citation_publication_date(真实发布日)、
+     citation_title(规范标题)、citation_author、citation_keywords，
+     摘要优先取页面 div.abstract-cn(保留 sub/sup 上下标)；
+  3. 抓不到的条目退回官方数据也不丢，日期若上次产物里已有则继承；
+  4. 输出标准 RSS 2.0。
+
+注意：该站对连续/并发请求会返回 403，故固定串行 + 限预算。
 """
 import re
 import html
@@ -20,9 +23,8 @@ import time
 import argparse
 import urllib.request
 import xml.etree.ElementTree as ET
-from email.utils import format_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from datetime import datetime, timezone
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 SITE = "https://jxgccl.mat-test.com"
 LIST_FEED = SITE + "/rss/latest.xml"
@@ -34,7 +36,7 @@ UA = {
 }
 
 
-def http_get(url, timeout=30, retries=2):
+def http_get(url, timeout=25, retries=2):
     last = None
     for i in range(retries):
         try:
@@ -49,7 +51,7 @@ def http_get(url, timeout=30, retries=2):
 
 
 def clean_text(t):
-    """多层转义 + 正常/畸形 HTML 标签统一清理（不补空格，避免 Li/CF x）"""
+    """多层转义 + 正常/畸形 HTML 标签统一清理"""
     if not t:
         return ""
     for _ in range(6):
@@ -64,6 +66,7 @@ def clean_text(t):
 
 
 def strip_html_keep_para(t):
+    """官方摘要兜底：去标签、保留段落"""
     if not t:
         return ""
     for _ in range(5):
@@ -98,7 +101,6 @@ def parse_list_feed(xml_text):
             doi=doi,
             title_raw=it.findtext("rss:title", default="", namespaces=ns),
             desc_raw=it.findtext("rss:description", default="", namespaces=ns),
-            source=it.findtext("dc:source", default="", namespaces=ns),
             volume=it.findtext("prism:volume", default="", namespaces=ns),
             number=it.findtext("prism:number", default="", namespaces=ns),
             pages=it.findtext("prism:startingPage", default="", namespaces=ns),
@@ -107,7 +109,7 @@ def parse_list_feed(xml_text):
 
 
 def meta_of(page_html):
-    """兼容属性顺序的 <meta> 解析"""
+    """<meta> 解析，兼容 name/content 属性顺序"""
     out = {}
     for tag in re.finditer(r"<meta\b[^>]*>", page_html, re.I):
         s = tag.group(0)
@@ -119,7 +121,7 @@ def meta_of(page_html):
 
 
 def abstract_from_page(page_html):
-    """从文章页 div.abstract-cn 提取中文摘要，保留 sub/sup 上下标"""
+    """文章页 div.abstract-cn 里的中文摘要，保留 sub/sup"""
     m = re.search(r'<div class="abstract-cn">(.*?)<div class="abstract-en">', page_html, re.S)
     if not m:
         return ""
@@ -129,28 +131,38 @@ def abstract_from_page(page_html):
     blk = re.sub(r"<(?:div|script|style|img)[^>]*>", "", blk, flags=re.I)
     blk = re.sub(r"</(?:div|script|style|img)>", "", blk, flags=re.I)
     blk = re.sub(r"[ \t\r\n]+", " ", blk)
-    blk = re.sub(r"</?[a-zA-Z][^<>]{0,18}<", "", blk)   # 仅清理畸形 <sub< 形式
+    blk = re.sub(r"</?[a-zA-Z][^<>]{0,18}<", "", blk)   # 只清理畸形 <sub< 形式
     return blk.strip()
 
 
-def fetch_article(e):
-    """抓单篇文章详情页，返回补全后的条目"""
+def fallback_entry(e):
+    """详情页拿不到时退回官方数据，条目照常输出"""
+    return dict(title=clean_text(e["title_raw"]), link=e["link"], doi=e["doi"],
+                authors=[], date="", pub_dt=None, keywords="",
+                volume=e["volume"], number=e["number"], pages=e["pages"],
+                abstract=strip_html_keep_para(e["desc_raw"]))
+
+
+def fetch_article(e, timeout=25, deadline=None):
     page, m = "", {}
-    for attempt in range(3):
+    for attempt in range(2):
+        if deadline and time.time() > deadline:
+            print(f"  [budget] 预算用尽，{e['doi']} 退回官方数据", file=sys.stderr, flush=True)
+            return fallback_entry(e)
         try:
-            page = http_get(e["link"], timeout=30)
+            page = http_get(e["link"], timeout=timeout, retries=1)
             m = meta_of(page)
         except Exception as ex:  # noqa: BLE001
             print(f"  [retry{attempt}] {e['link']} -> {ex}", file=sys.stderr, flush=True)
-            time.sleep(1.5)
+            time.sleep(1)
             continue
         if (m.get("citation_publication_date") or m.get("citation_online_date")
                 or m.get("citation_date")) and m.get("citation_title"):
             break
         time.sleep(1)
-    if not page:
-        print(f"  [skip] {e['link']} 抓取失败", file=sys.stderr, flush=True)
-        return None
+    if not page or not m.get("citation_title"):
+        print(f"  [fallback] {e['link']} 详情页不可用", file=sys.stderr, flush=True)
+        return fallback_entry(e)
 
     title = clean_text((m.get("citation_title") or [e["title_raw"]])[0])
     authors = [clean_text(a) for a in (m.get("citation_author") or []) if clean_text(a)]
@@ -178,6 +190,26 @@ def fetch_article(e):
 
 def esc(s):
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+
+
+def load_prev(path):
+    """上次产物里的 link -> 日期，用来补本次抓不到的日期"""
+    d = {}
+    try:
+        root = ET.parse(path).getroot()
+    except Exception:  # noqa: BLE001
+        return d
+    for it in root.findall(".//item"):
+        link = (it.findtext("link") or "").strip()
+        pd_txt = it.findtext("pubDate")
+        if not (link and pd_txt):
+            continue
+        try:
+            dt = parsedate_to_datetime(pd_txt.strip()).astimezone(timezone.utc)
+            d[link] = dt.replace(hour=0, minute=0, second=0, microsecond=0)
+        except Exception:  # noqa: BLE001
+            continue
+    return d
 
 
 def write_rss(items, out, site=SITE, title="机械工程材料 (Materials for Mechanical Engineering)"):
@@ -237,29 +269,32 @@ def main():
     ap = argparse.ArgumentParser(description="机械工程材料 RSS 生成")
     ap.add_argument("--limit", type=int, default=30)
     ap.add_argument("--out", default="feeds/jxgccl.xml")
-    ap.add_argument("--workers", type=int, default=4)
+    ap.add_argument("--workers", type=int, default=1, help="保留参数；该站对并发敏感，实际固定串行")
+    ap.add_argument("--timeout", type=int, default=25, help="单页超时秒数")
+    ap.add_argument("--budget", type=int, default=780, help="详情页抓取总预算秒数")
     a = ap.parse_args()
 
     entries = parse_list_feed(http_get(LIST_FEED, timeout=40))
     print(f"官方 feed 条目 {len(entries)}，取前 {min(a.limit, len(entries))} 条", flush=True)
     todo = entries[:a.limit]
+    prev = load_prev(a.out)
+    if prev:
+        print(f"上次产物可复用日期 {len(prev)} 条", flush=True)
 
+    deadline = time.time() + a.budget
     results = []
-    with ThreadPoolExecutor(max_workers=a.workers) as pool:
-        futs = {pool.submit(fetch_article, e): e for e in todo}
-        for fut in as_completed(futs):
-            try:
-                r = fut.result()
-            except Exception as ex:  # noqa: BLE001
-                print(f"  [err] {ex}", file=sys.stderr, flush=True)
-                continue
-            if r:
-                results.append(r)
-                print(f"  {r['date'] or '(无日期)'}  {r['title'][:42]}", flush=True)
+    for e in todo:
+        r = fetch_article(e, a.timeout, deadline)
+        if r["pub_dt"] is None and r["link"] in prev:
+            r["pub_dt"] = prev[r["link"]]
+            r["date"] = r["pub_dt"].strftime("%Y-%m-%d")
+            print(f"  (继承旧日期) {r['date']}  {r['title'][:36]}", flush=True)
+        else:
+            print(f"  {r['date'] or '(无日期)'}  {r['title'][:42]}", flush=True)
+        results.append(r)
 
-    results.sort(key=lambda x: (x["pub_dt"] is not None,
-                                x["pub_dt"] or datetime.min.replace(tzinfo=timezone.utc)),
-                 reverse=True)
+    # 无日期的当最新排前面，避免刚上线的文章沉底
+    results.sort(key=lambda x: x["pub_dt"] or datetime.max.replace(tzinfo=timezone.utc), reverse=True)
     write_rss(results, a.out)
     dated = sum(1 for r in results if r["pub_dt"])
     print(f"写入 {a.out}：{len(results)} 条（其中 {dated} 条有发布日期）", flush=True)
