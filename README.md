@@ -20,6 +20,7 @@
 | 功能材料 | https://daweitj.github.io/journal-rss/feeds/gncl.xml |
 | 材料导报 | https://daweitj.github.io/journal-rss/feeds/mater-rep.xml |
 | 金属学报 | https://daweitj.github.io/journal-rss/feeds/ams.xml |
+| 机械工程材料 | https://daweitj.github.io/journal-rss/feeds/jxgccl.xml |
 | 澎湃新闻·上海书评 | https://daweitj.github.io/journal-rss/feeds/thepaper-shuping.xml |
 
 官方 RSS（不入仓库，直接订阅）：
@@ -40,6 +41,7 @@
 - 材料导报：mater-rep.com 无 sitemap，抓首页当期目录，摘要从正文“摘要 … 关键词/服务”之间抽取。
 - 金属学报：ams.org.cn 的 sitemap 分片 id 与时间不同序，改抓首页 + 近三期期目录。
 - Springer 四本：`search.rss` 会 303 到登录页（阅读器报“不包含 RSS 订阅源”），改抓期刊文章列表 + 文章页 `citation_*` / `dc.description`。MRS Bulletin 的 DOI 前缀是 `10.1557` 而非 `10.1007`。
+- 机械工程材料：jxgccl.mat-test.com（仁和汇智 RHHz 平台，页面 JS 模板渲染、无 sitemap）。官网自带 RSS 在 `/rss/latest.xml`，但 `dc:date` 与 `prism:publicationDate` 为空、且化学式标题被多层转义破坏，不适用于阅读器。改为以其条目列表为索引，逐条抓文章页取 `citation_publication_date`、作者、`div.abstract-cn` 摘要，生成标准 RSS 2.0。
 - 澎湃新闻·上海书评：thepaper.cn/channel_168153，走官方 JSON 接口 `api.thepaper.cn/contentapi/nodeCont/getByChannelId`（`startTime` 游标翻页），摘要取文章页 `meta description`。
 
 ## 加新期刊
@@ -50,6 +52,7 @@
 - 只有列表页的站：`feedgen_journal.py --site … --list-url … --link-pattern …`
 - 走 Crossref 的刊：`feedgen_crossref.py --issn …`
 - 澎湃频道：`feedgen_thepaper.py --channel <频道ID>`
+- 自带残缺 RSS 的站（日期/编码有问题）：`feedgen_jxgccl.py --limit 30 --workers 4`
 
 ## 说明
 
