@@ -21,6 +21,9 @@
 | 材料导报 | https://daweitj.github.io/journal-rss/feeds/mater-rep.xml |
 | 金属学报 | https://daweitj.github.io/journal-rss/feeds/ams.xml |
 | 机械工程材料 | https://daweitj.github.io/journal-rss/feeds/jxgccl.xml |
+| 焊接学报 | https://daweitj.github.io/journal-rss/feeds/hjxb.xml |
+| 金属热处理 | https://daweitj.github.io/journal-rss/feeds/jsrcl.xml |
+| 理化检验-物理分册 | https://daweitj.github.io/journal-rss/feeds/lhjywlfc.xml |
 | 澎湃新闻·上海书评 | https://daweitj.github.io/journal-rss/feeds/thepaper-shuping.xml |
 
 官方 RSS（不入仓库，直接订阅）：
@@ -42,6 +45,10 @@
 - 金属学报：ams.org.cn 的 sitemap 分片 id 与时间不同序，改抓首页 + 近三期期目录。
 - Springer 四本：`search.rss` 会 303 到登录页（阅读器报“不包含 RSS 订阅源”），改抓期刊文章列表 + 文章页 `citation_*` / `dc.description`。MRS Bulletin 的 DOI 前缀是 `10.1557` 而非 `10.1007`。
 - 机械工程材料：jxgccl.mat-test.com（仁和汇智 RHHz 平台，页面 JS 模板渲染、无 sitemap）。官网自带 RSS 在 `/rss/latest.xml`，但 `dc:date` 与 `prism:publicationDate` 为空、且化学式标题被多层转义破坏，不适用于阅读器。改为以其条目列表为索引，逐条抓文章页取 `citation_publication_date`、作者、`div.abstract-cn` 摘要，生成标准 RSS 2.0。
+- 焊接学报：hjxb.hwi.com.cn（RHHz 平台，无 sitemap、无官方 feed）。抓首页当期目录（链接是单引号 href，需兼容），文章页 `citation_title/author/publication_date/keywords` 齐全。
+- 金属热处理：jsrcl.net（玛格泰克平台），sitemap 全部 403，改抓首页当期目录；该站作者写在 `citation_authors`（复数）meta 里，多人逗号分隔。
+- 理化检验-物理分册：lhjywlfc.mat-test.com（RHHz 平台）。官方 `/rss/current.xml` 有条目且标题干净，但 `dc:date`、`dc:creator` 为空；以其为条目索引，逐条抓文章页补发布日期/作者/关键词，并落 `feeds/lhjywlfc-dates.json` 日期种子（境外 runner 详情页 403 时靠种子兜底）。
+- 铸造杂志社（foundryworld.com）：站点没有结构化题录，过刊页只有期次封面与目录图片，做不出条目级 RSS，暂未纳入。
 - 澎湃新闻·上海书评：thepaper.cn/channel_168153，走官方 JSON 接口 `api.thepaper.cn/contentapi/nodeCont/getByChannelId`（`startTime` 游标翻页），摘要取文章页 `meta description`。
 
 ## 加新期刊
@@ -50,9 +57,11 @@
 
 - 有 sitemap 的站：`feedgen_journal.py --site … --sitemap … --article-pattern …`
 - 只有列表页的站：`feedgen_journal.py --site … --list-url … --link-pattern …`
+- 列表页 href 用单引号 / 作者在 `citation_authors` 的站：`feedgen_list.py --site … --list-url … --link-pattern …`
 - 走 Crossref 的刊：`feedgen_crossref.py --issn …`
 - 澎湃频道：`feedgen_thepaper.py --channel <频道ID>`
 - 自带残缺 RSS 的站（日期/编码有问题）：`feedgen_jxgccl.py --limit 30 --workers 4`
+- RHHz 平台官方 feed 缺日期/作者（如理化检验）：`feedgen_rhhz_rss.py --site … --rss-url … --seed feeds/xxx-dates.json`
 
 ## 说明
 

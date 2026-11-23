@@ -24,6 +24,10 @@
       <outline type="rss" text="功能材料" title="功能材料" xmlUrl="https://daweitj.github.io/journal-rss/feeds/gncl.xml" description="中文材料期刊 · 每日更新"/>
       <outline type="rss" text="材料导报" title="材料导报" xmlUrl="https://daweitj.github.io/journal-rss/feeds/mater-rep.xml" description="中文材料期刊 · 每日更新"/>
       <outline type="rss" text="金属学报" title="金属学报" xmlUrl="https://daweitj.github.io/journal-rss/feeds/ams.xml" description="中国金属学会 · 每日更新"/>
+      <outline type="rss" text="机械工程材料" title="机械工程材料" xmlUrl="https://daweitj.github.io/journal-rss/feeds/jxgccl.xml" description="上海材料研究所 · 每日更新"/>
+      <outline type="rss" text="焊接学报" title="焊接学报" xmlUrl="https://daweitj.github.io/journal-rss/feeds/hjxb.xml" description="哈尔滨焊接研究所 · 每日更新"/>
+      <outline type="rss" text="金属热处理" title="金属热处理" xmlUrl="https://daweitj.github.io/journal-rss/feeds/jsrcl.xml" description="每日更新"/>
+      <outline type="rss" text="理化检验-物理分册" title="理化检验-物理分册" xmlUrl="https://daweitj.github.io/journal-rss/feeds/lhjywlfc.xml" description="上海材料研究所 · 每日更新"/>
     </outline>
   </body>
 </opml>
