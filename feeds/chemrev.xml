@@ -5,8 +5,19 @@
 <link>https://pubs.acs.org/journal/chreay</link>
 <description>Chemical Reviews（ISSN 0009-2665）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 07:23:20 +0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 10:03:41 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Nanotechnology Meets Brain Diseases: Emerging Therapeutic Strategies for Drug Delivery</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00392</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00392</guid>
+<description>Abstract Brain diseases, encompassing neurodegenerative disorders, cerebrovascular diseases, and brain tumors, impose a profound global health burden. Conventional therapeutic strategies often fail due to the formidable blood–brain barrier (BBB) and complex pathological microenvironment of the central nervous system (CNS). The rapid evolution of nanotechnology offers unprecedented opportunities to overcome these delivery hurdles. This review comprehensively summarizes recent developments in engineered nanoplatforms for the diagnosis and targeted therapy of brain diseases. It first outlines the pathological characteristics and nanoprobe-enhanced diagnostic methods for various brain disorders, followed by a critical evaluation of five major classes of nanocarriers for CNS drug delivery: lipid-based, polymeric, inorganic, bio-derived, and hybrid nanocarriers. This evaluation highlights their structural attributes and delivery efficiencies. The discussion then examines advanced strategies to improve delivery precision, including multilevel targeting (e.g., BBB penetration and specific cell targeting), stimuli-responsive theranostics, and functional surface modifications. Linking these nanotechnological innovations to specific neurological diseases highlights their clinical potential. Finally, the review addresses current translational challenges, including biosafety, scalable manufacturing, and interindividual variability, and offers a forward-looking perspective on the rational 
+
+作者：Tao Na、Wang Jiefei、Qian Shutong、Zhao Senfeng、Wang Luyao、Ouyang Jiang、Dawe Gavin Stewart、Shi Bingyang | DOI：10.1021/acs.chemrev.6c00392 | 类型：journal-article</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Tao Na</dc:creator>
+<category>10.1021/acs.chemrev.6c00392</category>
+</item>
 <item>
 <title>Single-Atom Catalysts for Biomass Valorization</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00675</link>
@@ -325,17 +336,6 @@
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
 <dc:creator>Booth Paula J.</dc:creator>
 <category>10.1021/acs.chemrev.6c00782</category>
-</item>
-<item>
-<title>Two-Dimensional IR Spectroscopy as a Window into the Molecular Structure and Dynamics of Electrolytes and Ionic Liquids: A Review</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00440</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00440</guid>
-<description>Abstract Two-dimensional infrared (2DIR) spectroscopy has emerged as a powerful tool for probing the structure and picosecond dynamics of complex, condensed-phase systems at the molecular level. In electrolytes and ionic liquids, where physicochemical properties arise from the interplay between solvation and ionic interactions, 2DIR spectroscopy provides unique insights into intermolecular interactions and dynamical processes that are often inaccessible to conventional spectroscopies. This review highlights seminal and recent advances in understanding the behavior of these systems using 2DIR spectroscopy, with particular emphasis on spectral diffusion, vibrational relaxation, and chemical exchange dynamics. The review also describes how complementary information from the vibrational modes of solvents, salts, and external probes enables detailed characterization of ion–ion interactions, hydrogen-bonding networks, and solvation environments, providing a molecular framework of the structure and time evolution of these charged systems. Moreover, particular attention is given to the dynamics of distinct molecular moieties and to the role of specific anions, cations, and solvent environments in governing behavior on femtosecond to picosecond time scales. Finally, the review describes current challenges, including the limited availability of intrinsic vibrational reporters and experimental constraints, and key open questions in electrochemical and energy-relevant systems that remain
-
-作者：Bonilla Valeria、Kuroda Daniel G. | DOI：10.1021/acs.chemrev.6c00440 | 类型：journal-article</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Bonilla Valeria</dc:creator>
-<category>10.1021/acs.chemrev.6c00440</category>
 </item>
 </channel>
 </rss>

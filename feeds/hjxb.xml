@@ -5,187 +5,221 @@
 <link>https://hjxb.hwi.com.cn</link>
 <description>焊接学报 最新发布内容（标题、作者、摘要、DOI），由列表页与文章页元信息生成。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 08:10:10 +0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 10:27:21 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
 <title>铝合金电沉积焊接低温固相连接新方法</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260302001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260302001</guid>
-<description>面向集成电路封装中铝合金结构件对低热损伤、超薄板可靠连接的迫切需求，基于电化学原理提出了电沉积焊低温固相连接新方法，通过在铝合金待连接界面驱动铜离子定向还原与沉积，实现了厚度为500 μm的6061-T6铝合金低温固相焊接.研究了坡口角度分别为45°与70°，水浴温度分别为20 ℃、30 ℃、40 ℃和50 ℃对接头成形的影响，并重点分析了20 ℃、30 ℃和40 ℃下接头的微观组织及力学性能…</description>
+<description>\n 面向集成电路封装中铝合金结构件对低热损伤、超薄板可靠连接的迫切需求，基于电化学原理提出了电沉积焊低温固相连接新方法，通过在铝合金待连接界面驱动铜离子定向还原与沉积，实现了厚度为500 μm的6061-T6铝合金低温固相焊接.研究了坡口角度分别为45°与70°，水浴温度分别为20 ℃、30 ℃、40 ℃和50 ℃对接头成形的影响，并重点分析了20 ℃、30 ℃和40 ℃下接头的微观组织及力学性能.结果表明，电化学毛化预处理在待连接区域表面形成了纳米多孔氧化层，通过界面互锁效应提升了铜沉积区与铝母材的结合强度.70°坡口角度和30 ℃水浴温度下获得了无缺陷优质接头，焊缝区域由平均晶粒尺寸为0.71 ± 0.29 μm的细晶铜组织构成，并通过多孔氧化层与母材形成优异界面，铜沉积区平均硬度为195 HV，接头抗拉强度达到219 ± 3 MPa.实现了超薄板铝合金低温可靠连接，有利于实现集成电路轻量化基板的可靠连接. \n \n \n \n \n \n \n \n \n
+
+作者：王祎然、谢聿铭、孟祥晨、黄永宪 | DOI：10.12073/j.hjxb.20260302001</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>王祎然</dc:creator>
 <category>10.12073/j.hjxb.20260302001</category>
 </item>
 <item>
-<title>摇动电弧窄间隙焊炬位置的被动视觉检测方法</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260703002</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260703002</guid>
-<description>针对窄间隙焊接烟尘、弧光及飞溅等干扰引起焊接图像灰度分布不均，进而导致焊炬位置检测精度降低的问题，提出一种基于RANSAC双极性梯度极值(RANSAC bipolar gradient extrema, RANSAC-BGE)的焊丝图像分割与焊炬位置检测方法.该方法建立电弧位于坡口侧壁或中心的图像采集机制，研究焊丝ROI(region of interest)窗口尺寸对焊丝中心位置检测精度的影响…</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>吴坤宇</dc:creator>
-<category>10.12073/j.hjxb.20260703002</category>
-</item>
-<item>
-<title>硅与蓝宝石的超快激光焊接工艺特性及机理分析</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260105001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260105001</guid>
-<description>为了实现硅(Si)与透明蓝宝石(Al2O3)的高精度可靠连接，采用波长为1 064 nm、脉宽为12 ps的超快激光系统开展异质焊接试验，系统探究激光功率、扫描速度、扫描间距对焊缝成形、界面结合及抗剪强度的影响规律.通过扫描电子显微镜(scanning electron microscope，SEM)及能谱仪(energy dispersive X-ray spectroscopy，EDS)…</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>黄怡晨</dc:creator>
-<category>10.12073/j.hjxb.20260105001</category>
-</item>
-<item>
-<title>超声振动作用下Inconel 690合金TIG熔敷层微观组织及力学性能研究</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260204001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260204001</guid>
-<description>针对Inconel 690合金中高Ni-Cr成分在焊接时易产生晶界偏析严重及热裂纹等问题，设计了具备自动寻频功能的同轴复合超声-钨极惰性气体保护焊(ultrasonic-tungsten inert gas, U-TIG)焊接装备，并进行Inconel 690熔敷金属制备.同时，系统探究超声能量对熔覆层微观组织及力学性能的影响机理.结果表明，相比于传统TIG焊接，加入超声后，电弧发生收缩，焊…</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>杨帆</dc:creator>
-<category>10.12073/j.hjxb.20260204001</category>
-</item>
-<item>
-<title>Cr-Nb与V增强铁基堆焊涂层组织及高温摩擦学性能</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615003</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615003</guid>
-<description>为了明确不同合金化方式对铁基堆焊涂层高温摩擦磨损性能的影响，采用埋弧堆焊在Q235钢表面制备Cr-Nb和V涂层，分析其显微组织、室温硬度、高温硬度及600 ℃摩擦磨损性能，并通过XPS表征磨损表面化学状态.结果表明，2种涂层均含M7C3，并分别形成NbC和VC，碳化物体积分数分别为62.9% ± 4.2%和53.8% ± 1.8%；Cr-Nb涂层第2层室温基体区平均硬度为807.1 HV0.…</description>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>姚鑫</dc:creator>
-<category>10.12073/j.hjxb.20260615003</category>
-</item>
-<item>
-<title>融合传热机理的焊接温度场实时可计算方法</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260203001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260203001</guid>
-<description>焊接温度场直接决定熔池演变与接头性能，是实现“形-性”协同控制的底层核心.然而，现有表征手段难以兼顾实时性与准确性，物理传感局限于表面二维信息，有限元模拟计算滞后，且纯数据驱动模型缺乏物理约束与时序动态响应能力.文中提出融合传热机理的温度场实时可计算方法，基于脉冲气体保护钨极电弧焊传热机理，通过Abaqus生成多工况温度场仿真数据，结合试验采集的电信号与熔池图像，构建物理-数据融合数据集；经图像处…</description>
-<pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>董鑫源</dc:creator>
-<category>10.12073/j.hjxb.20260203001</category>
-</item>
-<item>
-<title>超声冲击处理对铝合金薄板激光焊接接头腐蚀疲劳寿命的影响</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260119001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260119001</guid>
-<description>为了提高飞机铝合金焊接带筋整体壁板在腐蚀环境与疲劳载荷耦合作用下的服役安全性，采用超声冲击处理(ultrasonic impact treatment，UIT)铝合金薄板激光焊接T形接头，在质量分数为3.5%的NaCl溶液中开展三点弯曲疲劳试验，得到焊态和超声冲击态接头的S-N曲线，分析疲劳断口以及裂纹萌生和扩展规律.结果表明，两组接头的S-N曲线斜率相近，表明在不同应力水平下疲劳寿命的提升幅度基…</description>
-<pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>张海</dc:creator>
-<category>10.12073/j.hjxb.20260119001</category>
-</item>
-<item>
-<title>热处理工艺对激光-CMT复合增材制造钛合金组织和性能影响</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260128001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260128001</guid>
-<description>针对激光-冷金属过渡(cold metal transfer，CMT)复合增材制造TC4钛合金因快速凝固形成亚稳态α′马氏体组织，导致塑性差、残余应力高等问题，系统研究不同温度消应力热处理对合金微观组织演变与力学性能的影响规律.采用激光-CMT复合增材制造工艺制备TC4钛合金试样，并分别在600 ℃/4 h和850 ℃/2 h空冷条件下进行消应力热处理.利用光学显微镜、电子背散射衍射及力学性能测试…</description>
-<pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>张政</dc:creator>
-<category>10.12073/j.hjxb.20260128001</category>
-</item>
-<item>
-<title>脉冲电流处理对AZ91D超声波焊接接头组织及力学性能影响</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260208002</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260208002</guid>
-<description>为改善AZ91D镁合金超声波焊接接头强度和塑性不足等问题，文中提出对超声波点焊接头施加高频脉冲电流处理(electropulsing treatment，EPT)的工艺.通过试验表征测试与COMSOL热-电耦合有限元仿真，系统探究了接头微区温升、微观组织演变及拉伸剪切性能.结果表明，EPT促使焊接界面电致塑性形变并再结晶结合.其中，焊齿下压区晶粒尺寸由38.67 μm显著细化至11.9 μm，接头…</description>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>申永和</dc:creator>
-<category>10.12073/j.hjxb.20260208002</category>
-</item>
-<item>
-<title>基于逆运动学的双臂类人焊接机器人</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260306002</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260306002</guid>
-<description>为克服传统单臂焊接机器人在复杂姿态与多变轨迹作业适应能力方面的局限性，文中提出一种双臂类人焊接机器人系统.该系统能够执行类似焊工的操作，其左臂用于递送焊丝、右臂执行焊接操作；采用基于逆运动学的控制策略实现拟人化运动，防止因极端关节构型引起的碰撞；根据人工输入的焊缝起止位置与预设工具姿态，提出基于阻尼最小二乘的关节构型方法，并生成双臂运动轨迹.在固定工件及预设工艺参数条件下，开展304不锈钢平焊、对…</description>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>王振民</dc:creator>
-<category>10.12073/j.hjxb.20260306002</category>
-</item>
-<item>
-<title>3D组装中双面凸点转接板键合技术及可靠性</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260413003</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260413003</guid>
-<description>为了满足电子设备小型化、高集成化及三维立体组装对高可靠垂直互连的需求，开展双面凸点转接板大尺寸焊球键合技术研究.采用重熔法制备1.2 mm和2.0 mm的Sn63Pb37焊球，并结合激光植球、热冲击(-55 ~ 125 ℃，200周期)与随机振动(15 g rms)试验及有限元分析开展研究.结果表明，所制备焊球组织致密，富Pb相均匀分布，焊点抗剪强度达25 MPa以上，界面形成约0.1 μm连续金…</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>刘宝磊</dc:creator>
-<category>10.12073/j.hjxb.20260413003</category>
-</item>
-<item>
-<title>振荡激光-TIG双丝复合焊制备异种钢窄间隙接头组织与性能分析</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260617003</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260617003</guid>
-<description>低合金钢与奥氏体不锈钢的高质量连接是核电接管安全端制造的关键环节.两类材料理化性能差异显著，窄间隙多道焊热循环易加剧界面组织失配与应力集中，影响接头综合性能.文中围绕此问题开发了振荡激光-钨极氩弧焊(tungsten inert gas welding, TIG)双丝复合焊技术，以Inconel 52M镍基合金为填充金属、Inconel 690为过渡层，实现了40 mm厚SA508Ⅲ/316LN窄…</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>滕彬</dc:creator>
-<category>10.12073/j.hjxb.20260617003</category>
-</item>
-<item>
-<title>高温合金水导激光技术瓶颈问题突破路径与研究态势剖析</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260316001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260316001</guid>
-<description>水导激光加工技术凭借加工距离长、精度高、热影响区小的优势，已成为加工高温合金气膜孔的有效手段. 然而，当前水导激光技术面临最大功率输出受限与高温合金加工时能量转化效率偏低的双重矛盾，严重制约了该技术的发展.文中系统梳理了水导激光加工高温合金领域的研究进展，重点围绕激光能量在耦合、传输、加工过程中的高效转化机制与工艺合理优化问题展开深入分析与评述. 结果表明，在耦合环节，光源选型、光束整形及耦合准精…</description>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>孙谦</dc:creator>
-<category>10.12073/j.hjxb.20260316001</category>
-</item>
-<item>
-<title>马氏体耐热钢焊接中硼偏聚的原子尺度分析</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20250501001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20250501001</guid>
-<description>为揭示马氏体耐热钢焊接热影响区的晶界弱化机理，明确B元素晶界偏聚行为及其对晶界力学性能的调控规律，为焊接工艺优化与母材抗裂成分设计提供理论依据，采用光学显微分析、扫描电镜观测、电子探针元素表征结合第一性原理计算与热力学模拟的多尺度方法，对9Cr-3W-3Co马氏体耐热钢焊接接头开展系统研究. 结果表明，B在粗晶热影响区晶界发生显著偏聚，偏聚系数达3.81；B原子优先占据体心立方铁的八面体间隙位，偏…</description>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>张玮</dc:creator>
-<category>10.12073/j.hjxb.20250501001</category>
-</item>
-<item>
-<title>工艺参数对高压干法GMAW焊X65管线钢接头组织及耐蚀性的影响</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260529002</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260529002</guid>
-<description>焊接是保障海洋装备与海底管线建造及全生命周期运维的核心工艺，然而焊接接头长期处于严苛的海水环境中，其组织和性能的优劣直接决定了海洋工程结构的服役安全.文中研究了工艺参数对X65管线钢高压干法熔化极气体保护焊(gas metal arc welding，GMAW)接头组织演化与腐蚀行为的影响规律.通过系统调控环境压力、焊接电流及电弧电压，综合运用金相分析、电化学测试及浸泡腐蚀等，表征了焊缝区的微观组…</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>张瑞英</dc:creator>
-<category>10.12073/j.hjxb.20260529002</category>
-</item>
-<item>
-<title>增强数据驱动的激光-电弧复合焊工艺参数多目标优化</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260311001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260311001</guid>
-<description>针对小样本条件下船用薄钢板激光-电弧复合焊(laser-arc hybrid welding, LAHW)工艺参数优化效果不理想的问题，提出增强数据驱动的LAHW工艺参数多目标优化方法.基于正交试验获取必要的试验数据，以焊接速度、光丝间距、激光功率和送丝速度为优化变量，将焊接最大残余应力和变形角度作为优化目标.为建立工艺参数到优化目标的准确映射，引入基于多目标子堆栈策略的多模型集成(multi o…</description>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>商港</dc:creator>
-<category>10.12073/j.hjxb.20260311001</category>
-</item>
-<item>
-<title>基于迁移学习的水下高压干法GMAW熔透质量预测方法</title>
+<title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260505002</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260505002</guid>
-<description>针对水下高压干法熔化极气体保护焊(gas metal arc welding，GMAW)高压样本获取困难及常压模型跨压强识别能力不足的问题，提出一种基于迁移学习的熔透质量预测方法.构建常压源域与高压目标域熔池图像数据集，建立未熔透、稳定熔透和过熔透3类状态判据；以ResNet-34为骨干网络，在Layer2与Layer4嵌入高效通道注意力机制(efficient channel attent…</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>蒋凡</dc:creator>
-<category>10.12073/j.hjxb.20260505002</category>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
 </item>
 <item>
-<title>药芯焊丝堆焊补强工艺下X80管道环焊接头的微观组织和断裂行为</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260727002</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260727002</guid>
-<description>在长输管道中，管道之间的连接处往往是最薄弱的环节，本文基于结构补强思路，采用12.48 kJ/cm的小热输入药芯焊丝熔化极堆焊工艺，对环焊接头进行了8 mm厚的管端堆焊增厚. 结合OM、SEM、EBSD、硬度测试、拉伸DIC测试和有限元仿真等技术，系统分析了堆焊补强工艺下环焊接头的微观组织和断裂行为. 结果表明，在堆焊增厚段尺度，堆焊补强工艺通过补偿热影响区软化区的强度损失，将断裂位置从热影响区软…</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>王海杰</dc:creator>
-<category>10.12073/j.hjxb.20260727002</category>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260703002</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260703002</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
 </item>
 <item>
-<title>严苛服役环境下焊接材料设计研究进展</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260706001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260706001</guid>
-<description>严苛服役环境下，焊接材料设计重点已由单一强韧匹配逐渐转向长期服役可靠性.因此，对焊缝金属成分稳定性、组织均匀性和接头局部性能提出了更高要求.围绕低温深冷、含氢腐蚀、核电和高温等典型环境，综述了焊材成分、母材稀释、凝固偏析、夹杂物与析出相对焊缝组织和服役性能的影响，分析了不同失效模式下焊接材料的设计思路.现有研究表明，低温深冷焊材应重点控制相稳定性和接头局部低温韧性；耐腐蚀及抗氢焊材需兼顾服役表层有…</description>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>魏震</dc:creator>
-<category>10.12073/j.hjxb.20260706001</category>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260105001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260105001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
 </item>
 <item>
-<title>同轴双路径保护气体对Ti6Al4V合金MIG焊滴状过渡行为的影响</title>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260204001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260204001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615003</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615003</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615002</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615002</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260528001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260528001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20250501001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20250501001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260203001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260203001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260119001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260119001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260128001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260128001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260208002</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260208002</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260306002</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260306002</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260306001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260306001</guid>
-<description>Ti6Al4V(TC4)合金作为航天关键结构件的重要材料，其传统单路径保护气体熔化极气体保护焊(metal inert gas，MIG)存在电弧稳定性差、熔滴过渡不规则、焊缝保护不足及组织粗大等问题，严重影响了焊接成形质量，制约了该工艺在高端航天领域的应用.针对上述问题，文中提出同轴双路径保护气体焊接工艺，系统研究不同保护气体路径对TC4合金MIG焊滴状过渡过程的影响规律，并结合高速摄像、电信号采…</description>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>陈超</dc:creator>
-<category>10.12073/j.hjxb.20260306001</category>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260413003</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260413003</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260617003</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260617003</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260614001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260614001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260316001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260316001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260529002</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260529002</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260311001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260311001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260727002</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260727002</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260504001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260504001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260706001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260706001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260707001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260707001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260318001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260318001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260530001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260530001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260416002</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260416002</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260907001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260907001</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260323002</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260323002</guid>
+<description></description>
+<pubDate>Tue, 24 Nov 2026 10:27:21 +0800</pubDate>
 </item>
 </channel>
 </rss>
