@@ -67,6 +67,7 @@ def collect_list(list_url, pattern):
         if pattern and not re.search(pattern, href):
             continue
         u = urljoin(list_url, html.unescape(href)).split("#")[0]
+        u = re.sub(r"\?(?:viewType|tab|lang)=[^?]*$", "", u)
         if u not in out:
             out.append(u)
     return out
@@ -85,6 +86,11 @@ def parse(url, date_fields):
                 best = t
         if best:
             desc = best
+    desc = re.sub(r"(?:--&gt;|-->|&gt;)\s*", " ", desc)
+    desc = re.sub(r"\s+", " ", desc).strip()
+    m = re.search(r"摘\s*要\s*[:：]\s*([\s\S]{60,})$", desc)
+    if m:
+        desc = m.group(1).strip()
     doi = clean(meta(page, "citation_doi"))
     authors = [clean(a) for a in re.findall(
         r'<meta[^>]*name="citation_author"[^>]*content="([^"]*)"', page, re.I)]
