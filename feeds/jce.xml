@@ -5,8 +5,41 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 10:03:42 +0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 20:05:47 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Having Students Develop Three-Dimensional Learning Assessment Tasks to Enhance Understanding and Career Readiness within an Upper-Level Elective Chemistry Course</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01334</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01334</guid>
+<description>Abstract Years of evidence reveal that students leave our undergraduate courses with an incoherent understanding of chemistry content and are often less prepared in 21st century skills than desired. One initiative aimed to address this concern, referred to as Three-Dimensional Learning (3DL), includes reflecting on what we want students to know (core ideas), how we want students to use that knowledge (science and engineering practices - SEPs), and lenses/tools to explain a range of phenomena across disciplines (crosscutting concepts). While growing evidence supports the need to further expand this initiative within all courses, it has been primarily implemented at the K-12 and introductory undergraduate levels with little movement to upper-level courses. In this paper, the 3DL Framework was leveraged in a senior upper-level elective course for chemistry and biochemistry majors to provide students an opportunity to holistically reflect on the understanding and skills obtained within their degree program. As a final project for the course, students were tasked to create 3DL-aligned assessment questions, which required students to continually explore their own knowledge on a deeper level to explain how and why phenomena occur. The results presented in this paper highlight how students were able to refine their chemistry knowledge and better understand how the different subdisciplines are connected through core ideas. Further, the results demonstrate students’ desire that chemist
+
+作者：Underwood Sonia M. | DOI：10.1021/acs.jchemed.6c01334 | 类型：journal-article</description>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Underwood Sonia M.</dc:creator>
+<category>10.1021/acs.jchemed.6c01334</category>
+</item>
+<item>
+<title>An Integrated Laboratory Module Linking Enzyme Kinetics, Inhibition, and Ligand Binding Thermodynamics Using Glutathione S-Transferase</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00882</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00882</guid>
+<description>Abstract Enzyme inhibition is central to biochemistry and drug discovery. However, undergraduate laboratory instruction often treats enzyme kinetics, inhibition, and ligand binding as separate topics, limiting students’ ability to relate activity-based parameters to thermodynamic descriptions of molecular recognition. We report an integrated laboratory module for upper-division undergraduate courses that combines steady-state enzyme kinetics, inhibition analysis, intrinsic fluorescence spectroscopy, and isothermal titration calorimetry (ITC) with glutathione S-transferase as a model enzyme. Using reduced glutathione (GSH) as the substrate and glutathione sulfonate as a competitive inhibitor, students determine Michaelis–Menten parameters, inhibition constants (Ki), and IC50 values. They also independently characterize equilibrium binding and thermodynamic parameters from spectroscopic and calorimetric data. By analyzing complementary data sets obtained under consistent experimental conditions, students compare kinetic and equilibrium constants, evaluate underlying assumptions, and relate enzyme activity with binding energetics. The module promotes quantitative data analysis, nonlinear regression, and critical interpretation of experimental models within a unified experimental framework.
+
+作者：Flores-Céspedes Francisco、Aguilera Ana M.、Aguilera María G.、García-Aguilera Ana M.、García-Fuentes Luis | DOI：10.1021/acs.jchemed.6c00882 | 类型：journal-article</description>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Flores-Céspedes Francisco</dc:creator>
+<category>10.1021/acs.jchemed.6c00882</category>
+</item>
+<item>
+<title>Just Because You Can, Does Not Mean You (Always) Should: The Ethical Implications of Using Generative AI in Chemistry Education</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c00230</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00230</guid>
+<description>Abstract The proliferation of accessible generative AI platforms continues to accelerate in society. With this growth, educators are looking to understand how to best train their students to engage in their work and society with this new technology. Most research in this realm has focused on training students to consider when and how to use generative AI, with newer work focused on the impacts on learning. Yet, there has been little exploration of training educators and educational researchers on when and how to use generative AI. While there are some nascent ethical codes emerging, individual exploration of whether, when, and how to use AI in our role as educators deserves attention. In this manuscript, we describe three frameworks of normative ethics, namely, utilitarianism, deontology, and virtue ethics, and explore instructor use cases for generative AI. We do not intend this work to advocate for a specific stance on the use of AI but to invite the reader and our community to engage with the question of their own ethical stance in the context of their own use of the new technology.
+
+作者：DeKorver Brittland、Cerkez Elizabeth B.、Vaughn Ariel E. | DOI：10.1021/acs.jchemed.6c00230 | 类型：journal-article</description>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>DeKorver Brittland</dc:creator>
+<category>10.1021/acs.jchemed.6c00230</category>
+</item>
 <item>
 <title>Relationship between Chemistry Classroom Social Environment and Academic Resilience: A Cross-Sectional Moderated Serial Mediation Analysis</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c00728</link>
@@ -19,17 +52,6 @@
 <category>10.1021/acs.jchemed.6c00728</category>
 </item>
 <item>
-<title>Embedding Authentic Medicinal Chemistry Reasoning through a Virtual Lead-Optimization Activity</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01450</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01450</guid>
-<description>Abstract Authentic learning experiences that reflect the reasoning practices of professional scientists are intended to support the development of higher-order decision-making skills. This article presents a fully virtual lead-optimization (vLO) activity designed to embed medicinal chemistry reasoning within the curriculum. Using a curated PI3Kδ inhibitor dataset and a sequence of scaffolded design stages, students analyze structure–activity relationships, evaluate multiparameter tradeoffs, and justify molecular design decisions under conditions of uncertainty. Early design stages provide full access to experimental data to support reflection and interrogation of missed opportunities, whereas a final predictive stage requires students to apply Free–Wilson reasoning to propose new analogues from predicted or calculated properties. The vLO is assessed by submission of an individual, professional-style report, describing the process, reasoning and analysis of the optimization. The vLO activity offers a scalable, research-aligned approach for developing decision-making competencies central to medicinal chemistry and provides a transferable framework for incorporating authentic, data-rich inquiry into chemistry education.
-
-作者：Fray M. Jonathan、Macdonald Simon J. F.、Nortcliffe Andrew | DOI：10.1021/acs.jchemed.6c01450 | 类型：journal-article</description>
-<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Fray M. Jonathan</dc:creator>
-<category>10.1021/acs.jchemed.6c01450</category>
-</item>
-<item>
 <title>Algorithmic Experiment Descriptions: Fostering Computational Thinking in Chemistry Class</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c00821</link>
 <guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00821</guid>
@@ -39,6 +61,17 @@
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Albicker Julia</dc:creator>
 <category>10.1021/acs.jchemed.6c00821</category>
+</item>
+<item>
+<title>Embedding Authentic Medicinal Chemistry Reasoning through a Virtual Lead-Optimization Activity</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01450</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01450</guid>
+<description>Abstract Authentic learning experiences that reflect the reasoning practices of professional scientists are intended to support the development of higher-order decision-making skills. This article presents a fully virtual lead-optimization (vLO) activity designed to embed medicinal chemistry reasoning within the curriculum. Using a curated PI3Kδ inhibitor dataset and a sequence of scaffolded design stages, students analyze structure–activity relationships, evaluate multiparameter tradeoffs, and justify molecular design decisions under conditions of uncertainty. Early design stages provide full access to experimental data to support reflection and interrogation of missed opportunities, whereas a final predictive stage requires students to apply Free–Wilson reasoning to propose new analogues from predicted or calculated properties. The vLO is assessed by submission of an individual, professional-style report, describing the process, reasoning and analysis of the optimization. The vLO activity offers a scalable, research-aligned approach for developing decision-making competencies central to medicinal chemistry and provides a transferable framework for incorporating authentic, data-rich inquiry into chemistry education.
+
+作者：Fray M. Jonathan、Macdonald Simon J. F.、Nortcliffe Andrew | DOI：10.1021/acs.jchemed.6c01450 | 类型：journal-article</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Fray M. Jonathan</dc:creator>
+<category>10.1021/acs.jchemed.6c01450</category>
 </item>
 <item>
 <title>A Gamified Knight’s Tour for Teaching Metabolic Pathways</title>
@@ -303,39 +336,6 @@
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Guo Hongfan</dc:creator>
 <category>10.1021/acs.jchemed.6c01171</category>
-</item>
-<item>
-<title>Beyond Point Allocation: Auditing Course-Objective Alignment and Item-Level Performance across a Two-Semester Organic Chemistry Sequence</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01312</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01312</guid>
-<description>Abstract Course-assessment alignment is often judged from a blueprint that shows how many examination points are assigned to each course objective. Such a summary can be reassuring, yet it leaves unanswered what students are actually required to do. This study examined two consecutive final examinations in a 64 h undergraduate organic chemistry course for energy storage engineering majors at a Chinese university. The evidence base combined the official syllabus, examination blueprint, scoring guides, 119 scored subtasks, and regular final-examination records from 84 students in Semester 1 and 83 students in Semester 2. Scored subtasks were coded for course objective, revised-Bloom cognitive demand, organic chemistry task, intended difficulty, and contextual demand; student performance was analyzed at the 38 and 40 parent units for which scores were recorded. Point allocation closely matched the intended 40:60 distribution for Course Objectives 1 and 2 (44:56 and 38:62). In contrast, 99 of 100 points in Semester 1 and all 100 points in Semester 2 could be completed without using production, everyday-life, or engineering context. Item-level results further showed that observed difficulty did not increase monotonically across Bloom categories; several of the lowest score rates occurred on synthesis and selected multistep transformations. The findings show how a layered audit of alignment and student performance can reveal features that point allocation alone does not capture.
-
-作者：Zhao Yuhui、Zheng Xiaojun、Wei Wanguo | DOI：10.1021/acs.jchemed.6c01312 | 类型：journal-article</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Zhao Yuhui</dc:creator>
-<category>10.1021/acs.jchemed.6c01312</category>
-</item>
-<item>
-<title>Analysis of Chemical Mixtures as a More Authentic Pedagogical Approach to Teaching 1H NMR Spectroscopy in Organic Chemistry Courses</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01419</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01419</guid>
-<description>Abstract A pedagogical resource has been designed to situate the instruction of 1H NMR spectroscopy within a more authentic context through the interpretation of chemical mixtures. By shifting away from traditional “unknown structure elucidation” problems, this approach engages students with spectral data in a manner that more closely reflects genuine chemical practice. Mixture analysis is routinely employed by synthetic chemists to monitor reaction progress and evaluate product purity, thus this methodology provides realistic context for how spectroscopic evidence is used to inform decision-making in a research environment. This resource comprises a database of 1H NMR spectra of mixtures representing a broad range of organic transformations commonly taught in introductory organic courses including aldol condensation, alkene addition, electrophilic aromatic substitution, elimination, esterification, Grignard reactions, oxidation, reduction, reductive amination, and substitution. We illustrate how these materials can be scaffolded throughout the organic chemistry curriculum to align with students’ progressively developing competencies in mixture analysis and NMR interpretation. We also identify common difficulties encountered by students when interpreting chemical mixtures and present survey data indicating that students perceive mixture-based tasks as a more authentic application of spectroscopic data compared to conventional unknown structure elucidation exercises.
-
-作者：Chiu Benjamin S. Y.、Luska Kylie L. | DOI：10.1021/acs.jchemed.6c01419 | 类型：journal-article</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Chiu Benjamin S. Y.</dc:creator>
-<category>10.1021/acs.jchemed.6c01419</category>
-</item>
-<item>
-<title>From Ancient Wisdom to Modern Practice: A High-School STEM Activity on Artemisinin Extraction with the Soxhlet Extractor</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01230</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01230</guid>
-<description>Abstract STEM activities that integrate disciplinary knowledge with hands-on practice have gained increasing attention in science education. This study designed a high-school chemistry activity based on the Soxhlet extraction of crude artemisinin, comprising six sequential sessions that guided students through the crude extraction process. Students applied scientific principles by interpreting ancient chemical literature and understanding extraction and testing theories; mastered technological skills through hands-on operation of an extraction apparatus and chemical assays; developed mathematical competence via measuring reagents and calculating yield; and cultivated engineering thinking by designing experimental protocols and industrial production workflows. To evaluate the effectiveness of the activity, we administered a postactivity questionnaire and an achievement test. The results indicated that the activity effectively enhanced students’ conceptual understanding, practical skills, and learning interest, while also promoting interdisciplinary literacy.
-
-作者：Guo Yunqi、Zhao Mengqi、Xue Zhongxin | DOI：10.1021/acs.jchemed.6c01230 | 类型：journal-article</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Guo Yunqi</dc:creator>
-<category>10.1021/acs.jchemed.6c01230</category>
 </item>
 </channel>
 </rss>

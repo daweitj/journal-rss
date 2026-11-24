@@ -1,256 +1,103 @@
 {
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260157": {
-  "d": "2026-10-08",
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250266": {
+  "d": "2026-11-08",
   "a": [
-   "刘岩",
-   "张聪毅",
-   "陈洁明",
-   "王真钟",
-   "李志浩",
-   "张佳旗",
-   "张欣耀"
+   "史伟",
+   "杨莉",
+   "苏亚宁",
+   "单发良",
+   "于永旺"
   ],
-  "k": "高强度螺栓, 腐蚀, 应力集中, 疲劳断裂, 磨损,"
+  "k": "海拔高度, N08120合金, 晶间腐蚀, 沸点,"
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260138": {
-  "d": "2026-10-08",
-  "a": [
-   "郭海霞",
-   "蔡海琛",
-   "杨晓",
-   "徐宁",
-   "陈洁明",
-   "张欣耀",
-   "王敢闯"
-  ],
-  "k": "螺柱, 过载断裂, 加工缺陷, 力学性能, 显微组织,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260052": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260091": {
-  "d": "2026-10-08",
-  "a": [
-   "袁晓冬",
-   "李春辉",
-   "陈洁明",
-   "李志浩",
-   "潘恒沛",
-   "张欣耀"
-  ],
-  "k": "缸盖螺栓, 多源高周疲劳断裂, 弯曲应力, 预紧力,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260107": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260149": {
-  "d": "2026-10-08",
-  "a": [
-   "潘佳鑫",
-   "郭雅静",
-   "张浩浩",
-   "刘祎璇",
-   "邸頔",
-   "倪剑",
-   "杨中娜",
-   "李同磊"
-  ],
-  "k": "海上平台, 球阀螺栓, 沿晶裂纹, 断裂, 海洋大气腐蚀,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260058": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260105": {
-  "d": "2026-10-08",
-  "a": [
-   "罗先甫",
-   "王佳",
-   "孙绪鲁",
-   "张恒坤",
-   "查小琴",
-   "王泽政"
-  ],
-  "k": "试验环境, 高锰钢, 慢应变速率拉伸, 应力腐蚀敏感性, NaCl溶液,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250113": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260142": {
-  "d": "2026-10-08",
-  "a": [
-   "李远征",
-   "曹俊",
-   "王孟虎",
-   "刘岗",
-   "童帅",
-   "王昌",
-   "孙新军"
-  ],
-  "k": "高强韧钻杆, 摩擦焊接, 显微组织, 力学性能, 断裂,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250054": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260133": {
-  "d": "2026-10-08",
-  "a": [
-   "徐锐",
-   "陈俊羽",
-   "马绍智",
-   "蒋晓天"
-  ],
-  "k": "焦炭期货, 干熄焦, 湿熄焦, 平衡水分法, 全水分法,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260134": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260016": {
-  "d": "2026-10-08",
-  "a": [
-   "李肖科",
-   "汪雪",
-   "陆燕玲"
-  ],
-  "k": "金属材料, 夏比冲击, 试验方法, 标准差异,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250098": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260100": {
-  "d": "2026-10-08",
-  "a": [
-   "何建勋",
-   "汤虎",
-   "欧阳宾",
-   "许豪杰"
-  ],
-  "k": "不锈钢电连接器, 镀层脱落, 界面结合力, 氧化铝, 滚镀,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250125": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250080": {
-  "d": "2026-10-08",
-  "a": [
-   "马亲良",
-   "郭凯旋",
-   "刘献良",
-   "赖云亭",
-   "夏咸喜",
-   "李尚昱"
-  ],
-  "k": "脱硝, 焊缝, 2205不锈钢, 应力腐蚀开裂, 焊接缺陷,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250107": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250071": {
-  "d": "2026-10-08",
-  "a": [
-   "邱容容"
-  ],
-  "k": "20CrMnTiH钢, 渗碳热处理, 混晶, 贝氏体, 组织遗传,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260148": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250052": {
-  "d": "2026-10-08",
-  "a": [
-   "裴恺",
-   "徐鑫",
-   "祁永东",
-   "王安友",
-   "王阳阳"
-  ],
-  "k": "拉杆螺栓, 原始裂纹, 过载断裂, 数值模拟, 缺陷溯源,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260116": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250042": {
-  "d": "2026-10-08",
-  "a": [
-   "魏明玉",
-   "项盼",
-   "滕巍",
-   "宋元全"
-  ],
-  "k": "销轴, 安全系数, 疲劳断裂, 结构设计, 有限元仿真分析,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250068": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250021": {
-  "d": "2026-10-08",
-  "a": [
-   "杨军胜",
-   "姚宇峰",
-   "田小明",
-   "杨朝栋"
-  ],
-  "k": "TP310HCbN钢, 再热器, 爆管, 沿晶开裂, 原始裂纹,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250093": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250026": {
-  "d": "2026-10-08",
-  "a": [
-   "黄蓉",
-   "胡锋",
-   "程致远",
-   "周文胜",
-   "段明才",
-   "谢亿",
-   "曹先慧",
-   "邹谨成",
-   "景雪潮",
-   "刘维可",
-   "王军",
-   "陈军君",
-   "严子卓"
-  ],
-  "k": "绝缘子, 伞裙, 法兰, 胶装水泥, 疲劳开裂,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250103": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260163": {
-  "d": "2026-10-08",
-  "a": [
-   "李雪峰",
-   "郭满涛",
-   "陈洁明",
-   "潘恒沛",
-   "王世宁",
-   "杨晓",
-   "郭海霞"
-  ],
-  "k": "42CrMo钢, 高强螺栓, 氢脆, 腐蚀, 抗拉强度,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250115": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250044": {
-  "d": "2026-10-08",
-  "a": [
-   "赵灵杰",
-   "杨金艳"
-  ],
-  "k": "连接杆螺栓, 分层裂纹, 冷变形, 断裂, 显微组织,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250077": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250023": {
-  "d": "2026-10-08",
-  "a": [
-   "张斌",
-   "胡志红",
-   "王宇",
-   "王哲"
-  ],
-  "k": "支承辊, 脆性断裂, 黏着磨损, 点状缺陷, 力学性能,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250293": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260123": {
-  "d": "2026-10-08",
-  "a": [
-   "杨平津",
-   "张慧",
-   "刘艳静",
-   "秦生凯",
-   "蒋肇巍",
-   "陈连锋",
-   "邓杰",
-   "冯睿琦",
-   "陈琪涛",
-   "杨晨"
-  ],
-  "k": "连铸圆管坯, 夹渣, 凹坑缺陷, 结晶器液位, 耐火材料,"
- },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260101": {
-  "d": "2026-10-08",
-  "a": [
-   "周俊",
-   "黄驰",
-   "包海燕"
-  ],
-  "k": "40Cr钢, 空轴, 疲劳开裂, 调质热处理, 显微组织,"
- },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl250016": {
-  "d": "2026-10-08",
-  "a": [
-   "李广山",
-   "陈庆国",
-   "熊新民",
-   "董训长",
-   "王瑶"
-  ],
-  "k": "天然气联合站, 管道, 316L不锈钢, 应力腐蚀开裂, 风险评价,"
- },
- "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260106": {
-  "d": "2026-10-08",
-  "a": [
-   "淡婷",
-   "颜明礼",
-   "孙洋",
-   "张国庆",
-   "马佳宇",
-   "徐雅坤"
-  ],
-  "k": "铝合金锻件, 氧化夹杂物, 化合物偏析, 孔洞, 折叠缺陷,"
+ "https://lhjywlfc.mat-test.com/article/doi/10.11973/lhjy-wl260156": {
+  "d": "2026-01-01",
+  "a": [],
+  "k": ""
  }
 }
