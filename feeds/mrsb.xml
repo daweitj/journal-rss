@@ -5,8 +5,18 @@
 <link>https://link.springer.com</link>
 <description>MRS Bulletin 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 30 条。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 20:12:09 +0800</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 19:02:32 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Meet the MRS Editors David F. Bahr, FMRS Editor-in-Chief, MRS Advances</title>
+<link>https://link.springer.com/article/10.1557/s43577-026-01210-y</link>
+<guid isPermaLink="true">https://link.springer.com/article/10.1557/s43577-026-01210-y</guid>
+<description>
+
+DOI：10.1557/s43577-026-01210-y | 发布日期：2026/11/24</description>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+<category>10.1557/s43577-026-01210-y</category>
+</item>
 <item>
 <title>A roadmap for polymer informatics superintelligence</title>
 <link>https://link.springer.com/article/10.1557/s43577-026-01200-0</link>
@@ -323,17 +333,6 @@ DOI：10.1557/s43577-026-01237-1 | 发布日期：2026/11/03</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
 <dc:creator>Braun, Artur</dc:creator>
 <category>10.1557/s43577-026-01231-7</category>
-</item>
-<item>
-<title>Understanding interfacial behavior of materials via in situ micromechanical characterization</title>
-<link>https://link.springer.com/article/10.1557/s43577-026-01234-4</link>
-<guid isPermaLink="true">https://link.springer.com/article/10.1557/s43577-026-01234-4</guid>
-<description>We present here a series of examples demonstrating how in situ electron microscopy micromechanical characterization can be employed to understand the behav
-
-作者：Wang, Siyang、Hao, Rui、Mojumder, Soumyajit、Nela, Henri、Rylatt, Phoebe、Shen, Zonghao、Giuliani, Finn、Gavalda-Diaz, Oriol | DOI：10.1557/s43577-026-01234-4 | 发布日期：2026/10/28</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Wang, Siyang</dc:creator>
-<category>10.1557/s43577-026-01234-4</category>
 </item>
 </channel>
 </rss>
