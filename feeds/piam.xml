@@ -5,8 +5,19 @@
 <link>https://link.springer.com</link>
 <description>Progress in Additive Manufacturing 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 30 条。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 25 Nov 2026 19:02:46 +0800</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 18:37:46 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Process-structure-property optimization of FDM-printed PLA/ABS hybrid composites using a DOE-assisted reward-based approach</title>
+<link>https://link.springer.com/article/10.1007/s40964-026-02095-8</link>
+<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02095-8</guid>
+<description>Fused deposition modeling (FDM) of polymer blends provides a flexible route for developing lightweight components with tailored mechanical performance; how
+
+作者：Amuthakkannan, P.、Arunprasath, K. | DOI：10.1007/s40964-026-02095-8 | 发布日期：2026/11/26</description>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Amuthakkannan, P.</dc:creator>
+<category>10.1007/s40964-026-02095-8</category>
+</item>
 <item>
 <title>Slump flow screening of rheology for 3D printable concrete with superfine zeolite</title>
 <link>https://link.springer.com/article/10.1007/s40964-026-02083-y</link>
@@ -325,17 +336,6 @@
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Chung, D. D. L.</dc:creator>
 <category>10.1007/s40964-026-02046-3</category>
-</item>
-<item>
-<title>Measurement-guided irradiance leveling in DMD-based DLP 3D printing using a Gaussian-filtered correction mask</title>
-<link>https://link.springer.com/article/10.1007/s40964-026-02079-8</link>
-<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02079-8</guid>
-<description>Digital light processing (DLP) 3D printing enables rapid fabrication of microstructured components, but spatial non-uniformity in projected irradiance can
-
-作者：Choi, Jae Won、Shin, Ah Yeon、Lee, Jisun、Kim, Seok Beom、Ha, Cheol Woo | DOI：10.1007/s40964-026-02079-8 | 发布日期：2026/11/09</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Choi, Jae Won</dc:creator>
-<category>10.1007/s40964-026-02079-8</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,30 @@
 <link>https://pubs.acs.org/journal/chreay</link>
 <description>Chemical Reviews（ISSN 0009-2665）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 18:56:44 +0800</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 18:32:13 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Advances in Synthetic Methodologies for Isotopic Labeling of Organic Molecules</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c00538</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.5c00538</guid>
+<description>Abstract Radioactive and stable isotopes are essential tools in the discovery and development of new agrochemical and pharmaceutical molecules. Consequently, the body of research focused on developing novel synthetic methodologies for isotope incorporation into bioactive molecules continues to grow. Progress in this field has largely been driven by innovative catalytic methods, including late-stage functionalization (LSF) methods like hydrogen isotope exchange (HIE), carbon isotope exchange (CIE), molecular skeletal editing, biocatalysis, and other labeling approaches. These methods enable efficient and sustainable site-specific introduction of isotopes into bioactive molecules at late stages of synthesis. Given the broad applications across various scientific fields, this comprehensive, critical, and accessible review summarizing diverse isotope labeling methodologies will be of great benefit to researchers in academia as well as professionals in the pharmaceutical and agrochemical industries. This review focuses primarily on recent developments in catalytic methodologies for incorporating 2H, 3H, 11C, 13C, 14C, 15N, 18O, 18F, and 34S isotopes into organic molecules, along with a brief overview of well-established methods reported in this field.
+
+作者：Ghosh Animesh、Teja Chitrala、Li Jingwei、Kar Somnath、Guin Srimanta、Strotman Neil A.、Reilly Sean W.、Verhoog Stefan | DOI：10.1021/acs.chemrev.5c00538 | 类型：journal-article</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Ghosh Animesh</dc:creator>
+<category>10.1021/acs.chemrev.5c00538</category>
+</item>
+<item>
+<title>Single-Molecule DNA Sequencing with Nanopores</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c00633</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.5c00633</guid>
+<description>Abstract DNA sequencing is indispensable in healthcare, agriculture, environmental protection, and understanding of biology. DNA sequencing with nanopores uses a unique principle where individual DNA strands are threaded through a ring-like nanopore, which acts as a read head to electronically detect the bases. Due to the simple principle, nanopores enable sequencing at previously unachieved speeds and read lengths as well as direct sensing of epigenetically modified bases. The electrical nature also allows highly portable devices to be used in the clinic or the field. This review places DNA nanopore sequencing within the context of other DNA sequencing technologies and explains its functional principle and the essential components of commercial nanopore sequencing platforms. The advantages of nanopore sequencing are demonstrated with relevant case studies, and nanopore sequencing is compared to other technologies in terms of sequencing parameters such as read length, throughput, cost per base, and accuracy. A brief outlook discusses how the current shortcomings of nanopore sequencing can be addressed with future advances.
+
+作者：Ciccone Juliette、Zandieh Mohamad、Ramezani Farani Marzieh、Howorka Stefan | DOI：10.1021/acs.chemrev.5c00633 | 类型：journal-article</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Ciccone Juliette</dc:creator>
+<category>10.1021/acs.chemrev.5c00633</category>
+</item>
 <item>
 <title>Nanotechnology Meets Brain Diseases: Emerging Therapeutic Strategies for Drug Delivery</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00392</link>
@@ -314,28 +336,6 @@
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
 <dc:creator>Ruiz-Ferrando Andrea</dc:creator>
 <category>10.1021/acs.chemrev.6c00373</category>
-</item>
-<item>
-<title>Regenerated Cellulose for Sustainable Electronic Devices</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00205</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00205</guid>
-<description>Abstract Regenerated cellulose (RC), derived from natural cellulose through dissolution and regeneration processes, has emerged as a sustainable, versatile, and cost-effective material for advanced electronic devices. With unique hierarchical structures, abundant hydroxy groups, and excellent mechanical and thermal properties, RC allows extensive customization of its characteristics, offering biocompatibility, flexibility, processability, and environmental friendliness. This review systematically summarizes recent advances in RC-based electronics, focusing on its multiscale molecular configuration, dissolution and regeneration mechanisms, and functionalization and engineering strategies. It first provides a detailed molecular-level analysis of RC structures and formation mechanisms. The principles and strategies of cellulose dissolution and regeneration are then discussed, with emphasis on solvent systems and structure-regulating mechanisms essential for processing control. Functionalization strategies are categorized into direct modification and hybridization with functional materials. Notably, the hybridization approach involves the development of conductive, semiconductive, and insulating RC composites, evaluated from the perspectives of material selection, interfacial design, and processing techniques. Subsequently, engineering approaches to enhance mechanical strength, electrical conductivity, and optical transparency are explored. Applications of RC in sensors, actuator
-
-作者：Wang Xiaojuan、Fan Mengmeng、Qian Huanyu、Pan Xiaosen、Chen Lu、Jiang Junzhi、Chen Chaoji、Liu Hongbin | DOI：10.1021/acs.chemrev.6c00205 | 类型：journal-article</description>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Wang Xiaojuan</dc:creator>
-<category>10.1021/acs.chemrev.6c00205</category>
-</item>
-<item>
-<title>Introduction: Insertion and Folding of Membrane Proteins and Peptides</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00782</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.6c00782</guid>
-<description>
-
-作者：Booth Paula J.、Sanders Charles R. | DOI：10.1021/acs.chemrev.6c00782 | 类型：journal-article</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-<dc:creator>Booth Paula J.</dc:creator>
-<category>10.1021/acs.chemrev.6c00782</category>
 </item>
 </channel>
 </rss>
