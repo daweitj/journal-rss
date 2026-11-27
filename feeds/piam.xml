@@ -5,8 +5,52 @@
 <link>https://link.springer.com</link>
 <description>Progress in Additive Manufacturing 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 30 条。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 18:37:46 +0800</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 18:41:53 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Structure-sensitive characterization of additively manufactured IN718 using hybrid ultrasonic SPC-I and XCT-derived porosity features</title>
+<link>https://link.springer.com/article/10.1007/s40964-026-02097-6</link>
+<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02097-6</guid>
+<description>Additive manufacturing (AM) of nickel-based superalloys such as Inconel 718 (IN718) enables the fabrication of complex, high-performance components; howeve
+
+作者：Nayebzadeh, Amir、Athreya, Shreyas、Kundu, Tribikram、Huang, I-Tzu、Ho, I-Ting | DOI：10.1007/s40964-026-02097-6 | 发布日期：2026/11/27</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Nayebzadeh, Amir</dc:creator>
+<category>10.1007/s40964-026-02097-6</category>
+</item>
+<item>
+<title>Valorizing mixed plastic and biomass waste into printable composites via pellet-based additive manufacturing</title>
+<link>https://link.springer.com/article/10.1007/s40964-026-02104-w</link>
+<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02104-w</guid>
+<description>The growing environmental concerns surrounding plastic waste have underscored the need for sustainable material solutions. This study investigates the deve
+
+作者：Bozorgnia Tabary, Seyed Amir Ali、Bresse, Jean-pierre、Fayazfar, Ramona H. | DOI：10.1007/s40964-026-02104-w | 发布日期：2026/11/27</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Bozorgnia Tabary, Seyed Amir Ali</dc:creator>
+<category>10.1007/s40964-026-02104-w</category>
+</item>
+<item>
+<title>Experimental modelling of multiphase displacement phenomena using 3D-printed micromodels</title>
+<link>https://link.springer.com/article/10.1007/s40964-026-02081-0</link>
+<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02081-0</guid>
+<description>Experimental modelling modelling of displacement phenomena was performed using fabricated 3D-printed micromodels. The effects of the displaced phase viscos
+
+作者：Riabokon, Evgenii P.、Turbakov, Mikhail S.、Kozhevnikov, Evgenii V.、Gladkikh, Evgenii A.、Startsev, Danila A.、Guzev, Mikhail A.、Ivanov, Zakhar G.、Yin, Qian等 | DOI：10.1007/s40964-026-02081-0 | 发布日期：2026/11/27</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Riabokon, Evgenii P.</dc:creator>
+<category>10.1007/s40964-026-02081-0</category>
+</item>
+<item>
+<title>Fused granulate fabrication of styrene-ethylene-propylene-styrene block copolymer: Effects of process parameters on printability and mechanical properties</title>
+<link>https://link.springer.com/article/10.1007/s40964-026-02103-x</link>
+<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02103-x</guid>
+<description>Additive manufacturing of thermoplastic elastomers using conventional fused filament fabrication and direct ink writing is particularly challenging due to
+
+作者：Gajera, Kelvin M.、Kumar, Arun、Dubey, Kartikeya、Banerjee, Shib Shankar | DOI：10.1007/s40964-026-02103-x | 发布日期：2026/11/27</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Gajera, Kelvin M.</dc:creator>
+<category>10.1007/s40964-026-02103-x</category>
+</item>
 <item>
 <title>Process-structure-property optimization of FDM-printed PLA/ABS hybrid composites using a DOE-assisted reward-based approach</title>
 <link>https://link.springer.com/article/10.1007/s40964-026-02095-8</link>
@@ -292,50 +336,6 @@
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Zamani Miandashti, Zahra</dc:creator>
 <category>10.1007/s40964-026-02055-2</category>
-</item>
-<item>
-<title>An integrated study on process parameter optimization and microstructure-mechanical property correlation of thin walled deposition of austenitic SS316L through WAAM</title>
-<link>https://link.springer.com/article/10.1007/s40964-026-01998-w</link>
-<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-01998-w</guid>
-<description>Thin-walled engineering components of SS316L are widely used in chemical, biomedical, and marine sectors due to their mechanical strength and corrosion res
-
-作者：Dhar, Arindam、Bhattacharjee, Ankit、Kundu, Sukumar | DOI：10.1007/s40964-026-01998-w | 发布日期：2026/11/09</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Dhar, Arindam</dc:creator>
-<category>10.1007/s40964-026-01998-w</category>
-</item>
-<item>
-<title>Operando electron optical monitoring for real-time evaporation detection in electron beam powder bed fusion</title>
-<link>https://link.springer.com/article/10.1007/s40964-026-02062-3</link>
-<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02062-3</guid>
-<description>Operando electron optical (ELO) monitoring offers a promising approach for real-time process control in electron beam powder bed fusion (PBF-EB). While in-
-
-作者：Berger, Timo、Böhm, Jonas、Renner, Jakob、Wahlmann, Benjamin、Körner, Carolin | DOI：10.1007/s40964-026-02062-3 | 发布日期：2026/11/09</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Berger, Timo</dc:creator>
-<category>10.1007/s40964-026-02062-3</category>
-</item>
-<item>
-<title>Dynamic compression and energy absorption characteristics of SLM-fabricated Ti–6Al–4V diamond lattice structures</title>
-<link>https://link.springer.com/article/10.1007/s40964-026-02067-y</link>
-<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02067-y</guid>
-<description>Selective laser melting (SLM) was employed to fabricate Ti–6Al–4V Diamond lattice structures with cell sizes of 4.5 and 5.5 mm, rod di
-
-作者：Zhang, Peng、Zhong, Bin、Lin, Lijun | DOI：10.1007/s40964-026-02067-y | 发布日期：2026/11/09</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Zhang, Peng</dc:creator>
-<category>10.1007/s40964-026-02067-y</category>
-</item>
-<item>
-<title>First report of the behavior of a 3D-printed material in an oblique direction off the in-plane direction</title>
-<link>https://link.springer.com/article/10.1007/s40964-026-02046-3</link>
-<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02046-3</guid>
-<description>The behavior of a 3D-printed material in the oblique direction is unprecedentedly reported. The measurement is electrical. The material is electrically con
-
-作者：Chung, D. D. L.、Sarkar, Sumon、Chen, Ethan O. | DOI：10.1007/s40964-026-02046-3 | 发布日期：2026/11/09</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Chung, D. D. L.</dc:creator>
-<category>10.1007/s40964-026-02046-3</category>
 </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 18:32:13 +0800</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 18:36:45 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
 <title>Teaching Intermolecular Forces through a Watercolor Painting Activity</title>
@@ -28,6 +28,17 @@
 <pubDate>Thu, 26 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Dede Hülya</dc:creator>
 <category>10.1021/acs.jchemed.6c00640</category>
+</item>
+<item>
+<title>Construction and Application of Biohybrids in Environmental Chemistry Study</title>
+<link>https://doi.org/10.1021/acs.jchemed.5c01771</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.5c01771</guid>
+<description>Abstract To introduce the concept and theory of biohybrids, this course, targeted at undergraduate and graduate students majoring in environmental chemistry, incorporates a series of experiments utilizing bacteria to synthesize biohybrids and nanomaterials. Drawing from years of teaching experience, we propose that the artificial synthesis of biohybrids represents ideal instructional content because of its interdisciplinary nature spanning biology and environmental science. The experiments involve advanced characterization techniques such as scanning electron microscopy, transmission electron microscopy, X-ray diffraction, and X-ray photoelectron spectroscopy while imparting functional attributes like pollutant degradation. Following biohybrid preparation, students conduct experiments on pollutant degradation in aqueous systems to elucidate the contributions of adsorption, catalytic degradation, and biodegradation for antibiotic removal, thereby exploring the degradation kinetics, radical chemistry, and other theories. This laboratory course facilitates students’ understanding of the practical applications of relevant knowledge in environmental contexts, effectively bridging theory and practice.
+
+作者：Wang Can、Luo Xia、Zhang Kexin、Bao Tianhong、Wu Bin | DOI：10.1021/acs.jchemed.5c01771 | 类型：journal-article</description>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Wang Can</dc:creator>
+<category>10.1021/acs.jchemed.5c01771</category>
 </item>
 <item>
 <title>Integrating Theory and Practice: An Instrument-DIY Approach to Biochemistry Education</title>
@@ -325,17 +336,6 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Huang Liqiang</dc:creator>
 <category>10.1021/acs.jchemed.6c00536</category>
-</item>
-<item>
-<title>Mathematics Preparation, Intrinsic Motivation, Self-Efficacy, and Achievement in General Chemistry II: A Structural Equation Modeling Study</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c01034</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01034</guid>
-<description>Abstract Introductory chemistry often functions as a gateway course for students pursuing STEM majors and science-related careers. Although mathematics preparation and self-efficacy are well-established predictors of general chemistry achievement, less is known about how these factors operate together with intrinsic motivation and about which types of intrinsic motivation are most closely linked to students’ self-efficacy. Guided by social cognitive theory and self-determination theory, this study used latent-variable structural equation modeling to examine how mathematics preparation, intrinsic motivation, and self-efficacy explained the lecture grades of 299 students in a General Chemistry II course. The full model fit the data well and fit better than a restricted model that removed the path from intrinsic motivation to self-efficacy. Self-efficacy and mathematics preparation directly predicted lecture grades, and the model explained 22% of their variance, whereas intrinsic motivation was associated with achievement only indirectly, through its strong association with self-efficacy. Among the three types of intrinsic motivation, intrinsic motivation to accomplish was most strongly correlated with self-efficacy. These results suggest that intrinsic motivation may influence chemistry achievement mainly by strengthening students’ confidence in their ability to succeed, and that instructional supports should pair quantitative preparation with learning experiences that build st
-
-作者：Liu Yujuan | DOI：10.1021/acs.jchemed.6c01034 | 类型：journal-article</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Liu Yujuan</dc:creator>
-<category>10.1021/acs.jchemed.6c01034</category>
 </item>
 </channel>
 </rss>
