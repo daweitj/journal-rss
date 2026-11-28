@@ -5,8 +5,19 @@
 <link>https://pubs.acs.org/journal/jceda8</link>
 <description>Journal of Chemical Education（ISSN 0021-9584）最新收录论文，数据来自 Crossref 元数据，共 30 条。</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 18:36:45 +0800</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 17:53:15 +0800</lastBuildDate>
 <ttl>360</ttl>
+<item>
+<title>Faculty Workload at 49 Predominately Undergraduate Institutions with High Research Activity</title>
+<link>https://doi.org/10.1021/acs.jchemed.6c01348</link>
+<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c01348</guid>
+<description>Abstract Faculty at predominantly undergraduate institutions (PUIs) play a significant role in educating future chemists and producing graduates who pursue advanced degrees in chemical sciences. Chemistry faculty at PUIs typically maintain active undergraduate research programs while teaching substantial course loads and operating with a limited number of personnel. These programs are essential, because many graduate programs will not admit students without research experience. To better understand the interplay between undergraduate research opportunities and faculty teaching workloads that enable undergraduate research, we surveyed chemistry departments at 49 institutions selected on the basis of their institutional research activity and student achievement. Faculty workloads and undergraduate research expectations were analyzed and compared. Faculty workloads averaged 5.5 course equivalents per year despite an average contractual teaching assignment of 4.9 courses, reflecting the substantial laboratory and teaching responsibilities of PUI chemistry faculty. Undergraduate research was a defining feature of these programs: 37% of institutions required research for graduation, 86% of chemistry majors participated in faculty-mentored research, and approximately 63% completed at least one summer research experience on campus. The results demonstrate how institutions balance extensive undergraduate research opportunities within resource-constrained environments.
+
+作者：Shields George C.、Banisaukas John、Daub Mary Elisabeth、Wright Laura L. | DOI：10.1021/acs.jchemed.6c01348 | 类型：journal-article</description>
+<pubDate>Sat, 28 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Shields George C.</dc:creator>
+<category>10.1021/acs.jchemed.6c01348</category>
+</item>
 <item>
 <title>Teaching Intermolecular Forces through a Watercolor Painting Activity</title>
 <link>https://doi.org/10.1021/acs.jchemed.6c01049</link>
@@ -325,17 +336,6 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Boglaev Sophie</dc:creator>
 <category>10.1021/acs.jchemed.6c00623</category>
-</item>
-<item>
-<title>Smartphone-Based Simulated Photometer for Teaching Spectrophotometry Using AI-Assisted Tools</title>
-<link>https://doi.org/10.1021/acs.jchemed.6c00536</link>
-<guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.6c00536</guid>
-<description>Abstract This study proposes an approach that uses generative artificial intelligence (AI) to develop a web application capable of interfacing with a smartphone camera and performing quantitative RGB-based chemical measurements. Using this method, students can readily convert their own smartphones into simple photometers for immediate use in the classroom. With teacher guidance, students employ AI agents to create HTML files that activate the smartphone camera and extract RGB values from captured images, converting light intensity measurements into absorbance data. Unlike conventional commercial software, which is generally immutable and operates as a closed system, this approach enables students to develop customized simulated photometers based on their unique design concepts by manipulating AI prompt inputs. By employing this approach, students are able to rapidly configure a simulated spectrophotometer utilizing solely their smartphones within the classroom environment, without the need for any additional external equipment, thereby enabling them to perform a range of simulated spectrophotometric experiments. By actively participating in the design of a simulated photometer and directly observing its operational process during hands-on manipulation, students can achieve a deeper understanding of the fundamental mechanisms and essential principles underlying spectrophotometry. Furthermore, this generative AI-based approach can also be applied to smartphone colorimetry, enab
-
-作者：Huang Liqiang | DOI：10.1021/acs.jchemed.6c00536 | 类型：journal-article</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Huang Liqiang</dc:creator>
-<category>10.1021/acs.jchemed.6c00536</category>
 </item>
 </channel>
 </rss>

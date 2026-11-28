@@ -5,7 +5,7 @@
 <link>https://link.springer.com</link>
 <description>Progress in Additive Manufacturing 最新发布内容（标题、作者、摘要、DOI），由站点 sitemap 与详情页元信息生成，共 30 条。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 18:41:53 +0800</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 18:00:02 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
 <title>Structure-sensitive characterization of additively manufactured IN718 using hybrid ultrasonic SPC-I and XCT-derived porosity features</title>
@@ -28,6 +28,17 @@
 <pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Bozorgnia Tabary, Seyed Amir Ali</dc:creator>
 <category>10.1007/s40964-026-02104-w</category>
+</item>
+<item>
+<title>Vitrified magnesia ceramic supports for dual-nozzle 3D printing of TiC-316L stainless steel composites</title>
+<link>https://link.springer.com/article/10.1007/s40964-026-02088-7</link>
+<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02088-7</guid>
+<description>Supports are necessary for both printing and sintering of metal matrix composites (MMCs). However, conventional support materials used in extrusion-based 3
+
+作者：Zhang, Yunchen、Lv, Wenjie、Shao, Huiping、Lin, Tao | DOI：10.1007/s40964-026-02088-7 | 发布日期：2026/11/27</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>Zhang, Yunchen</dc:creator>
+<category>10.1007/s40964-026-02088-7</category>
 </item>
 <item>
 <title>Experimental modelling of multiphase displacement phenomena using 3D-printed micromodels</title>
@@ -325,17 +336,6 @@
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
 <dc:creator>Sigl, Martina Elisabeth</dc:creator>
 <category>10.1007/s40964-026-02003-0</category>
-</item>
-<item>
-<title>Effect of post-heat treatment on the mechanical and structural properties of 3D-printed PLA structures at different build orientations and raster angles</title>
-<link>https://link.springer.com/article/10.1007/s40964-026-02055-2</link>
-<guid isPermaLink="true">https://link.springer.com/article/10.1007/s40964-026-02055-2</guid>
-<description>This study investigates the combined effects of post-printing heat treatment, build orientation, and raster angle on the crystallinity, tensile properties,
-
-作者：Zamani Miandashti, Zahra、Khodaei, Mohammad | DOI：10.1007/s40964-026-02055-2 | 发布日期：2026/11/09</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>Zamani Miandashti, Zahra</dc:creator>
-<category>10.1007/s40964-026-02055-2</category>
 </item>
 </channel>
 </rss>

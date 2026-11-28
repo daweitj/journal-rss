@@ -5,221 +5,221 @@
 <link>https://hjxb.hwi.com.cn</link>
 <description>焊接学报 最新发布内容（标题、作者、摘要、DOI），由列表页与文章页元信息生成。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 18:49:48 +0800</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 18:04:36 +0800</lastBuildDate>
 <ttl>360</ttl>
 <item>
-<title>高熵合金绞镀缆丝激光熔覆工艺分析</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260817003</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260817003</guid>
-<description>缆式丝材为高熵合金熔丝增材制造提供了可行途径. 但缆丝在熔凝过程中存在组元熔化不同步、元素扩散不均匀等问题，容易产生偏析、裂纹、匙孔等缺陷. 针对上述问题，提出了一种绞制与电镀复合的绞镀缆丝激光熔覆工艺，系统开展了材料-工艺-组织-性能方面的研究工作. 结果表明，缆丝表面的镀层沿缆丝外轮廓连续均匀分布，厚度为22.76 ~ 26.99 μm. 采用绞镀缆丝激光熔覆制备的熔覆层，成形质量好，组织均匀致密，无明显的偏析、裂纹、匙孔等缺陷. 单道熔覆层平均显微硬度为544.89 HV，较无镀层缆丝工艺提高48.5%. 单道堆叠熔覆层层间结合良好，主要合金元素分布较为均匀，自腐蚀电流密度为5.411 7 × 10−6 A/cm2，呈现出较好的耐腐蚀性能. 所提出的绞镀缆丝激光熔覆工艺为高熵合金的高质量熔丝增材制造提供了可参考的解决方案.
+<title>石英玻璃/TC4钛合金脉冲串飞秒激光焊接接头组织及性能分析</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260620001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260620001</guid>
+<description>为实现石英玻璃与TC4钛合金的高质量连接，采用脉冲串输出式飞秒激光对二者进行了焊接试验，重点考察脉冲串内所有单个脉冲能量的总和,即脉冲串能量，与一个脉冲串所包含的子脉冲数量，即子脉冲数两种工艺参数对焊接质量的影响.结果表明，脉冲串能量和子脉冲数主要影响激光对材料的局部热输入；热输入过高时，石英玻璃母材中会形成激光影响区，破坏其成分均一性.经工艺优化，确定最佳参数为脉冲串能量300 μJ、子脉冲数4.在此条件下，焊接界面形成连续、致密的熔合层，无气孔及未熔合缺陷，且此时接头抗剪强度最高，为27.2 MPa. EDS与TEM分析表明，Ti，Si及O元素充分互扩散，熔合层内生成TiO2和TiO两种次生相，实现机械-化学混合连接.应力及断口分析进一步表明，过高热输入会加剧母材热膨胀，在界面产生垂直拉应力，甚至诱发石英玻璃内部脆断.
 
-作者：张凯华、刘斌、张健铭、颜丙功、柳建、彭兆举、蔡志海、郭学平等 | DOI：10.12073/j.hjxb.20260817003</description>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
-<dc:creator>张凯华</dc:creator>
-<category>10.12073/j.hjxb.20260817003</category>
+作者：王刚、张闰勃、袁任、曹健 | DOI：10.12073/j.hjxb.20260620001</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>王刚</dc:creator>
+<category>10.12073/j.hjxb.20260620001</category>
 </item>
 <item>
 <title>安全验证</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260620001</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260620001</guid>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260121001</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260121001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260223001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260223001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20251231001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20251231001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
+</item>
+<item>
+<title>安全验证</title>
+<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260817003</link>
+<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260817003</guid>
+<description></description>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260209001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260209001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260302001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260302001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260703002</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260703002</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260105001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260105001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260204001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260204001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615003</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615003</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615002</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260615002</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260203001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260203001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260119001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260119001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260128001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260128001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260208002</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260208002</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260306002</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260306002</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260413003</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260413003</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260617003</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260617003</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260614001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260614001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260311001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260311001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260727002</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260727002</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260907001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260907001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260420004</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260420004</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20220829001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20220829001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20220414001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20220414001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20180320001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20180320001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.201940</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.201940</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260318001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260318001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 <item>
 <title>安全验证</title>
 <link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260505001</link>
 <guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260505001</guid>
 <description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
-</item>
-<item>
-<title>安全验证</title>
-<link>https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260528002</link>
-<guid isPermaLink="true">https://hjxb.hwi.com.cn/hjxb/article/doi/10.12073/j.hjxb.20260528002</guid>
-<description></description>
-<pubDate>Fri, 27 Nov 2026 18:49:48 +0800</pubDate>
+<pubDate>Sat, 28 Nov 2026 18:04:36 +0800</pubDate>
 </item>
 </channel>
 </rss>
